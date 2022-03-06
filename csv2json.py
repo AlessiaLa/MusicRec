@@ -29,7 +29,9 @@ def csv2json(csv, pattern, json_filename):
                 list.append(d)
                 keys_list = d.keys()
                 for k in keys_list:
-                    print (k)
+                    print(k)
+                    if k == 'albumname':
+                        d[k] = d[k].replace("," , " ")
                     d[k] = get_list_from_string(d[k])
                 json.dump(d, fp)
 

@@ -8,16 +8,42 @@ def loadneonodes():
  
 #Read the csv file and create the song nodes
     query = """
-    CALL apoc.load.json("file:///artists.json") YIELD value 
+    CALL apoc.load.json("file:/MusicNet/artists.json") YIELD value
     MERGE (a:Artist {artistname: value.artistname})
     WITH a, value
     UNWIND value.artistgenres AS genres
     MERGE (c:Genres {artistgenres: genres})
-    MERGE (a)-[:GENRES_OF]->(c)
+    MERGE (a)-[:GENRES_OF]->(c);
+    """
+    graph.run(query)
+
+
+    query = """
+    CALL apoc.load.json("file:/MusicNet/albums.json") YIELD value
+    MERGE (a:Album {albumid: value.albumid, albumname: value.albumname})
     WITH a, value
-    UNWIND value.albumid AS album
-    MERGE (p:Album {albumid: album})
-    MERGE (a)-[:ALBUM_OF]->(p);
+    UNWIND value.artistnames AS artistname
+    MERGE (c:Artist {artistname: artistname})
+    MERGE (a)-[:ALBUM_OF]->(c)
+    WITH a, value
+    UNWIND value.trackids AS tracks
+    MERGE (p:Track {trackids: tracks})
+    MERGE (a)-[:CONTAINS]->(p);
+    """
+    graph.run(query)
+
+
+    query = """
+    CALL apoc.load.json("file:/MusicNet/tracks.json") YIELD value
+    UNWIND value.trackid as t
+    UNWIND value.trackname as name
+    MATCH (n:Track {trackids: t}
+    set n.trackname = name
+    """
+    graph.run(query)
+
+    query = """
+    CALL apoc.export.json.query("MATCH (u:Album) RETURN u","MusicNet//album_kb.json")
     """
     graph.run(query)
 

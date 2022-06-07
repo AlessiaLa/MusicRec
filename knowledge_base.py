@@ -1,8 +1,9 @@
 import json
 import os
 path  = r"C:\Users\user\.Neo4jDesktop\relate-data\dbmss\dbms-8288a492-3927-4d69-aa92-a3bcc44e3bb4\MusicNet"
+base_path = r"C:\MusicNet"
 
-album_path = os.path.join(path, 'album_kb.json')
+album_path = os.path.join(base_path, 'album_kb.json')
 with open(album_path, "r", encoding="utf-8") as f:
     data = json.loads("[" +
                       f.read().replace("}\n{", "},\n{") +

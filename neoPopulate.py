@@ -37,7 +37,7 @@ def loadneonodes():
     CALL apoc.load.json("file:/MusicNet/tracks.json") YIELD value
     UNWIND value.trackid as t
     UNWIND value.trackname as name
-    MATCH (n:Track {trackids: t})
+    MATCH (n:Track {trackids: t}
     set n.trackname = name
     """
     graph.run(query)
@@ -46,34 +46,6 @@ def loadneonodes():
     CALL apoc.export.json.query("MATCH (u:Album) RETURN u","MusicNet//album_kb.json")
     """
     graph.run(query)
-
-    graph.run(query)
-
-    query = """
-      CALL apoc.export.json.query("MATCH (u:Track) return COLLECT(u) as list","MusicNet//track_kb.json")
-    """
-    graph.run(query)
-
-    query = """
-      CALL apoc.export.json.query("MATCH (u:Genres) return COLLECT(u) as list","MusicNet//genres_kb.json")
-    """
-    graph.run(query)
-
-    query = """
-      CALL apoc.export.json.query("MATCH (u:Artist) return COLLECT(u) as list","MusicNet//artist_kb.json")
-    """
-    graph.run(query)
-
-    query = """
-      CALL apoc.export.json.query("MATCH p=()-[r:GENRES_OF]->() RETURN COLLECT(p) as list","MusicNet/genres_of_kb.json")
-    """
-    graph.run(query)
-
-    query = """
-      CALL apoc.export.json.query("MATCH p=()-[r:CONTAINS]->() RETURN COLLECT(p) as list","MusicNet/album_contains_kb.json")
-    """
-    graph.run(query)
-
 
 # #Read the csv file and create the artist nodes
 #     query = """

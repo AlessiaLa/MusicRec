@@ -4,7 +4,7 @@ import json
 
 pattern_artists = '(?P<artistname>.*), (?P<artistgenres>\[.*]), (?P<albumids>\[.*])'
 pattern_albums = '(?P<albumid>.*), (?P<albumname>.*), (?P<artistnames>\[.*]), (?P<trackids>\[.*])'
-pattern_tracks = '(?P<trackid>.*), (?P<trackname>.*), (?P<artistnames>\[.*]), (?P<albumname>.*)'
+pattern_tracks = 'track\((?P<trackid>.*), (?P<trackname>.*), (?P<artistnames>\[.*]), (?P<albumname>.*), (?P<features>\[.*])\).'
 
 def get_list_from_string(string: str):
     string = string.replace('[', '')
@@ -24,7 +24,9 @@ def csv2json(csv, pattern, json_filename):
             json.dump(dict, fp)
             for line in f:
                 stripped_line = line.strip()
+                print(stripped_line)
                 result = regex.match(str(stripped_line))
+                print(result)
                 d = result.groupdict()
                 list.append(d)
                 keys_list = d.keys()
@@ -39,6 +41,6 @@ def csv2json(csv, pattern, json_filename):
 
 
 if __name__ == "__main__":
-    csv2json('artists.txt', pattern_artists, 'artists.json')
-    csv2json('albums.txt', pattern_albums, 'albums.json')
-    csv2json('tracks.txt', pattern_tracks, 'tracks.json')
+    #csv2json('artists.txt', pattern_artists, 'artists.json')
+    #csv2json('albums.txt', pattern_albums, 'albums.json')
+    csv2json('tracks_prova.txt', pattern_tracks, 'tracks_prova.json')

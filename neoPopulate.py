@@ -1,10 +1,10 @@
 from py2neo import Graph
 
 def loadneonodes():
-    graph = Graph(host='localhost', port=7687, auth=('neo4j',"password"))
+    graph = Graph(host='localhost', port=7687, password="password")
 #Clean up
     graph.delete_all()
-
+ 
  
 #Read the csv file and create the song nodes
     #file:/MusicNet/artists.json
@@ -38,13 +38,16 @@ def loadneonodes():
     CALL apoc.load.json("Dataset/tracks.json") YIELD value
     UNWIND value.trackid as t
     UNWIND value.trackname as name
-    MATCH (n:Track {trackids: t})
-    SET n.trackname = name
+    MATCH (n:Track {trackids: t}
+    set n.trackname = name
+    set n.features = value.features
+    
     """
     graph.run(query)
 
     #file: / MusicNet / album_kb.json
     query = """
+
     CALL apoc.export.json.query("MATCH (u:Album) RETURN u","../../../../Documenti/GitHub/MusicNet/Dataset/album_kb.json");
     """
     graph.run(query)
@@ -96,6 +99,12 @@ def loadneonodes():
     """
 
     graph.run(query)
+
+    #CALL apoc.export.json.query("MATCH (u:Album) RETURN u","MusicNet//album_kb.json")
+    #"""
+    #graph.run(query)
+
+
 
 
 # start 

@@ -3,7 +3,8 @@ import os
 
 path = r"C:\Users\user\Desktop\AI-Project\MusicNet\dataset\tracks_no_discretization.json"
 
-with open(path, "r", encoding="utf-8") as f:
+path_ale= r"C:\Users\Alessia\Documents\GitHub\MusicNet\Dataset\tracks_no_discretization.json"
+with open(path_ale, "r", encoding="utf-8") as f:
     data = json.loads("[" +
                       f.read().replace("}{", "},\n{") +
                        "]")
@@ -70,6 +71,7 @@ for i, node in enumerate(data):
     data[i].update({'features': feature})
     print(data[i])
 
-path = r"C:\Users\user\Desktop\AI-Project\MusicNet\dataset\tracks.json"
-with open(path, 'w') as fp:
+path_saving_dani = r"C:\Users\user\Desktop\AI-Project\MusicNet\dataset\tracks_discretized.json"
+path_saving_ale= r"C:\Users\Alessia\Documents\GitHub\MusicNet\Dataset\tracks_discretized.json"
+with open(path_saving_ale, 'w') as fp:
     json.dump(data, fp)

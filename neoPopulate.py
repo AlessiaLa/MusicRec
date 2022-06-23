@@ -9,7 +9,7 @@ def loadneonodes():
 #Read the csv file and create the song nodes
     #file:/MusicNet/artists.json
     query = """
-    CALL apoc.load.json("Dataset/artists.json") YIELD value
+    CALL apoc.load.json("../../../../Documenti/GitHub/MusicNet/Dataset/artists.json") YIELD value
     MERGE (a:Artist {artistname: value.artistname})
     WITH a, value
     UNWIND value.artistgenres AS genres
@@ -20,7 +20,7 @@ def loadneonodes():
 
     # file:/MusicNet/albums.json
     query = """
-    CALL apoc.load.json("Dataset/albums.json") YIELD value
+    CALL apoc.load.json("../../../../Documenti/GitHub/MusicNet/Dataset/albums.json") YIELD value
     MERGE (a:Album {albumid: value.albumid, albumname: value.albumname})
     WITH a, value
     UNWIND value.artistnames AS artistname
@@ -35,10 +35,10 @@ def loadneonodes():
 
     #file:/MusicNet/tracks.json
     query = """
-    CALL apoc.load.json("Dataset/tracks.json") YIELD value
+    CALL apoc.load.json("../../../../Documenti/GitHub/MusicNet/Dataset/tracks_discretized.json") YIELD value
     UNWIND value.trackid as t
     UNWIND value.trackname as name
-    MATCH (n:Track {trackids: t}
+    MATCH (n:Track {trackids: t})
     set n.trackname = name
     set n.features = value.features
     

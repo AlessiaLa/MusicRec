@@ -105,7 +105,11 @@ def loadneonodes():
     #graph.run(query)
 
 
+    query = """
 
+    CALL apoc.export.json.query("MATCH (u:Track) RETURN u","MusicNet//track_kb.json");
+    """
+    graph.run(query)
 
 # start 
 if __name__ == '__main__':

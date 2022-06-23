@@ -1,93 +1,101 @@
 import json
 import os
 
-path  = r"C:\Users\user\.Neo4jDesktop\relate-data\dbmss\dbms-8288a492-3927-4d69-aa92-a3bcc44e3bb4\MusicNet"
+path = r"C:\Users\user\Desktop\AI-Project\MusicNet\Dataset\json_to_prolog"
+out_path = r"C:\Users\user\Desktop\AI-Project\MusicNet\prolog"
 base_path = r"C:\MusicNet"
 
-album_path = os.path.join(base_path, 'album_kb.json')
-
-#path = r"C:\Users\user\.Neo4jDesktop\relate-data\dbmss\dbms-8288a492-3927-4d69-aa92-a3bcc44e3bb4\MusicNet"
-
+# #album_path = os.path.join(base_path, 'album_kb.json')
 # album_path = os.path.join(path, 'album_kb.json')
 # with open(album_path, "r", encoding="utf-8") as f:
 #     data = json.loads("[" +
 #                       f.read().replace("}\n{", "},\n{") +
 #                       "]")
-#
-# data[0]['u']['properties']['albumname'] = ' '.join(data[0]['u']['properties']['albumname'])
-# name = data[0]['u']['properties']['albumname']
-# id = data[0]['u']['properties']['albumid'][0]
-#
-# with open('albums.txt', "w", encoding="utf-8") as file:
+# album_txt = os.path.join(out_path, 'album.txt')
+# with open(album_txt, "w", encoding="utf-8") as file:
 #     for i, node in enumerate(data):
 #         data[i]['u']['properties']['albumname'] = ' '.join(data[i]['u']['properties']['albumname'])
 #         name = data[i]['u']['properties']['albumname']
 #         id = data[i]['u']['properties']['albumid'][0]
 #         file.write("album(" + "\""  + id  + "\"" + ', ' + "\"" + name + "\"" + ').\n')
-
-
-
-# album_path = os.path.join(path, 'track_kb.json')
-# with open(album_path, "r", encoding="utf-8") as f:
+#
+#
+#
+# track_path = os.path.join(path, 'tracks_kb.json')
+# with open(track_path, "r", encoding="utf-8") as f:
+#     data = json.loads("[" +
+#     f.read().replace("}\n{", "},\n{") +
+#     "]")
+# track_txt = os.path.join(out_path, 'track.txt')
+# with open(track_txt, "w", encoding="utf-8") as file:
+#     for i, node in enumerate(data):
+#         if "trackname" in node['u']['properties']:
+#
+#             name =node['u']['properties']['trackname']
+#             id = node['u']['properties']['trackids']
+#             features = node['u']['properties']['features']
+#             file.write("track(" + "\""  + id  + "\"" + ', ' + "\"" + name + "\"" + ', ' + "\"" + str(features) + "\"" + ').\n')
+#
+#
+#
+# artist_path = os.path.join(path, 'artist_kb.json')
+# with open(artist_path, "r", encoding="utf-8") as f:
 #      data = json.loads(f.read())
-#
-# print(data['list'][0]['properties']['trackname'])
-#
-# with open('track.txt', "w", encoding="utf-8") as file:
-#     for i, node in enumerate(data['list']):
-#         if "trackname" in node['properties']:
-#             print(node['properties'])
-#             name =node['properties']['trackname']
-#             id = node['properties']['trackids']
-#             file.write("track(" + "\""  + id  + "\"" + ', ' + "\"" + name + "\"" + ').\n')
-
-
-
-# album_path = os.path.join(path, 'artist_kb.json')
-# with open(album_path, "r", encoding="utf-8") as f:
-#      data = json.loads(f.read())
-#
-#
-# with open('artist.txt', "w", encoding="utf-8") as file:
+# artist_txt = os.path.join(out_path, 'artist.txt')
+# with open(artist_txt, "w", encoding="utf-8") as file:
 #     for i, node in enumerate(data['list']):
 #         if "artistname" in node['properties']:
 #             name = node['properties']['artistname']
 #             file.write("artist(" + "\""  + name + "\"" + ').\n')
-
-
-# album_path = os.path.join(path, 'genres_kb.json')
-# with open(album_path, "r", encoding="utf-8") as f:
+#
+#
+#
+# genre_path = os.path.join(path, 'genres_kb.json')
+# with open(genre_path, "r", encoding="utf-8") as f:
 #      data = json.loads(f.read())
-#
-#
-# with open('genre.txt', "w", encoding="utf-8") as file:
+# genre_txt = os.path.join(out_path, 'genre.txt')
+# with open(genre_txt, "w", encoding="utf-8") as file:
 #     for i, node in enumerate(data['list']):
-#         if "artistname" in node['properties']:
+#         if "artistgenres" in node['properties']:
 #             name = node['properties']['artistgenres']
+#             print(name)
 #             file.write("genres(" + "\""  + name + "\"" + ').\n')
-
+#
+#
+#
 # album_path = os.path.join(path, 'genres_of_kb.json')
 # with open(album_path, "r", encoding="utf-8") as f:
 #      data = json.loads(f.read())
-#
-#
-# with open('artistgenres.txt', "w", encoding="utf-8") as file:
+# artistgenres = os.path.join(out_path, 'artistgenres.txt')
+# with open(artistgenres, "w", encoding="utf-8") as file:
 #     for i, node in enumerate(data['list']):
-#
 #         artist = node['nodes'][0]['properties']['artistname']
 #         genre = node['nodes'][1]['properties']['artistgenres']
 #         file.write("artistgenres(" + "\""  + artist + "\"" + ', ' + "\"" + genre + "\"" + ').\n')
-
-album_path = os.path.join(path, 'album_contains_kb.json')
-
+#
+#
+#
+#
+# album_path = os.path.join(path, 'album_contains_kb.json')
+# with open(album_path, "r", encoding="utf-8") as f:
+#      data = json.loads(f.read())
+# album_path = os.path.join(out_path, 'album_contains.txt')
+# with open(album_path, "w", encoding="utf-8") as file:
+#     for i, node in enumerate(data['list']):
+#         if 'trackname' in node['nodes'][1]['properties']:
+#             albumid = node['nodes'][0]['properties']['albumid'][0]
+#             trackids = node['nodes'][1]['properties']['trackids']
+#             file.write("album_contains(" + "\""  + albumid + "\"" ', ' + "\"" + trackids + "\""  + ').\n')
+#
+#
+album_path = os.path.join(path, 'album_of_kb.json')
 with open(album_path, "r", encoding="utf-8") as f:
      data = json.loads(f.read())
-
-
-with open('album_contains.txt', "w", encoding="utf-8") as file:
+album_published = os.path.join(out_path, 'published_by.txt')
+print(data['list'][0]['nodes'][0])
+with open(album_published, "w", encoding="utf-8") as file:
     for i, node in enumerate(data['list']):
-        if 'trackname' in node['nodes'][1]['properties']:
             albumid = node['nodes'][0]['properties']['albumid'][0]
-            trackids = node['nodes'][1]['properties']['trackids']
-            file.write("album_contains(" + "\""  + albumid + "\"" ', ' + "\"" + trackids + "\""  + ').\n')
+            trackids = node['nodes'][1]['properties']['artistname']
+            file.write("published_by(" + "\""  + albumid + "\"" ', ' + "\"" + trackids + "\""  + ').\n')
 

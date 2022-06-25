@@ -3,7 +3,7 @@ import re
 import json
 
 pattern_artists = '(?P<artistname>.*), (?P<artistgenres>\[.*]), (?P<albumids>\[.*])'
-pattern_albums = '(?P<albumid>.*), (?P<albumname>.*), (?P<artistnames>\[.*]), (?P<trackids>\[.*])'
+pattern_albums = 'album\((?P<albumid>".*"), (?P<albumname>".*"), (?P<artistnames>\[.*]), (?P<trackids>\[.*])'
 pattern_tracks = 'track\((?P<trackid>.*), (?P<trackname>.*), (?P<artistnames>\[.*]), (?P<albumname>.*), (?P<features>\[.*])\).'
 
 def get_list_from_string(string: str):
@@ -42,5 +42,5 @@ def csv2json(csv, pattern, json_filename):
 
 if __name__ == "__main__":
     #csv2json('artists.txt', pattern_artists, 'artists.json')
-    #csv2json('albums.txt', pattern_albums, 'albums.json')
-    csv2json('tracks_prova.txt', pattern_tracks, 'tracks_prova.json')
+    csv2json(r'C:\Users\user\Desktop\AI-Project\spotify-recommender-master\albums.pl', pattern_albums, 'albums.json')
+    #csv2json('tracks_prova.txt', pattern_tracks, 'tracks_prova.json')

@@ -1,0 +1,918 @@
+{"u":{"type":"node","id":"1813","labels":["Artist"],"properties":{"artistname":"new order"}}}
+{"u":{"type":"node","id":"8094","labels":["Artist"],"properties":{"artistname":"peggy lee"}}}
+{"u":{"type":"node","id":"8095","labels":["Artist"],"properties":{"artistname":"the white stripes"}}}
+{"u":{"type":"node","id":"8096","labels":["Artist"],"properties":{"artistname":"woodpecker!"}}}
+{"u":{"type":"node","id":"8097","labels":["Artist"],"properties":{"artistname":"the lumineers"}}}
+{"u":{"type":"node","id":"8098","labels":["Artist"],"properties":{"artistname":"butthole surfers"}}}
+{"u":{"type":"node","id":"8099","labels":["Artist"],"properties":{"artistname":"cro"}}}
+{"u":{"type":"node","id":"8100","labels":["Artist"],"properties":{"artistname":"burzum"}}}
+{"u":{"type":"node","id":"8101","labels":["Artist"],"properties":{"artistname":"sunlounger"}}}
+{"u":{"type":"node","id":"8102","labels":["Artist"],"properties":{"artistname":"ray anthony"}}}
+{"u":{"type":"node","id":"8103","labels":["Artist"],"properties":{"artistname":"abba"}}}
+{"u":{"type":"node","id":"8104","labels":["Artist"],"properties":{"artistname":"b.o.b"}}}
+{"u":{"type":"node","id":"8105","labels":["Artist"],"properties":{"artistname":"aretha franklin"}}}
+{"u":{"type":"node","id":"8106","labels":["Artist"],"properties":{"artistname":"faint★star"}}}
+{"u":{"type":"node","id":"8107","labels":["Artist"],"properties":{"artistname":"the goo goo dolls"}}}
+{"u":{"type":"node","id":"8108","labels":["Artist"],"properties":{"artistname":"the magic numbers"}}}
+{"u":{"type":"node","id":"8109","labels":["Artist"],"properties":{"artistname":"blake shelton"}}}
+{"u":{"type":"node","id":"8110","labels":["Artist"],"properties":{"artistname":"maren morris"}}}
+{"u":{"type":"node","id":"8111","labels":["Artist"],"properties":{"artistname":"billy paul"}}}
+{"u":{"type":"node","id":"8112","labels":["Artist"],"properties":{"artistname":"tye tribbett"}}}
+{"u":{"type":"node","id":"8113","labels":["Artist"],"properties":{"artistname":"ludovico einaudi"}}}
+{"u":{"type":"node","id":"8114","labels":["Artist"],"properties":{"artistname":"europe"}}}
+{"u":{"type":"node","id":"8115","labels":["Artist"],"properties":{"artistname":"first aid kit"}}}
+{"u":{"type":"node","id":"8116","labels":["Artist"],"properties":{"artistname":"rat boy"}}}
+{"u":{"type":"node","id":"8117","labels":["Artist"],"properties":{"artistname":"cameo"}}}
+{"u":{"type":"node","id":"8118","labels":["Artist"],"properties":{"artistname":"curtis mayfield"}}}
+{"u":{"type":"node","id":"8119","labels":["Artist"],"properties":{"artistname":"wataru hatano"}}}
+{"u":{"type":"node","id":"8120","labels":["Artist"],"properties":{"artistname":"nationalteatern"}}}
+{"u":{"type":"node","id":"8222","labels":["Artist"],"properties":{"artistname":"death cab for cutie"}}}
+{"u":{"type":"node","id":"8223","labels":["Artist"],"properties":{"artistname":"ennio morricone"}}}
+{"u":{"type":"node","id":"8224","labels":["Artist"],"properties":{"artistname":"george strait"}}}
+{"u":{"type":"node","id":"8225","labels":["Artist"],"properties":{"artistname":"marky"}}}
+{"u":{"type":"node","id":"8226","labels":["Artist"],"properties":{"artistname":"wham!"}}}
+{"u":{"type":"node","id":"8227","labels":["Artist"],"properties":{"artistname":"omid"}}}
+{"u":{"type":"node","id":"8228","labels":["Artist"],"properties":{"artistname":"tokyo girls' style"}}}
+{"u":{"type":"node","id":"8229","labels":["Artist"],"properties":{"artistname":"style of eye"}}}
+{"u":{"type":"node","id":"8230","labels":["Artist"],"properties":{"artistname":"benedict kloeckner"}}}
+{"u":{"type":"node","id":"8231","labels":["Artist"],"properties":{"artistname":"alborosie"}}}
+{"u":{"type":"node","id":"8232","labels":["Artist"],"properties":{"artistname":"papa roach"}}}
+{"u":{"type":"node","id":"8233","labels":["Artist"],"properties":{"artistname":"newfound road"}}}
+{"u":{"type":"node","id":"8234","labels":["Artist"],"properties":{"artistname":"bedlam"}}}
+{"u":{"type":"node","id":"8235","labels":["Artist"],"properties":{"artistname":"yiruma"}}}
+{"u":{"type":"node","id":"8236","labels":["Artist"],"properties":{"artistname":"udit narayan"}}}
+{"u":{"type":"node","id":"8237","labels":["Artist"],"properties":{"artistname":"anja schneider"}}}
+{"u":{"type":"node","id":"8238","labels":["Artist"],"properties":{"artistname":"behemoth"}}}
+{"u":{"type":"node","id":"8239","labels":["Artist"],"properties":{"artistname":"the raconteurs"}}}
+{"u":{"type":"node","id":"8240","labels":["Artist"],"properties":{"artistname":"a-lusion"}}}
+{"u":{"type":"node","id":"8241","labels":["Artist"],"properties":{"artistname":"uverworld"}}}
+{"u":{"type":"node","id":"8242","labels":["Artist"],"properties":{"artistname":"serge gainsbourg"}}}
+{"u":{"type":"node","id":"8243","labels":["Artist"],"properties":{"artistname":"mavado"}}}
+{"u":{"type":"node","id":"8244","labels":["Artist"],"properties":{"artistname":"d-block & s-te-fan"}}}
+{"u":{"type":"node","id":"8245","labels":["Artist"],"properties":{"artistname":"chuck prophet"}}}
+{"u":{"type":"node","id":"8246","labels":["Artist"],"properties":{"artistname":"dan zanes"}}}
+{"u":{"type":"node","id":"8247","labels":["Artist"],"properties":{"artistname":"camila cabello"}}}
+{"u":{"type":"node","id":"8248","labels":["Artist"],"properties":{"artistname":"b-front"}}}
+{"u":{"type":"node","id":"8249","labels":["Artist"],"properties":{"artistname":"sascha braemer"}}}
+{"u":{"type":"node","id":"8250","labels":["Artist"],"properties":{"artistname":"don mclean"}}}
+{"u":{"type":"node","id":"8251","labels":["Artist"],"properties":{"artistname":"tim maia"}}}
+{"u":{"type":"node","id":"8252","labels":["Artist"],"properties":{"artistname":"jon hopkins"}}}
+{"u":{"type":"node","id":"8253","labels":["Artist"],"properties":{"artistname":"ne-yo"}}}
+{"u":{"type":"node","id":"8342","labels":["Artist"],"properties":{"artistname":"game theory"}}}
+{"u":{"type":"node","id":"8343","labels":["Artist"],"properties":{"artistname":"cannibal corpse"}}}
+{"u":{"type":"node","id":"8344","labels":["Artist"],"properties":{"artistname":"jean-yves thibaudet"}}}
+{"u":{"type":"node","id":"8345","labels":["Artist"],"properties":{"artistname":"queen"}}}
+{"u":{"type":"node","id":"8346","labels":["Artist"],"properties":{"artistname":"blake neely"}}}
+{"u":{"type":"node","id":"8347","labels":["Artist"],"properties":{"artistname":"delfeayo marsalis"}}}
+{"u":{"type":"node","id":"8348","labels":["Artist"],"properties":{"artistname":"reso"}}}
+{"u":{"type":"node","id":"8349","labels":["Artist"],"properties":{"artistname":"lasse stefanz"}}}
+{"u":{"type":"node","id":"8350","labels":["Artist"],"properties":{"artistname":"alice dj"}}}
+{"u":{"type":"node","id":"8351","labels":["Artist"],"properties":{"artistname":"vienna state opera chorus"}}}
+{"u":{"type":"node","id":"8352","labels":["Artist"],"properties":{"artistname":"system of a down"}}}
+{"u":{"type":"node","id":"8353","labels":["Artist"],"properties":{"artistname":"awie"}}}
+{"u":{"type":"node","id":"8354","labels":["Artist"],"properties":{"artistname":"rize"}}}
+{"u":{"type":"node","id":"8355","labels":["Artist"],"properties":{"artistname":"black label society"}}}
+{"u":{"type":"node","id":"8356","labels":["Artist"],"properties":{"artistname":"the streets"}}}
+{"u":{"type":"node","id":"8357","labels":["Artist"],"properties":{"artistname":"ksuke"}}}
+{"u":{"type":"node","id":"8358","labels":["Artist"],"properties":{"artistname":"toneshifterz"}}}
+{"u":{"type":"node","id":"8359","labels":["Artist"],"properties":{"artistname":"birdy"}}}
+{"u":{"type":"node","id":"8360","labels":["Artist"],"properties":{"artistname":"aziz ansari"}}}
+{"u":{"type":"node","id":"8361","labels":["Artist"],"properties":{"artistname":"cazuza"}}}
+{"u":{"type":"node","id":"8362","labels":["Artist"],"properties":{"artistname":"robin thicke"}}}
+{"u":{"type":"node","id":"8363","labels":["Artist"],"properties":{"artistname":"joão bosco & vinicius"}}}
+{"u":{"type":"node","id":"8364","labels":["Artist"],"properties":{"artistname":"pakho chau"}}}
+{"u":{"type":"node","id":"8365","labels":["Artist"],"properties":{"artistname":"vybz kartel"}}}
+{"u":{"type":"node","id":"8366","labels":["Artist"],"properties":{"artistname":"danny elfman"}}}
+{"u":{"type":"node","id":"8367","labels":["Artist"],"properties":{"artistname":"noah d"}}}
+{"u":{"type":"node","id":"8368","labels":["Artist"],"properties":{"artistname":"natiruts"}}}
+{"u":{"type":"node","id":"8369","labels":["Artist"],"properties":{"artistname":"monty"}}}
+{"u":{"type":"node","id":"8370","labels":["Artist"],"properties":{"artistname":"average white band"}}}
+{"u":{"type":"node","id":"8371","labels":["Artist"],"properties":{"artistname":"lucy rose"}}}
+{"u":{"type":"node","id":"8372","labels":["Artist"],"properties":{"artistname":"angela lansbury"}}}
+{"u":{"type":"node","id":"8373","labels":["Artist"],"properties":{"artistname":"dreadzone"}}}
+{"u":{"type":"node","id":"8374","labels":["Artist"],"properties":{"artistname":"andrew lloyd webber"}}}
+{"u":{"type":"node","id":"8375","labels":["Artist"],"properties":{"artistname":"juan magán"}}}
+{"u":{"type":"node","id":"8376","labels":["Artist"],"properties":{"artistname":"halil sezai"}}}
+{"u":{"type":"node","id":"8377","labels":["Artist"],"properties":{"artistname":"ron sexsmith"}}}
+{"u":{"type":"node","id":"8378","labels":["Artist"],"properties":{"artistname":"kenny chesney"}}}
+{"u":{"type":"node","id":"8379","labels":["Artist"],"properties":{"artistname":"joshua radin"}}}
+{"u":{"type":"node","id":"8380","labels":["Artist"],"properties":{"artistname":"breaking benjamin"}}}
+{"u":{"type":"node","id":"8450","labels":["Artist"],"properties":{"artistname":"the builders and the butchers"}}}
+{"u":{"type":"node","id":"8451","labels":["Artist"],"properties":{"artistname":"grupo fundo de quintal"}}}
+{"u":{"type":"node","id":"8452","labels":["Artist"],"properties":{"artistname":"the head and the heart"}}}
+{"u":{"type":"node","id":"8453","labels":["Artist"],"properties":{"artistname":"the creepshow"}}}
+{"u":{"type":"node","id":"8454","labels":["Artist"],"properties":{"artistname":"lutan fyah"}}}
+{"u":{"type":"node","id":"8455","labels":["Artist"],"properties":{"artistname":"clinic"}}}
+{"u":{"type":"node","id":"8456","labels":["Artist"],"properties":{"artistname":"babymetal"}}}
+{"u":{"type":"node","id":"8457","labels":["Artist"],"properties":{"artistname":"lil uzi vert"}}}
+{"u":{"type":"node","id":"8458","labels":["Artist"],"properties":{"artistname":"tasha baxter"}}}
+{"u":{"type":"node","id":"8459","labels":["Artist"],"properties":{"artistname":"mag!c☆prince"}}}
+{"u":{"type":"node","id":"8460","labels":["Artist"],"properties":{"artistname":"illion"}}}
+{"u":{"type":"node","id":"8461","labels":["Artist"],"properties":{"artistname":"orchestral manoeuvres in the dark"}}}
+{"u":{"type":"node","id":"8462","labels":["Artist"],"properties":{"artistname":"trey songz"}}}
+{"u":{"type":"node","id":"8463","labels":["Artist"],"properties":{"artistname":"chayanne"}}}
+{"u":{"type":"node","id":"8464","labels":["Artist"],"properties":{"artistname":"john p. kee"}}}
+{"u":{"type":"node","id":"8465","labels":["Artist"],"properties":{"artistname":"urbandub"}}}
+{"u":{"type":"node","id":"8466","labels":["Artist"],"properties":{"artistname":"scope dj"}}}
+{"u":{"type":"node","id":"8467","labels":["Artist"],"properties":{"artistname":"ryutist"}}}
+{"u":{"type":"node","id":"8468","labels":["Artist"],"properties":{"artistname":"dyland & lenny"}}}
+{"u":{"type":"node","id":"8469","labels":["Artist"],"properties":{"artistname":"lebo m."}}}
+{"u":{"type":"node","id":"8470","labels":["Artist"],"properties":{"artistname":"julieta venegas"}}}
+{"u":{"type":"node","id":"8471","labels":["Artist"],"properties":{"artistname":"the black keys"}}}
+{"u":{"type":"node","id":"8472","labels":["Artist"],"properties":{"artistname":"oskar linnros"}}}
+{"u":{"type":"node","id":"8473","labels":["Artist"],"properties":{"artistname":"lamb of god"}}}
+{"u":{"type":"node","id":"8474","labels":["Artist"],"properties":{"artistname":"steve harvey"}}}
+{"u":{"type":"node","id":"8475","labels":["Artist"],"properties":{"artistname":"grupo pagode"}}}
+{"u":{"type":"node","id":"8476","labels":["Artist"],"properties":{"artistname":"roupa nova"}}}
+{"u":{"type":"node","id":"8477","labels":["Artist"],"properties":{"artistname":"hudson mohawke"}}}
+{"u":{"type":"node","id":"8478","labels":["Artist"],"properties":{"artistname":"la banda del diablo"}}}
+{"u":{"type":"node","id":"8528","labels":["Artist"],"properties":{"artistname":"timbalada"}}}
+{"u":{"type":"node","id":"8529","labels":["Artist"],"properties":{"artistname":"sarah mclachlan"}}}
+{"u":{"type":"node","id":"8530","labels":["Artist"],"properties":{"artistname":"bola"}}}
+{"u":{"type":"node","id":"8531","labels":["Artist"],"properties":{"artistname":"the toasters"}}}
+{"u":{"type":"node","id":"8532","labels":["Artist"],"properties":{"artistname":"within temptation"}}}
+{"u":{"type":"node","id":"8533","labels":["Artist"],"properties":{"artistname":"london philharmonic orchestra"}}}
+{"u":{"type":"node","id":"8534","labels":["Artist"],"properties":{"artistname":"taylor swift"}}}
+{"u":{"type":"node","id":"8535","labels":["Artist"],"properties":{"artistname":"demi lovato"}}}
+{"u":{"type":"node","id":"8536","labels":["Artist"],"properties":{"artistname":"tim bendzko"}}}
+{"u":{"type":"node","id":"8537","labels":["Artist"],"properties":{"artistname":"wednesday campanella"}}}
+{"u":{"type":"node","id":"8538","labels":["Artist"],"properties":{"artistname":"necrophagist"}}}
+{"u":{"type":"node","id":"8539","labels":["Artist"],"properties":{"artistname":"tove lo"}}}
+{"u":{"type":"node","id":"8540","labels":["Artist"],"properties":{"artistname":"yann tiersen"}}}
+{"u":{"type":"node","id":"8541","labels":["Artist"],"properties":{"artistname":"tower of power"}}}
+{"u":{"type":"node","id":"8542","labels":["Artist"],"properties":{"artistname":"john lindberg trio"}}}
+{"u":{"type":"node","id":"8543","labels":["Artist"],"properties":{"artistname":"mac"}}}
+{"u":{"type":"node","id":"8544","labels":["Artist"],"properties":{"artistname":"lucy schwartz"}}}
+{"u":{"type":"node","id":"8545","labels":["Artist"],"properties":{"artistname":"the tornados"}}}
+{"u":{"type":"node","id":"8546","labels":["Artist"],"properties":{"artistname":"monica"}}}
+{"u":{"type":"node","id":"8547","labels":["Artist"],"properties":{"artistname":"paolo nutini"}}}
+{"u":{"type":"node","id":"8548","labels":["Artist"],"properties":{"artistname":"eric martin"}}}
+{"u":{"type":"node","id":"8549","labels":["Artist"],"properties":{"artistname":"st. lucia"}}}
+{"u":{"type":"node","id":"8550","labels":["Artist"],"properties":{"artistname":"pearl jam"}}}
+{"u":{"type":"node","id":"8551","labels":["Artist"],"properties":{"artistname":"max richter"}}}
+{"u":{"type":"node","id":"8552","labels":["Artist"],"properties":{"artistname":"hippie sabotage"}}}
+{"u":{"type":"node","id":"8553","labels":["Artist"],"properties":{"artistname":"feed me"}}}
+{"u":{"type":"node","id":"8554","labels":["Artist"],"properties":{"artistname":"sam smith"}}}
+{"u":{"type":"node","id":"8555","labels":["Artist"],"properties":{"artistname":"adele"}}}
+{"u":{"type":"node","id":"8556","labels":["Artist"],"properties":{"artistname":"orchestra sinfonica di milano giuseppe verdi"}}}
+{"u":{"type":"node","id":"8557","labels":["Artist"],"properties":{"artistname":"plaid"}}}
+{"u":{"type":"node","id":"8558","labels":["Artist"],"properties":{"artistname":"dubstep mafia"}}}
+{"u":{"type":"node","id":"8559","labels":["Artist"],"properties":{"artistname":"péter nagy"}}}
+{"u":{"type":"node","id":"8560","labels":["Artist"],"properties":{"artistname":"vicentico"}}}
+{"u":{"type":"node","id":"8561","labels":["Artist"],"properties":{"artistname":"florence + the machine"}}}
+{"u":{"type":"node","id":"8618","labels":["Artist"],"properties":{"artistname":"bronski beat"}}}
+{"u":{"type":"node","id":"8619","labels":["Artist"],"properties":{"artistname":"christina perri"}}}
+{"u":{"type":"node","id":"8620","labels":["Artist"],"properties":{"artistname":"jorge ortiz"}}}
+{"u":{"type":"node","id":"8621","labels":["Artist"],"properties":{"artistname":"de de mouse"}}}
+{"u":{"type":"node","id":"8622","labels":["Artist"],"properties":{"artistname":"partynextdoor"}}}
+{"u":{"type":"node","id":"8623","labels":["Artist"],"properties":{"artistname":"yida huang"}}}
+{"u":{"type":"node","id":"8624","labels":["Artist"],"properties":{"artistname":"pendulum"}}}
+{"u":{"type":"node","id":"8625","labels":["Artist"],"properties":{"artistname":"grimes"}}}
+{"u":{"type":"node","id":"8626","labels":["Artist"],"properties":{"artistname":"post malone"}}}
+{"u":{"type":"node","id":"8627","labels":["Artist"],"properties":{"artistname":"hellrazor"}}}
+{"u":{"type":"node","id":"8628","labels":["Artist"],"properties":{"artistname":"matthew sweet"}}}
+{"u":{"type":"node","id":"8629","labels":["Artist"],"properties":{"artistname":"airbag"}}}
+{"u":{"type":"node","id":"8630","labels":["Artist"],"properties":{"artistname":"whigfield"}}}
+{"u":{"type":"node","id":"8631","labels":["Artist"],"properties":{"artistname":"stephan bodzin"}}}
+{"u":{"type":"node","id":"8632","labels":["Artist"],"properties":{"artistname":"john williams"}}}
+{"u":{"type":"node","id":"8633","labels":["Artist"],"properties":{"artistname":"croma latina"}}}
+{"u":{"type":"node","id":"8634","labels":["Artist"],"properties":{"artistname":"sa dingding"}}}
+{"u":{"type":"node","id":"8635","labels":["Artist"],"properties":{"artistname":"munich radio orchestra"}}}
+{"u":{"type":"node","id":"8636","labels":["Artist"],"properties":{"artistname":"banda garota safada"}}}
+{"u":{"type":"node","id":"8637","labels":["Artist"],"properties":{"artistname":"decapitated"}}}
+{"u":{"type":"node","id":"8638","labels":["Artist"],"properties":{"artistname":"crooked still"}}}
+{"u":{"type":"node","id":"8639","labels":["Artist"],"properties":{"artistname":"a$ap rocky"}}}
+{"u":{"type":"node","id":"8640","labels":["Artist"],"properties":{"artistname":"juicy j"}}}
+{"u":{"type":"node","id":"8641","labels":["Artist"],"properties":{"artistname":"wayne shorter"}}}
+{"u":{"type":"node","id":"8642","labels":["Artist"],"properties":{"artistname":"che'nelle"}}}
+{"u":{"type":"node","id":"8643","labels":["Artist"],"properties":{"artistname":"bossacucanova"}}}
+{"u":{"type":"node","id":"8644","labels":["Artist"],"properties":{"artistname":"flume"}}}
+{"u":{"type":"node","id":"8645","labels":["Artist"],"properties":{"artistname":"new york philharmonic"}}}
+{"u":{"type":"node","id":"8646","labels":["Artist"],"properties":{"artistname":"night beats"}}}
+{"u":{"type":"node","id":"8698","labels":["Artist"],"properties":{"artistname":"silverstein"}}}
+{"u":{"type":"node","id":"8699","labels":["Artist"],"properties":{"artistname":"mohombi"}}}
+{"u":{"type":"node","id":"8700","labels":["Artist"],"properties":{"artistname":"the devil wears prada"}}}
+{"u":{"type":"node","id":"8701","labels":["Artist"],"properties":{"artistname":"signum"}}}
+{"u":{"type":"node","id":"8702","labels":["Artist"],"properties":{"artistname":"randy houser"}}}
+{"u":{"type":"node","id":"8703","labels":["Artist"],"properties":{"artistname":"datuk ahmad jais"}}}
+{"u":{"type":"node","id":"8704","labels":["Artist"],"properties":{"artistname":"脫拉庫"}}}
+{"u":{"type":"node","id":"8705","labels":["Artist"],"properties":{"artistname":"journey"}}}
+{"u":{"type":"node","id":"8706","labels":["Artist"],"properties":{"artistname":"kenny loggins"}}}
+{"u":{"type":"node","id":"8707","labels":["Artist"],"properties":{"artistname":"derrick may"}}}
+{"u":{"type":"node","id":"8708","labels":["Artist"],"properties":{"artistname":"papa grows funk"}}}
+{"u":{"type":"node","id":"8709","labels":["Artist"],"properties":{"artistname":"sarah geronimo"}}}
+{"u":{"type":"node","id":"8710","labels":["Artist"],"properties":{"artistname":"theo croker"}}}
+{"u":{"type":"node","id":"8711","labels":["Artist"],"properties":{"artistname":"cecil payne"}}}
+{"u":{"type":"node","id":"8712","labels":["Artist"],"properties":{"artistname":"dani black"}}}
+{"u":{"type":"node","id":"8713","labels":["Artist"],"properties":{"artistname":"satyricon"}}}
+{"u":{"type":"node","id":"8714","labels":["Artist"],"properties":{"artistname":"jerry goldsmith"}}}
+{"u":{"type":"node","id":"8715","labels":["Artist"],"properties":{"artistname":"zeds dead"}}}
+{"u":{"type":"node","id":"8716","labels":["Artist"],"properties":{"artistname":"pale seas"}}}
+{"u":{"type":"node","id":"8717","labels":["Artist"],"properties":{"artistname":"el cata"}}}
+{"u":{"type":"node","id":"8718","labels":["Artist"],"properties":{"artistname":"dash berlin"}}}
+{"u":{"type":"node","id":"8719","labels":["Artist"],"properties":{"artistname":"buffalo tom"}}}
+{"u":{"type":"node","id":"8720","labels":["Artist"],"properties":{"artistname":"puan sri saloma"}}}
+{"u":{"type":"node","id":"8721","labels":["Artist"],"properties":{"artistname":"montgomery gentry"}}}
+{"u":{"type":"node","id":"8722","labels":["Artist"],"properties":{"artistname":"edwin luna y la trakalosa de monterrey"}}}
+{"u":{"type":"node","id":"8723","labels":["Artist"],"properties":{"artistname":"randy newman"}}}
+{"u":{"type":"node","id":"8724","labels":["Artist"],"properties":{"artistname":"engenheiros do hawaii"}}}
+{"u":{"type":"node","id":"8725","labels":["Artist"],"properties":{"artistname":"rotten sound"}}}
+{"u":{"type":"node","id":"8726","labels":["Artist"],"properties":{"artistname":"matthew koma"}}}
+{"u":{"type":"node","id":"8727","labels":["Artist"],"properties":{"artistname":"lucenzo"}}}
+{"u":{"type":"node","id":"8728","labels":["Artist"],"properties":{"artistname":"baby rasta & gringo"}}}
+{"u":{"type":"node","id":"8729","labels":["Artist"],"properties":{"artistname":"diana ross & the supremes"}}}
+{"u":{"type":"node","id":"8730","labels":["Artist"],"properties":{"artistname":"the crystal method"}}}
+{"u":{"type":"node","id":"8731","labels":["Artist"],"properties":{"artistname":"jessica andrews"}}}
+{"u":{"type":"node","id":"8732","labels":["Artist"],"properties":{"artistname":"helene schneiderman"}}}
+{"u":{"type":"node","id":"8733","labels":["Artist"],"properties":{"artistname":"denise ho"}}}
+{"u":{"type":"node","id":"8781","labels":["Artist"],"properties":{"artistname":"童安格"}}}
+{"u":{"type":"node","id":"8782","labels":["Artist"],"properties":{"artistname":"mountain"}}}
+{"u":{"type":"node","id":"8783","labels":["Artist"],"properties":{"artistname":"joey albert"}}}
+{"u":{"type":"node","id":"8784","labels":["Artist"],"properties":{"artistname":"a boogie wit da hoodie"}}}
+{"u":{"type":"node","id":"8785","labels":["Artist"],"properties":{"artistname":"sonny rollins"}}}
+{"u":{"type":"node","id":"8786","labels":["Artist"],"properties":{"artistname":"toto"}}}
+{"u":{"type":"node","id":"8787","labels":["Artist"],"properties":{"artistname":"alexi murdoch"}}}
+{"u":{"type":"node","id":"8788","labels":["Artist"],"properties":{"artistname":"joão donato"}}}
+{"u":{"type":"node","id":"8789","labels":["Artist"],"properties":{"artistname":"iain sutherland"}}}
+{"u":{"type":"node","id":"8790","labels":["Artist"],"properties":{"artistname":"toumani diabaté"}}}
+{"u":{"type":"node","id":"8791","labels":["Artist"],"properties":{"artistname":"trivium"}}}
+{"u":{"type":"node","id":"8792","labels":["Artist"],"properties":{"artistname":"brigitte bardot"}}}
+{"u":{"type":"node","id":"8793","labels":["Artist"],"properties":{"artistname":"lcd soundsystem"}}}
+{"u":{"type":"node","id":"8794","labels":["Artist"],"properties":{"artistname":"sesto bruscantini"}}}
+{"u":{"type":"node","id":"8795","labels":["Artist"],"properties":{"artistname":"mount kimbie"}}}
+{"u":{"type":"node","id":"8796","labels":["Artist"],"properties":{"artistname":"children of bodom"}}}
+{"u":{"type":"node","id":"8797","labels":["Artist"],"properties":{"artistname":"the growlers"}}}
+{"u":{"type":"node","id":"8798","labels":["Artist"],"properties":{"artistname":"k. michelle"}}}
+{"u":{"type":"node","id":"8799","labels":["Artist"],"properties":{"artistname":"chris james"}}}
+{"u":{"type":"node","id":"8800","labels":["Artist"],"properties":{"artistname":"rolf løvland"}}}
+{"u":{"type":"node","id":"8801","labels":["Artist"],"properties":{"artistname":"victor & leo"}}}
+{"u":{"type":"node","id":"8802","labels":["Artist"],"properties":{"artistname":"bat for lashes"}}}
+{"u":{"type":"node","id":"8803","labels":["Artist"],"properties":{"artistname":"anitta"}}}
+{"u":{"type":"node","id":"8804","labels":["Artist"],"properties":{"artistname":"attack attack!"}}}
+{"u":{"type":"node","id":"8838","labels":["Artist"],"properties":{"artistname":"teencats"}}}
+{"u":{"type":"node","id":"8839","labels":["Artist"],"properties":{"artistname":"rai symphony orchestra & chorus of rome"}}}
+{"u":{"type":"node","id":"8840","labels":["Artist"],"properties":{"artistname":"k. s. chithra"}}}
+{"u":{"type":"node","id":"8841","labels":["Artist"],"properties":{"artistname":"marcus belgrave"}}}
+{"u":{"type":"node","id":"8842","labels":["Artist"],"properties":{"artistname":"lykke li"}}}
+{"u":{"type":"node","id":"8847","labels":["Artist"],"properties":{"artistname":"rancid"}}}
+{"u":{"type":"node","id":"8848","labels":["Artist"],"properties":{"artistname":"meek mill"}}}
+{"u":{"type":"node","id":"8849","labels":["Artist"],"properties":{"artistname":"pinch"}}}
+{"u":{"type":"node","id":"8850","labels":["Artist"],"properties":{"artistname":"carl craig"}}}
+{"u":{"type":"node","id":"8851","labels":["Artist"],"properties":{"artistname":"rdx"}}}
+{"u":{"type":"node","id":"8852","labels":["Artist"],"properties":{"artistname":"in this moment"}}}
+{"u":{"type":"node","id":"8853","labels":["Artist"],"properties":{"artistname":"robyn"}}}
+{"u":{"type":"node","id":"8854","labels":["Artist"],"properties":{"artistname":"enrique iglesias"}}}
+{"u":{"type":"node","id":"8855","labels":["Artist"],"properties":{"artistname":"ratatat"}}}
+{"u":{"type":"node","id":"8856","labels":["Artist"],"properties":{"artistname":"jónsi"}}}
+{"u":{"type":"node","id":"8857","labels":["Artist"],"properties":{"artistname":"adnan sami"}}}
+{"u":{"type":"node","id":"8858","labels":["Artist"],"properties":{"artistname":"arch enemy"}}}
+{"u":{"type":"node","id":"8859","labels":["Artist"],"properties":{"artistname":"we came as romans"}}}
+{"u":{"type":"node","id":"8860","labels":["Artist"],"properties":{"artistname":"cristiano araújo"}}}
+{"u":{"type":"node","id":"8861","labels":["Artist"],"properties":{"artistname":"gunnar stiller"}}}
+{"u":{"type":"node","id":"8862","labels":["Artist"],"properties":{"artistname":"smokie norful"}}}
+{"u":{"type":"node","id":"8863","labels":["Artist"],"properties":{"artistname":"sia"}}}
+{"u":{"type":"node","id":"8864","labels":["Artist"],"properties":{"artistname":"autechre"}}}
+{"u":{"type":"node","id":"8865","labels":["Artist"],"properties":{"artistname":"the fleshtones"}}}
+{"u":{"type":"node","id":"8866","labels":["Artist"],"properties":{"artistname":"basshunter"}}}
+{"u":{"type":"node","id":"8867","labels":["Artist"],"properties":{"artistname":"lecca"}}}
+{"u":{"type":"node","id":"8868","labels":["Artist"],"properties":{"artistname":"daddy yankee"}}}
+{"u":{"type":"node","id":"8869","labels":["Artist"],"properties":{"artistname":"lillias white"}}}
+{"u":{"type":"node","id":"8870","labels":["Artist"],"properties":{"artistname":"camila"}}}
+{"u":{"type":"node","id":"8871","labels":["Artist"],"properties":{"artistname":"bom"}}}
+{"u":{"type":"node","id":"8872","labels":["Artist"],"properties":{"artistname":"p!nk"}}}
+{"u":{"type":"node","id":"8873","labels":["Artist"],"properties":{"artistname":"example"}}}
+{"u":{"type":"node","id":"8874","labels":["Artist"],"properties":{"artistname":"sorriso maroto"}}}
+{"u":{"type":"node","id":"8904","labels":["Artist"],"properties":{"artistname":"germs"}}}
+{"u":{"type":"node","id":"8905","labels":["Artist"],"properties":{"artistname":"meghan trainor"}}}
+{"u":{"type":"node","id":"8906","labels":["Artist"],"properties":{"artistname":"yandel"}}}
+{"u":{"type":"node","id":"8907","labels":["Artist"],"properties":{"artistname":"808 state"}}}
+{"u":{"type":"node","id":"8908","labels":["Artist"],"properties":{"artistname":"screamin' jay hawkins"}}}
+{"u":{"type":"node","id":"8909","labels":["Artist"],"properties":{"artistname":"alma mahler"}}}
+{"u":{"type":"node","id":"8910","labels":["Artist"],"properties":{"artistname":"beck"}}}
+{"u":{"type":"node","id":"8911","labels":["Artist"],"properties":{"artistname":"maurice joshua"}}}
+{"u":{"type":"node","id":"8912","labels":["Artist"],"properties":{"artistname":"anonymous"}}}
+{"u":{"type":"node","id":"8913","labels":["Artist"],"properties":{"artistname":"raju singh"}}}
+{"u":{"type":"node","id":"8914","labels":["Artist"],"properties":{"artistname":"rick james"}}}
+{"u":{"type":"node","id":"8915","labels":["Artist"],"properties":{"artistname":"maria bamford"}}}
+{"u":{"type":"node","id":"8916","labels":["Artist"],"properties":{"artistname":"romeo santos"}}}
+{"u":{"type":"node","id":"8917","labels":["Artist"],"properties":{"artistname":"silver sun"}}}
+{"u":{"type":"node","id":"8918","labels":["Artist"],"properties":{"artistname":"kehlani"}}}
+{"u":{"type":"node","id":"8919","labels":["Artist"],"properties":{"artistname":"the orchestra national de la radiodiffusion francaise"}}}
+{"u":{"type":"node","id":"8920","labels":["Artist"],"properties":{"artistname":"logic"}}}
+{"u":{"type":"node","id":"8921","labels":["Artist"],"properties":{"artistname":"pritam"}}}
+{"u":{"type":"node","id":"8922","labels":["Artist"],"properties":{"artistname":"clan of xymox"}}}
+{"u":{"type":"node","id":"8923","labels":["Artist"],"properties":{"artistname":"justin martin"}}}
+{"u":{"type":"node","id":"8924","labels":["Artist"],"properties":{"artistname":"christoph willibald gluck"}}}
+{"u":{"type":"node","id":"8925","labels":["Artist"],"properties":{"artistname":"ralphi rosario"}}}
+{"u":{"type":"node","id":"8926","labels":["Artist"],"properties":{"artistname":"chris lake"}}}
+{"u":{"type":"node","id":"8927","labels":["Artist"],"properties":{"artistname":"major lazer"}}}
+{"u":{"type":"node","id":"8928","labels":["Artist"],"properties":{"artistname":"la-33"}}}
+{"u":{"type":"node","id":"8929","labels":["Artist"],"properties":{"artistname":"minmi"}}}
+{"u":{"type":"node","id":"8930","labels":["Artist"],"properties":{"artistname":"take"}}}
+{"u":{"type":"node","id":"8931","labels":["Artist"],"properties":{"artistname":"pascal obispo"}}}
+{"u":{"type":"node","id":"8932","labels":["Artist"],"properties":{"artistname":"seether"}}}
+{"u":{"type":"node","id":"8933","labels":["Artist"],"properties":{"artistname":"punch brothers"}}}
+{"u":{"type":"node","id":"8934","labels":["Artist"],"properties":{"artistname":"valen hsu"}}}
+{"u":{"type":"node","id":"8975","labels":["Artist"],"properties":{"artistname":"johnny winter"}}}
+{"u":{"type":"node","id":"8976","labels":["Artist"],"properties":{"artistname":"seinabo sey"}}}
+{"u":{"type":"node","id":"8977","labels":["Artist"],"properties":{"artistname":"demet akalın"}}}
+{"u":{"type":"node","id":"8978","labels":["Artist"],"properties":{"artistname":"drake"}}}
+{"u":{"type":"node","id":"8979","labels":["Artist"],"properties":{"artistname":"mohsen namjoo"}}}
+{"u":{"type":"node","id":"8980","labels":["Artist"],"properties":{"artistname":"bezerra da silva"}}}
+{"u":{"type":"node","id":"8981","labels":["Artist"],"properties":{"artistname":"eric church"}}}
+{"u":{"type":"node","id":"8982","labels":["Artist"],"properties":{"artistname":"lil' kim"}}}
+{"u":{"type":"node","id":"8983","labels":["Artist"],"properties":{"artistname":"vent"}}}
+{"u":{"type":"node","id":"8984","labels":["Artist"],"properties":{"artistname":"gareth emery"}}}
+{"u":{"type":"node","id":"8985","labels":["Artist"],"properties":{"artistname":"london grammar"}}}
+{"u":{"type":"node","id":"8986","labels":["Artist"],"properties":{"artistname":"blutengel"}}}
+{"u":{"type":"node","id":"8987","labels":["Artist"],"properties":{"artistname":"avicii"}}}
+{"u":{"type":"node","id":"8988","labels":["Artist"],"properties":{"artistname":"in flames"}}}
+{"u":{"type":"node","id":"8989","labels":["Artist"],"properties":{"artistname":"jatin-lalit"}}}
+{"u":{"type":"node","id":"8990","labels":["Artist"],"properties":{"artistname":"stone temple pilots"}}}
+{"u":{"type":"node","id":"8991","labels":["Artist"],"properties":{"artistname":"amadou & mariam"}}}
+{"u":{"type":"node","id":"8992","labels":["Artist"],"properties":{"artistname":"tata vega"}}}
+{"u":{"type":"node","id":"8993","labels":["Artist"],"properties":{"artistname":"a-mei chang"}}}
+{"u":{"type":"node","id":"8994","labels":["Artist"],"properties":{"artistname":"big pun"}}}
+{"u":{"type":"node","id":"8995","labels":["Artist"],"properties":{"artistname":"the tri-city singers"}}}
+{"u":{"type":"node","id":"8996","labels":["Artist"],"properties":{"artistname":"banda el recodo"}}}
+{"u":{"type":"node","id":"8997","labels":["Artist"],"properties":{"artistname":"ms. lauryn hill"}}}
+{"u":{"type":"node","id":"8998","labels":["Artist"],"properties":{"artistname":"mathias"}}}
+{"u":{"type":"node","id":"8999","labels":["Artist"],"properties":{"artistname":"august burns red"}}}
+{"u":{"type":"node","id":"9000","labels":["Artist"],"properties":{"artistname":"d-block"}}}
+{"u":{"type":"node","id":"9001","labels":["Artist"],"properties":{"artistname":"a great big world"}}}
+{"u":{"type":"node","id":"9031","labels":["Artist"],"properties":{"artistname":"tyler farr"}}}
+{"u":{"type":"node","id":"9032","labels":["Artist"],"properties":{"artistname":"renée zellweger"}}}
+{"u":{"type":"node","id":"9033","labels":["Artist"],"properties":{"artistname":"olly murs"}}}
+{"u":{"type":"node","id":"9034","labels":["Artist"],"properties":{"artistname":"alligatoah"}}}
+{"u":{"type":"node","id":"9035","labels":["Artist"],"properties":{"artistname":"yalın"}}}
+{"u":{"type":"node","id":"9036","labels":["Artist"],"properties":{"artistname":"tinashe"}}}
+{"u":{"type":"node","id":"9037","labels":["Artist"],"properties":{"artistname":"the bossa nova all stars"}}}
+{"u":{"type":"node","id":"9038","labels":["Artist"],"properties":{"artistname":"excision"}}}
+{"u":{"type":"node","id":"9039","labels":["Artist"],"properties":{"artistname":"lana del rey"}}}
+{"u":{"type":"node","id":"9040","labels":["Artist"],"properties":{"artistname":"janelle monáe"}}}
+{"u":{"type":"node","id":"9041","labels":["Artist"],"properties":{"artistname":"louise attaque"}}}
+{"u":{"type":"node","id":"9042","labels":["Artist"],"properties":{"artistname":"shem"}}}
+{"u":{"type":"node","id":"9043","labels":["Artist"],"properties":{"artistname":"pedro laurenz"}}}
+{"u":{"type":"node","id":"9044","labels":["Artist"],"properties":{"artistname":"junior kelly"}}}
+{"u":{"type":"node","id":"9045","labels":["Artist"],"properties":{"artistname":"étienne de crécy"}}}
+{"u":{"type":"node","id":"9046","labels":["Artist"],"properties":{"artistname":"chrystian & ralf"}}}
+{"u":{"type":"node","id":"9047","labels":["Artist"],"properties":{"artistname":"queen latifah"}}}
+{"u":{"type":"node","id":"9048","labels":["Artist"],"properties":{"artistname":"mitch crown"}}}
+{"u":{"type":"node","id":"9049","labels":["Artist"],"properties":{"artistname":"kieran hebden"}}}
+{"u":{"type":"node","id":"9050","labels":["Artist"],"properties":{"artistname":"zedd"}}}
+{"u":{"type":"node","id":"9051","labels":["Artist"],"properties":{"artistname":"roberta miranda"}}}
+{"u":{"type":"node","id":"9052","labels":["Artist"],"properties":{"artistname":"caribou"}}}
+{"u":{"type":"node","id":"9053","labels":["Artist"],"properties":{"artistname":"ty dolla $ign"}}}
+{"u":{"type":"node","id":"9054","labels":["Artist"],"properties":{"artistname":"mr. fingers"}}}
+{"u":{"type":"node","id":"9055","labels":["Artist"],"properties":{"artistname":"emílio santiago"}}}
+{"u":{"type":"node","id":"9056","labels":["Artist"],"properties":{"artistname":"vnv nation"}}}
+{"u":{"type":"node","id":"9057","labels":["Artist"],"properties":{"artistname":"les misérables - original london cast"}}}
+{"u":{"type":"node","id":"9058","labels":["Artist"],"properties":{"artistname":"astrolites"}}}
+{"u":{"type":"node","id":"9059","labels":["Artist"],"properties":{"artistname":"tiffany alvord"}}}
+{"u":{"type":"node","id":"9079","labels":["Artist"],"properties":{"artistname":"aerosmith"}}}
+{"u":{"type":"node","id":"9080","labels":["Artist"],"properties":{"artistname":"the selecter"}}}
+{"u":{"type":"node","id":"9081","labels":["Artist"],"properties":{"artistname":"queens of the stone age"}}}
+{"u":{"type":"node","id":"9082","labels":["Artist"],"properties":{"artistname":"édith piaf"}}}
+{"u":{"type":"node","id":"9083","labels":["Artist"],"properties":{"artistname":"atb"}}}
+{"u":{"type":"node","id":"9084","labels":["Artist"],"properties":{"artistname":"yves montand"}}}
+{"u":{"type":"node","id":"9085","labels":["Artist"],"properties":{"artistname":"wisin"}}}
+{"u":{"type":"node","id":"9086","labels":["Artist"],"properties":{"artistname":"arlindo cruz"}}}
+{"u":{"type":"node","id":"9087","labels":["Artist"],"properties":{"artistname":"charlie brown jr."}}}
+{"u":{"type":"node","id":"9088","labels":["Artist"],"properties":{"artistname":"gd & top"}}}
+{"u":{"type":"node","id":"9089","labels":["Artist"],"properties":{"artistname":"agoraphobic nosebleed"}}}
+{"u":{"type":"node","id":"9090","labels":["Artist"],"properties":{"artistname":"the mighty mighty bosstones"}}}
+{"u":{"type":"node","id":"9091","labels":["Artist"],"properties":{"artistname":"christophe beck"}}}
+{"u":{"type":"node","id":"9107","labels":["Artist"],"properties":{"artistname":"sebastian x"}}}
+{"u":{"type":"node","id":"9108","labels":["Artist"],"properties":{"artistname":"pixote"}}}
+{"u":{"type":"node","id":"9109","labels":["Artist"],"properties":{"artistname":"kierra sheard"}}}
+{"u":{"type":"node","id":"9110","labels":["Artist"],"properties":{"artistname":"fall out boy"}}}
+{"u":{"type":"node","id":"9111","labels":["Artist"],"properties":{"artistname":"emperor"}}}
+{"u":{"type":"node","id":"9112","labels":["Artist"],"properties":{"artistname":"i̇brahim tatlıses"}}}
+{"u":{"type":"node","id":"9113","labels":["Artist"],"properties":{"artistname":"das karussell"}}}
+{"u":{"type":"node","id":"9114","labels":["Artist"],"properties":{"artistname":"zezé di camargo & luciano"}}}
+{"u":{"type":"node","id":"9115","labels":["Artist"],"properties":{"artistname":"ill.gates"}}}
+{"u":{"type":"node","id":"9116","labels":["Artist"],"properties":{"artistname":"nari"}}}
+{"u":{"type":"node","id":"9117","labels":["Artist"],"properties":{"artistname":"young thug"}}}
+{"u":{"type":"node","id":"9118","labels":["Artist"],"properties":{"artistname":"marvin gaye"}}}
+{"u":{"type":"node","id":"9119","labels":["Artist"],"properties":{"artistname":"kendrick lamar"}}}
+{"u":{"type":"node","id":"9120","labels":["Artist"],"properties":{"artistname":"felix mendelssohn"}}}
+{"u":{"type":"node","id":"9121","labels":["Artist"],"properties":{"artistname":"pat boone"}}}
+{"u":{"type":"node","id":"9122","labels":["Artist"],"properties":{"artistname":"byron cage"}}}
+{"u":{"type":"node","id":"9123","labels":["Artist"],"properties":{"artistname":"alien sex fiend"}}}
+{"u":{"type":"node","id":"9124","labels":["Artist"],"properties":{"artistname":"igor stravinsky"}}}
+{"u":{"type":"node","id":"9125","labels":["Artist"],"properties":{"artistname":"massive attack"}}}
+{"u":{"type":"node","id":"9126","labels":["Artist"],"properties":{"artistname":"dj fresh"}}}
+{"u":{"type":"node","id":"9127","labels":["Artist"],"properties":{"artistname":"the brian jonestown massacre"}}}
+{"u":{"type":"node","id":"9128","labels":["Artist"],"properties":{"artistname":"broadside"}}}
+{"u":{"type":"node","id":"9129","labels":["Artist"],"properties":{"artistname":"steve moakler"}}}
+{"u":{"type":"node","id":"9130","labels":["Artist"],"properties":{"artistname":"rascal flatts"}}}
+{"u":{"type":"node","id":"9131","labels":["Artist"],"properties":{"artistname":"ivy lab"}}}
+{"u":{"type":"node","id":"9132","labels":["Artist"],"properties":{"artistname":"marc anthony"}}}
+{"u":{"type":"node","id":"9133","labels":["Artist"],"properties":{"artistname":"wisin & yandel"}}}
+{"u":{"type":"node","id":"9134","labels":["Artist"],"properties":{"artistname":"ellie goulding"}}}
+{"u":{"type":"node","id":"9135","labels":["Artist"],"properties":{"artistname":"gary gulman"}}}
+{"u":{"type":"node","id":"9136","labels":["Artist"],"properties":{"artistname":"attila"}}}
+{"u":{"type":"node","id":"9137","labels":["Artist"],"properties":{"artistname":"michael hedges"}}}
+{"u":{"type":"node","id":"9138","labels":["Artist"],"properties":{"artistname":"nate ruess"}}}
+{"u":{"type":"node","id":"9139","labels":["Artist"],"properties":{"artistname":"kesha"}}}
+{"u":{"type":"node","id":"9140","labels":["Artist"],"properties":{"artistname":"ritchie valens"}}}
+{"u":{"type":"node","id":"9164","labels":["Artist"],"properties":{"artistname":"mj cole"}}}
+{"u":{"type":"node","id":"9165","labels":["Artist"],"properties":{"artistname":"john barry"}}}
+{"u":{"type":"node","id":"9166","labels":["Artist"],"properties":{"artistname":"vishal-shekhar"}}}
+{"u":{"type":"node","id":"9167","labels":["Artist"],"properties":{"artistname":"gorillaz"}}}
+{"u":{"type":"node","id":"9168","labels":["Artist"],"properties":{"artistname":"casa de leones"}}}
+{"u":{"type":"node","id":"9169","labels":["Artist"],"properties":{"artistname":"campanella"}}}
+{"u":{"type":"node","id":"9170","labels":["Artist"],"properties":{"artistname":"tyga"}}}
+{"u":{"type":"node","id":"9171","labels":["Artist"],"properties":{"artistname":"zé ramalho"}}}
+{"u":{"type":"node","id":"9172","labels":["Artist"],"properties":{"artistname":"minami takahashi"}}}
+{"u":{"type":"node","id":"9173","labels":["Artist"],"properties":{"artistname":"ruben gazarian"}}}
+{"u":{"type":"node","id":"9174","labels":["Artist"],"properties":{"artistname":"ebi"}}}
+{"u":{"type":"node","id":"9175","labels":["Artist"],"properties":{"artistname":"ferry corsten"}}}
+{"u":{"type":"node","id":"9176","labels":["Artist"],"properties":{"artistname":"flowback"}}}
+{"u":{"type":"node","id":"9177","labels":["Artist"],"properties":{"artistname":"sylvan esso"}}}
+{"u":{"type":"node","id":"9178","labels":["Artist"],"properties":{"artistname":"danny byrd"}}}
+{"u":{"type":"node","id":"9179","labels":["Artist"],"properties":{"artistname":"metallica"}}}
+{"u":{"type":"node","id":"9180","labels":["Artist"],"properties":{"artistname":"kristin chenoweth"}}}
+{"u":{"type":"node","id":"9181","labels":["Artist"],"properties":{"artistname":"jamie xx"}}}
+{"u":{"type":"node","id":"9182","labels":["Artist"],"properties":{"artistname":"seu jorge"}}}
+{"u":{"type":"node","id":"9183","labels":["Artist"],"properties":{"artistname":"cat power"}}}
+{"u":{"type":"node","id":"9184","labels":["Artist"],"properties":{"artistname":"gilberto santa rosa"}}}
+{"u":{"type":"node","id":"9185","labels":["Artist"],"properties":{"artistname":"leann rimes"}}}
+{"u":{"type":"node","id":"9186","labels":["Artist"],"properties":{"artistname":"linq"}}}
+{"u":{"type":"node","id":"9187","labels":["Artist"],"properties":{"artistname":"dimitri vegas & like mike"}}}
+{"u":{"type":"node","id":"9188","labels":["Artist"],"properties":{"artistname":"gustavo lins"}}}
+{"u":{"type":"node","id":"9189","labels":["Artist"],"properties":{"artistname":"paige o'hara"}}}
+{"u":{"type":"node","id":"9190","labels":["Artist"],"properties":{"artistname":"charli xcx"}}}
+{"u":{"type":"node","id":"9191","labels":["Artist"],"properties":{"artistname":"sublime"}}}
+{"u":{"type":"node","id":"9192","labels":["Artist"],"properties":{"artistname":"tujamo"}}}
+{"u":{"type":"node","id":"9193","labels":["Artist"],"properties":{"artistname":"los angeles philharmonic"}}}
+{"u":{"type":"node","id":"9194","labels":["Artist"],"properties":{"artistname":"marshmello"}}}
+{"u":{"type":"node","id":"9195","labels":["Artist"],"properties":{"artistname":"the brian setzer orchestra"}}}
+{"u":{"type":"node","id":"9196","labels":["Artist"],"properties":{"artistname":"tia carrere"}}}
+{"u":{"type":"node","id":"9197","labels":["Artist"],"properties":{"artistname":"the roots"}}}
+{"u":{"type":"node","id":"9213","labels":["Artist"],"properties":{"artistname":"aril brikha"}}}
+{"u":{"type":"node","id":"9214","labels":["Artist"],"properties":{"artistname":"nirvana"}}}
+{"u":{"type":"node","id":"9215","labels":["Artist"],"properties":{"artistname":"sonu nigam"}}}
+{"u":{"type":"node","id":"9216","labels":["Artist"],"properties":{"artistname":"nav"}}}
+{"u":{"type":"node","id":"9217","labels":["Artist"],"properties":{"artistname":"cesária evora"}}}
+{"u":{"type":"node","id":"9218","labels":["Artist"],"properties":{"artistname":"ibrahim maalouf"}}}
+{"u":{"type":"node","id":"9219","labels":["Artist"],"properties":{"artistname":"afrojack"}}}
+{"u":{"type":"node","id":"9220","labels":["Artist"],"properties":{"artistname":"john mellencamp"}}}
+{"u":{"type":"node","id":"9221","labels":["Artist"],"properties":{"artistname":"sara bareilles"}}}
+{"u":{"type":"node","id":"9222","labels":["Artist"],"properties":{"artistname":"dido"}}}
+{"u":{"type":"node","id":"9223","labels":["Artist"],"properties":{"artistname":"galantis"}}}
+{"u":{"type":"node","id":"9224","labels":["Artist"],"properties":{"artistname":"edgar meyer"}}}
+{"u":{"type":"node","id":"9225","labels":["Artist"],"properties":{"artistname":"the chainsmokers"}}}
+{"u":{"type":"node","id":"9226","labels":["Artist"],"properties":{"artistname":"paul gay"}}}
+{"u":{"type":"node","id":"9227","labels":["Artist"],"properties":{"artistname":"perdidos de sinaloa"}}}
+{"u":{"type":"node","id":"9228","labels":["Artist"],"properties":{"artistname":"kraftwerk"}}}
+{"u":{"type":"node","id":"9229","labels":["Artist"],"properties":{"artistname":"walter egan"}}}
+{"u":{"type":"node","id":"9230","labels":["Artist"],"properties":{"artistname":"camille saint-saëns"}}}
+{"u":{"type":"node","id":"9231","labels":["Artist"],"properties":{"artistname":"thrice"}}}
+{"u":{"type":"node","id":"9232","labels":["Artist"],"properties":{"artistname":"the cinematic orchestra"}}}
+{"u":{"type":"node","id":"9233","labels":["Artist"],"properties":{"artistname":"kru"}}}
+{"u":{"type":"node","id":"9234","labels":["Artist"],"properties":{"artistname":"david parry"}}}
+{"u":{"type":"node","id":"9235","labels":["Artist"],"properties":{"artistname":"marshanda"}}}
+{"u":{"type":"node","id":"9236","labels":["Artist"],"properties":{"artistname":"the amazons"}}}
+{"u":{"type":"node","id":"9237","labels":["Artist"],"properties":{"artistname":"the piano guys"}}}
+{"u":{"type":"node","id":"9238","labels":["Artist"],"properties":{"artistname":"the laurie berkner band"}}}
+{"u":{"type":"node","id":"9239","labels":["Artist"],"properties":{"artistname":"coone"}}}
+{"u":{"type":"node","id":"9240","labels":["Artist"],"properties":{"artistname":"sena jurinac"}}}
+{"u":{"type":"node","id":"9241","labels":["Artist"],"properties":{"artistname":"pixies"}}}
+{"u":{"type":"node","id":"9242","labels":["Artist"],"properties":{"artistname":"ivan lins"}}}
+{"u":{"type":"node","id":"9243","labels":["Artist"],"properties":{"artistname":"tommy dorsey"}}}
+{"u":{"type":"node","id":"9265","labels":["Artist"],"properties":{"artistname":"steve jablonsky"}}}
+{"u":{"type":"node","id":"9266","labels":["Artist"],"properties":{"artistname":"amy winehouse"}}}
+{"u":{"type":"node","id":"9267","labels":["Artist"],"properties":{"artistname":"katy perry"}}}
+{"u":{"type":"node","id":"9268","labels":["Artist"],"properties":{"artistname":"victoria beckham"}}}
+{"u":{"type":"node","id":"9269","labels":["Artist"],"properties":{"artistname":"neck deep"}}}
+{"u":{"type":"node","id":"9270","labels":["Artist"],"properties":{"artistname":"pharrell williams"}}}
+{"u":{"type":"node","id":"9271","labels":["Artist"],"properties":{"artistname":"hardwell"}}}
+{"u":{"type":"node","id":"9272","labels":["Artist"],"properties":{"artistname":"mirella freni"}}}
+{"u":{"type":"node","id":"9273","labels":["Artist"],"properties":{"artistname":"old crow medicine show"}}}
+{"u":{"type":"node","id":"9274","labels":["Artist"],"properties":{"artistname":"zapp"}}}
+{"u":{"type":"node","id":"9275","labels":["Artist"],"properties":{"artistname":"the impressions"}}}
+{"u":{"type":"node","id":"9276","labels":["Artist"],"properties":{"artistname":"i wayne"}}}
+{"u":{"type":"node","id":"9277","labels":["Artist"],"properties":{"artistname":"heist"}}}
+{"u":{"type":"node","id":"9278","labels":["Artist"],"properties":{"artistname":"fetty wap"}}}
+{"u":{"type":"node","id":"9279","labels":["Artist"],"properties":{"artistname":"lightnin' hopkins"}}}
+{"u":{"type":"node","id":"9280","labels":["Artist"],"properties":{"artistname":"chain reaction"}}}
+{"u":{"type":"node","id":"9281","labels":["Artist"],"properties":{"artistname":"moraes moreira"}}}
+{"u":{"type":"node","id":"9282","labels":["Artist"],"properties":{"artistname":"kareena kapoor"}}}
+{"u":{"type":"node","id":"9283","labels":["Artist"],"properties":{"artistname":"joan manuel serrat"}}}
+{"u":{"type":"node","id":"9284","labels":["Artist"],"properties":{"artistname":"pitbull"}}}
+{"u":{"type":"node","id":"9285","labels":["Artist"],"properties":{"artistname":"the knocks"}}}
+{"u":{"type":"node","id":"9286","labels":["Artist"],"properties":{"artistname":"digga"}}}
+{"u":{"type":"node","id":"9287","labels":["Artist"],"properties":{"artistname":"erik santos"}}}
+{"u":{"type":"node","id":"9288","labels":["Artist"],"properties":{"artistname":"sheila on 7"}}}
+{"u":{"type":"node","id":"9289","labels":["Artist"],"properties":{"artistname":"del amitri"}}}
+{"u":{"type":"node","id":"9290","labels":["Artist"],"properties":{"artistname":"nate dogg"}}}
+{"u":{"type":"node","id":"9291","labels":["Artist"],"properties":{"artistname":"laleh"}}}
+{"u":{"type":"node","id":"9292","labels":["Artist"],"properties":{"artistname":"mike dunn"}}}
+{"u":{"type":"node","id":"9293","labels":["Artist"],"properties":{"artistname":"arctic monkeys"}}}
+{"u":{"type":"node","id":"9317","labels":["Artist"],"properties":{"artistname":"susan egan"}}}
+{"u":{"type":"node","id":"9318","labels":["Artist"],"properties":{"artistname":"theatre of tragedy"}}}
+{"u":{"type":"node","id":"9319","labels":["Artist"],"properties":{"artistname":"maná"}}}
+{"u":{"type":"node","id":"9320","labels":["Artist"],"properties":{"artistname":"gilberto gil"}}}
+{"u":{"type":"node","id":"9321","labels":["Artist"],"properties":{"artistname":"whitney cummings"}}}
+{"u":{"type":"node","id":"9322","labels":["Artist"],"properties":{"artistname":"mark kozelek"}}}
+{"u":{"type":"node","id":"9323","labels":["Artist"],"properties":{"artistname":"young-holt unlimited"}}}
+{"u":{"type":"node","id":"9324","labels":["Artist"],"properties":{"artistname":"nordic affect"}}}
+{"u":{"type":"node","id":"9325","labels":["Artist"],"properties":{"artistname":"social distortion"}}}
+{"u":{"type":"node","id":"9326","labels":["Artist"],"properties":{"artistname":"lenzman"}}}
+{"u":{"type":"node","id":"9327","labels":["Artist"],"properties":{"artistname":"neon trees"}}}
+{"u":{"type":"node","id":"9328","labels":["Artist"],"properties":{"artistname":"miranda lambert"}}}
+{"u":{"type":"node","id":"9329","labels":["Artist"],"properties":{"artistname":"janis martin"}}}
+{"u":{"type":"node","id":"9330","labels":["Artist"],"properties":{"artistname":"stephen oremus"}}}
+{"u":{"type":"node","id":"9331","labels":["Artist"],"properties":{"artistname":"armin van buuren"}}}
+{"u":{"type":"node","id":"9332","labels":["Artist"],"properties":{"artistname":"repulsion"}}}
+{"u":{"type":"node","id":"9333","labels":["Artist"],"properties":{"artistname":"go!go!7188"}}}
+{"u":{"type":"node","id":"9334","labels":["Artist"],"properties":{"artistname":"frankie knuckles"}}}
+{"u":{"type":"node","id":"9335","labels":["Artist"],"properties":{"artistname":"pantha du prince"}}}
+{"u":{"type":"node","id":"9336","labels":["Artist"],"properties":{"artistname":"enya"}}}
+{"u":{"type":"node","id":"9337","labels":["Artist"],"properties":{"artistname":"larry willis"}}}
+{"u":{"type":"node","id":"9338","labels":["Artist"],"properties":{"artistname":"wolfgang amadeus mozart"}}}
+{"u":{"type":"node","id":"9339","labels":["Artist"],"properties":{"artistname":"aimer"}}}
+{"u":{"type":"node","id":"9340","labels":["Artist"],"properties":{"artistname":"nana caymmi"}}}
+{"u":{"type":"node","id":"9341","labels":["Artist"],"properties":{"artistname":"mini"}}}
+{"u":{"type":"node","id":"9342","labels":["Artist"],"properties":{"artistname":"frank sinatra"}}}
+{"u":{"type":"node","id":"9343","labels":["Artist"],"properties":{"artistname":"louis armstrong"}}}
+{"u":{"type":"node","id":"9344","labels":["Artist"],"properties":{"artistname":"israel & new breed"}}}
+{"u":{"type":"node","id":"9345","labels":["Artist"],"properties":{"artistname":"epica"}}}
+{"u":{"type":"node","id":"9346","labels":["Artist"],"properties":{"artistname":"sean callery"}}}
+{"u":{"type":"node","id":"9347","labels":["Artist"],"properties":{"artistname":"rusko"}}}
+{"u":{"type":"node","id":"9348","labels":["Artist"],"properties":{"artistname":"stromae"}}}
+{"u":{"type":"node","id":"9349","labels":["Artist"],"properties":{"artistname":"kush"}}}
+{"u":{"type":"node","id":"9350","labels":["Artist"],"properties":{"artistname":"andreya triana"}}}
+{"u":{"type":"node","id":"9351","labels":["Artist"],"properties":{"artistname":"the emotions"}}}
+{"u":{"type":"node","id":"9377","labels":["Artist"],"properties":{"artistname":"culcha candela"}}}
+{"u":{"type":"node","id":"9378","labels":["Artist"],"properties":{"artistname":"tycho"}}}
+{"u":{"type":"node","id":"9379","labels":["Artist"],"properties":{"artistname":"rivermaya"}}}
+{"u":{"type":"node","id":"9380","labels":["Artist"],"properties":{"artistname":"adriana calcanhotto"}}}
+{"u":{"type":"node","id":"9381","labels":["Artist"],"properties":{"artistname":"suffocation"}}}
+{"u":{"type":"node","id":"9382","labels":["Artist"],"properties":{"artistname":"lia"}}}
+{"u":{"type":"node","id":"9383","labels":["Artist"],"properties":{"artistname":"laura nyro"}}}
+{"u":{"type":"node","id":"9384","labels":["Artist"],"properties":{"artistname":"brian mcknight"}}}
+{"u":{"type":"node","id":"9385","labels":["Artist"],"properties":{"artistname":"jax jones"}}}
+{"u":{"type":"node","id":"9386","labels":["Artist"],"properties":{"artistname":"franz schubert"}}}
+{"u":{"type":"node","id":"9387","labels":["Artist"],"properties":{"artistname":"céline dion"}}}
+{"u":{"type":"node","id":"9388","labels":["Artist"],"properties":{"artistname":"tarkan"}}}
+{"u":{"type":"node","id":"9389","labels":["Artist"],"properties":{"artistname":"demonios da garoa"}}}
+{"u":{"type":"node","id":"9390","labels":["Artist"],"properties":{"artistname":"greeicy"}}}
+{"u":{"type":"node","id":"9391","labels":["Artist"],"properties":{"artistname":"jenő jandó"}}}
+{"u":{"type":"node","id":"9392","labels":["Artist"],"properties":{"artistname":"berry goodman"}}}
+{"u":{"type":"node","id":"9393","labels":["Artist"],"properties":{"artistname":"josh gracin"}}}
+{"u":{"type":"node","id":"9394","labels":["Artist"],"properties":{"artistname":"giorgio conte"}}}
+{"u":{"type":"node","id":"9395","labels":["Artist"],"properties":{"artistname":"anderson .paak"}}}
+{"u":{"type":"node","id":"9396","labels":["Artist"],"properties":{"artistname":"alan gilbert"}}}
+{"u":{"type":"node","id":"9397","labels":["Artist"],"properties":{"artistname":"ohashi trio"}}}
+{"u":{"type":"node","id":"9398","labels":["Artist"],"properties":{"artistname":"rodney atkins"}}}
+{"u":{"type":"node","id":"9399","labels":["Artist"],"properties":{"artistname":"yonder mountain string band"}}}
+{"u":{"type":"node","id":"9400","labels":["Artist"],"properties":{"artistname":"mae"}}}
+{"u":{"type":"node","id":"9401","labels":["Artist"],"properties":{"artistname":"k.d. lang"}}}
+{"u":{"type":"node","id":"9402","labels":["Artist"],"properties":{"artistname":"blue"}}}
+{"u":{"type":"node","id":"9403","labels":["Artist"],"properties":{"artistname":"elephant man"}}}
+{"u":{"type":"node","id":"9404","labels":["Artist"],"properties":{"artistname":"keith jarrett"}}}
+{"u":{"type":"node","id":"9405","labels":["Artist"],"properties":{"artistname":"jason mraz"}}}
+{"u":{"type":"node","id":"9406","labels":["Artist"],"properties":{"artistname":"the album leaf"}}}
+{"u":{"type":"node","id":"9426","labels":["Artist"],"properties":{"artistname":"jack ü"}}}
+{"u":{"type":"node","id":"9427","labels":["Artist"],"properties":{"artistname":"the middle east"}}}
+{"u":{"type":"node","id":"9428","labels":["Artist"],"properties":{"artistname":"luciano pavarotti"}}}
+{"u":{"type":"node","id":"9429","labels":["Artist"],"properties":{"artistname":"los amantes de lola"}}}
+{"u":{"type":"node","id":"9430","labels":["Artist"],"properties":{"artistname":"a-ha"}}}
+{"u":{"type":"node","id":"9431","labels":["Artist"],"properties":{"artistname":"urselle"}}}
+{"u":{"type":"node","id":"9432","labels":["Artist"],"properties":{"artistname":"fatboy slim"}}}
+{"u":{"type":"node","id":"9433","labels":["Artist"],"properties":{"artistname":"busy signal"}}}
+{"u":{"type":"node","id":"9434","labels":["Artist"],"properties":{"artistname":"oceanlab"}}}
+{"u":{"type":"node","id":"9435","labels":["Artist"],"properties":{"artistname":"azealia banks"}}}
+{"u":{"type":"node","id":"9436","labels":["Artist"],"properties":{"artistname":"karametade"}}}
+{"u":{"type":"node","id":"9437","labels":["Artist"],"properties":{"artistname":"forró do muido"}}}
+{"u":{"type":"node","id":"9438","labels":["Artist"],"properties":{"artistname":"riya"}}}
+{"u":{"type":"node","id":"9439","labels":["Artist"],"properties":{"artistname":"pretty lights"}}}
+{"u":{"type":"node","id":"9440","labels":["Artist"],"properties":{"artistname":"electric wizard"}}}
+{"u":{"type":"node","id":"9441","labels":["Artist"],"properties":{"artistname":"coldrain"}}}
+{"u":{"type":"node","id":"9442","labels":["Artist"],"properties":{"artistname":"sub focus"}}}
+{"u":{"type":"node","id":"9443","labels":["Artist"],"properties":{"artistname":"maluma"}}}
+{"u":{"type":"node","id":"9444","labels":["Artist"],"properties":{"artistname":"marilia medalha"}}}
+{"u":{"type":"node","id":"9445","labels":["Artist"],"properties":{"artistname":"arcangel"}}}
+{"u":{"type":"node","id":"9446","labels":["Artist"],"properties":{"artistname":"mobb"}}}
+{"u":{"type":"node","id":"9447","labels":["Artist"],"properties":{"artistname":"amit trivedi"}}}
+{"u":{"type":"node","id":"9448","labels":["Artist"],"properties":{"artistname":"mansour"}}}
+{"u":{"type":"node","id":"9449","labels":["Artist"],"properties":{"artistname":"astor piazzolla"}}}
+{"u":{"type":"node","id":"9450","labels":["Artist"],"properties":{"artistname":"tom petty and the heartbreakers"}}}
+{"u":{"type":"node","id":"9451","labels":["Artist"],"properties":{"artistname":"alt-j"}}}
+{"u":{"type":"node","id":"9452","labels":["Artist"],"properties":{"artistname":"jason derulo"}}}
+{"u":{"type":"node","id":"9453","labels":["Artist"],"properties":{"artistname":"the nerves"}}}
+{"u":{"type":"node","id":"9454","labels":["Artist"],"properties":{"artistname":"h.e.r."}}}
+{"u":{"type":"node","id":"9455","labels":["Artist"],"properties":{"artistname":"falamansa"}}}
+{"u":{"type":"node","id":"9456","labels":["Artist"],"properties":{"artistname":"joe henry"}}}
+{"u":{"type":"node","id":"9457","labels":["Artist"],"properties":{"artistname":"joe hisaishi"}}}
+{"u":{"type":"node","id":"9458","labels":["Artist"],"properties":{"artistname":"aqualung"}}}
+{"u":{"type":"node","id":"9459","labels":["Artist"],"properties":{"artistname":"weezer"}}}
+{"u":{"type":"node","id":"9484","labels":["Artist"],"properties":{"artistname":"kelly chen"}}}
+{"u":{"type":"node","id":"9485","labels":["Artist"],"properties":{"artistname":"dio"}}}
+{"u":{"type":"node","id":"9486","labels":["Artist"],"properties":{"artistname":"foster the people"}}}
+{"u":{"type":"node","id":"9487","labels":["Artist"],"properties":{"artistname":"ratt"}}}
+{"u":{"type":"node","id":"9488","labels":["Artist"],"properties":{"artistname":"commodores"}}}
+{"u":{"type":"node","id":"9489","labels":["Artist"],"properties":{"artistname":"cece rogers"}}}
+{"u":{"type":"node","id":"9490","labels":["Artist"],"properties":{"artistname":"andy montañez"}}}
+{"u":{"type":"node","id":"9491","labels":["Artist"],"properties":{"artistname":"omega"}}}
+{"u":{"type":"node","id":"9492","labels":["Artist"],"properties":{"artistname":"lil yachty"}}}
+{"u":{"type":"node","id":"9493","labels":["Artist"],"properties":{"artistname":"solange"}}}
+{"u":{"type":"node","id":"9494","labels":["Artist"],"properties":{"artistname":"tiësto"}}}
+{"u":{"type":"node","id":"9495","labels":["Artist"],"properties":{"artistname":"rionegro & solimões"}}}
+{"u":{"type":"node","id":"9496","labels":["Artist"],"properties":{"artistname":"clinton cerejo"}}}
+{"u":{"type":"node","id":"9497","labels":["Artist"],"properties":{"artistname":"lindsey stirling"}}}
+{"u":{"type":"node","id":"9498","labels":["Artist"],"properties":{"artistname":"foals"}}}
+{"u":{"type":"node","id":"9499","labels":["Artist"],"properties":{"artistname":"vaneese thomas"}}}
+{"u":{"type":"node","id":"9500","labels":["Artist"],"properties":{"artistname":"solomun"}}}
+{"u":{"type":"node","id":"9501","labels":["Artist"],"properties":{"artistname":"einar steen-nøkleberg"}}}
+{"u":{"type":"node","id":"9502","labels":["Artist"],"properties":{"artistname":"ojos de brujo"}}}
+{"u":{"type":"node","id":"9503","labels":["Artist"],"properties":{"artistname":"alex fong"}}}
+{"u":{"type":"node","id":"9504","labels":["Artist"],"properties":{"artistname":"the postal service"}}}
+{"u":{"type":"node","id":"9505","labels":["Artist"],"properties":{"artistname":"frankie lymon & the teenagers"}}}
+{"u":{"type":"node","id":"9506","labels":["Artist"],"properties":{"artistname":"itzhak perlman"}}}
+{"u":{"type":"node","id":"9507","labels":["Artist"],"properties":{"artistname":"kelly clarkson"}}}
+{"u":{"type":"node","id":"9508","labels":["Artist"],"properties":{"artistname":"ramin djawadi"}}}
+{"u":{"type":"node","id":"9509","labels":["Artist"],"properties":{"artistname":"dej loaf"}}}
+{"u":{"type":"node","id":"9510","labels":["Artist"],"properties":{"artistname":"onerepublic"}}}
+{"u":{"type":"node","id":"9526","labels":["Artist"],"properties":{"artistname":"psycroptic"}}}
+{"u":{"type":"node","id":"9527","labels":["Artist"],"properties":{"artistname":"toadies"}}}
+{"u":{"type":"node","id":"9530","labels":["Artist"],"properties":{"artistname":"macklemore & ryan lewis"}}}
+{"u":{"type":"node","id":"9531","labels":["Artist"],"properties":{"artistname":"go, diego, go!"}}}
+{"u":{"type":"node","id":"9532","labels":["Artist"],"properties":{"artistname":"jeff mills"}}}
+{"u":{"type":"node","id":"9533","labels":["Artist"],"properties":{"artistname":"kool & the gang"}}}
+{"u":{"type":"node","id":"9534","labels":["Artist"],"properties":{"artistname":"david gray"}}}
+{"u":{"type":"node","id":"9535","labels":["Artist"],"properties":{"artistname":"ken ishii"}}}
+{"u":{"type":"node","id":"9536","labels":["Artist"],"properties":{"artistname":"héctor lavoe"}}}
+{"u":{"type":"node","id":"9537","labels":["Artist"],"properties":{"artistname":"é o tchan"}}}
+{"u":{"type":"node","id":"9538","labels":["Artist"],"properties":{"artistname":"lifehouse"}}}
+{"u":{"type":"node","id":"9539","labels":["Artist"],"properties":{"artistname":"jack johnson"}}}
+{"u":{"type":"node","id":"9540","labels":["Artist"],"properties":{"artistname":"music for little people choir"}}}
+{"u":{"type":"node","id":"9541","labels":["Artist"],"properties":{"artistname":"justice"}}}
+{"u":{"type":"node","id":"9542","labels":["Artist"],"properties":{"artistname":"kid rock"}}}
+{"u":{"type":"node","id":"9543","labels":["Artist"],"properties":{"artistname":"gundula janowitz"}}}
+{"u":{"type":"node","id":"9544","labels":["Artist"],"properties":{"artistname":"laurindo almeida"}}}
+{"u":{"type":"node","id":"9545","labels":["Artist"],"properties":{"artistname":"august alsina"}}}
+{"u":{"type":"node","id":"9546","labels":["Artist"],"properties":{"artistname":"cybotron"}}}
+{"u":{"type":"node","id":"9547","labels":["Artist"],"properties":{"artistname":"shigeto"}}}
+{"u":{"type":"node","id":"9548","labels":["Artist"],"properties":{"artistname":"ferreck dawn"}}}
+{"u":{"type":"node","id":"9549","labels":["Artist"],"properties":{"artistname":"henry purcell"}}}
+{"u":{"type":"node","id":"9550","labels":["Artist"],"properties":{"artistname":"hot rod circuit"}}}
+{"u":{"type":"node","id":"9551","labels":["Artist"],"properties":{"artistname":"enslaved"}}}
+{"u":{"type":"node","id":"9552","labels":["Artist"],"properties":{"artistname":"afshin"}}}
+{"u":{"type":"node","id":"9553","labels":["Artist"],"properties":{"artistname":"josé gallardo"}}}
+{"u":{"type":"node","id":"9554","labels":["Artist"],"properties":{"artistname":"patrick o'hearn"}}}
+{"u":{"type":"node","id":"9555","labels":["Artist"],"properties":{"artistname":"green day"}}}
+{"u":{"type":"node","id":"9556","labels":["Artist"],"properties":{"artistname":"eagle-eye cherry"}}}
+{"u":{"type":"node","id":"9557","labels":["Artist"],"properties":{"artistname":"habib koité"}}}
+{"u":{"type":"node","id":"9558","labels":["Artist"],"properties":{"artistname":"foo fighters"}}}
+{"u":{"type":"node","id":"9559","labels":["Artist"],"properties":{"artistname":"sandesh shandilya"}}}
+{"u":{"type":"node","id":"9560","labels":["Artist"],"properties":{"artistname":"nazareth"}}}
+{"u":{"type":"node","id":"9573","labels":["Artist"],"properties":{"artistname":"carlos santana"}}}
+{"u":{"type":"node","id":"9574","labels":["Artist"],"properties":{"artistname":"misfits"}}}
+{"u":{"type":"node","id":"9575","labels":["Artist"],"properties":{"artistname":"elephant stone"}}}
+{"u":{"type":"node","id":"9576","labels":["Artist"],"properties":{"artistname":"juan carlos casas"}}}
+{"u":{"type":"node","id":"9577","labels":["Artist"],"properties":{"artistname":"bastille"}}}
+{"u":{"type":"node","id":"9578","labels":["Artist"],"properties":{"artistname":"richard clayderman"}}}
+{"u":{"type":"node","id":"9579","labels":["Artist"],"properties":{"artistname":"buddy guy"}}}
+{"u":{"type":"node","id":"9580","labels":["Artist"],"properties":{"artistname":"enya-sang"}}}
+{"u":{"type":"node","id":"9581","labels":["Artist"],"properties":{"artistname":"zaz"}}}
+{"u":{"type":"node","id":"9582","labels":["Artist"],"properties":{"artistname":"shahid mallya"}}}
+{"u":{"type":"node","id":"9583","labels":["Artist"],"properties":{"artistname":"savages"}}}
+{"u":{"type":"node","id":"9584","labels":["Artist"],"properties":{"artistname":"aidonia"}}}
+{"u":{"type":"node","id":"9585","labels":["Artist"],"properties":{"artistname":"samba de raiz"}}}
+{"u":{"type":"node","id":"9586","labels":["Artist"],"properties":{"artistname":"black eyed peas"}}}
+{"u":{"type":"node","id":"9587","labels":["Artist"],"properties":{"artistname":"blackmill"}}}
+{"u":{"type":"node","id":"9588","labels":["Artist"],"properties":{"artistname":"flux pavilion"}}}
+{"u":{"type":"node","id":"9589","labels":["Artist"],"properties":{"artistname":"modest mouse"}}}
+{"u":{"type":"node","id":"9590","labels":["Artist"],"properties":{"artistname":"dj khaled"}}}
+{"u":{"type":"node","id":"9591","labels":["Artist"],"properties":{"artistname":"fly boi keno"}}}
+{"u":{"type":"node","id":"9592","labels":["Artist"],"properties":{"artistname":"bonobo"}}}
+{"u":{"type":"node","id":"9593","labels":["Artist"],"properties":{"artistname":"red hot chili peppers"}}}
+{"u":{"type":"node","id":"9594","labels":["Artist"],"properties":{"artistname":"martin garrix"}}}
+{"u":{"type":"node","id":"9595","labels":["Artist"],"properties":{"artistname":"rolando villazón"}}}
+{"u":{"type":"node","id":"9596","labels":["Artist"],"properties":{"artistname":"radiohead"}}}
+{"u":{"type":"node","id":"9597","labels":["Artist"],"properties":{"artistname":"zubin mehta"}}}
+{"u":{"type":"node","id":"9598","labels":["Artist"],"properties":{"artistname":"casuarina"}}}
+{"u":{"type":"node","id":"9599","labels":["Artist"],"properties":{"artistname":"craig david"}}}
+{"u":{"type":"node","id":"9600","labels":["Artist"],"properties":{"artistname":"michael crawford"}}}
+{"u":{"type":"node","id":"9601","labels":["Artist"],"properties":{"artistname":"maurizio"}}}
+{"u":{"type":"node","id":"9602","labels":["Artist"],"properties":{"artistname":"mongol800"}}}
+{"u":{"type":"node","id":"9603","labels":["Artist"],"properties":{"artistname":"6lack"}}}
+{"u":{"type":"node","id":"9617","labels":["Artist"],"properties":{"artistname":"jennifer lopez"}}}
+{"u":{"type":"node","id":"9618","labels":["Artist"],"properties":{"artistname":"etta james"}}}
+{"u":{"type":"node","id":"9619","labels":["Artist"],"properties":{"artistname":"stray cats"}}}
+{"u":{"type":"node","id":"9620","labels":["Artist"],"properties":{"artistname":"one direction"}}}
+{"u":{"type":"node","id":"9621","labels":["Artist"],"properties":{"artistname":"unknown mortal orchestra"}}}
+{"u":{"type":"node","id":"9622","labels":["Artist"],"properties":{"artistname":"vicente fernández"}}}
+{"u":{"type":"node","id":"9623","labels":["Artist"],"properties":{"artistname":"gita gutawa"}}}
+{"u":{"type":"node","id":"9624","labels":["Artist"],"properties":{"artistname":"heart"}}}
+{"u":{"type":"node","id":"9625","labels":["Artist"],"properties":{"artistname":"idina menzel"}}}
+{"u":{"type":"node","id":"9626","labels":["Artist"],"properties":{"artistname":"silbermond"}}}
+{"u":{"type":"node","id":"9627","labels":["Artist"],"properties":{"artistname":"dua lipa"}}}
+{"u":{"type":"node","id":"9628","labels":["Artist"],"properties":{"artistname":"kygo"}}}
+{"u":{"type":"node","id":"9629","labels":["Artist"],"properties":{"artistname":"des'ree"}}}
+{"u":{"type":"node","id":"9630","labels":["Artist"],"properties":{"artistname":"suicidal tendencies"}}}
+{"u":{"type":"node","id":"9631","labels":["Artist"],"properties":{"artistname":"kansas"}}}
+{"u":{"type":"node","id":"9632","labels":["Artist"],"properties":{"artistname":"elizabeth harwood"}}}
+{"u":{"type":"node","id":"9633","labels":["Artist"],"properties":{"artistname":"sultan khan"}}}
+{"u":{"type":"node","id":"9634","labels":["Artist"],"properties":{"artistname":"deadmau5"}}}
+{"u":{"type":"node","id":"9635","labels":["Artist"],"properties":{"artistname":"da tweekaz"}}}
+{"u":{"type":"node","id":"9636","labels":["Artist"],"properties":{"artistname":"velvet revolver"}}}
+{"u":{"type":"node","id":"9637","labels":["Artist"],"properties":{"artistname":"quintino"}}}
+{"u":{"type":"node","id":"9638","labels":["Artist"],"properties":{"artistname":"chief keef"}}}
+{"u":{"type":"node","id":"9639","labels":["Artist"],"properties":{"artistname":"u2"}}}
+{"u":{"type":"node","id":"9640","labels":["Artist"],"properties":{"artistname":"yo la tengo"}}}
+{"u":{"type":"node","id":"9655","labels":["Artist"],"properties":{"artistname":"guordan banks"}}}
+{"u":{"type":"node","id":"9656","labels":["Artist"],"properties":{"artistname":"sandy lam"}}}
+{"u":{"type":"node","id":"9657","labels":["Artist"],"properties":{"artistname":"the lawrence arms"}}}
+{"u":{"type":"node","id":"9658","labels":["Artist"],"properties":{"artistname":"deadboy"}}}
+{"u":{"type":"node","id":"9659","labels":["Artist"],"properties":{"artistname":"tim berg"}}}
+{"u":{"type":"node","id":"9660","labels":["Artist"],"properties":{"artistname":"fred hammond"}}}
+{"u":{"type":"node","id":"9661","labels":["Artist"],"properties":{"artistname":"ali & gipp"}}}
+{"u":{"type":"node","id":"9662","labels":["Artist"],"properties":{"artistname":"madness"}}}
+{"u":{"type":"node","id":"9663","labels":["Artist"],"properties":{"artistname":"the fray"}}}
+{"u":{"type":"node","id":"9664","labels":["Artist"],"properties":{"artistname":"zomboy"}}}
+{"u":{"type":"node","id":"9665","labels":["Artist"],"properties":{"artistname":"arash"}}}
+{"u":{"type":"node","id":"9666","labels":["Artist"],"properties":{"artistname":"explosions in the sky"}}}
+{"u":{"type":"node","id":"9667","labels":["Artist"],"properties":{"artistname":"dick van dyke"}}}
+{"u":{"type":"node","id":"9668","labels":["Artist"],"properties":{"artistname":"alpines"}}}
+{"u":{"type":"node","id":"9669","labels":["Artist"],"properties":{"artistname":"so solid crew"}}}
+{"u":{"type":"node","id":"9670","labels":["Artist"],"properties":{"artistname":"panteon rococo"}}}
+{"u":{"type":"node","id":"9671","labels":["Artist"],"properties":{"artistname":"fatoumata diawara"}}}
+{"u":{"type":"node","id":"9672","labels":["Artist"],"properties":{"artistname":"the prophet"}}}
+{"u":{"type":"node","id":"9673","labels":["Artist"],"properties":{"artistname":"london philharmonic choir"}}}
+{"u":{"type":"node","id":"9674","labels":["Artist"],"properties":{"artistname":"cyndi wang"}}}
+{"u":{"type":"node","id":"9675","labels":["Artist"],"properties":{"artistname":"the bloody beetroots"}}}
+{"u":{"type":"node","id":"9676","labels":["Artist"],"properties":{"artistname":"opiuo"}}}
+{"u":{"type":"node","id":"9677","labels":["Artist"],"properties":{"artistname":"sam fan thomas"}}}
+{"u":{"type":"node","id":"9678","labels":["Artist"],"properties":{"artistname":"m. ward"}}}
+{"u":{"type":"node","id":"9679","labels":["Artist"],"properties":{"artistname":"the freestylers"}}}
+{"u":{"type":"node","id":"9680","labels":["Artist"],"properties":{"artistname":"alesso"}}}
+{"u":{"type":"node","id":"9681","labels":["Artist"],"properties":{"artistname":"ty segall"}}}
+{"u":{"type":"node","id":"9682","labels":["Artist"],"properties":{"artistname":"cholam"}}}
+{"u":{"type":"node","id":"9683","labels":["Artist"],"properties":{"artistname":"mastodon"}}}
+{"u":{"type":"node","id":"9704","labels":["Artist"],"properties":{"artistname":"consuelo velázquez"}}}
+{"u":{"type":"node","id":"9705","labels":["Artist"],"properties":{"artistname":"beth orton"}}}
+{"u":{"type":"node","id":"9706","labels":["Artist"],"properties":{"artistname":"ozzy osbourne"}}}
+{"u":{"type":"node","id":"9707","labels":["Artist"],"properties":{"artistname":"wiener philharmoniker"}}}
+{"u":{"type":"node","id":"9708","labels":["Artist"],"properties":{"artistname":"goldie"}}}
+{"u":{"type":"node","id":"9709","labels":["Artist"],"properties":{"artistname":"joe zawinul"}}}
+{"u":{"type":"node","id":"9710","labels":["Artist"],"properties":{"artistname":"max c"}}}
+{"u":{"type":"node","id":"9711","labels":["Artist"],"properties":{"artistname":"trio forrozão"}}}
+{"u":{"type":"node","id":"9712","labels":["Artist"],"properties":{"artistname":"frances"}}}
+{"u":{"type":"node","id":"9713","labels":["Artist"],"properties":{"artistname":"demetri martin"}}}
+{"u":{"type":"node","id":"9714","labels":["Artist"],"properties":{"artistname":"deepack"}}}
+{"u":{"type":"node","id":"9715","labels":["Artist"],"properties":{"artistname":"ismaël lô"}}}
+{"u":{"type":"node","id":"9716","labels":["Artist"],"properties":{"artistname":"the prodigy"}}}
+{"u":{"type":"node","id":"9724","labels":["Artist"],"properties":{"artistname":"marisa monte"}}}
+{"u":{"type":"node","id":"9725","labels":["Artist"],"properties":{"artistname":"rudimental"}}}
+{"u":{"type":"node","id":"9726","labels":["Artist"],"properties":{"artistname":"nils frahm"}}}
+{"u":{"type":"node","id":"9727","labels":["Artist"],"properties":{"artistname":"savant"}}}
+{"u":{"type":"node","id":"9728","labels":["Artist"],"properties":{"artistname":"john travolta"}}}
+{"u":{"type":"node","id":"9729","labels":["Artist"],"properties":{"artistname":"maelo ruiz"}}}
+{"u":{"type":"node","id":"9730","labels":["Artist"],"properties":{"artistname":"callalily"}}}
+{"u":{"type":"node","id":"9731","labels":["Artist"],"properties":{"artistname":"snow patrol"}}}
+{"u":{"type":"node","id":"9732","labels":["Artist"],"properties":{"artistname":"pantera"}}}
+{"u":{"type":"node","id":"9733","labels":["Artist"],"properties":{"artistname":"volbeat"}}}
+{"u":{"type":"node","id":"9734","labels":["Artist"],"properties":{"artistname":"underground resistance"}}}
+{"u":{"type":"node","id":"9735","labels":["Artist"],"properties":{"artistname":"max herre"}}}
+{"u":{"type":"node","id":"9736","labels":["Artist"],"properties":{"artistname":"herbert grönemeyer"}}}
+{"u":{"type":"node","id":"9737","labels":["Artist"],"properties":{"artistname":"motörhead"}}}
+{"u":{"type":"node","id":"9738","labels":["Artist"],"properties":{"artistname":"solar fields"}}}
+{"u":{"type":"node","id":"9739","labels":["Artist"],"properties":{"artistname":"the get up kids"}}}
+{"u":{"type":"node","id":"9740","labels":["Artist"],"properties":{"artistname":"frontliner"}}}
+{"u":{"type":"node","id":"9741","labels":["Artist"],"properties":{"artistname":"phish"}}}
+{"u":{"type":"node","id":"9742","labels":["Artist"],"properties":{"artistname":"nile rodgers"}}}
+{"u":{"type":"node","id":"9743","labels":["Artist"],"properties":{"artistname":"downlink"}}}
+{"u":{"type":"node","id":"9744","labels":["Artist"],"properties":{"artistname":"panic! at the disco"}}}
+{"u":{"type":"node","id":"9745","labels":["Artist"],"properties":{"artistname":"alexandra stan"}}}
+{"u":{"type":"node","id":"9746","labels":["Artist"],"properties":{"artistname":"bob sinclar"}}}
+{"u":{"type":"node","id":"9747","labels":["Artist"],"properties":{"artistname":"georges prêtre"}}}
+{"u":{"type":"node","id":"9748","labels":["Artist"],"properties":{"artistname":"chris thile"}}}
+{"u":{"type":"node","id":"9749","labels":["Artist"],"properties":{"artistname":"shawn phillips"}}}
+{"u":{"type":"node","id":"9750","labels":["Artist"],"properties":{"artistname":"peter, paul and mary"}}}
+{"u":{"type":"node","id":"9751","labels":["Artist"],"properties":{"artistname":"haddaway"}}}
+{"u":{"type":"node","id":"9752","labels":["Artist"],"properties":{"artistname":"nami tamaki"}}}
+{"u":{"type":"node","id":"9753","labels":["Artist"],"properties":{"artistname":"haim"}}}
+{"u":{"type":"node","id":"9768","labels":["Artist"],"properties":{"artistname":"the warlocks"}}}
+{"u":{"type":"node","id":"9769","labels":["Artist"],"properties":{"artistname":"memphis may fire"}}}
+{"u":{"type":"node","id":"9770","labels":["Artist"],"properties":{"artistname":"w&w"}}}
+{"u":{"type":"node","id":"9771","labels":["Artist"],"properties":{"artistname":"ken stringfellow"}}}
+{"u":{"type":"node","id":"9772","labels":["Artist"],"properties":{"artistname":"willie colón"}}}
+{"u":{"type":"node","id":"9773","labels":["Artist"],"properties":{"artistname":"twisted sister"}}}
+{"u":{"type":"node","id":"9774","labels":["Artist"],"properties":{"artistname":"conjunto clasico / tito nieves"}}}
+{"u":{"type":"node","id":"9775","labels":["Artist"],"properties":{"artistname":"iamsu!"}}}
+{"u":{"type":"node","id":"9776","labels":["Artist"],"properties":{"artistname":"antônio carlos jobim"}}}
+{"u":{"type":"node","id":"9777","labels":["Artist"],"properties":{"artistname":"the backyardigans"}}}
+{"u":{"type":"node","id":"9778","labels":["Artist"],"properties":{"artistname":"paige"}}}
+{"u":{"type":"node","id":"9779","labels":["Artist"],"properties":{"artistname":"note native"}}}
+{"u":{"type":"node","id":"9780","labels":["Artist"],"properties":{"artistname":"john coltrane"}}}
+{"u":{"type":"node","id":"9781","labels":["Artist"],"properties":{"artistname":"mother love bone"}}}
+{"u":{"type":"node","id":"9782","labels":["Artist"],"properties":{"artistname":"mirei toyama"}}}
+{"u":{"type":"node","id":"9783","labels":["Artist"],"properties":{"artistname":"osvaldo pugliese"}}}
+{"u":{"type":"node","id":"9784","labels":["Artist"],"properties":{"artistname":"asking alexandria"}}}
+{"u":{"type":"node","id":"9785","labels":["Artist"],"properties":{"artistname":"art popular"}}}
+{"u":{"type":"node","id":"9786","labels":["Artist"],"properties":{"artistname":"hadise"}}}
+{"u":{"type":"node","id":"9787","labels":["Artist"],"properties":{"artistname":"sir sly"}}}
+{"u":{"type":"node","id":"9788","labels":["Artist"],"properties":{"artistname":"ray charles"}}}
+{"u":{"type":"node","id":"9789","labels":["Artist"],"properties":{"artistname":"manian"}}}
+{"u":{"type":"node","id":"9790","labels":["Artist"],"properties":{"artistname":"dorothy little happy"}}}
+{"u":{"type":"node","id":"9791","labels":["Artist"],"properties":{"artistname":"dj kentaro"}}}
+{"u":{"type":"node","id":"9792","labels":["Artist"],"properties":{"artistname":"raamlaxman"}}}
+{"u":{"type":"node","id":"9793","labels":["Artist"],"properties":{"artistname":"paul van dyk"}}}
+{"u":{"type":"node","id":"9794","labels":["Artist"],"properties":{"artistname":"michael ray"}}}
+{"u":{"type":"node","id":"9795","labels":["Artist"],"properties":{"artistname":"bee gees"}}}
+{"u":{"type":"node","id":"9796","labels":["Artist"],"properties":{"artistname":"freaks"}}}
+{"u":{"type":"node","id":"9797","labels":["Artist"],"properties":{"artistname":"death from above 1979"}}}
+{"u":{"type":"node","id":"9798","labels":["Artist"],"properties":{"artistname":"darude"}}}
+{"u":{"type":"node","id":"9799","labels":["Artist"],"properties":{"artistname":"justin bieber"}}}
+{"u":{"type":"node","id":"9800","labels":["Artist"],"properties":{"artistname":"boots"}}}
+{"u":{"type":"node","id":"9801","labels":["Artist"],"properties":{"artistname":"björn skifs"}}}
+{"u":{"type":"node","id":"9802","labels":["Artist"],"properties":{"artistname":"george jones"}}}
+{"u":{"type":"node","id":"9803","labels":["Artist"],"properties":{"artistname":"bill monroe & his blue grass boys"}}}
+{"u":{"type":"node","id":"9817","labels":["Artist"],"properties":{"artistname":"calibre 50"}}}
+{"u":{"type":"node","id":"9818","labels":["Artist"],"properties":{"artistname":"morbid angel"}}}
+{"u":{"type":"node","id":"9819","labels":["Artist"],"properties":{"artistname":"proyecto uno"}}}
+{"u":{"type":"node","id":"9820","labels":["Artist"],"properties":{"artistname":"yo-yo ma"}}}
+{"u":{"type":"node","id":"9821","labels":["Artist"],"properties":{"artistname":"peter bjorn and john"}}}
+{"u":{"type":"node","id":"9822","labels":["Artist"],"properties":{"artistname":"dj dex"}}}
+{"u":{"type":"node","id":"9823","labels":["Artist"],"properties":{"artistname":"the pietasters"}}}
+{"u":{"type":"node","id":"9824","labels":["Artist"],"properties":{"artistname":"evil nine"}}}
+{"u":{"type":"node","id":"9825","labels":["Artist"],"properties":{"artistname":"justin nozuka"}}}
+{"u":{"type":"node","id":"9826","labels":["Artist"],"properties":{"artistname":"psyko punkz"}}}
+{"u":{"type":"node","id":"9827","labels":["Artist"],"properties":{"artistname":"adonis"}}}
+{"u":{"type":"node","id":"9828","labels":["Artist"],"properties":{"artistname":"alex somers"}}}
+{"u":{"type":"node","id":"9829","labels":["Artist"],"properties":{"artistname":"banda magníficos"}}}
+{"u":{"type":"node","id":"9830","labels":["Artist"],"properties":{"artistname":"geoff zanelli"}}}
+{"u":{"type":"node","id":"9831","labels":["Artist"],"properties":{"artistname":"miley cyrus"}}}
+{"u":{"type":"node","id":"9832","labels":["Artist"],"properties":{"artistname":"bengü"}}}
+{"u":{"type":"node","id":"9833","labels":["Artist"],"properties":{"artistname":"george baker selection"}}}
+{"u":{"type":"node","id":"9834","labels":["Artist"],"properties":{"artistname":"bis"}}}
+{"u":{"type":"node","id":"9835","labels":["Artist"],"properties":{"artistname":"metrik"}}}
+{"u":{"type":"node","id":"9836","labels":["Artist"],"properties":{"artistname":"fleetwood mac"}}}
+{"u":{"type":"node","id":"9837","labels":["Artist"],"properties":{"artistname":"minor threat"}}}
+{"u":{"type":"node","id":"9838","labels":["Artist"],"properties":{"artistname":"pique novo"}}}
+{"u":{"type":"node","id":"9839","labels":["Artist"],"properties":{"artistname":"sean paul"}}}
+{"u":{"type":"node","id":"9840","labels":["Artist"],"properties":{"artistname":"shankar mahadevan"}}}
+{"u":{"type":"node","id":"9841","labels":["Artist"],"properties":{"artistname":"dempagumi.inc"}}}
+{"u":{"type":"node","id":"9842","labels":["Artist"],"properties":{"artistname":"caroline o'connor"}}}
+{"u":{"type":"node","id":"9843","labels":["Artist"],"properties":{"artistname":"lynx "}}}
+{"u":{"type":"node","id":"9844","labels":["Artist"],"properties":{"artistname":"jeff buckley"}}}
+{"u":{"type":"node","id":"9845","labels":["Artist"],"properties":{"artistname":"alkilados"}}}
+{"u":{"type":"node","id":"9846","labels":["Artist"],"properties":{"artistname":"rise against"}}}
+{"u":{"type":"node","id":"9847","labels":["Artist"],"properties":{"artistname":"augustus pablo"}}}
+{"u":{"type":"node","id":"9848","labels":["Artist"],"properties":{"artistname":"alan silvestri"}}}
+{"u":{"type":"node","id":"9866","labels":["Artist"],"properties":{"artistname":"téo & edu"}}}
+{"u":{"type":"node","id":"9867","labels":["Artist"],"properties":{"artistname":"beatriz luengo"}}}
+{"u":{"type":"node","id":"9868","labels":["Artist"],"properties":{"artistname":"jane's addiction"}}}
+{"u":{"type":"node","id":"9869","labels":["Artist"],"properties":{"artistname":"lenine"}}}
+{"u":{"type":"node","id":"9870","labels":["Artist"],"properties":{"artistname":"blak ryno"}}}
+{"u":{"type":"node","id":"9871","labels":["Artist"],"properties":{"artistname":"galaxy 2 galaxy"}}}
+{"u":{"type":"node","id":"9872","labels":["Artist"],"properties":{"artistname":"mount dreams"}}}
+{"u":{"type":"node","id":"9873","labels":["Artist"],"properties":{"artistname":"jeremy olander"}}}
+{"u":{"type":"node","id":"9874","labels":["Artist"],"properties":{"artistname":"thåström"}}}
+{"u":{"type":"node","id":"9875","labels":["Artist"],"properties":{"artistname":"alka yagnik"}}}
+{"u":{"type":"node","id":"9876","labels":["Artist"],"properties":{"artistname":"liquid"}}}
+{"u":{"type":"node","id":"9877","labels":["Artist"],"properties":{"artistname":"miles davis"}}}
+{"u":{"type":"node","id":"9878","labels":["Artist"],"properties":{"artistname":"michael jackson"}}}
+{"u":{"type":"node","id":"9879","labels":["Artist"],"properties":{"artistname":"westernhagen"}}}
+{"u":{"type":"node","id":"9880","labels":["Artist"],"properties":{"artistname":"toploader"}}}
+{"u":{"type":"node","id":"9881","labels":["Artist"],"properties":{"artistname":"imagine dragons"}}}
+{"u":{"type":"node","id":"9882","labels":["Artist"],"properties":{"artistname":"ekamatra"}}}
+{"u":{"type":"node","id":"9883","labels":["Artist"],"properties":{"artistname":"cardi b"}}}
+{"u":{"type":"node","id":"9884","labels":["Artist"],"properties":{"artistname":"isabel lippitz"}}}
+{"u":{"type":"node","id":"9885","labels":["Artist"],"properties":{"artistname":"sheryl crow"}}}
+{"u":{"type":"node","id":"9886","labels":["Artist"],"properties":{"artistname":"sam cooke"}}}
+{"u":{"type":"node","id":"9887","labels":["Artist"],"properties":{"artistname":"ed sheeran"}}}
+{"u":{"type":"node","id":"9888","labels":["Artist"],"properties":{"artistname":"the charlie daniels band"}}}
+{"u":{"type":"node","id":"9889","labels":["Artist"],"properties":{"artistname":"李壽全"}}}
+{"u":{"type":"node","id":"9890","labels":["Artist"],"properties":{"artistname":"pickin' on series"}}}
+{"u":{"type":"node","id":"9891","labels":["Artist"],"properties":{"artistname":"madeon"}}}
+{"u":{"type":"node","id":"9892","labels":["Artist"],"properties":{"artistname":"tig notaro"}}}
+{"u":{"type":"node","id":"9893","labels":["Artist"],"properties":{"artistname":"andy & kouros"}}}
+{"u":{"type":"node","id":"9894","labels":["Artist"],"properties":{"artistname":"amazarashi"}}}
+{"u":{"type":"node","id":"9895","labels":["Artist"],"properties":{"artistname":"mad caddies"}}}
+{"u":{"type":"node","id":"9905","labels":["Artist"],"properties":{"artistname":"2000 and one"}}}
+{"u":{"type":"node","id":"10930","labels":["Artist"],"properties":{"artistname":"curtis mayfieldthe impressions"}}}
+{"u":{"type":"node","id":"10931","labels":["Artist"],"properties":{"artistname":"alka yagnikudit narayan"}}}
+{"u":{"type":"node","id":"10932","labels":["Artist"],"properties":{"artistname":"a-lusionscope dj"}}}
+{"u":{"type":"node","id":"10933","labels":["Artist"],"properties":{"artistname":"wolfgang amadeus mozartvienna state opera chorus"}}}
+{"u":{"type":"node","id":"10934","labels":["Artist"],"properties":{"artistname":"zubin mehtalondon philharmonic orchestra"}}}
+{"u":{"type":"node","id":"21980","labels":["Artist"],"properties":{"artistname":"felix mendelssohnpéter nagy"}}}
+{"u":{"type":"node","id":"21981","labels":["Artist"],"properties":{"artistname":"jónsialex somers"}}}
+{"u":{"type":"node","id":"21982","labels":["Artist"],"properties":{"artistname":"alma mahlerisabel lippitz"}}}
+{"u":{"type":"node","id":"88818","labels":["Artist"],"properties":{"artistname":"laurindo almeidathe bossa nova all stars"}}}
+{"u":{"type":"node","id":"88819","labels":["Artist"],"properties":{"artistname":"frankie knucklesmr. fingers"}}}
+{"u":{"type":"node","id":"88820","labels":["Artist"],"properties":{"artistname":"los angeles philharmonicigor stravinsky"}}}
+{"u":{"type":"node","id":"88821","labels":["Artist"],"properties":{"artistname":"zubin mehtalos angeles philharmonic"}}}
+{"u":{"type":"node","id":"88822","labels":["Artist"],"properties":{"artistname":"sonu nigamalka yagnik"}}}
+{"u":{"type":"node","id":"88823","labels":["Artist"],"properties":{"artistname":"edgar meyerchris thile"}}}
+{"u":{"type":"node","id":"88824","labels":["Artist"],"properties":{"artistname":"london philharmonic orchestradavid parry"}}}
+{"u":{"type":"node","id":"99821","labels":["Artist"],"properties":{"artistname":"franz schubertnew york philharmonicalan gilbert"}}}
+{"u":{"type":"node","id":"110778","labels":["Artist"],"properties":{"artistname":"godiegogo!"}}}
+{"u":{"type":"node","id":"110779","labels":["Artist"],"properties":{"artistname":"wolfgang amadeus mozartjosé gallardo"}}}
+{"u":{"type":"node","id":"110780","labels":["Artist"],"properties":{"artistname":"explosions in the skysteve jablonsky"}}}
+{"u":{"type":"node","id":"110781","labels":["Artist"],"properties":{"artistname":"peterpaul and mary"}}}
+{"u":{"type":"node","id":"121281","labels":["Artist"],"properties":{"artistname":"miles davisjohn coltrane"}}}

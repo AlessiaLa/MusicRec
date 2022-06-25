@@ -6,45 +6,45 @@ out_path = r"C:\Users\user\Desktop\AI-Project\MusicNet\prolog"
 base_path = r"C:\MusicNet"
 
 #album_path = os.path.join(base_path, 'album_kb.json')
-album_path = os.path.join(path, 'album_kb.json')
-with open(album_path, "r", encoding="utf-8") as f:
-    data = json.loads("[" +
-                      f.read().replace("}\n{", "},\n{") +
-                      "]")
-album_txt = os.path.join(out_path, 'album.pl')
-with open(album_txt, "w", encoding="utf-8") as file:
-    for i, node in enumerate(data):
-        data[i]['u']['properties']['albumname'] = ' '.join(data[i]['u']['properties']['albumname'])
-        name = data[i]['u']['properties']['albumname']
-        id = data[i]['u']['properties']['albumid'][0]
-        file.write("album(" + "\""  + id  + "\"" + ', ' + "\"" + name + "\"" + ').\n')
-
-
-
-# track_path = os.path.join(path, 'track_kb.json')
-# with open(track_path, "r", encoding="utf-8") as f:
+# album_path = os.path.join(path, 'album_kb.json')
+# with open(album_path, "r", encoding="utf-8") as f:
 #     data = json.loads("[" +
-#     f.read().replace("}\n{", "},\n{") +
-#     "]")
-# track_txt = os.path.join(out_path, 'track.pl')
-# with open(track_txt, "w", encoding="utf-8") as file:
+#                       f.read().replace("}\n{", "},\n{") +
+#                       "]")
+# album_txt = os.path.join(out_path, 'album.pl')
+# with open(album_txt, "w", encoding="utf-8") as file:
 #     for i, node in enumerate(data):
-#         if "trackname" in node['u']['properties']:
-#             name =node['u']['properties']['trackname']
-#             id = node['u']['properties']['trackids']
-#             file.write("track(" + "\""  + id  + "\"" + ', ' + "\"" + name + "\"" ').\n')
+#         data[i]['u']['properties']['albumname'] = ''.join(data[i]['u']['properties']['albumname'])
+#         name = data[i]['u']['properties']['albumname']
+#         id = data[i]['u']['properties']['albumid']
+#         file.write("album(" + "\""  + id  + "\"" + ', ' + "\"" + name + "\"" + ').\n')
 #
-# features = os.path.join(out_path, 'features.pl')
-# with open(features, "w", encoding="utf-8") as file:
-#     for i, node in enumerate(data):
-#         if "trackname" in node['u']['properties']:
-#             id = node['u']['properties']['trackids']
-#             features =  node['u']['properties']['features']
-#             features = str(features).replace("]", "")
-#             features = str(features).replace("[", "")
-#             features = str(features).replace("\'", "\"")
-#             file.write("track(" + "\""  + id  + "\"" + ', ' + features + ').\n')
-#
+
+
+track_path = os.path.join(path, 'track_kb.json')
+with open(track_path, "r", encoding="utf-8") as f:
+    data = json.loads("[" +
+    f.read().replace("}\n{", "},\n{") +
+    "]")
+track_txt = os.path.join(out_path, 'track.pl')
+with open(track_txt, "w", encoding="utf-8") as file:
+    for i, node in enumerate(data):
+        if "trackname" in node['u']['properties']:
+            name =node['u']['properties']['trackname']
+            id = node['u']['properties']['trackids']
+            file.write("track(" + "\""  + id  + "\"" + ', ' + "\"" + name + "\"" ').\n')
+
+features = os.path.join(out_path, 'features.pl')
+with open(features, "w", encoding="utf-8") as file:
+    for i, node in enumerate(data):
+        if "trackname" in node['u']['properties']:
+            id = node['u']['properties']['trackids']
+            features =  node['u']['properties']['features']
+            features = str(features).replace("]", "")
+            features = str(features).replace("[", "")
+            features = str(features).replace("\'", "\"")
+            file.write("features(" + "\""  + id  + "\"" + ', ' + features + ').\n')
+
 # artist_path = os.path.join(path, 'artist_kb.json')
 # with open(artist_path, "r", encoding="utf-8") as f:
 #      data = json.loads("[" +

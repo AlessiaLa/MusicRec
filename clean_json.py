@@ -2,14 +2,12 @@ import json
 import os
 
 path = r"C:\Users\user\Desktop\AI-Project\MusicNet\dataset\tracks_no_discretization.json"
-
 path_ale= r"C:\Users\Alessia\Documents\GitHub\MusicNet\Dataset\tracks_no_discretization.json"
+
 with open(path_ale, "r", encoding="utf-8") as f:
     data = json.loads("[" +
                       f.read().replace("}{", "},\n{") +
                        "]")
-
-
 
 for i, node in enumerate(data):
     feature = []

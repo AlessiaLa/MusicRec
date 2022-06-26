@@ -1,1 +1,916 @@
-{"list":[{"type":"node","id":"28","labels":["Genres"],"properties":{"artistgenres":"art rock"}},{"type":"node","id":"29","labels":["Genres"],"properties":{"artistgenres":"britpop"}},{"type":"node","id":"30","labels":["Genres"],"properties":{"artistgenres":"dance rock"}},{"type":"node","id":"31","labels":["Genres"],"properties":{"artistgenres":"madchester"}},{"type":"node","id":"32","labels":["Genres"],"properties":{"artistgenres":"new romantic"}},{"type":"node","id":"33","labels":["Genres"],"properties":{"artistgenres":"new wave"}},{"type":"node","id":"34","labels":["Genres"],"properties":{"artistgenres":"new wave pop"}},{"type":"node","id":"35","labels":["Genres"],"properties":{"artistgenres":"permanent wave"}},{"type":"node","id":"36","labels":["Genres"],"properties":{"artistgenres":"post-punk"}},{"type":"node","id":"37","labels":["Genres"],"properties":{"artistgenres":"rock"}},{"type":"node","id":"38","labels":["Genres"],"properties":{"artistgenres":"synthpop"}},{"type":"node","id":"39","labels":["Genres"],"properties":{"artistgenres":"uk post-punk"}},{"type":"node","id":"40","labels":["Genres"],"properties":{"artistgenres":"adult standards"}},{"type":"node","id":"41","labels":["Genres"],"properties":{"artistgenres":"brill building pop"}},{"type":"node","id":"42","labels":["Genres"],"properties":{"artistgenres":"lounge"}},{"type":"node","id":"43","labels":["Genres"],"properties":{"artistgenres":"soul"}},{"type":"node","id":"44","labels":["Genres"],"properties":{"artistgenres":"swing"}},{"type":"node","id":"45","labels":["Genres"],"properties":{"artistgenres":"torch song"}},{"type":"node","id":"46","labels":["Genres"],"properties":{"artistgenres":"vocal jazz"}},{"type":"node","id":"47","labels":["Genres"],"properties":{"artistgenres":"alternative rock"}},{"type":"node","id":"48","labels":["Genres"],"properties":{"artistgenres":"blues rock"}},{"type":"node","id":"49","labels":["Genres"],"properties":{"artistgenres":"garage rock"}},{"type":"node","id":"50","labels":["Genres"],"properties":{"artistgenres":"modern blues rock"}},{"type":"node","id":"51","labels":["Genres"],"properties":{"artistgenres":"modern rock"}},{"type":"node","id":"52","labels":["Genres"],"properties":{"artistgenres":"punk blues"}},{"type":"node","id":"53","labels":["Genres"],"properties":{"artistgenres":"shimmer pop"}},{"type":"node","id":"54","labels":["Genres"],"properties":{"artistgenres":"shiver pop"}},{"type":"node","id":"55","labels":["Genres"],"properties":{"artistgenres":"folk-pop"}},{"type":"node","id":"56","labels":["Genres"],"properties":{"artistgenres":"stomp and holler"}},{"type":"node","id":"57","labels":["Genres"],"properties":{"artistgenres":"experimental rock"}},{"type":"node","id":"58","labels":["Genres"],"properties":{"artistgenres":"grunge"}},{"type":"node","id":"59","labels":["Genres"],"properties":{"artistgenres":"noise rock"}},{"type":"node","id":"60","labels":["Genres"],"properties":{"artistgenres":"post-hardcore"}},{"type":"node","id":"61","labels":["Genres"],"properties":{"artistgenres":"psychedelic punk"}},{"type":"node","id":"62","labels":["Genres"],"properties":{"artistgenres":"punk"}},{"type":"node","id":"63","labels":["Genres"],"properties":{"artistgenres":"german hip hop"}},{"type":"node","id":"64","labels":["Genres"],"properties":{"artistgenres":"german pop"}},{"type":"node","id":"65","labels":["Genres"],"properties":{"artistgenres":"ambient black metal"}},{"type":"node","id":"66","labels":["Genres"],"properties":{"artistgenres":"atmospheric black metal"}},{"type":"node","id":"67","labels":["Genres"],"properties":{"artistgenres":"autonomous black metal"}},{"type":"node","id":"68","labels":["Genres"],"properties":{"artistgenres":"black metal"}},{"type":"node","id":"69","labels":["Genres"],"properties":{"artistgenres":"dungeon synth"}},{"type":"node","id":"70","labels":["Genres"],"properties":{"artistgenres":"metal"}},{"type":"node","id":"71","labels":["Genres"],"properties":{"artistgenres":"norwegian black metal"}},{"type":"node","id":"72","labels":["Genres"],"properties":{"artistgenres":"norwegian metal"}},{"type":"node","id":"73","labels":["Genres"],"properties":{"artistgenres":"pagan black metal"}},{"type":"node","id":"74","labels":["Genres"],"properties":{"artistgenres":"symphonic black metal"}},{"type":"node","id":"75","labels":["Genres"],"properties":{"artistgenres":"progressive house"}},{"type":"node","id":"76","labels":["Genres"],"properties":{"artistgenres":"trance"}},{"type":"node","id":"77","labels":["Genres"],"properties":{"artistgenres":"uplifting trance"}},{"type":"node","id":"78","labels":["Genres"],"properties":{"artistgenres":"big band"}},{"type":"node","id":"79","labels":["Genres"],"properties":{"artistgenres":"easy listening"}},{"type":"node","id":"80","labels":["Genres"],"properties":{"artistgenres":"exotica"}},{"type":"node","id":"81","labels":["Genres"],"properties":{"artistgenres":"europop"}},{"type":"node","id":"82","labels":["Genres"],"properties":{"artistgenres":"swedish pop"}},{"type":"node","id":"83","labels":["Genres"],"properties":{"artistgenres":"atl hip hop"}},{"type":"node","id":"84","labels":["Genres"],"properties":{"artistgenres":"dance pop"}},{"type":"node","id":"85","labels":["Genres"],"properties":{"artistgenres":"hip hop"}},{"type":"node","id":"86","labels":["Genres"],"properties":{"artistgenres":"pop"}},{"type":"node","id":"87","labels":["Genres"],"properties":{"artistgenres":"pop rap"}},{"type":"node","id":"88","labels":["Genres"],"properties":{"artistgenres":"rap"}},{"type":"node","id":"89","labels":["Genres"],"properties":{"artistgenres":"southern hip hop"}},{"type":"node","id":"90","labels":["Genres"],"properties":{"artistgenres":"classic soul"}},{"type":"node","id":"91","labels":["Genres"],"properties":{"artistgenres":"jazz blues"}},{"type":"node","id":"92","labels":["Genres"],"properties":{"artistgenres":"memphis soul"}},{"type":"node","id":"93","labels":["Genres"],"properties":{"artistgenres":"southern soul"}},{"type":"node","id":"94","labels":["Genres"],"properties":{"artistgenres":"j-pop girl group"}},{"type":"node","id":"95","labels":["Genres"],"properties":{"artistgenres":"neo mellow"}},{"type":"node","id":"96","labels":["Genres"],"properties":{"artistgenres":"pop rock"}},{"type":"node","id":"97","labels":["Genres"],"properties":{"artistgenres":"post-grunge"}},{"type":"node","id":"98","labels":["Genres"],"properties":{"artistgenres":"contemporary country"}},{"type":"node","id":"99","labels":["Genres"],"properties":{"artistgenres":"country"}},{"type":"node","id":"100","labels":["Genres"],"properties":{"artistgenres":"country road"}},{"type":"node","id":"101","labels":["Genres"],"properties":{"artistgenres":"oklahoma country"}},{"type":"node","id":"102","labels":["Genres"],"properties":{"artistgenres":"texas country"}},{"type":"node","id":"103","labels":["Genres"],"properties":{"artistgenres":"disco"}},{"type":"node","id":"104","labels":["Genres"],"properties":{"artistgenres":"motown"}},{"type":"node","id":"105","labels":["Genres"],"properties":{"artistgenres":"philly soul"}},{"type":"node","id":"106","labels":["Genres"],"properties":{"artistgenres":"quiet storm"}},{"type":"node","id":"107","labels":["Genres"],"properties":{"artistgenres":"gospel"}},{"type":"node","id":"108","labels":["Genres"],"properties":{"artistgenres":"praise"}},{"type":"node","id":"109","labels":["Genres"],"properties":{"artistgenres":"bow pop"}},{"type":"node","id":"110","labels":["Genres"],"properties":{"artistgenres":"compositional ambient"}},{"type":"node","id":"111","labels":["Genres"],"properties":{"artistgenres":"neo-classical"}},{"type":"node","id":"112","labels":["Genres"],"properties":{"artistgenres":"album rock"}},{"type":"node","id":"113","labels":["Genres"],"properties":{"artistgenres":"glam metal"}},{"type":"node","id":"114","labels":["Genres"],"properties":{"artistgenres":"hard rock"}},{"type":"node","id":"115","labels":["Genres"],"properties":{"artistgenres":"swedish hard rock"}},{"type":"node","id":"116","labels":["Genres"],"properties":{"artistgenres":"swedish americana"}},{"type":"node","id":"117","labels":["Genres"],"properties":{"artistgenres":"swedish country"}},{"type":"node","id":"118","labels":["Genres"],"properties":{"artistgenres":"english indie rock"}},{"type":"node","id":"119","labels":["Genres"],"properties":{"artistgenres":"modern alternative rock"}},{"type":"node","id":"120","labels":["Genres"],"properties":{"artistgenres":"funk"}},{"type":"node","id":"121","labels":["Genres"],"properties":{"artistgenres":"new jack swing"}},{"type":"node","id":"122","labels":["Genres"],"properties":{"artistgenres":"popping"}},{"type":"node","id":"123","labels":["Genres"],"properties":{"artistgenres":"post-disco"}},{"type":"node","id":"124","labels":["Genres"],"properties":{"artistgenres":"urban contemporary"}},{"type":"node","id":"125","labels":["Genres"],"properties":{"artistgenres":"chicago soul"}},{"type":"node","id":"126","labels":["Genres"],"properties":{"artistgenres":"j-division"}},{"type":"node","id":"127","labels":["Genres"],"properties":{"artistgenres":"classic swedish pop"}},{"type":"node","id":"128","labels":["Genres"],"properties":{"artistgenres":"danspunk"}},{"type":"node","id":"161","labels":["Genres"],"properties":{"artistgenres":"swedish alternative rock"}},{"type":"node","id":"162","labels":["Genres"],"properties":{"artistgenres":"swedish prog"}},{"type":"node","id":"163","labels":["Genres"],"properties":{"artistgenres":"indie pop"}},{"type":"node","id":"164","labels":["Genres"],"properties":{"artistgenres":"indie rock"}},{"type":"node","id":"165","labels":["Genres"],"properties":{"artistgenres":"washington indie"}},{"type":"node","id":"166","labels":["Genres"],"properties":{"artistgenres":"classic soundtrack"}},{"type":"node","id":"167","labels":["Genres"],"properties":{"artistgenres":"italian soundtrack"}},{"type":"node","id":"168","labels":["Genres"],"properties":{"artistgenres":"soundtrack"}},{"type":"node","id":"169","labels":["Genres"],"properties":{"artistgenres":"vintage italian soundtrack"}},{"type":"node","id":"170","labels":["Genres"],"properties":{"artistgenres":"afghan pop"}},{"type":"node","id":"171","labels":["Genres"],"properties":{"artistgenres":"classic persian pop"}},{"type":"node","id":"172","labels":["Genres"],"properties":{"artistgenres":"idol rock"}},{"type":"node","id":"173","labels":["Genres"],"properties":{"artistgenres":"j-idol"}},{"type":"node","id":"174","labels":["Genres"],"properties":{"artistgenres":"swedish tropical house"}},{"type":"node","id":"175","labels":["Genres"],"properties":{"artistgenres":"modern reggae"}},{"type":"node","id":"176","labels":["Genres"],"properties":{"artistgenres":"reggae"}},{"type":"node","id":"177","labels":["Genres"],"properties":{"artistgenres":"alternative metal"}},{"type":"node","id":"178","labels":["Genres"],"properties":{"artistgenres":"nu metal"}},{"type":"node","id":"179","labels":["Genres"],"properties":{"artistgenres":"rap metal"}},{"type":"node","id":"180","labels":["Genres"],"properties":{"artistgenres":"rap rock"}},{"type":"node","id":"181","labels":["Genres"],"properties":{"artistgenres":"banjo"}},{"type":"node","id":"182","labels":["Genres"],"properties":{"artistgenres":"bluegrass"}},{"type":"node","id":"183","labels":["Genres"],"properties":{"artistgenres":"progressive bluegrass"}},{"type":"node","id":"184","labels":["Genres"],"properties":{"artistgenres":"traditional bluegrass"}},{"type":"node","id":"185","labels":["Genres"],"properties":{"artistgenres":"new age piano"}},{"type":"node","id":"186","labels":["Genres"],"properties":{"artistgenres":"chutney"}},{"type":"node","id":"187","labels":["Genres"],"properties":{"artistgenres":"desi pop"}},{"type":"node","id":"188","labels":["Genres"],"properties":{"artistgenres":"filmi"}},{"type":"node","id":"189","labels":["Genres"],"properties":{"artistgenres":"modern bollywood"}},{"type":"node","id":"190","labels":["Genres"],"properties":{"artistgenres":"sufi"}},{"type":"node","id":"191","labels":["Genres"],"properties":{"artistgenres":"electra"}},{"type":"node","id":"192","labels":["Genres"],"properties":{"artistgenres":"german house"}},{"type":"node","id":"193","labels":["Genres"],"properties":{"artistgenres":"german techno"}},{"type":"node","id":"194","labels":["Genres"],"properties":{"artistgenres":"microhouse"}},{"type":"node","id":"195","labels":["Genres"],"properties":{"artistgenres":"minimal tech house"}},{"type":"node","id":"196","labels":["Genres"],"properties":{"artistgenres":"minimal techno"}},{"type":"node","id":"197","labels":["Genres"],"properties":{"artistgenres":"tech house"}},{"type":"node","id":"198","labels":["Genres"],"properties":{"artistgenres":"death metal"}},{"type":"node","id":"199","labels":["Genres"],"properties":{"artistgenres":"groove metal"}},{"type":"node","id":"200","labels":["Genres"],"properties":{"artistgenres":"polish black metal"}},{"type":"node","id":"201","labels":["Genres"],"properties":{"artistgenres":"polish death metal"}},{"type":"node","id":"202","labels":["Genres"],"properties":{"artistgenres":"polish metal"}},{"type":"node","id":"203","labels":["Genres"],"properties":{"artistgenres":"euphoric hardstyle"}},{"type":"node","id":"204","labels":["Genres"],"properties":{"artistgenres":"hardstyle"}},{"type":"node","id":"205","labels":["Genres"],"properties":{"artistgenres":"rawstyle"}},{"type":"node","id":"206","labels":["Genres"],"properties":{"artistgenres":"j-pop"}},{"type":"node","id":"207","labels":["Genres"],"properties":{"artistgenres":"j-poprock"}},{"type":"node","id":"208","labels":["Genres"],"properties":{"artistgenres":"j-rock"}},{"type":"node","id":"209","labels":["Genres"],"properties":{"artistgenres":"otacore"}},{"type":"node","id":"210","labels":["Genres"],"properties":{"artistgenres":"chanson"}},{"type":"node","id":"211","labels":["Genres"],"properties":{"artistgenres":"french rock"}},{"type":"node","id":"212","labels":["Genres"],"properties":{"artistgenres":"dancehall"}},{"type":"node","id":"213","labels":["Genres"],"properties":{"artistgenres":"panamanian pop"}},{"type":"node","id":"214","labels":["Genres"],"properties":{"artistgenres":"reggae fusion"}},{"type":"node","id":"215","labels":["Genres"],"properties":{"artistgenres":"soca"}},{"type":"node","id":"216","labels":["Genres"],"properties":{"artistgenres":"alternative country"}},{"type":"node","id":"217","labels":["Genres"],"properties":{"artistgenres":"alternative roots rock"}},{"type":"node","id":"218","labels":["Genres"],"properties":{"artistgenres":"country rock"}},{"type":"node","id":"219","labels":["Genres"],"properties":{"artistgenres":"deep new americana"}},{"type":"node","id":"220","labels":["Genres"],"properties":{"artistgenres":"folk"}},{"type":"node","id":"221","labels":["Genres"],"properties":{"artistgenres":"heartland rock"}},{"type":"node","id":"222","labels":["Genres"],"properties":{"artistgenres":"new americana"}},{"type":"node","id":"223","labels":["Genres"],"properties":{"artistgenres":"power pop"}},{"type":"node","id":"224","labels":["Genres"],"properties":{"artistgenres":"pub rock"}},{"type":"node","id":"225","labels":["Genres"],"properties":{"artistgenres":"roots rock"}},{"type":"node","id":"226","labels":["Genres"],"properties":{"artistgenres":"children's folk"}},{"type":"node","id":"227","labels":["Genres"],"properties":{"artistgenres":"children's music"}},{"type":"node","id":"228","labels":["Genres"],"properties":{"artistgenres":"kindie rock"}},{"type":"node","id":"229","labels":["Genres"],"properties":{"artistgenres":"post-teen pop"}},{"type":"node","id":"230","labels":["Genres"],"properties":{"artistgenres":"deep euro house"}},{"type":"node","id":"231","labels":["Genres"],"properties":{"artistgenres":"deep melodic euro house"}},{"type":"node","id":"232","labels":["Genres"],"properties":{"artistgenres":"classic rock"}},{"type":"node","id":"233","labels":["Genres"],"properties":{"artistgenres":"folk rock"}},{"type":"node","id":"234","labels":["Genres"],"properties":{"artistgenres":"mellow gold"}},{"type":"node","id":"235","labels":["Genres"],"properties":{"artistgenres":"singer-songwriter"}},{"type":"node","id":"236","labels":["Genres"],"properties":{"artistgenres":"soft rock"}},{"type":"node","id":"237","labels":["Genres"],"properties":{"artistgenres":"traditional folk"}},{"type":"node","id":"238","labels":["Genres"],"properties":{"artistgenres":"bossa nova"}},{"type":"node","id":"239","labels":["Genres"],"properties":{"artistgenres":"brazilian boogie"}},{"type":"node","id":"240","labels":["Genres"],"properties":{"artistgenres":"brazilian soul"}},{"type":"node","id":"241","labels":["Genres"],"properties":{"artistgenres":"mpb"}},{"type":"node","id":"242","labels":["Genres"],"properties":{"artistgenres":"pagode"}},{"type":"node","id":"243","labels":["Genres"],"properties":{"artistgenres":"samba"}},{"type":"node","id":"244","labels":["Genres"],"properties":{"artistgenres":"ambient"}},{"type":"node","id":"245","labels":["Genres"],"properties":{"artistgenres":"electronica"}},{"type":"node","id":"246","labels":["Genres"],"properties":{"artistgenres":"intelligent dance music"}},{"type":"node","id":"247","labels":["Genres"],"properties":{"artistgenres":"post-rock"}},{"type":"node","id":"248","labels":["Genres"],"properties":{"artistgenres":"r&b"}},{"type":"node","id":"288","labels":["Genres"],"properties":{"artistgenres":"gbvfi"}},{"type":"node","id":"289","labels":["Genres"],"properties":{"artistgenres":"jangle pop"}},{"type":"node","id":"290","labels":["Genres"],"properties":{"artistgenres":"underground power pop"}},{"type":"node","id":"291","labels":["Genres"],"properties":{"artistgenres":"brutal death metal"}},{"type":"node","id":"292","labels":["Genres"],"properties":{"artistgenres":"buffalo ny metal"}},{"type":"node","id":"293","labels":["Genres"],"properties":{"artistgenres":"deathgrind"}},{"type":"node","id":"294","labels":["Genres"],"properties":{"artistgenres":"speed metal"}},{"type":"node","id":"295","labels":["Genres"],"properties":{"artistgenres":"classical piano"}},{"type":"node","id":"296","labels":["Genres"],"properties":{"artistgenres":"glam rock"}},{"type":"node","id":"297","labels":["Genres"],"properties":{"artistgenres":"scorecore"}},{"type":"node","id":"298","labels":["Genres"],"properties":{"artistgenres":"jazz brass"}},{"type":"node","id":"299","labels":["Genres"],"properties":{"artistgenres":"jazz trombone"}},{"type":"node","id":"300","labels":["Genres"],"properties":{"artistgenres":"new orleans jazz"}},{"type":"node","id":"301","labels":["Genres"],"properties":{"artistgenres":"dubstep"}},{"type":"node","id":"302","labels":["Genres"],"properties":{"artistgenres":"dansband"}},{"type":"node","id":"303","labels":["Genres"],"properties":{"artistgenres":"austrian choir"}},{"type":"node","id":"304","labels":["Genres"],"properties":{"artistgenres":"classical performance"}},{"type":"node","id":"305","labels":["Genres"],"properties":{"artistgenres":"opera"}},{"type":"node","id":"306","labels":["Genres"],"properties":{"artistgenres":"opera chorus"}},{"type":"node","id":"307","labels":["Genres"],"properties":{"artistgenres":"classic malaysian pop"}},{"type":"node","id":"308","labels":["Genres"],"properties":{"artistgenres":"malaysian indie"}},{"type":"node","id":"309","labels":["Genres"],"properties":{"artistgenres":"rock kapak"}},{"type":"node","id":"310","labels":["Genres"],"properties":{"artistgenres":"birmingham hip hop"}},{"type":"node","id":"311","labels":["Genres"],"properties":{"artistgenres":"grime"}},{"type":"node","id":"312","labels":["Genres"],"properties":{"artistgenres":"uk garage"}},{"type":"node","id":"313","labels":["Genres"],"properties":{"artistgenres":"j-dance"}},{"type":"node","id":"314","labels":["Genres"],"properties":{"artistgenres":"comedy"}},{"type":"node","id":"315","labels":["Genres"],"properties":{"artistgenres":"comic"}},{"type":"node","id":"316","labels":["Genres"],"properties":{"artistgenres":"brazilian rock"}},{"type":"node","id":"317","labels":["Genres"],"properties":{"artistgenres":"rock gaucho"}},{"type":"node","id":"318","labels":["Genres"],"properties":{"artistgenres":"rock nacional brasileiro"}},{"type":"node","id":"319","labels":["Genres"],"properties":{"artistgenres":"hip pop"}},{"type":"node","id":"320","labels":["Genres"],"properties":{"artistgenres":"neo soul"}},{"type":"node","id":"321","labels":["Genres"],"properties":{"artistgenres":"sertanejo"}},{"type":"node","id":"322","labels":["Genres"],"properties":{"artistgenres":"sertanejo pop"}},{"type":"node","id":"323","labels":["Genres"],"properties":{"artistgenres":"sertanejo universitario"}},{"type":"node","id":"324","labels":["Genres"],"properties":{"artistgenres":"c-pop"}},{"type":"node","id":"325","labels":["Genres"],"properties":{"artistgenres":"cantopop"}},{"type":"node","id":"326","labels":["Genres"],"properties":{"artistgenres":"brazilian reggae"}},{"type":"node","id":"327","labels":["Genres"],"properties":{"artistgenres":"jazz funk"}},{"type":"node","id":"328","labels":["Genres"],"properties":{"artistgenres":"modern funk"}},{"type":"node","id":"329","labels":["Genres"],"properties":{"artistgenres":"ambient folk"}},{"type":"node","id":"330","labels":["Genres"],"properties":{"artistgenres":"british singer-songwriter"}},{"type":"node","id":"331","labels":["Genres"],"properties":{"artistgenres":"chamber pop"}},{"type":"node","id":"332","labels":["Genres"],"properties":{"artistgenres":"indie anthem-folk"}},{"type":"node","id":"333","labels":["Genres"],"properties":{"artistgenres":"indie folk"}},{"type":"node","id":"334","labels":["Genres"],"properties":{"artistgenres":"hollywood"}},{"type":"node","id":"335","labels":["Genres"],"properties":{"artistgenres":"movie tunes"}},{"type":"node","id":"336","labels":["Genres"],"properties":{"artistgenres":"show tunes"}},{"type":"node","id":"337","labels":["Genres"],"properties":{"artistgenres":"big beat"}},{"type":"node","id":"338","labels":["Genres"],"properties":{"artistgenres":"dub"}},{"type":"node","id":"339","labels":["Genres"],"properties":{"artistgenres":"broadway"}},{"type":"node","id":"340","labels":["Genres"],"properties":{"artistgenres":"west end"}},{"type":"node","id":"341","labels":["Genres"],"properties":{"artistgenres":"electro latino"}},{"type":"node","id":"342","labels":["Genres"],"properties":{"artistgenres":"latin"}},{"type":"node","id":"343","labels":["Genres"],"properties":{"artistgenres":"latin pop"}},{"type":"node","id":"344","labels":["Genres"],"properties":{"artistgenres":"reggaeton"}},{"type":"node","id":"345","labels":["Genres"],"properties":{"artistgenres":"spanish pop"}},{"type":"node","id":"346","labels":["Genres"],"properties":{"artistgenres":"tropical"}},{"type":"node","id":"347","labels":["Genres"],"properties":{"artistgenres":"melancholia"}},{"type":"node","id":"348","labels":["Genres"],"properties":{"artistgenres":"turkish pop"}},{"type":"node","id":"349","labels":["Genres"],"properties":{"artistgenres":"turkish rock"}},{"type":"node","id":"350","labels":["Genres"],"properties":{"artistgenres":"canadian folk"}},{"type":"node","id":"351","labels":["Genres"],"properties":{"artistgenres":"canadian indie"}},{"type":"node","id":"352","labels":["Genres"],"properties":{"artistgenres":"canadian singer-songwriter"}},{"type":"node","id":"353","labels":["Genres"],"properties":{"artistgenres":"ontario indie"}},{"type":"node","id":"354","labels":["Genres"],"properties":{"artistgenres":"acoustic pop"}},{"type":"node","id":"355","labels":["Genres"],"properties":{"artistgenres":"indiecoustica"}},{"type":"node","id":"356","labels":["Genres"],"properties":{"artistgenres":"viral pop"}},{"type":"node","id":"386","labels":["Genres"],"properties":{"artistgenres":"alaska indie"}},{"type":"node","id":"387","labels":["Genres"],"properties":{"artistgenres":"deathgrass"}},{"type":"node","id":"388","labels":["Genres"],"properties":{"artistgenres":"steampunk"}},{"type":"node","id":"389","labels":["Genres"],"properties":{"artistgenres":"western americana"}},{"type":"node","id":"390","labels":["Genres"],"properties":{"artistgenres":"axe"}},{"type":"node","id":"391","labels":["Genres"],"properties":{"artistgenres":"samba-enredo"}},{"type":"node","id":"392","labels":["Genres"],"properties":{"artistgenres":"seattle indie"}},{"type":"node","id":"393","labels":["Genres"],"properties":{"artistgenres":"canadian punk"}},{"type":"node","id":"394","labels":["Genres"],"properties":{"artistgenres":"canadian rockabilly"}},{"type":"node","id":"395","labels":["Genres"],"properties":{"artistgenres":"horror punk"}},{"type":"node","id":"396","labels":["Genres"],"properties":{"artistgenres":"psychobilly"}},{"type":"node","id":"397","labels":["Genres"],"properties":{"artistgenres":"french reggae"}},{"type":"node","id":"398","labels":["Genres"],"properties":{"artistgenres":"lovers rock"}},{"type":"node","id":"399","labels":["Genres"],"properties":{"artistgenres":"roots reggae"}},{"type":"node","id":"400","labels":["Genres"],"properties":{"artistgenres":"art punk"}},{"type":"node","id":"401","labels":["Genres"],"properties":{"artistgenres":"chamber psych"}},{"type":"node","id":"402","labels":["Genres"],"properties":{"artistgenres":"dance-punk"}},{"type":"node","id":"403","labels":["Genres"],"properties":{"artistgenres":"noise pop"}},{"type":"node","id":"404","labels":["Genres"],"properties":{"artistgenres":"nu gaze"}},{"type":"node","id":"405","labels":["Genres"],"properties":{"artistgenres":"alt-idol"}},{"type":"node","id":"406","labels":["Genres"],"properties":{"artistgenres":"comic metal"}},{"type":"node","id":"407","labels":["Genres"],"properties":{"artistgenres":"j-metal"}},{"type":"node","id":"408","labels":["Genres"],"properties":{"artistgenres":"kawaii metal"}},{"type":"node","id":"409","labels":["Genres"],"properties":{"artistgenres":"melodic rap"}},{"type":"node","id":"410","labels":["Genres"],"properties":{"artistgenres":"philly rap"}},{"type":"node","id":"411","labels":["Genres"],"properties":{"artistgenres":"j-pop boy group"}},{"type":"node","id":"412","labels":["Genres"],"properties":{"artistgenres":"japanese alternative rock"}},{"type":"node","id":"413","labels":["Genres"],"properties":{"artistgenres":"trap"}},{"type":"node","id":"414","labels":["Genres"],"properties":{"artistgenres":"puerto rican pop"}},{"type":"node","id":"415","labels":["Genres"],"properties":{"artistgenres":"opm"}},{"type":"node","id":"416","labels":["Genres"],"properties":{"artistgenres":"pinoy indie"}},{"type":"node","id":"417","labels":["Genres"],"properties":{"artistgenres":"pinoy rock"}},{"type":"node","id":"418","labels":["Genres"],"properties":{"artistgenres":"latin hip hop"}},{"type":"node","id":"419","labels":["Genres"],"properties":{"artistgenres":"pop reggaeton"}},{"type":"node","id":"420","labels":["Genres"],"properties":{"artistgenres":"disney"}},{"type":"node","id":"421","labels":["Genres"],"properties":{"artistgenres":"latin alternative"}},{"type":"node","id":"422","labels":["Genres"],"properties":{"artistgenres":"latin rock"}},{"type":"node","id":"423","labels":["Genres"],"properties":{"artistgenres":"rock en espanol"}},{"type":"node","id":"424","labels":["Genres"],"properties":{"artistgenres":"swedish hip hop"}},{"type":"node","id":"425","labels":["Genres"],"properties":{"artistgenres":"swedish soul"}},{"type":"node","id":"426","labels":["Genres"],"properties":{"artistgenres":"melodic metalcore"}},{"type":"node","id":"427","labels":["Genres"],"properties":{"artistgenres":"virginia metal"}},{"type":"node","id":"428","labels":["Genres"],"properties":{"artistgenres":"black comedy"}},{"type":"node","id":"429","labels":["Genres"],"properties":{"artistgenres":"bass music"}},{"type":"node","id":"430","labels":["Genres"],"properties":{"artistgenres":"purple sound"}},{"type":"node","id":"431","labels":["Genres"],"properties":{"artistgenres":"scottish electronic"}},{"type":"node","id":"432","labels":["Genres"],"properties":{"artistgenres":"scottish hip hop"}},{"type":"node","id":"433","labels":["Genres"],"properties":{"artistgenres":"uk experimental electronic"}},{"type":"node","id":"434","labels":["Genres"],"properties":{"artistgenres":"wonky"}},{"type":"node","id":"469","labels":["Genres"],"properties":{"artistgenres":"canadian pop"}},{"type":"node","id":"470","labels":["Genres"],"properties":{"artistgenres":"ectofolk"}},{"type":"node","id":"471","labels":["Genres"],"properties":{"artistgenres":"lilith"}},{"type":"node","id":"472","labels":["Genres"],"properties":{"artistgenres":"abstract"}},{"type":"node","id":"473","labels":["Genres"],"properties":{"artistgenres":"deep idm"}},{"type":"node","id":"474","labels":["Genres"],"properties":{"artistgenres":"drill and bass"}},{"type":"node","id":"475","labels":["Genres"],"properties":{"artistgenres":"ska"}},{"type":"node","id":"476","labels":["Genres"],"properties":{"artistgenres":"ska punk"}},{"type":"node","id":"477","labels":["Genres"],"properties":{"artistgenres":"ska revival"}},{"type":"node","id":"478","labels":["Genres"],"properties":{"artistgenres":"traditional ska"}},{"type":"node","id":"479","labels":["Genres"],"properties":{"artistgenres":"dutch metal"}},{"type":"node","id":"480","labels":["Genres"],"properties":{"artistgenres":"gothic metal"}},{"type":"node","id":"481","labels":["Genres"],"properties":{"artistgenres":"gothic symphonic metal"}},{"type":"node","id":"482","labels":["Genres"],"properties":{"artistgenres":"power metal"}},{"type":"node","id":"483","labels":["Genres"],"properties":{"artistgenres":"symphonic metal"}},{"type":"node","id":"484","labels":["Genres"],"properties":{"artistgenres":"classical"}},{"type":"node","id":"485","labels":["Genres"],"properties":{"artistgenres":"orchestra"}},{"type":"node","id":"486","labels":["Genres"],"properties":{"artistgenres":"german rock"}},{"type":"node","id":"487","labels":["Genres"],"properties":{"artistgenres":"japanese electropop"}},{"type":"node","id":"488","labels":["Genres"],"properties":{"artistgenres":"jazz metal"}},{"type":"node","id":"489","labels":["Genres"],"properties":{"artistgenres":"technical death metal"}},{"type":"node","id":"490","labels":["Genres"],"properties":{"artistgenres":"electropop"}},{"type":"node","id":"491","labels":["Genres"],"properties":{"artistgenres":"metropopolis"}},{"type":"node","id":"492","labels":["Genres"],"properties":{"artistgenres":"swedish electropop"}},{"type":"node","id":"493","labels":["Genres"],"properties":{"artistgenres":"swedish synthpop"}},{"type":"node","id":"494","labels":["Genres"],"properties":{"artistgenres":"french soundtrack"}},{"type":"node","id":"495","labels":["Genres"],"properties":{"artistgenres":"jazz fusion"}},{"type":"node","id":"496","labels":["Genres"],"properties":{"artistgenres":"rockabilly"}},{"type":"node","id":"497","labels":["Genres"],"properties":{"artistgenres":"swedish rockabilly"}},{"type":"node","id":"498","labels":["Genres"],"properties":{"artistgenres":"deep southern trap"}},{"type":"node","id":"499","labels":["Genres"],"properties":{"artistgenres":"dirty south rap"}},{"type":"node","id":"500","labels":["Genres"],"properties":{"artistgenres":"gangster rap"}},{"type":"node","id":"501","labels":["Genres"],"properties":{"artistgenres":"british invasion"}},{"type":"node","id":"502","labels":["Genres"],"properties":{"artistgenres":"merseybeat"}},{"type":"node","id":"503","labels":["Genres"],"properties":{"artistgenres":"rock-and-roll"}},{"type":"node","id":"504","labels":["Genres"],"properties":{"artistgenres":"surf music"}},{"type":"node","id":"505","labels":["Genres"],"properties":{"artistgenres":"british soul"}},{"type":"node","id":"506","labels":["Genres"],"properties":{"artistgenres":"scottish singer-songwriter"}},{"type":"node","id":"507","labels":["Genres"],"properties":{"artistgenres":"alternative dance"}},{"type":"node","id":"508","labels":["Genres"],"properties":{"artistgenres":"indie poptimism"}},{"type":"node","id":"509","labels":["Genres"],"properties":{"artistgenres":"indietronica"}},{"type":"node","id":"510","labels":["Genres"],"properties":{"artistgenres":"neo-synthpop"}},{"type":"node","id":"511","labels":["Genres"],"properties":{"artistgenres":"nyc pop"}},{"type":"node","id":"512","labels":["Genres"],"properties":{"artistgenres":"vapor soul"}},{"type":"node","id":"513","labels":["Genres"],"properties":{"artistgenres":"focus"}},{"type":"node","id":"514","labels":["Genres"],"properties":{"artistgenres":"post-minimalism"}},{"type":"node","id":"515","labels":["Genres"],"properties":{"artistgenres":"edm"}},{"type":"node","id":"516","labels":["Genres"],"properties":{"artistgenres":"brostep"}},{"type":"node","id":"517","labels":["Genres"],"properties":{"artistgenres":"catstep"}},{"type":"node","id":"518","labels":["Genres"],"properties":{"artistgenres":"complextro"}},{"type":"node","id":"519","labels":["Genres"],"properties":{"artistgenres":"electro house"}},{"type":"node","id":"520","labels":["Genres"],"properties":{"artistgenres":"uk pop"}},{"type":"node","id":"521","labels":["Genres"],"properties":{"artistgenres":"ninja"}},{"type":"node","id":"522","labels":["Genres"],"properties":{"artistgenres":"argentine rock"}},{"type":"node","id":"523","labels":["Genres"],"properties":{"artistgenres":"art pop"}},{"type":"node","id":"524","labels":["Genres"],"properties":{"artistgenres":"baroque pop"}},{"type":"node","id":"554","labels":["Genres"],"properties":{"artistgenres":"uk alternative pop"}},{"type":"node","id":"555","labels":["Genres"],"properties":{"artistgenres":"hi-nrg"}},{"type":"node","id":"556","labels":["Genres"],"properties":{"artistgenres":"vintage tango"}},{"type":"node","id":"557","labels":["Genres"],"properties":{"artistgenres":"japanese jazztronica"}},{"type":"node","id":"558","labels":["Genres"],"properties":{"artistgenres":"shibuya-kei"}},{"type":"node","id":"559","labels":["Genres"],"properties":{"artistgenres":"toronto rap"}},{"type":"node","id":"560","labels":["Genres"],"properties":{"artistgenres":"mandopop"}},{"type":"node","id":"561","labels":["Genres"],"properties":{"artistgenres":"singaporean mandopop"}},{"type":"node","id":"562","labels":["Genres"],"properties":{"artistgenres":"australian dance"}},{"type":"node","id":"563","labels":["Genres"],"properties":{"artistgenres":"drum and bass"}},{"type":"node","id":"564","labels":["Genres"],"properties":{"artistgenres":"canadian electropop"}},{"type":"node","id":"565","labels":["Genres"],"properties":{"artistgenres":"chillwave"}},{"type":"node","id":"566","labels":["Genres"],"properties":{"artistgenres":"escape room"}},{"type":"node","id":"567","labels":["Genres"],"properties":{"artistgenres":"grave wave"}},{"type":"node","id":"568","labels":["Genres"],"properties":{"artistgenres":"dfw rap"}},{"type":"node","id":"569","labels":["Genres"],"properties":{"artistgenres":"alternative pop"}},{"type":"node","id":"570","labels":["Genres"],"properties":{"artistgenres":"laboratorio"}},{"type":"node","id":"571","labels":["Genres"],"properties":{"artistgenres":"bubblegum dance"}},{"type":"node","id":"572","labels":["Genres"],"properties":{"artistgenres":"diva house"}},{"type":"node","id":"573","labels":["Genres"],"properties":{"artistgenres":"eurodance"}},{"type":"node","id":"574","labels":["Genres"],"properties":{"artistgenres":"hip house"}},{"type":"node","id":"575","labels":["Genres"],"properties":{"artistgenres":"deep techno"}},{"type":"node","id":"576","labels":["Genres"],"properties":{"artistgenres":"mainland chinese pop"}},{"type":"node","id":"577","labels":["Genres"],"properties":{"artistgenres":"radio symphony"}},{"type":"node","id":"578","labels":["Genres"],"properties":{"artistgenres":"forro"}},{"type":"node","id":"579","labels":["Genres"],"properties":{"artistgenres":"tecnobrega"}},{"type":"node","id":"580","labels":["Genres"],"properties":{"artistgenres":"technical groove"}},{"type":"node","id":"581","labels":["Genres"],"properties":{"artistgenres":"bluegrass gospel"}},{"type":"node","id":"582","labels":["Genres"],"properties":{"artistgenres":"new england americana"}},{"type":"node","id":"583","labels":["Genres"],"properties":{"artistgenres":"old-time"}},{"type":"node","id":"584","labels":["Genres"],"properties":{"artistgenres":"east coast hip hop"}},{"type":"node","id":"585","labels":["Genres"],"properties":{"artistgenres":"crunk"}},{"type":"node","id":"586","labels":["Genres"],"properties":{"artistgenres":"memphis hip hop"}},{"type":"node","id":"587","labels":["Genres"],"properties":{"artistgenres":"avant-garde jazz"}},{"type":"node","id":"588","labels":["Genres"],"properties":{"artistgenres":"bebop"}},{"type":"node","id":"589","labels":["Genres"],"properties":{"artistgenres":"contemporary jazz"}},{"type":"node","id":"590","labels":["Genres"],"properties":{"artistgenres":"contemporary post-bop"}},{"type":"node","id":"591","labels":["Genres"],"properties":{"artistgenres":"cool jazz"}},{"type":"node","id":"592","labels":["Genres"],"properties":{"artistgenres":"free jazz"}},{"type":"node","id":"593","labels":["Genres"],"properties":{"artistgenres":"hard bop"}},{"type":"node","id":"594","labels":["Genres"],"properties":{"artistgenres":"jazz"}},{"type":"node","id":"595","labels":["Genres"],"properties":{"artistgenres":"jazz saxophone"}},{"type":"node","id":"596","labels":["Genres"],"properties":{"artistgenres":"soul jazz"}},{"type":"node","id":"597","labels":["Genres"],"properties":{"artistgenres":"j-rap"}},{"type":"node","id":"598","labels":["Genres"],"properties":{"artistgenres":"japanese r&b"}},{"type":"node","id":"599","labels":["Genres"],"properties":{"artistgenres":"sambass"}},{"type":"node","id":"600","labels":["Genres"],"properties":{"artistgenres":"australian electropop"}},{"type":"node","id":"601","labels":["Genres"],"properties":{"artistgenres":"australian indie"}},{"type":"node","id":"602","labels":["Genres"],"properties":{"artistgenres":"downtempo"}},{"type":"node","id":"603","labels":["Genres"],"properties":{"artistgenres":"freak folk"}},{"type":"node","id":"604","labels":["Genres"],"properties":{"artistgenres":"garage pop"}},{"type":"node","id":"641","labels":["Genres"],"properties":{"artistgenres":"indie garage rock"}},{"type":"node","id":"642","labels":["Genres"],"properties":{"artistgenres":"neo-psychedelic"}},{"type":"node","id":"643","labels":["Genres"],"properties":{"artistgenres":"south african alternative"}},{"type":"node","id":"644","labels":["Genres"],"properties":{"artistgenres":"canadian post-hardcore"}},{"type":"node","id":"645","labels":["Genres"],"properties":{"artistgenres":"canadian rock"}},{"type":"node","id":"646","labels":["Genres"],"properties":{"artistgenres":"emo"}},{"type":"node","id":"647","labels":["Genres"],"properties":{"artistgenres":"metalcore"}},{"type":"node","id":"648","labels":["Genres"],"properties":{"artistgenres":"pop punk"}},{"type":"node","id":"649","labels":["Genres"],"properties":{"artistgenres":"screamo"}},{"type":"node","id":"650","labels":["Genres"],"properties":{"artistgenres":"christian metal"}},{"type":"node","id":"651","labels":["Genres"],"properties":{"artistgenres":"modern country rock"}},{"type":"node","id":"652","labels":["Genres"],"properties":{"artistgenres":"redneck"}},{"type":"node","id":"653","labels":["Genres"],"properties":{"artistgenres":"taiwan pop"}},{"type":"node","id":"654","labels":["Genres"],"properties":{"artistgenres":"yacht rock"}},{"type":"node","id":"655","labels":["Genres"],"properties":{"artistgenres":"acid house"}},{"type":"node","id":"656","labels":["Genres"],"properties":{"artistgenres":"chicago house"}},{"type":"node","id":"657","labels":["Genres"],"properties":{"artistgenres":"detroit techno"}},{"type":"node","id":"658","labels":["Genres"],"properties":{"artistgenres":"electro"}},{"type":"node","id":"659","labels":["Genres"],"properties":{"artistgenres":"techno"}},{"type":"node","id":"660","labels":["Genres"],"properties":{"artistgenres":"funk rock"}},{"type":"node","id":"661","labels":["Genres"],"properties":{"artistgenres":"instrumental funk"}},{"type":"node","id":"662","labels":["Genres"],"properties":{"artistgenres":"new orleans funk"}},{"type":"node","id":"663","labels":["Genres"],"properties":{"artistgenres":"classic opm"}},{"type":"node","id":"664","labels":["Genres"],"properties":{"artistgenres":"indie jazz"}},{"type":"node","id":"665","labels":["Genres"],"properties":{"artistgenres":"jazz trumpet"}},{"type":"node","id":"666","labels":["Genres"],"properties":{"artistgenres":"nova mpb"}},{"type":"node","id":"667","labels":["Genres"],"properties":{"artistgenres":"black 'n' roll"}},{"type":"node","id":"668","labels":["Genres"],"properties":{"artistgenres":"viking metal"}},{"type":"node","id":"669","labels":["Genres"],"properties":{"artistgenres":"theme"}},{"type":"node","id":"670","labels":["Genres"],"properties":{"artistgenres":"canadian electronic"}},{"type":"node","id":"671","labels":["Genres"],"properties":{"artistgenres":"electronic trap"}},{"type":"node","id":"672","labels":["Genres"],"properties":{"artistgenres":"progressive electro house"}},{"type":"node","id":"673","labels":["Genres"],"properties":{"artistgenres":"southampton indie"}},{"type":"node","id":"674","labels":["Genres"],"properties":{"artistgenres":"big room"}},{"type":"node","id":"675","labels":["Genres"],"properties":{"artistgenres":"boston rock"}},{"type":"node","id":"676","labels":["Genres"],"properties":{"artistgenres":"banda"}},{"type":"node","id":"677","labels":["Genres"],"properties":{"artistgenres":"regional mexican"}},{"type":"node","id":"678","labels":["Genres"],"properties":{"artistgenres":"goregrind"}},{"type":"node","id":"679","labels":["Genres"],"properties":{"artistgenres":"grindcore"}},{"type":"node","id":"680","labels":["Genres"],"properties":{"artistgenres":"pop edm"}},{"type":"node","id":"681","labels":["Genres"],"properties":{"artistgenres":"perreo"}},{"type":"node","id":"682","labels":["Genres"],"properties":{"artistgenres":"reggaeton flow"}},{"type":"node","id":"683","labels":["Genres"],"properties":{"artistgenres":"salsa choke"}},{"type":"node","id":"684","labels":["Genres"],"properties":{"artistgenres":"classic girl group"}},{"type":"node","id":"685","labels":["Genres"],"properties":{"artistgenres":"breakbeat"}},{"type":"node","id":"686","labels":["Genres"],"properties":{"artistgenres":"country dawn"}},{"type":"node","id":"687","labels":["Genres"],"properties":{"artistgenres":"hong kong indie"}},{"type":"node","id":"712","labels":["Genres"],"properties":{"artistgenres":"classic mandopop"}},{"type":"node","id":"713","labels":["Genres"],"properties":{"artistgenres":"psychedelic rock"}},{"type":"node","id":"714","labels":["Genres"],"properties":{"artistgenres":"manila sound"}},{"type":"node","id":"715","labels":["Genres"],"properties":{"artistgenres":"brazilian jazz"}},{"type":"node","id":"716","labels":["Genres"],"properties":{"artistgenres":"piano mpb"}},{"type":"node","id":"717","labels":["Genres"],"properties":{"artistgenres":"afropop"}},{"type":"node","id":"718","labels":["Genres"],"properties":{"artistgenres":"desert blues"}},{"type":"node","id":"719","labels":["Genres"],"properties":{"artistgenres":"griot"}},{"type":"node","id":"720","labels":["Genres"],"properties":{"artistgenres":"kora"}},{"type":"node","id":"721","labels":["Genres"],"properties":{"artistgenres":"malian blues"}},{"type":"node","id":"722","labels":["Genres"],"properties":{"artistgenres":"mande pop"}},{"type":"node","id":"723","labels":["Genres"],"properties":{"artistgenres":"world"}},{"type":"node","id":"724","labels":["Genres"],"properties":{"artistgenres":"melodic thrash"}},{"type":"node","id":"725","labels":["Genres"],"properties":{"artistgenres":"ye ye"}},{"type":"node","id":"726","labels":["Genres"],"properties":{"artistgenres":"electronic rock"}},{"type":"node","id":"727","labels":["Genres"],"properties":{"artistgenres":"new rave"}},{"type":"node","id":"728","labels":["Genres"],"properties":{"artistgenres":"classical baritone"}},{"type":"node","id":"729","labels":["Genres"],"properties":{"artistgenres":"italian bass"}},{"type":"node","id":"730","labels":["Genres"],"properties":{"artistgenres":"future garage"}},{"type":"node","id":"731","labels":["Genres"],"properties":{"artistgenres":"indie soul"}},{"type":"node","id":"732","labels":["Genres"],"properties":{"artistgenres":"finnish death metal"}},{"type":"node","id":"733","labels":["Genres"],"properties":{"artistgenres":"finnish metal"}},{"type":"node","id":"734","labels":["Genres"],"properties":{"artistgenres":"melodic death metal"}},{"type":"node","id":"735","labels":["Genres"],"properties":{"artistgenres":"progressive metal"}},{"type":"node","id":"736","labels":["Genres"],"properties":{"artistgenres":"indie surf"}},{"type":"node","id":"737","labels":["Genres"],"properties":{"artistgenres":"deep pop r&b"}},{"type":"node","id":"738","labels":["Genres"],"properties":{"artistgenres":"brighton indie"}},{"type":"node","id":"739","labels":["Genres"],"properties":{"artistgenres":"dream pop"}},{"type":"node","id":"740","labels":["Genres"],"properties":{"artistgenres":"etherpop"}},{"type":"node","id":"741","labels":["Genres"],"properties":{"artistgenres":"experimental pop"}},{"type":"node","id":"742","labels":["Genres"],"properties":{"artistgenres":"baile pop"}},{"type":"node","id":"743","labels":["Genres"],"properties":{"artistgenres":"funk carioca"}},{"type":"node","id":"744","labels":["Genres"],"properties":{"artistgenres":"funk das antigas"}},{"type":"node","id":"750","labels":["Genres"],"properties":{"artistgenres":"trancecore"}},{"type":"node","id":"751","labels":["Genres"],"properties":{"artistgenres":"deep indian pop"}},{"type":"node","id":"752","labels":["Genres"],"properties":{"artistgenres":"tamil pop"}},{"type":"node","id":"753","labels":["Genres"],"properties":{"artistgenres":"swedish indie pop"}},{"type":"node","id":"782","labels":["Genres"],"properties":{"artistgenres":"skate punk"}},{"type":"node","id":"783","labels":["Genres"],"properties":{"artistgenres":"bristol electronic"}},{"type":"node","id":"784","labels":["Genres"],"properties":{"artistgenres":"deep dubstep"}},{"type":"node","id":"785","labels":["Genres"],"properties":{"artistgenres":"footwork"}},{"type":"node","id":"786","labels":["Genres"],"properties":{"artistgenres":"riddim"}},{"type":"node","id":"787","labels":["Genres"],"properties":{"artistgenres":"scandipop"}},{"type":"node","id":"788","labels":["Genres"],"properties":{"artistgenres":"mexican pop"}},{"type":"node","id":"789","labels":["Genres"],"properties":{"artistgenres":"icelandic pop"}},{"type":"node","id":"790","labels":["Genres"],"properties":{"artistgenres":"classic pakistani pop"}},{"type":"node","id":"791","labels":["Genres"],"properties":{"artistgenres":"indian folk"}},{"type":"node","id":"792","labels":["Genres"],"properties":{"artistgenres":"slayer"}},{"type":"node","id":"793","labels":["Genres"],"properties":{"artistgenres":"swedish death metal"}},{"type":"node","id":"794","labels":["Genres"],"properties":{"artistgenres":"swedish metal"}},{"type":"node","id":"795","labels":["Genres"],"properties":{"artistgenres":"christian rock"}},{"type":"node","id":"796","labels":["Genres"],"properties":{"artistgenres":"post-screamo"}},{"type":"node","id":"797","labels":["Genres"],"properties":{"artistgenres":"german tech house"}},{"type":"node","id":"798","labels":["Genres"],"properties":{"artistgenres":"gospel r&b"}},{"type":"node","id":"799","labels":["Genres"],"properties":{"artistgenres":"australian pop"}},{"type":"node","id":"800","labels":["Genres"],"properties":{"artistgenres":"ambient techno"}},{"type":"node","id":"801","labels":["Genres"],"properties":{"artistgenres":"dub techno"}},{"type":"node","id":"802","labels":["Genres"],"properties":{"artistgenres":"experimental"}},{"type":"node","id":"803","labels":["Genres"],"properties":{"artistgenres":"glitch"}},{"type":"node","id":"804","labels":["Genres"],"properties":{"artistgenres":"outsider house"}},{"type":"node","id":"805","labels":["Genres"],"properties":{"artistgenres":"trash rock"}},{"type":"node","id":"806","labels":["Genres"],"properties":{"artistgenres":"j-reggae"}},{"type":"node","id":"807","labels":["Genres"],"properties":{"artistgenres":"latin arena pop"}},{"type":"node","id":"808","labels":["Genres"],"properties":{"artistgenres":"house"}},{"type":"node","id":"809","labels":["Genres"],"properties":{"artistgenres":"tropical house"}},{"type":"node","id":"810","labels":["Genres"],"properties":{"artistgenres":"uk dance"}},{"type":"node","id":"842","labels":["Genres"],"properties":{"artistgenres":"crossover thrash"}},{"type":"node","id":"843","labels":["Genres"],"properties":{"artistgenres":"early us punk"}},{"type":"node","id":"844","labels":["Genres"],"properties":{"artistgenres":"hardcore punk"}},{"type":"node","id":"845","labels":["Genres"],"properties":{"artistgenres":"thrash core"}},{"type":"node","id":"846","labels":["Genres"],"properties":{"artistgenres":"hardcore techno"}},{"type":"node","id":"847","labels":["Genres"],"properties":{"artistgenres":"rave"}},{"type":"node","id":"848","labels":["Genres"],"properties":{"artistgenres":"blues"}},{"type":"node","id":"849","labels":["Genres"],"properties":{"artistgenres":"traditional blues"}},{"type":"node","id":"850","labels":["Genres"],"properties":{"artistgenres":"post-romantic era"}},{"type":"node","id":"851","labels":["Genres"],"properties":{"artistgenres":"anti-folk"}},{"type":"node","id":"852","labels":["Genres"],"properties":{"artistgenres":"comedienne"}},{"type":"node","id":"853","labels":["Genres"],"properties":{"artistgenres":"new comedy"}},{"type":"node","id":"854","labels":["Genres"],"properties":{"artistgenres":"bachata"}},{"type":"node","id":"855","labels":["Genres"],"properties":{"artistgenres":"conscious hip hop"}},{"type":"node","id":"856","labels":["Genres"],"properties":{"artistgenres":"dmv rap"}},{"type":"node","id":"857","labels":["Genres"],"properties":{"artistgenres":"dark post-punk"}},{"type":"node","id":"858","labels":["Genres"],"properties":{"artistgenres":"dark wave"}},{"type":"node","id":"859","labels":["Genres"],"properties":{"artistgenres":"ebm"}},{"type":"node","id":"860","labels":["Genres"],"properties":{"artistgenres":"ethereal wave"}},{"type":"node","id":"861","labels":["Genres"],"properties":{"artistgenres":"gothic rock"}},{"type":"node","id":"862","labels":["Genres"],"properties":{"artistgenres":"industrial"}},{"type":"node","id":"863","labels":["Genres"],"properties":{"artistgenres":"industrial rock"}},{"type":"node","id":"864","labels":["Genres"],"properties":{"artistgenres":"neoclassical"}},{"type":"node","id":"865","labels":["Genres"],"properties":{"artistgenres":"bass house"}},{"type":"node","id":"866","labels":["Genres"],"properties":{"artistgenres":"classical era"}},{"type":"node","id":"867","labels":["Genres"],"properties":{"artistgenres":"early music"}},{"type":"node","id":"868","labels":["Genres"],"properties":{"artistgenres":"galante era"}},{"type":"node","id":"869","labels":["Genres"],"properties":{"artistgenres":"circuit"}},{"type":"node","id":"870","labels":["Genres"],"properties":{"artistgenres":"deep house"}},{"type":"node","id":"871","labels":["Genres"],"properties":{"artistgenres":"disco house"}},{"type":"node","id":"872","labels":["Genres"],"properties":{"artistgenres":"tribal house"}},{"type":"node","id":"873","labels":["Genres"],"properties":{"artistgenres":"vocal house"}},{"type":"node","id":"874","labels":["Genres"],"properties":{"artistgenres":"deep groove house"}},{"type":"node","id":"875","labels":["Genres"],"properties":{"artistgenres":"melbourne bounce"}},{"type":"node","id":"876","labels":["Genres"],"properties":{"artistgenres":"moombahton"}},{"type":"node","id":"877","labels":["Genres"],"properties":{"artistgenres":"colombian rock"}},{"type":"node","id":"878","labels":["Genres"],"properties":{"artistgenres":"salsa colombiana"}},{"type":"node","id":"879","labels":["Genres"],"properties":{"artistgenres":"french pop"}},{"type":"node","id":"880","labels":["Genres"],"properties":{"artistgenres":"south african rock"}},{"type":"node","id":"881","labels":["Genres"],"properties":{"artistgenres":"mandolin"}},{"type":"node","id":"909","labels":["Genres"],"properties":{"artistgenres":"electric blues"}},{"type":"node","id":"910","labels":["Genres"],"properties":{"artistgenres":"modern blues"}},{"type":"node","id":"911","labels":["Genres"],"properties":{"artistgenres":"texas blues"}},{"type":"node","id":"912","labels":["Genres"],"properties":{"artistgenres":"arabesk"}},{"type":"node","id":"913","labels":["Genres"],"properties":{"artistgenres":"deep turkish pop"}},{"type":"node","id":"914","labels":["Genres"],"properties":{"artistgenres":"canadian hip hop"}},{"type":"node","id":"915","labels":["Genres"],"properties":{"artistgenres":"persian alternative"}},{"type":"node","id":"916","labels":["Genres"],"properties":{"artistgenres":"persian pop"}},{"type":"node","id":"917","labels":["Genres"],"properties":{"artistgenres":"brazilian hip hop"}},{"type":"node","id":"918","labels":["Genres"],"properties":{"artistgenres":"umbanda"}},{"type":"node","id":"919","labels":["Genres"],"properties":{"artistgenres":"velha guarda"}},{"type":"node","id":"920","labels":["Genres"],"properties":{"artistgenres":"trap queen"}},{"type":"node","id":"921","labels":["Genres"],"properties":{"artistgenres":"progressive trance"}},{"type":"node","id":"922","labels":["Genres"],"properties":{"artistgenres":"nottingham indie"}},{"type":"node","id":"923","labels":["Genres"],"properties":{"artistgenres":"electro-industrial"}},{"type":"node","id":"924","labels":["Genres"],"properties":{"artistgenres":"futurepop"}},{"type":"node","id":"925","labels":["Genres"],"properties":{"artistgenres":"industrial metal"}},{"type":"node","id":"926","labels":["Genres"],"properties":{"artistgenres":"neue deutsche harte"}},{"type":"node","id":"927","labels":["Genres"],"properties":{"artistgenres":"neue deutsche todeskunst"}},{"type":"node","id":"928","labels":["Genres"],"properties":{"artistgenres":"gothenburg metal"}},{"type":"node","id":"929","labels":["Genres"],"properties":{"artistgenres":"afrobeat"}},{"type":"node","id":"930","labels":["Genres"],"properties":{"artistgenres":"bronx hip hop"}},{"type":"node","id":"931","labels":["Genres"],"properties":{"artistgenres":"hardcore hip hop"}},{"type":"node","id":"932","labels":["Genres"],"properties":{"artistgenres":"grupera"}},{"type":"node","id":"933","labels":["Genres"],"properties":{"artistgenres":"norteno"}},{"type":"node","id":"934","labels":["Genres"],"properties":{"artistgenres":"ranchera"}},{"type":"node","id":"935","labels":["Genres"],"properties":{"artistgenres":"new jersey rap"}},{"type":"node","id":"936","labels":["Genres"],"properties":{"artistgenres":"deathcore"}},{"type":"node","id":"937","labels":["Genres"],"properties":{"artistgenres":"piano rock"}},{"type":"node","id":"967","labels":["Genres"],"properties":{"artistgenres":"country pop"}},{"type":"node","id":"968","labels":["Genres"],"properties":{"artistgenres":"talent show"}},{"type":"node","id":"969","labels":["Genres"],"properties":{"artistgenres":"alternative r&b"}},{"type":"node","id":"970","labels":["Genres"],"properties":{"artistgenres":"afrofuturism"}},{"type":"node","id":"971","labels":["Genres"],"properties":{"artistgenres":"dubstep product"}},{"type":"node","id":"972","labels":["Genres"],"properties":{"artistgenres":"bandoneon"}},{"type":"node","id":"973","labels":["Genres"],"properties":{"artistgenres":"orquesta tipica"}},{"type":"node","id":"974","labels":["Genres"],"properties":{"artistgenres":"tango"}},{"type":"node","id":"975","labels":["Genres"],"properties":{"artistgenres":"filter house"}},{"type":"node","id":"976","labels":["Genres"],"properties":{"artistgenres":"french indie pop"}},{"type":"node","id":"977","labels":["Genres"],"properties":{"artistgenres":"french indietronica"}},{"type":"node","id":"978","labels":["Genres"],"properties":{"artistgenres":"new french touch"}},{"type":"node","id":"979","labels":["Genres"],"properties":{"artistgenres":"sertanejo tradicional"}},{"type":"node","id":"980","labels":["Genres"],"properties":{"artistgenres":"spiritual jazz"}},{"type":"node","id":"981","labels":["Genres"],"properties":{"artistgenres":"brega"}},{"type":"node","id":"982","labels":["Genres"],"properties":{"artistgenres":"folktronica"}},{"type":"node","id":"983","labels":["Genres"],"properties":{"artistgenres":"trap soul"}},{"type":"node","id":"984","labels":["Genres"],"properties":{"artistgenres":"float house"}},{"type":"node","id":"985","labels":["Genres"],"properties":{"artistgenres":"channel pop"}},{"type":"node","id":"999","labels":["Genres"],"properties":{"artistgenres":"rock steady"}},{"type":"node","id":"1000","labels":["Genres"],"properties":{"artistgenres":"palm desert scene"}},{"type":"node","id":"1001","labels":["Genres"],"properties":{"artistgenres":"stoner metal"}},{"type":"node","id":"1002","labels":["Genres"],"properties":{"artistgenres":"stoner rock"}},{"type":"node","id":"1003","labels":["Genres"],"properties":{"artistgenres":"vintage schlager"}},{"type":"node","id":"1004","labels":["Genres"],"properties":{"artistgenres":"german dance"}},{"type":"node","id":"1005","labels":["Genres"],"properties":{"artistgenres":"hard rock brasileiro"}},{"type":"node","id":"1006","labels":["Genres"],"properties":{"artistgenres":"rock alternativo brasileiro"}},{"type":"node","id":"1007","labels":["Genres"],"properties":{"artistgenres":"k-hop"}},{"type":"node","id":"1008","labels":["Genres"],"properties":{"artistgenres":"k-pop"}},{"type":"node","id":"1009","labels":["Genres"],"properties":{"artistgenres":"mathcore"}},{"type":"node","id":"1010","labels":["Genres"],"properties":{"artistgenres":"noisecore"}},{"type":"node","id":"1011","labels":["Genres"],"properties":{"artistgenres":"powerviolence"}},{"type":"node","id":"1012","labels":["Genres"],"properties":{"artistgenres":"boston punk"}},{"type":"node","id":"1013","labels":["Genres"],"properties":{"artistgenres":"canadian soundtrack"}},{"type":"node","id":"1048","labels":["Genres"],"properties":{"artistgenres":"japanese indie pop"}},{"type":"node","id":"1049","labels":["Genres"],"properties":{"artistgenres":"technical black metal"}},{"type":"node","id":"1050","labels":["Genres"],"properties":{"artistgenres":"turkish folk"}},{"type":"node","id":"1051","labels":["Genres"],"properties":{"artistgenres":"glitch hop"}},{"type":"node","id":"1052","labels":["Genres"],"properties":{"artistgenres":"atl trap"}},{"type":"node","id":"1053","labels":["Genres"],"properties":{"artistgenres":"northern soul"}},{"type":"node","id":"1054","labels":["Genres"],"properties":{"artistgenres":"west coast rap"}},{"type":"node","id":"1055","labels":["Genres"],"properties":{"artistgenres":"early romantic era"}},{"type":"node","id":"1056","labels":["Genres"],"properties":{"artistgenres":"deathrock"}},{"type":"node","id":"1057","labels":["Genres"],"properties":{"artistgenres":"early modern classical"}},{"type":"node","id":"1058","labels":["Genres"],"properties":{"artistgenres":"russian modern classical"}},{"type":"node","id":"1059","labels":["Genres"],"properties":{"artistgenres":"trip hop"}},{"type":"node","id":"1060","labels":["Genres"],"properties":{"artistgenres":"afro house"}},{"type":"node","id":"1061","labels":["Genres"],"properties":{"artistgenres":"uk dnb"}},{"type":"node","id":"1062","labels":["Genres"],"properties":{"artistgenres":"bay area indie"}},{"type":"node","id":"1063","labels":["Genres"],"properties":{"artistgenres":"shoegaze"}},{"type":"node","id":"1064","labels":["Genres"],"properties":{"artistgenres":"anthem emo"}},{"type":"node","id":"1065","labels":["Genres"],"properties":{"artistgenres":"vapor twitch"}},{"type":"node","id":"1066","labels":["Genres"],"properties":{"artistgenres":"modern salsa"}},{"type":"node","id":"1067","labels":["Genres"],"properties":{"artistgenres":"salsa"}},{"type":"node","id":"1068","labels":["Genres"],"properties":{"artistgenres":"deep comedy"}},{"type":"node","id":"1069","labels":["Genres"],"properties":{"artistgenres":"nu-metalcore"}},{"type":"node","id":"1070","labels":["Genres"],"properties":{"artistgenres":"fingerstyle"}},{"type":"node","id":"1105","labels":["Genres"],"properties":{"artistgenres":"speed garage"}},{"type":"node","id":"1106","labels":["Genres"],"properties":{"artistgenres":"uk funky"}},{"type":"node","id":"1107","labels":["Genres"],"properties":{"artistgenres":"british soundtrack"}},{"type":"node","id":"1108","labels":["Genres"],"properties":{"artistgenres":"alternative hip hop"}},{"type":"node","id":"1109","labels":["Genres"],"properties":{"artistgenres":"jump up"}},{"type":"node","id":"1110","labels":["Genres"],"properties":{"artistgenres":"liquid funk"}},{"type":"node","id":"1111","labels":["Genres"],"properties":{"artistgenres":"old school thrash"}},{"type":"node","id":"1112","labels":["Genres"],"properties":{"artistgenres":"thrash metal"}},{"type":"node","id":"1113","labels":["Genres"],"properties":{"artistgenres":"slow core"}},{"type":"node","id":"1114","labels":["Genres"],"properties":{"artistgenres":"salsa puertorriquena"}},{"type":"node","id":"1115","labels":["Genres"],"properties":{"artistgenres":"belgian dance"}},{"type":"node","id":"1116","labels":["Genres"],"properties":{"artistgenres":"belgian edm"}},{"type":"node","id":"1117","labels":["Genres"],"properties":{"artistgenres":"candy pop"}},{"type":"node","id":"1118","labels":["Genres"],"properties":{"artistgenres":"ska mexicano"}},{"type":"node","id":"1119","labels":["Genres"],"properties":{"artistgenres":"deep big room"}},{"type":"node","id":"1151","labels":["Genres"],"properties":{"artistgenres":"swedish electronic"}},{"type":"node","id":"1152","labels":["Genres"],"properties":{"artistgenres":"cape verdean folk"}},{"type":"node","id":"1153","labels":["Genres"],"properties":{"artistgenres":"morna"}},{"type":"node","id":"1154","labels":["Genres"],"properties":{"artistgenres":"twoubadou"}},{"type":"node","id":"1155","labels":["Genres"],"properties":{"artistgenres":"arabic jazz"}},{"type":"node","id":"1156","labels":["Genres"],"properties":{"artistgenres":"french jazz"}},{"type":"node","id":"1157","labels":["Genres"],"properties":{"artistgenres":"dutch house"}},{"type":"node","id":"1158","labels":["Genres"],"properties":{"artistgenres":"contrabass"}},{"type":"node","id":"1159","labels":["Genres"],"properties":{"artistgenres":"regional mexican pop"}},{"type":"node","id":"1160","labels":["Genres"],"properties":{"artistgenres":"dusseldorf electronic"}},{"type":"node","id":"1161","labels":["Genres"],"properties":{"artistgenres":"krautrock"}},{"type":"node","id":"1162","labels":["Genres"],"properties":{"artistgenres":"proto-techno"}},{"type":"node","id":"1163","labels":["Genres"],"properties":{"artistgenres":"late romantic era"}},{"type":"node","id":"1164","labels":["Genres"],"properties":{"artistgenres":"nu jazz"}},{"type":"node","id":"1165","labels":["Genres"],"properties":{"artistgenres":"malaysian hip hop"}},{"type":"node","id":"1166","labels":["Genres"],"properties":{"artistgenres":"malaysian pop"}},{"type":"node","id":"1167","labels":["Genres"],"properties":{"artistgenres":"reading indie"}},{"type":"node","id":"1168","labels":["Genres"],"properties":{"artistgenres":"classify"}},{"type":"node","id":"1169","labels":["Genres"],"properties":{"artistgenres":"jumpstyle"}},{"type":"node","id":"1170","labels":["Genres"],"properties":{"artistgenres":"classical soprano"}},{"type":"node","id":"1171","labels":["Genres"],"properties":{"artistgenres":"stride"}},{"type":"node","id":"1201","labels":["Genres"],"properties":{"artistgenres":"epicore"}},{"type":"node","id":"1202","labels":["Genres"],"properties":{"artistgenres":"video game music"}},{"type":"node","id":"1203","labels":["Genres"],"properties":{"artistgenres":"uk pop punk"}},{"type":"node","id":"1204","labels":["Genres"],"properties":{"artistgenres":"italian soprano"}},{"type":"node","id":"1205","labels":["Genres"],"properties":{"artistgenres":"modern old-time"}},{"type":"node","id":"1206","labels":["Genres"],"properties":{"artistgenres":"p funk"}},{"type":"node","id":"1207","labels":["Genres"],"properties":{"artistgenres":"rhythm and blues"}},{"type":"node","id":"1208","labels":["Genres"],"properties":{"artistgenres":"acoustic blues"}},{"type":"node","id":"1209","labels":["Genres"],"properties":{"artistgenres":"country blues"}},{"type":"node","id":"1210","labels":["Genres"],"properties":{"artistgenres":"delta blues"}},{"type":"node","id":"1211","labels":["Genres"],"properties":{"artistgenres":"brazilian composition"}},{"type":"node","id":"1212","labels":["Genres"],"properties":{"artistgenres":"brazilian indie"}},{"type":"node","id":"1213","labels":["Genres"],"properties":{"artistgenres":"cantautor"}},{"type":"node","id":"1214","labels":["Genres"],"properties":{"artistgenres":"nova canco"}},{"type":"node","id":"1215","labels":["Genres"],"properties":{"artistgenres":"nueva cancion"}},{"type":"node","id":"1216","labels":["Genres"],"properties":{"artistgenres":"trova"}},{"type":"node","id":"1217","labels":["Genres"],"properties":{"artistgenres":"miami hip hop"}},{"type":"node","id":"1218","labels":["Genres"],"properties":{"artistgenres":"nu disco"}},{"type":"node","id":"1219","labels":["Genres"],"properties":{"artistgenres":"indonesian pop"}},{"type":"node","id":"1220","labels":["Genres"],"properties":{"artistgenres":"celtic rock"}},{"type":"node","id":"1221","labels":["Genres"],"properties":{"artistgenres":"scottish rock"}},{"type":"node","id":"1222","labels":["Genres"],"properties":{"artistgenres":"g funk"}},{"type":"node","id":"1223","labels":["Genres"],"properties":{"artistgenres":"sheffield indie"}},{"type":"node","id":"1259","labels":["Genres"],"properties":{"artistgenres":"norwegian doom metal"}},{"type":"node","id":"1260","labels":["Genres"],"properties":{"artistgenres":"mexican rock"}},{"type":"node","id":"1261","labels":["Genres"],"properties":{"artistgenres":"violao"}},{"type":"node","id":"1262","labels":["Genres"],"properties":{"artistgenres":"instrumental soul"}},{"type":"node","id":"1263","labels":["Genres"],"properties":{"artistgenres":"modern performance"}},{"type":"node","id":"1264","labels":["Genres"],"properties":{"artistgenres":"socal pop punk"}},{"type":"node","id":"1265","labels":["Genres"],"properties":{"artistgenres":"drumfunk"}},{"type":"node","id":"1266","labels":["Genres"],"properties":{"artistgenres":"uk alternative hip hop"}},{"type":"node","id":"1267","labels":["Genres"],"properties":{"artistgenres":"black thrash"}},{"type":"node","id":"1268","labels":["Genres"],"properties":{"artistgenres":"crust punk"}},{"type":"node","id":"1269","labels":["Genres"],"properties":{"artistgenres":"voidgrind"}},{"type":"node","id":"1270","labels":["Genres"],"properties":{"artistgenres":"japanese garage rock"}},{"type":"node","id":"1271","labels":["Genres"],"properties":{"artistgenres":"japanese girl punk"}},{"type":"node","id":"1272","labels":["Genres"],"properties":{"artistgenres":"japanese punk rock"}},{"type":"node","id":"1273","labels":["Genres"],"properties":{"artistgenres":"hamburg electronic"}},{"type":"node","id":"1274","labels":["Genres"],"properties":{"artistgenres":"celtic"}},{"type":"node","id":"1275","labels":["Genres"],"properties":{"artistgenres":"middle earth"}},{"type":"node","id":"1276","labels":["Genres"],"properties":{"artistgenres":"anime"}},{"type":"node","id":"1277","labels":["Genres"],"properties":{"artistgenres":"anime rock"}},{"type":"node","id":"1278","labels":["Genres"],"properties":{"artistgenres":"j-pixie"}},{"type":"node","id":"1279","labels":["Genres"],"properties":{"artistgenres":"dixieland"}},{"type":"node","id":"1280","labels":["Genres"],"properties":{"artistgenres":"naija worship"}},{"type":"node","id":"1281","labels":["Genres"],"properties":{"artistgenres":"world worship"}},{"type":"node","id":"1282","labels":["Genres"],"properties":{"artistgenres":"bassline"}},{"type":"node","id":"1283","labels":["Genres"],"properties":{"artistgenres":"belgian pop"}},{"type":"node","id":"1314","labels":["Genres"],"properties":{"artistgenres":"girl group"}},{"type":"node","id":"1315","labels":["Genres"],"properties":{"artistgenres":"partyschlager"}},{"type":"node","id":"1316","labels":["Genres"],"properties":{"artistgenres":"colombian pop"}},{"type":"node","id":"1317","labels":["Genres"],"properties":{"artistgenres":"r&b en espanol"}},{"type":"node","id":"1318","labels":["Genres"],"properties":{"artistgenres":"canzone d'autore"}},{"type":"node","id":"1319","labels":["Genres"],"properties":{"artistgenres":"orchestral performance"}},{"type":"node","id":"1320","labels":["Genres"],"properties":{"artistgenres":"j-acoustic"}},{"type":"node","id":"1321","labels":["Genres"],"properties":{"artistgenres":"japanese city pop"}},{"type":"node","id":"1322","labels":["Genres"],"properties":{"artistgenres":"jam band"}},{"type":"node","id":"1323","labels":["Genres"],"properties":{"artistgenres":"jamgrass"}},{"type":"node","id":"1324","labels":["Genres"],"properties":{"artistgenres":"string band"}},{"type":"node","id":"1325","labels":["Genres"],"properties":{"artistgenres":"dreamo"}},{"type":"node","id":"1326","labels":["Genres"],"properties":{"artistgenres":"hampton roads indie"}},{"type":"node","id":"1327","labels":["Genres"],"properties":{"artistgenres":"canadian country"}},{"type":"node","id":"1328","labels":["Genres"],"properties":{"artistgenres":"boy band"}},{"type":"node","id":"1329","labels":["Genres"],"properties":{"artistgenres":"old school dancehall"}},{"type":"node","id":"1330","labels":["Genres"],"properties":{"artistgenres":"ecm-style jazz"}},{"type":"node","id":"1331","labels":["Genres"],"properties":{"artistgenres":"jazz piano"}},{"type":"node","id":"1332","labels":["Genres"],"properties":{"artistgenres":"american post-rock"}},{"type":"node","id":"1367","labels":["Genres"],"properties":{"artistgenres":"australian indie folk"}},{"type":"node","id":"1368","labels":["Genres"],"properties":{"artistgenres":"canzone napoletana"}},{"type":"node","id":"1369","labels":["Genres"],"properties":{"artistgenres":"classical tenor"}},{"type":"node","id":"1370","labels":["Genres"],"properties":{"artistgenres":"italian tenor"}},{"type":"node","id":"1371","labels":["Genres"],"properties":{"artistgenres":"operatic pop"}},{"type":"node","id":"1372","labels":["Genres"],"properties":{"artistgenres":"coverchill"}},{"type":"node","id":"1373","labels":["Genres"],"properties":{"artistgenres":"bmore"}},{"type":"node","id":"1374","labels":["Genres"],"properties":{"artistgenres":"lgbtq+ hip hop"}},{"type":"node","id":"1375","labels":["Genres"],"properties":{"artistgenres":"jazztronica"}},{"type":"node","id":"1376","labels":["Genres"],"properties":{"artistgenres":"livetronica"}},{"type":"node","id":"1377","labels":["Genres"],"properties":{"artistgenres":"doom metal"}},{"type":"node","id":"1378","labels":["Genres"],"properties":{"artistgenres":"drone metal"}},{"type":"node","id":"1379","labels":["Genres"],"properties":{"artistgenres":"psychedelic doom"}},{"type":"node","id":"1380","labels":["Genres"],"properties":{"artistgenres":"sludge metal"}},{"type":"node","id":"1381","labels":["Genres"],"properties":{"artistgenres":"space rock"}},{"type":"node","id":"1382","labels":["Genres"],"properties":{"artistgenres":"uk doom metal"}},{"type":"node","id":"1383","labels":["Genres"],"properties":{"artistgenres":"japanese post-hardcore"}},{"type":"node","id":"1384","labels":["Genres"],"properties":{"artistgenres":"trap latino"}},{"type":"node","id":"1385","labels":["Genres"],"properties":{"artistgenres":"latin classical"}},{"type":"node","id":"1386","labels":["Genres"],"properties":{"artistgenres":"nuevo tango"}},{"type":"node","id":"1387","labels":["Genres"],"properties":{"artistgenres":"anime score"}},{"type":"node","id":"1388","labels":["Genres"],"properties":{"artistgenres":"japanese classical"}},{"type":"node","id":"1389","labels":["Genres"],"properties":{"artistgenres":"japanese soundtrack"}},{"type":"node","id":"1390","labels":["Genres"],"properties":{"artistgenres":"modern power pop"}},{"type":"node","id":"1418","labels":["Genres"],"properties":{"artistgenres":"classic cantopop"}},{"type":"node","id":"1419","labels":["Genres"],"properties":{"artistgenres":"latin jazz"}},{"type":"node","id":"1420","labels":["Genres"],"properties":{"artistgenres":"rap dominicano"}},{"type":"node","id":"1421","labels":["Genres"],"properties":{"artistgenres":"underground hip hop"}},{"type":"node","id":"1422","labels":["Genres"],"properties":{"artistgenres":"dutch edm"}},{"type":"node","id":"1423","labels":["Genres"],"properties":{"artistgenres":"pop violin"}},{"type":"node","id":"1424","labels":["Genres"],"properties":{"artistgenres":"oxford indie"}},{"type":"node","id":"1425","labels":["Genres"],"properties":{"artistgenres":"melodic techno"}},{"type":"node","id":"1426","labels":["Genres"],"properties":{"artistgenres":"flamenco"}},{"type":"node","id":"1427","labels":["Genres"],"properties":{"artistgenres":"rumba"}},{"type":"node","id":"1428","labels":["Genres"],"properties":{"artistgenres":"rumba catalana"}},{"type":"node","id":"1429","labels":["Genres"],"properties":{"artistgenres":"doo-wop"}},{"type":"node","id":"1430","labels":["Genres"],"properties":{"artistgenres":"violin"}},{"type":"node","id":"1431","labels":["Genres"],"properties":{"artistgenres":"german soundtrack"}},{"type":"node","id":"1432","labels":["Genres"],"properties":{"artistgenres":"detroit hip hop"}},{"type":"node","id":"1435","labels":["Genres"],"properties":{"artistgenres":"australian metal"}},{"type":"node","id":"1436","labels":["Genres"],"properties":{"artistgenres":"technical brutal death metal"}},{"type":"node","id":"1468","labels":["Genres"],"properties":{"artistgenres":"cartoon"}},{"type":"node","id":"1469","labels":["Genres"],"properties":{"artistgenres":"japanese techno"}},{"type":"node","id":"1470","labels":["Genres"],"properties":{"artistgenres":"nursery"}},{"type":"node","id":"1471","labels":["Genres"],"properties":{"artistgenres":"jazz guitar"}},{"type":"node","id":"1472","labels":["Genres"],"properties":{"artistgenres":"funky tech house"}},{"type":"node","id":"1473","labels":["Genres"],"properties":{"artistgenres":"baroque"}},{"type":"node","id":"1474","labels":["Genres"],"properties":{"artistgenres":"english baroque"}},{"type":"node","id":"1475","labels":["Genres"],"properties":{"artistgenres":"emo punk"}},{"type":"node","id":"1476","labels":["Genres"],"properties":{"artistgenres":"folk metal"}},{"type":"node","id":"1477","labels":["Genres"],"properties":{"artistgenres":"progressive black metal"}},{"type":"node","id":"1478","labels":["Genres"],"properties":{"artistgenres":"healing"}},{"type":"node","id":"1479","labels":["Genres"],"properties":{"artistgenres":"new age"}},{"type":"node","id":"1511","labels":["Genres"],"properties":{"artistgenres":"new jersey hardcore"}},{"type":"node","id":"1512","labels":["Genres"],"properties":{"artistgenres":"new jersey punk"}},{"type":"node","id":"1513","labels":["Genres"],"properties":{"artistgenres":"canadian psychedelic rock"}},{"type":"node","id":"1514","labels":["Genres"],"properties":{"artistgenres":"chicago blues"}},{"type":"node","id":"1515","labels":["Genres"],"properties":{"artistgenres":"soul blues"}},{"type":"node","id":"1516","labels":["Genres"],"properties":{"artistgenres":"nouvelle chanson francaise"}},{"type":"node","id":"1517","labels":["Genres"],"properties":{"artistgenres":"garage psych"}},{"type":"node","id":"1518","labels":["Genres"],"properties":{"artistgenres":"chillstep"}},{"type":"node","id":"1519","labels":["Genres"],"properties":{"artistgenres":"substep"}},{"type":"node","id":"1520","labels":["Genres"],"properties":{"artistgenres":"bass trap"}},{"type":"node","id":"1521","labels":["Genres"],"properties":{"artistgenres":"funk metal"}},{"type":"node","id":"1522","labels":["Genres"],"properties":{"artistgenres":"j-punk"}},{"type":"node","id":"1523","labels":["Genres"],"properties":{"artistgenres":"okinawan pop"}},{"type":"node","id":"1548","labels":["Genres"],"properties":{"artistgenres":"instrumental surf"}},{"type":"node","id":"1549","labels":["Genres"],"properties":{"artistgenres":"kiwi rock"}},{"type":"node","id":"1550","labels":["Genres"],"properties":{"artistgenres":"portland hip hop"}},{"type":"node","id":"1551","labels":["Genres"],"properties":{"artistgenres":"mariachi"}},{"type":"node","id":"1552","labels":["Genres"],"properties":{"artistgenres":"german pop rock"}},{"type":"node","id":"1553","labels":["Genres"],"properties":{"artistgenres":"progressive rock"}},{"type":"node","id":"1554","labels":["Genres"],"properties":{"artistgenres":"symphonic rock"}},{"type":"node","id":"1555","labels":["Genres"],"properties":{"artistgenres":"hindustani classical"}},{"type":"node","id":"1556","labels":["Genres"],"properties":{"artistgenres":"hindustani instrumental"}},{"type":"node","id":"1557","labels":["Genres"],"properties":{"artistgenres":"indian classical"}},{"type":"node","id":"1558","labels":["Genres"],"properties":{"artistgenres":"chicago drill"}},{"type":"node","id":"1559","labels":["Genres"],"properties":{"artistgenres":"chicago rap"}},{"type":"node","id":"1560","labels":["Genres"],"properties":{"artistgenres":"drill"}},{"type":"node","id":"1561","labels":["Genres"],"properties":{"artistgenres":"irish rock"}},{"type":"node","id":"1591","labels":["Genres"],"properties":{"artistgenres":"lo-fi"}},{"type":"node","id":"1592","labels":["Genres"],"properties":{"artistgenres":"new jersey indie"}},{"type":"node","id":"1593","labels":["Genres"],"properties":{"artistgenres":"chicago punk"}},{"type":"node","id":"1594","labels":["Genres"],"properties":{"artistgenres":"folk punk"}},{"type":"node","id":"1595","labels":["Genres"],"properties":{"artistgenres":"melodic hardcore"}},{"type":"node","id":"1596","labels":["Genres"],"properties":{"artistgenres":"orgcore"}},{"type":"node","id":"1597","labels":["Genres"],"properties":{"artistgenres":"power-pop punk"}},{"type":"node","id":"1598","labels":["Genres"],"properties":{"artistgenres":"filthstep"}},{"type":"node","id":"1599","labels":["Genres"],"properties":{"artistgenres":"zapstep"}},{"type":"node","id":"1600","labels":["Genres"],"properties":{"artistgenres":"romanian pop"}},{"type":"node","id":"1601","labels":["Genres"],"properties":{"artistgenres":"cinematic post-rock"}},{"type":"node","id":"1602","labels":["Genres"],"properties":{"artistgenres":"instrumental post-rock"}},{"type":"node","id":"1603","labels":["Genres"],"properties":{"artistgenres":"wassoulou"}},{"type":"node","id":"1604","labels":["Genres"],"properties":{"artistgenres":"happy hardcore"}},{"type":"node","id":"1605","labels":["Genres"],"properties":{"artistgenres":"british choir"}},{"type":"node","id":"1606","labels":["Genres"],"properties":{"artistgenres":"fidget house"}},{"type":"node","id":"1607","labels":["Genres"],"properties":{"artistgenres":"nz electronic"}},{"type":"node","id":"1608","labels":["Genres"],"properties":{"artistgenres":"makossa"}},{"type":"node","id":"1609","labels":["Genres"],"properties":{"artistgenres":"soukous"}},{"type":"node","id":"1610","labels":["Genres"],"properties":{"artistgenres":"portland indie"}},{"type":"node","id":"1624","labels":["Genres"],"properties":{"artistgenres":"progressive sludge"}},{"type":"node","id":"1625","labels":["Genres"],"properties":{"artistgenres":"birmingham metal"}},{"type":"node","id":"1626","labels":["Genres"],"properties":{"artistgenres":"atmospheric dnb"}},{"type":"node","id":"1627","labels":["Genres"],"properties":{"artistgenres":"jungle"}},{"type":"node","id":"1628","labels":["Genres"],"properties":{"artistgenres":"neurofunk"}},{"type":"node","id":"1629","labels":["Genres"],"properties":{"artistgenres":"forro tradicional"}},{"type":"node","id":"1630","labels":["Genres"],"properties":{"artistgenres":"mbalax"}},{"type":"node","id":"1661","labels":["Genres"],"properties":{"artistgenres":"wrestling"}},{"type":"node","id":"1662","labels":["Genres"],"properties":{"artistgenres":"danish metal"}},{"type":"node","id":"1663","labels":["Genres"],"properties":{"artistgenres":"detroit house"}},{"type":"node","id":"1664","labels":["Genres"],"properties":{"artistgenres":"german alternative rap"}},{"type":"node","id":"1665","labels":["Genres"],"properties":{"artistgenres":"german indie"}},{"type":"node","id":"1666","labels":["Genres"],"properties":{"artistgenres":"liedermacher"}},{"type":"node","id":"1667","labels":["Genres"],"properties":{"artistgenres":"psychill"}},{"type":"node","id":"1668","labels":["Genres"],"properties":{"artistgenres":"space ambient"}},{"type":"node","id":"1669","labels":["Genres"],"properties":{"artistgenres":"kc indie"}},{"type":"node","id":"1670","labels":["Genres"],"properties":{"artistgenres":"midwest emo"}},{"type":"node","id":"1671","labels":["Genres"],"properties":{"artistgenres":"classical mandolin"}},{"type":"node","id":"1672","labels":["Genres"],"properties":{"artistgenres":"instrumental bluegrass"}},{"type":"node","id":"1673","labels":["Genres"],"properties":{"artistgenres":"american folk revival"}},{"type":"node","id":"1674","labels":["Genres"],"properties":{"artistgenres":"bubblegum pop"}},{"type":"node","id":"1711","labels":["Genres"],"properties":{"artistgenres":"psych gaze"}},{"type":"node","id":"1712","labels":["Genres"],"properties":{"artistgenres":"boogaloo"}},{"type":"node","id":"1713","labels":["Genres"],"properties":{"artistgenres":"cali rap"}},{"type":"node","id":"1714","labels":["Genres"],"properties":{"artistgenres":"hyphy"}},{"type":"node","id":"1715","labels":["Genres"],"properties":{"artistgenres":"west coast trap"}},{"type":"node","id":"1716","labels":["Genres"],"properties":{"artistgenres":"uk metalcore"}},{"type":"node","id":"1717","labels":["Genres"],"properties":{"artistgenres":"la indie"}},{"type":"node","id":"1718","labels":["Genres"],"properties":{"artistgenres":"piano blues"}},{"type":"node","id":"1719","labels":["Genres"],"properties":{"artistgenres":"hands up"}},{"type":"node","id":"1720","labels":["Genres"],"properties":{"artistgenres":"turntablism"}},{"type":"node","id":"1721","labels":["Genres"],"properties":{"artistgenres":"finnish edm"}},{"type":"node","id":"1722","labels":["Genres"],"properties":{"artistgenres":"honky tonk"}},{"type":"node","id":"1723","labels":["Genres"],"properties":{"artistgenres":"appalachian folk"}},{"type":"node","id":"1756","labels":["Genres"],"properties":{"artistgenres":"traditional country"}},{"type":"node","id":"1757","labels":["Genres"],"properties":{"artistgenres":"yodeling"}},{"type":"node","id":"1758","labels":["Genres"],"properties":{"artistgenres":"florida death metal"}},{"type":"node","id":"1759","labels":["Genres"],"properties":{"artistgenres":"latin house"}},{"type":"node","id":"1760","labels":["Genres"],"properties":{"artistgenres":"classical cello"}},{"type":"node","id":"1761","labels":["Genres"],"properties":{"artistgenres":"modern ska punk"}},{"type":"node","id":"1762","labels":["Genres"],"properties":{"artistgenres":"nu skool breaks"}},{"type":"node","id":"1763","labels":["Genres"],"properties":{"artistgenres":"cuban rumba"}},{"type":"node","id":"1764","labels":["Genres"],"properties":{"artistgenres":"nordic soundtrack"}},{"type":"node","id":"1765","labels":["Genres"],"properties":{"artistgenres":"classic uk pop"}},{"type":"node","id":"1766","labels":["Genres"],"properties":{"artistgenres":"nederpop"}},{"type":"node","id":"1767","labels":["Genres"],"properties":{"artistgenres":"dc hardcore"}},{"type":"node","id":"1768","labels":["Genres"],"properties":{"artistgenres":"straight edge"}},{"type":"node","id":"1769","labels":["Genres"],"properties":{"artistgenres":"denpa-kei"}},{"type":"node","id":"1770","labels":["Genres"],"properties":{"artistgenres":"dominican pop"}},{"type":"node","id":"1771","labels":["Genres"],"properties":{"artistgenres":"ecuadorian pop"}},{"type":"node","id":"1772","labels":["Genres"],"properties":{"artistgenres":"chicago hardcore"}},{"type":"node","id":"1803","labels":["Genres"],"properties":{"artistgenres":"spanish pop rock"}},{"type":"node","id":"1804","labels":["Genres"],"properties":{"artistgenres":"mangue bit"}},{"type":"node","id":"1805","labels":["Genres"],"properties":{"artistgenres":"pernambuco alternative"}},{"type":"node","id":"1806","labels":["Genres"],"properties":{"artistgenres":"progressive trance house"}},{"type":"node","id":"1807","labels":["Genres"],"properties":{"artistgenres":"swedish punk"}},{"type":"node","id":"1808","labels":["Genres"],"properties":{"artistgenres":"bayerischer rap"}},{"type":"node","id":"1809","labels":["Genres"],"properties":{"artistgenres":"british alternative rock"}},{"type":"node","id":"1810","labels":["Genres"],"properties":{"artistgenres":"southern rock"}},{"type":"node","id":"1811","labels":["Genres"],"properties":{"artistgenres":"taiwan singer-songwriter"}}]}
+{"u":{"type":"node","id":"8121","labels":["Genres"],"properties":{"artistgenres":"art rock"}}}
+{"u":{"type":"node","id":"8122","labels":["Genres"],"properties":{"artistgenres":"britpop"}}}
+{"u":{"type":"node","id":"8123","labels":["Genres"],"properties":{"artistgenres":"dance rock"}}}
+{"u":{"type":"node","id":"8124","labels":["Genres"],"properties":{"artistgenres":"madchester"}}}
+{"u":{"type":"node","id":"8125","labels":["Genres"],"properties":{"artistgenres":"new romantic"}}}
+{"u":{"type":"node","id":"8126","labels":["Genres"],"properties":{"artistgenres":"new wave"}}}
+{"u":{"type":"node","id":"8127","labels":["Genres"],"properties":{"artistgenres":"new wave pop"}}}
+{"u":{"type":"node","id":"8128","labels":["Genres"],"properties":{"artistgenres":"permanent wave"}}}
+{"u":{"type":"node","id":"8129","labels":["Genres"],"properties":{"artistgenres":"post-punk"}}}
+{"u":{"type":"node","id":"8130","labels":["Genres"],"properties":{"artistgenres":"rock"}}}
+{"u":{"type":"node","id":"8131","labels":["Genres"],"properties":{"artistgenres":"synthpop"}}}
+{"u":{"type":"node","id":"8132","labels":["Genres"],"properties":{"artistgenres":"uk post-punk"}}}
+{"u":{"type":"node","id":"8133","labels":["Genres"],"properties":{"artistgenres":"adult standards"}}}
+{"u":{"type":"node","id":"8134","labels":["Genres"],"properties":{"artistgenres":"brill building pop"}}}
+{"u":{"type":"node","id":"8135","labels":["Genres"],"properties":{"artistgenres":"lounge"}}}
+{"u":{"type":"node","id":"8136","labels":["Genres"],"properties":{"artistgenres":"soul"}}}
+{"u":{"type":"node","id":"8137","labels":["Genres"],"properties":{"artistgenres":"swing"}}}
+{"u":{"type":"node","id":"8138","labels":["Genres"],"properties":{"artistgenres":"torch song"}}}
+{"u":{"type":"node","id":"8139","labels":["Genres"],"properties":{"artistgenres":"vocal jazz"}}}
+{"u":{"type":"node","id":"8140","labels":["Genres"],"properties":{"artistgenres":"alternative rock"}}}
+{"u":{"type":"node","id":"8141","labels":["Genres"],"properties":{"artistgenres":"blues rock"}}}
+{"u":{"type":"node","id":"8142","labels":["Genres"],"properties":{"artistgenres":"garage rock"}}}
+{"u":{"type":"node","id":"8143","labels":["Genres"],"properties":{"artistgenres":"modern blues rock"}}}
+{"u":{"type":"node","id":"8144","labels":["Genres"],"properties":{"artistgenres":"modern rock"}}}
+{"u":{"type":"node","id":"8145","labels":["Genres"],"properties":{"artistgenres":"punk blues"}}}
+{"u":{"type":"node","id":"8146","labels":["Genres"],"properties":{"artistgenres":"shimmer pop"}}}
+{"u":{"type":"node","id":"8147","labels":["Genres"],"properties":{"artistgenres":"shiver pop"}}}
+{"u":{"type":"node","id":"8148","labels":["Genres"],"properties":{"artistgenres":"folk-pop"}}}
+{"u":{"type":"node","id":"8149","labels":["Genres"],"properties":{"artistgenres":"stomp and holler"}}}
+{"u":{"type":"node","id":"8150","labels":["Genres"],"properties":{"artistgenres":"experimental rock"}}}
+{"u":{"type":"node","id":"8151","labels":["Genres"],"properties":{"artistgenres":"grunge"}}}
+{"u":{"type":"node","id":"8152","labels":["Genres"],"properties":{"artistgenres":"noise rock"}}}
+{"u":{"type":"node","id":"8153","labels":["Genres"],"properties":{"artistgenres":"post-hardcore"}}}
+{"u":{"type":"node","id":"8154","labels":["Genres"],"properties":{"artistgenres":"psychedelic punk"}}}
+{"u":{"type":"node","id":"8155","labels":["Genres"],"properties":{"artistgenres":"punk"}}}
+{"u":{"type":"node","id":"8156","labels":["Genres"],"properties":{"artistgenres":"german hip hop"}}}
+{"u":{"type":"node","id":"8157","labels":["Genres"],"properties":{"artistgenres":"german pop"}}}
+{"u":{"type":"node","id":"8158","labels":["Genres"],"properties":{"artistgenres":"ambient black metal"}}}
+{"u":{"type":"node","id":"8159","labels":["Genres"],"properties":{"artistgenres":"atmospheric black metal"}}}
+{"u":{"type":"node","id":"8160","labels":["Genres"],"properties":{"artistgenres":"autonomous black metal"}}}
+{"u":{"type":"node","id":"8161","labels":["Genres"],"properties":{"artistgenres":"black metal"}}}
+{"u":{"type":"node","id":"8162","labels":["Genres"],"properties":{"artistgenres":"dungeon synth"}}}
+{"u":{"type":"node","id":"8163","labels":["Genres"],"properties":{"artistgenres":"metal"}}}
+{"u":{"type":"node","id":"8164","labels":["Genres"],"properties":{"artistgenres":"norwegian black metal"}}}
+{"u":{"type":"node","id":"8165","labels":["Genres"],"properties":{"artistgenres":"norwegian metal"}}}
+{"u":{"type":"node","id":"8166","labels":["Genres"],"properties":{"artistgenres":"pagan black metal"}}}
+{"u":{"type":"node","id":"8167","labels":["Genres"],"properties":{"artistgenres":"symphonic black metal"}}}
+{"u":{"type":"node","id":"8168","labels":["Genres"],"properties":{"artistgenres":"progressive house"}}}
+{"u":{"type":"node","id":"8169","labels":["Genres"],"properties":{"artistgenres":"trance"}}}
+{"u":{"type":"node","id":"8170","labels":["Genres"],"properties":{"artistgenres":"uplifting trance"}}}
+{"u":{"type":"node","id":"8171","labels":["Genres"],"properties":{"artistgenres":"big band"}}}
+{"u":{"type":"node","id":"8172","labels":["Genres"],"properties":{"artistgenres":"easy listening"}}}
+{"u":{"type":"node","id":"8173","labels":["Genres"],"properties":{"artistgenres":"exotica"}}}
+{"u":{"type":"node","id":"8174","labels":["Genres"],"properties":{"artistgenres":"europop"}}}
+{"u":{"type":"node","id":"8175","labels":["Genres"],"properties":{"artistgenres":"swedish pop"}}}
+{"u":{"type":"node","id":"8176","labels":["Genres"],"properties":{"artistgenres":"atl hip hop"}}}
+{"u":{"type":"node","id":"8177","labels":["Genres"],"properties":{"artistgenres":"dance pop"}}}
+{"u":{"type":"node","id":"8178","labels":["Genres"],"properties":{"artistgenres":"hip hop"}}}
+{"u":{"type":"node","id":"8179","labels":["Genres"],"properties":{"artistgenres":"pop"}}}
+{"u":{"type":"node","id":"8180","labels":["Genres"],"properties":{"artistgenres":"pop rap"}}}
+{"u":{"type":"node","id":"8181","labels":["Genres"],"properties":{"artistgenres":"rap"}}}
+{"u":{"type":"node","id":"8182","labels":["Genres"],"properties":{"artistgenres":"southern hip hop"}}}
+{"u":{"type":"node","id":"8183","labels":["Genres"],"properties":{"artistgenres":"classic soul"}}}
+{"u":{"type":"node","id":"8184","labels":["Genres"],"properties":{"artistgenres":"jazz blues"}}}
+{"u":{"type":"node","id":"8185","labels":["Genres"],"properties":{"artistgenres":"memphis soul"}}}
+{"u":{"type":"node","id":"8186","labels":["Genres"],"properties":{"artistgenres":"southern soul"}}}
+{"u":{"type":"node","id":"8187","labels":["Genres"],"properties":{"artistgenres":"j-pop girl group"}}}
+{"u":{"type":"node","id":"8188","labels":["Genres"],"properties":{"artistgenres":"neo mellow"}}}
+{"u":{"type":"node","id":"8189","labels":["Genres"],"properties":{"artistgenres":"pop rock"}}}
+{"u":{"type":"node","id":"8190","labels":["Genres"],"properties":{"artistgenres":"post-grunge"}}}
+{"u":{"type":"node","id":"8191","labels":["Genres"],"properties":{"artistgenres":"contemporary country"}}}
+{"u":{"type":"node","id":"8192","labels":["Genres"],"properties":{"artistgenres":"country"}}}
+{"u":{"type":"node","id":"8193","labels":["Genres"],"properties":{"artistgenres":"country road"}}}
+{"u":{"type":"node","id":"8194","labels":["Genres"],"properties":{"artistgenres":"oklahoma country"}}}
+{"u":{"type":"node","id":"8195","labels":["Genres"],"properties":{"artistgenres":"texas country"}}}
+{"u":{"type":"node","id":"8196","labels":["Genres"],"properties":{"artistgenres":"disco"}}}
+{"u":{"type":"node","id":"8197","labels":["Genres"],"properties":{"artistgenres":"motown"}}}
+{"u":{"type":"node","id":"8198","labels":["Genres"],"properties":{"artistgenres":"philly soul"}}}
+{"u":{"type":"node","id":"8199","labels":["Genres"],"properties":{"artistgenres":"quiet storm"}}}
+{"u":{"type":"node","id":"8200","labels":["Genres"],"properties":{"artistgenres":"gospel"}}}
+{"u":{"type":"node","id":"8201","labels":["Genres"],"properties":{"artistgenres":"praise"}}}
+{"u":{"type":"node","id":"8202","labels":["Genres"],"properties":{"artistgenres":"bow pop"}}}
+{"u":{"type":"node","id":"8203","labels":["Genres"],"properties":{"artistgenres":"compositional ambient"}}}
+{"u":{"type":"node","id":"8204","labels":["Genres"],"properties":{"artistgenres":"neo-classical"}}}
+{"u":{"type":"node","id":"8205","labels":["Genres"],"properties":{"artistgenres":"album rock"}}}
+{"u":{"type":"node","id":"8206","labels":["Genres"],"properties":{"artistgenres":"glam metal"}}}
+{"u":{"type":"node","id":"8207","labels":["Genres"],"properties":{"artistgenres":"hard rock"}}}
+{"u":{"type":"node","id":"8208","labels":["Genres"],"properties":{"artistgenres":"swedish hard rock"}}}
+{"u":{"type":"node","id":"8209","labels":["Genres"],"properties":{"artistgenres":"swedish americana"}}}
+{"u":{"type":"node","id":"8210","labels":["Genres"],"properties":{"artistgenres":"swedish country"}}}
+{"u":{"type":"node","id":"8211","labels":["Genres"],"properties":{"artistgenres":"english indie rock"}}}
+{"u":{"type":"node","id":"8212","labels":["Genres"],"properties":{"artistgenres":"modern alternative rock"}}}
+{"u":{"type":"node","id":"8213","labels":["Genres"],"properties":{"artistgenres":"funk"}}}
+{"u":{"type":"node","id":"8214","labels":["Genres"],"properties":{"artistgenres":"new jack swing"}}}
+{"u":{"type":"node","id":"8215","labels":["Genres"],"properties":{"artistgenres":"popping"}}}
+{"u":{"type":"node","id":"8216","labels":["Genres"],"properties":{"artistgenres":"post-disco"}}}
+{"u":{"type":"node","id":"8217","labels":["Genres"],"properties":{"artistgenres":"urban contemporary"}}}
+{"u":{"type":"node","id":"8218","labels":["Genres"],"properties":{"artistgenres":"chicago soul"}}}
+{"u":{"type":"node","id":"8219","labels":["Genres"],"properties":{"artistgenres":"j-division"}}}
+{"u":{"type":"node","id":"8220","labels":["Genres"],"properties":{"artistgenres":"classic swedish pop"}}}
+{"u":{"type":"node","id":"8221","labels":["Genres"],"properties":{"artistgenres":"danspunk"}}}
+{"u":{"type":"node","id":"8254","labels":["Genres"],"properties":{"artistgenres":"swedish alternative rock"}}}
+{"u":{"type":"node","id":"8255","labels":["Genres"],"properties":{"artistgenres":"swedish prog"}}}
+{"u":{"type":"node","id":"8256","labels":["Genres"],"properties":{"artistgenres":"indie pop"}}}
+{"u":{"type":"node","id":"8257","labels":["Genres"],"properties":{"artistgenres":"indie rock"}}}
+{"u":{"type":"node","id":"8258","labels":["Genres"],"properties":{"artistgenres":"washington indie"}}}
+{"u":{"type":"node","id":"8259","labels":["Genres"],"properties":{"artistgenres":"classic soundtrack"}}}
+{"u":{"type":"node","id":"8260","labels":["Genres"],"properties":{"artistgenres":"italian soundtrack"}}}
+{"u":{"type":"node","id":"8261","labels":["Genres"],"properties":{"artistgenres":"soundtrack"}}}
+{"u":{"type":"node","id":"8262","labels":["Genres"],"properties":{"artistgenres":"vintage italian soundtrack"}}}
+{"u":{"type":"node","id":"8263","labels":["Genres"],"properties":{"artistgenres":"afghan pop"}}}
+{"u":{"type":"node","id":"8264","labels":["Genres"],"properties":{"artistgenres":"classic persian pop"}}}
+{"u":{"type":"node","id":"8265","labels":["Genres"],"properties":{"artistgenres":"idol rock"}}}
+{"u":{"type":"node","id":"8266","labels":["Genres"],"properties":{"artistgenres":"j-idol"}}}
+{"u":{"type":"node","id":"8267","labels":["Genres"],"properties":{"artistgenres":"swedish tropical house"}}}
+{"u":{"type":"node","id":"8268","labels":["Genres"],"properties":{"artistgenres":"modern reggae"}}}
+{"u":{"type":"node","id":"8269","labels":["Genres"],"properties":{"artistgenres":"reggae"}}}
+{"u":{"type":"node","id":"8270","labels":["Genres"],"properties":{"artistgenres":"alternative metal"}}}
+{"u":{"type":"node","id":"8271","labels":["Genres"],"properties":{"artistgenres":"nu metal"}}}
+{"u":{"type":"node","id":"8272","labels":["Genres"],"properties":{"artistgenres":"rap metal"}}}
+{"u":{"type":"node","id":"8273","labels":["Genres"],"properties":{"artistgenres":"rap rock"}}}
+{"u":{"type":"node","id":"8274","labels":["Genres"],"properties":{"artistgenres":"banjo"}}}
+{"u":{"type":"node","id":"8275","labels":["Genres"],"properties":{"artistgenres":"bluegrass"}}}
+{"u":{"type":"node","id":"8276","labels":["Genres"],"properties":{"artistgenres":"progressive bluegrass"}}}
+{"u":{"type":"node","id":"8277","labels":["Genres"],"properties":{"artistgenres":"traditional bluegrass"}}}
+{"u":{"type":"node","id":"8278","labels":["Genres"],"properties":{"artistgenres":"new age piano"}}}
+{"u":{"type":"node","id":"8279","labels":["Genres"],"properties":{"artistgenres":"chutney"}}}
+{"u":{"type":"node","id":"8280","labels":["Genres"],"properties":{"artistgenres":"desi pop"}}}
+{"u":{"type":"node","id":"8281","labels":["Genres"],"properties":{"artistgenres":"filmi"}}}
+{"u":{"type":"node","id":"8282","labels":["Genres"],"properties":{"artistgenres":"modern bollywood"}}}
+{"u":{"type":"node","id":"8283","labels":["Genres"],"properties":{"artistgenres":"sufi"}}}
+{"u":{"type":"node","id":"8284","labels":["Genres"],"properties":{"artistgenres":"electra"}}}
+{"u":{"type":"node","id":"8285","labels":["Genres"],"properties":{"artistgenres":"german house"}}}
+{"u":{"type":"node","id":"8286","labels":["Genres"],"properties":{"artistgenres":"german techno"}}}
+{"u":{"type":"node","id":"8287","labels":["Genres"],"properties":{"artistgenres":"microhouse"}}}
+{"u":{"type":"node","id":"8288","labels":["Genres"],"properties":{"artistgenres":"minimal tech house"}}}
+{"u":{"type":"node","id":"8289","labels":["Genres"],"properties":{"artistgenres":"minimal techno"}}}
+{"u":{"type":"node","id":"8290","labels":["Genres"],"properties":{"artistgenres":"tech house"}}}
+{"u":{"type":"node","id":"8291","labels":["Genres"],"properties":{"artistgenres":"death metal"}}}
+{"u":{"type":"node","id":"8292","labels":["Genres"],"properties":{"artistgenres":"groove metal"}}}
+{"u":{"type":"node","id":"8293","labels":["Genres"],"properties":{"artistgenres":"polish black metal"}}}
+{"u":{"type":"node","id":"8294","labels":["Genres"],"properties":{"artistgenres":"polish death metal"}}}
+{"u":{"type":"node","id":"8295","labels":["Genres"],"properties":{"artistgenres":"polish metal"}}}
+{"u":{"type":"node","id":"8296","labels":["Genres"],"properties":{"artistgenres":"euphoric hardstyle"}}}
+{"u":{"type":"node","id":"8297","labels":["Genres"],"properties":{"artistgenres":"hardstyle"}}}
+{"u":{"type":"node","id":"8298","labels":["Genres"],"properties":{"artistgenres":"rawstyle"}}}
+{"u":{"type":"node","id":"8299","labels":["Genres"],"properties":{"artistgenres":"j-pop"}}}
+{"u":{"type":"node","id":"8300","labels":["Genres"],"properties":{"artistgenres":"j-poprock"}}}
+{"u":{"type":"node","id":"8301","labels":["Genres"],"properties":{"artistgenres":"j-rock"}}}
+{"u":{"type":"node","id":"8302","labels":["Genres"],"properties":{"artistgenres":"otacore"}}}
+{"u":{"type":"node","id":"8303","labels":["Genres"],"properties":{"artistgenres":"chanson"}}}
+{"u":{"type":"node","id":"8304","labels":["Genres"],"properties":{"artistgenres":"french rock"}}}
+{"u":{"type":"node","id":"8305","labels":["Genres"],"properties":{"artistgenres":"dancehall"}}}
+{"u":{"type":"node","id":"8306","labels":["Genres"],"properties":{"artistgenres":"panamanian pop"}}}
+{"u":{"type":"node","id":"8307","labels":["Genres"],"properties":{"artistgenres":"reggae fusion"}}}
+{"u":{"type":"node","id":"8308","labels":["Genres"],"properties":{"artistgenres":"soca"}}}
+{"u":{"type":"node","id":"8309","labels":["Genres"],"properties":{"artistgenres":"alternative country"}}}
+{"u":{"type":"node","id":"8310","labels":["Genres"],"properties":{"artistgenres":"alternative roots rock"}}}
+{"u":{"type":"node","id":"8311","labels":["Genres"],"properties":{"artistgenres":"country rock"}}}
+{"u":{"type":"node","id":"8312","labels":["Genres"],"properties":{"artistgenres":"deep new americana"}}}
+{"u":{"type":"node","id":"8313","labels":["Genres"],"properties":{"artistgenres":"folk"}}}
+{"u":{"type":"node","id":"8314","labels":["Genres"],"properties":{"artistgenres":"heartland rock"}}}
+{"u":{"type":"node","id":"8315","labels":["Genres"],"properties":{"artistgenres":"new americana"}}}
+{"u":{"type":"node","id":"8316","labels":["Genres"],"properties":{"artistgenres":"power pop"}}}
+{"u":{"type":"node","id":"8317","labels":["Genres"],"properties":{"artistgenres":"pub rock"}}}
+{"u":{"type":"node","id":"8318","labels":["Genres"],"properties":{"artistgenres":"roots rock"}}}
+{"u":{"type":"node","id":"8319","labels":["Genres"],"properties":{"artistgenres":"children's folk"}}}
+{"u":{"type":"node","id":"8320","labels":["Genres"],"properties":{"artistgenres":"children's music"}}}
+{"u":{"type":"node","id":"8321","labels":["Genres"],"properties":{"artistgenres":"kindie rock"}}}
+{"u":{"type":"node","id":"8322","labels":["Genres"],"properties":{"artistgenres":"post-teen pop"}}}
+{"u":{"type":"node","id":"8323","labels":["Genres"],"properties":{"artistgenres":"deep euro house"}}}
+{"u":{"type":"node","id":"8324","labels":["Genres"],"properties":{"artistgenres":"deep melodic euro house"}}}
+{"u":{"type":"node","id":"8325","labels":["Genres"],"properties":{"artistgenres":"classic rock"}}}
+{"u":{"type":"node","id":"8326","labels":["Genres"],"properties":{"artistgenres":"folk rock"}}}
+{"u":{"type":"node","id":"8327","labels":["Genres"],"properties":{"artistgenres":"mellow gold"}}}
+{"u":{"type":"node","id":"8328","labels":["Genres"],"properties":{"artistgenres":"singer-songwriter"}}}
+{"u":{"type":"node","id":"8329","labels":["Genres"],"properties":{"artistgenres":"soft rock"}}}
+{"u":{"type":"node","id":"8330","labels":["Genres"],"properties":{"artistgenres":"traditional folk"}}}
+{"u":{"type":"node","id":"8331","labels":["Genres"],"properties":{"artistgenres":"bossa nova"}}}
+{"u":{"type":"node","id":"8332","labels":["Genres"],"properties":{"artistgenres":"brazilian boogie"}}}
+{"u":{"type":"node","id":"8333","labels":["Genres"],"properties":{"artistgenres":"brazilian soul"}}}
+{"u":{"type":"node","id":"8334","labels":["Genres"],"properties":{"artistgenres":"mpb"}}}
+{"u":{"type":"node","id":"8335","labels":["Genres"],"properties":{"artistgenres":"pagode"}}}
+{"u":{"type":"node","id":"8336","labels":["Genres"],"properties":{"artistgenres":"samba"}}}
+{"u":{"type":"node","id":"8337","labels":["Genres"],"properties":{"artistgenres":"ambient"}}}
+{"u":{"type":"node","id":"8338","labels":["Genres"],"properties":{"artistgenres":"electronica"}}}
+{"u":{"type":"node","id":"8339","labels":["Genres"],"properties":{"artistgenres":"intelligent dance music"}}}
+{"u":{"type":"node","id":"8340","labels":["Genres"],"properties":{"artistgenres":"post-rock"}}}
+{"u":{"type":"node","id":"8341","labels":["Genres"],"properties":{"artistgenres":"r&b"}}}
+{"u":{"type":"node","id":"8381","labels":["Genres"],"properties":{"artistgenres":"gbvfi"}}}
+{"u":{"type":"node","id":"8382","labels":["Genres"],"properties":{"artistgenres":"jangle pop"}}}
+{"u":{"type":"node","id":"8383","labels":["Genres"],"properties":{"artistgenres":"underground power pop"}}}
+{"u":{"type":"node","id":"8384","labels":["Genres"],"properties":{"artistgenres":"brutal death metal"}}}
+{"u":{"type":"node","id":"8385","labels":["Genres"],"properties":{"artistgenres":"buffalo ny metal"}}}
+{"u":{"type":"node","id":"8386","labels":["Genres"],"properties":{"artistgenres":"deathgrind"}}}
+{"u":{"type":"node","id":"8387","labels":["Genres"],"properties":{"artistgenres":"speed metal"}}}
+{"u":{"type":"node","id":"8388","labels":["Genres"],"properties":{"artistgenres":"classical piano"}}}
+{"u":{"type":"node","id":"8389","labels":["Genres"],"properties":{"artistgenres":"glam rock"}}}
+{"u":{"type":"node","id":"8390","labels":["Genres"],"properties":{"artistgenres":"scorecore"}}}
+{"u":{"type":"node","id":"8391","labels":["Genres"],"properties":{"artistgenres":"jazz brass"}}}
+{"u":{"type":"node","id":"8392","labels":["Genres"],"properties":{"artistgenres":"jazz trombone"}}}
+{"u":{"type":"node","id":"8393","labels":["Genres"],"properties":{"artistgenres":"new orleans jazz"}}}
+{"u":{"type":"node","id":"8394","labels":["Genres"],"properties":{"artistgenres":"dubstep"}}}
+{"u":{"type":"node","id":"8395","labels":["Genres"],"properties":{"artistgenres":"dansband"}}}
+{"u":{"type":"node","id":"8396","labels":["Genres"],"properties":{"artistgenres":"austrian choir"}}}
+{"u":{"type":"node","id":"8397","labels":["Genres"],"properties":{"artistgenres":"classical performance"}}}
+{"u":{"type":"node","id":"8398","labels":["Genres"],"properties":{"artistgenres":"opera"}}}
+{"u":{"type":"node","id":"8399","labels":["Genres"],"properties":{"artistgenres":"opera chorus"}}}
+{"u":{"type":"node","id":"8400","labels":["Genres"],"properties":{"artistgenres":"classic malaysian pop"}}}
+{"u":{"type":"node","id":"8401","labels":["Genres"],"properties":{"artistgenres":"malaysian indie"}}}
+{"u":{"type":"node","id":"8402","labels":["Genres"],"properties":{"artistgenres":"rock kapak"}}}
+{"u":{"type":"node","id":"8403","labels":["Genres"],"properties":{"artistgenres":"birmingham hip hop"}}}
+{"u":{"type":"node","id":"8404","labels":["Genres"],"properties":{"artistgenres":"grime"}}}
+{"u":{"type":"node","id":"8405","labels":["Genres"],"properties":{"artistgenres":"uk garage"}}}
+{"u":{"type":"node","id":"8406","labels":["Genres"],"properties":{"artistgenres":"j-dance"}}}
+{"u":{"type":"node","id":"8407","labels":["Genres"],"properties":{"artistgenres":"comedy"}}}
+{"u":{"type":"node","id":"8408","labels":["Genres"],"properties":{"artistgenres":"comic"}}}
+{"u":{"type":"node","id":"8409","labels":["Genres"],"properties":{"artistgenres":"brazilian rock"}}}
+{"u":{"type":"node","id":"8410","labels":["Genres"],"properties":{"artistgenres":"rock gaucho"}}}
+{"u":{"type":"node","id":"8411","labels":["Genres"],"properties":{"artistgenres":"rock nacional brasileiro"}}}
+{"u":{"type":"node","id":"8412","labels":["Genres"],"properties":{"artistgenres":"hip pop"}}}
+{"u":{"type":"node","id":"8413","labels":["Genres"],"properties":{"artistgenres":"neo soul"}}}
+{"u":{"type":"node","id":"8414","labels":["Genres"],"properties":{"artistgenres":"sertanejo"}}}
+{"u":{"type":"node","id":"8415","labels":["Genres"],"properties":{"artistgenres":"sertanejo pop"}}}
+{"u":{"type":"node","id":"8416","labels":["Genres"],"properties":{"artistgenres":"sertanejo universitario"}}}
+{"u":{"type":"node","id":"8417","labels":["Genres"],"properties":{"artistgenres":"c-pop"}}}
+{"u":{"type":"node","id":"8418","labels":["Genres"],"properties":{"artistgenres":"cantopop"}}}
+{"u":{"type":"node","id":"8419","labels":["Genres"],"properties":{"artistgenres":"brazilian reggae"}}}
+{"u":{"type":"node","id":"8420","labels":["Genres"],"properties":{"artistgenres":"jazz funk"}}}
+{"u":{"type":"node","id":"8421","labels":["Genres"],"properties":{"artistgenres":"modern funk"}}}
+{"u":{"type":"node","id":"8422","labels":["Genres"],"properties":{"artistgenres":"ambient folk"}}}
+{"u":{"type":"node","id":"8423","labels":["Genres"],"properties":{"artistgenres":"british singer-songwriter"}}}
+{"u":{"type":"node","id":"8424","labels":["Genres"],"properties":{"artistgenres":"chamber pop"}}}
+{"u":{"type":"node","id":"8425","labels":["Genres"],"properties":{"artistgenres":"indie anthem-folk"}}}
+{"u":{"type":"node","id":"8426","labels":["Genres"],"properties":{"artistgenres":"indie folk"}}}
+{"u":{"type":"node","id":"8427","labels":["Genres"],"properties":{"artistgenres":"hollywood"}}}
+{"u":{"type":"node","id":"8428","labels":["Genres"],"properties":{"artistgenres":"movie tunes"}}}
+{"u":{"type":"node","id":"8429","labels":["Genres"],"properties":{"artistgenres":"show tunes"}}}
+{"u":{"type":"node","id":"8430","labels":["Genres"],"properties":{"artistgenres":"big beat"}}}
+{"u":{"type":"node","id":"8431","labels":["Genres"],"properties":{"artistgenres":"dub"}}}
+{"u":{"type":"node","id":"8432","labels":["Genres"],"properties":{"artistgenres":"broadway"}}}
+{"u":{"type":"node","id":"8433","labels":["Genres"],"properties":{"artistgenres":"west end"}}}
+{"u":{"type":"node","id":"8434","labels":["Genres"],"properties":{"artistgenres":"electro latino"}}}
+{"u":{"type":"node","id":"8435","labels":["Genres"],"properties":{"artistgenres":"latin"}}}
+{"u":{"type":"node","id":"8436","labels":["Genres"],"properties":{"artistgenres":"latin pop"}}}
+{"u":{"type":"node","id":"8437","labels":["Genres"],"properties":{"artistgenres":"reggaeton"}}}
+{"u":{"type":"node","id":"8438","labels":["Genres"],"properties":{"artistgenres":"spanish pop"}}}
+{"u":{"type":"node","id":"8439","labels":["Genres"],"properties":{"artistgenres":"tropical"}}}
+{"u":{"type":"node","id":"8440","labels":["Genres"],"properties":{"artistgenres":"melancholia"}}}
+{"u":{"type":"node","id":"8441","labels":["Genres"],"properties":{"artistgenres":"turkish pop"}}}
+{"u":{"type":"node","id":"8442","labels":["Genres"],"properties":{"artistgenres":"turkish rock"}}}
+{"u":{"type":"node","id":"8443","labels":["Genres"],"properties":{"artistgenres":"canadian folk"}}}
+{"u":{"type":"node","id":"8444","labels":["Genres"],"properties":{"artistgenres":"canadian indie"}}}
+{"u":{"type":"node","id":"8445","labels":["Genres"],"properties":{"artistgenres":"canadian singer-songwriter"}}}
+{"u":{"type":"node","id":"8446","labels":["Genres"],"properties":{"artistgenres":"ontario indie"}}}
+{"u":{"type":"node","id":"8447","labels":["Genres"],"properties":{"artistgenres":"acoustic pop"}}}
+{"u":{"type":"node","id":"8448","labels":["Genres"],"properties":{"artistgenres":"indiecoustica"}}}
+{"u":{"type":"node","id":"8449","labels":["Genres"],"properties":{"artistgenres":"viral pop"}}}
+{"u":{"type":"node","id":"8479","labels":["Genres"],"properties":{"artistgenres":"alaska indie"}}}
+{"u":{"type":"node","id":"8480","labels":["Genres"],"properties":{"artistgenres":"deathgrass"}}}
+{"u":{"type":"node","id":"8481","labels":["Genres"],"properties":{"artistgenres":"steampunk"}}}
+{"u":{"type":"node","id":"8482","labels":["Genres"],"properties":{"artistgenres":"western americana"}}}
+{"u":{"type":"node","id":"8483","labels":["Genres"],"properties":{"artistgenres":"axe"}}}
+{"u":{"type":"node","id":"8484","labels":["Genres"],"properties":{"artistgenres":"samba-enredo"}}}
+{"u":{"type":"node","id":"8485","labels":["Genres"],"properties":{"artistgenres":"seattle indie"}}}
+{"u":{"type":"node","id":"8486","labels":["Genres"],"properties":{"artistgenres":"canadian punk"}}}
+{"u":{"type":"node","id":"8487","labels":["Genres"],"properties":{"artistgenres":"canadian rockabilly"}}}
+{"u":{"type":"node","id":"8488","labels":["Genres"],"properties":{"artistgenres":"horror punk"}}}
+{"u":{"type":"node","id":"8489","labels":["Genres"],"properties":{"artistgenres":"psychobilly"}}}
+{"u":{"type":"node","id":"8490","labels":["Genres"],"properties":{"artistgenres":"french reggae"}}}
+{"u":{"type":"node","id":"8491","labels":["Genres"],"properties":{"artistgenres":"lovers rock"}}}
+{"u":{"type":"node","id":"8492","labels":["Genres"],"properties":{"artistgenres":"roots reggae"}}}
+{"u":{"type":"node","id":"8493","labels":["Genres"],"properties":{"artistgenres":"art punk"}}}
+{"u":{"type":"node","id":"8494","labels":["Genres"],"properties":{"artistgenres":"chamber psych"}}}
+{"u":{"type":"node","id":"8495","labels":["Genres"],"properties":{"artistgenres":"dance-punk"}}}
+{"u":{"type":"node","id":"8496","labels":["Genres"],"properties":{"artistgenres":"noise pop"}}}
+{"u":{"type":"node","id":"8497","labels":["Genres"],"properties":{"artistgenres":"nu gaze"}}}
+{"u":{"type":"node","id":"8498","labels":["Genres"],"properties":{"artistgenres":"alt-idol"}}}
+{"u":{"type":"node","id":"8499","labels":["Genres"],"properties":{"artistgenres":"comic metal"}}}
+{"u":{"type":"node","id":"8500","labels":["Genres"],"properties":{"artistgenres":"j-metal"}}}
+{"u":{"type":"node","id":"8501","labels":["Genres"],"properties":{"artistgenres":"kawaii metal"}}}
+{"u":{"type":"node","id":"8502","labels":["Genres"],"properties":{"artistgenres":"melodic rap"}}}
+{"u":{"type":"node","id":"8503","labels":["Genres"],"properties":{"artistgenres":"philly rap"}}}
+{"u":{"type":"node","id":"8504","labels":["Genres"],"properties":{"artistgenres":"j-pop boy group"}}}
+{"u":{"type":"node","id":"8505","labels":["Genres"],"properties":{"artistgenres":"japanese alternative rock"}}}
+{"u":{"type":"node","id":"8506","labels":["Genres"],"properties":{"artistgenres":"trap"}}}
+{"u":{"type":"node","id":"8507","labels":["Genres"],"properties":{"artistgenres":"puerto rican pop"}}}
+{"u":{"type":"node","id":"8508","labels":["Genres"],"properties":{"artistgenres":"opm"}}}
+{"u":{"type":"node","id":"8509","labels":["Genres"],"properties":{"artistgenres":"pinoy indie"}}}
+{"u":{"type":"node","id":"8510","labels":["Genres"],"properties":{"artistgenres":"pinoy rock"}}}
+{"u":{"type":"node","id":"8511","labels":["Genres"],"properties":{"artistgenres":"latin hip hop"}}}
+{"u":{"type":"node","id":"8512","labels":["Genres"],"properties":{"artistgenres":"pop reggaeton"}}}
+{"u":{"type":"node","id":"8513","labels":["Genres"],"properties":{"artistgenres":"disney"}}}
+{"u":{"type":"node","id":"8514","labels":["Genres"],"properties":{"artistgenres":"latin alternative"}}}
+{"u":{"type":"node","id":"8515","labels":["Genres"],"properties":{"artistgenres":"latin rock"}}}
+{"u":{"type":"node","id":"8516","labels":["Genres"],"properties":{"artistgenres":"rock en espanol"}}}
+{"u":{"type":"node","id":"8517","labels":["Genres"],"properties":{"artistgenres":"swedish hip hop"}}}
+{"u":{"type":"node","id":"8518","labels":["Genres"],"properties":{"artistgenres":"swedish soul"}}}
+{"u":{"type":"node","id":"8519","labels":["Genres"],"properties":{"artistgenres":"melodic metalcore"}}}
+{"u":{"type":"node","id":"8520","labels":["Genres"],"properties":{"artistgenres":"virginia metal"}}}
+{"u":{"type":"node","id":"8521","labels":["Genres"],"properties":{"artistgenres":"black comedy"}}}
+{"u":{"type":"node","id":"8522","labels":["Genres"],"properties":{"artistgenres":"bass music"}}}
+{"u":{"type":"node","id":"8523","labels":["Genres"],"properties":{"artistgenres":"purple sound"}}}
+{"u":{"type":"node","id":"8524","labels":["Genres"],"properties":{"artistgenres":"scottish electronic"}}}
+{"u":{"type":"node","id":"8525","labels":["Genres"],"properties":{"artistgenres":"scottish hip hop"}}}
+{"u":{"type":"node","id":"8526","labels":["Genres"],"properties":{"artistgenres":"uk experimental electronic"}}}
+{"u":{"type":"node","id":"8527","labels":["Genres"],"properties":{"artistgenres":"wonky"}}}
+{"u":{"type":"node","id":"8562","labels":["Genres"],"properties":{"artistgenres":"canadian pop"}}}
+{"u":{"type":"node","id":"8563","labels":["Genres"],"properties":{"artistgenres":"ectofolk"}}}
+{"u":{"type":"node","id":"8564","labels":["Genres"],"properties":{"artistgenres":"lilith"}}}
+{"u":{"type":"node","id":"8565","labels":["Genres"],"properties":{"artistgenres":"abstract"}}}
+{"u":{"type":"node","id":"8566","labels":["Genres"],"properties":{"artistgenres":"deep idm"}}}
+{"u":{"type":"node","id":"8567","labels":["Genres"],"properties":{"artistgenres":"drill and bass"}}}
+{"u":{"type":"node","id":"8568","labels":["Genres"],"properties":{"artistgenres":"ska"}}}
+{"u":{"type":"node","id":"8569","labels":["Genres"],"properties":{"artistgenres":"ska punk"}}}
+{"u":{"type":"node","id":"8570","labels":["Genres"],"properties":{"artistgenres":"ska revival"}}}
+{"u":{"type":"node","id":"8571","labels":["Genres"],"properties":{"artistgenres":"traditional ska"}}}
+{"u":{"type":"node","id":"8572","labels":["Genres"],"properties":{"artistgenres":"dutch metal"}}}
+{"u":{"type":"node","id":"8573","labels":["Genres"],"properties":{"artistgenres":"gothic metal"}}}
+{"u":{"type":"node","id":"8574","labels":["Genres"],"properties":{"artistgenres":"gothic symphonic metal"}}}
+{"u":{"type":"node","id":"8575","labels":["Genres"],"properties":{"artistgenres":"power metal"}}}
+{"u":{"type":"node","id":"8576","labels":["Genres"],"properties":{"artistgenres":"symphonic metal"}}}
+{"u":{"type":"node","id":"8577","labels":["Genres"],"properties":{"artistgenres":"classical"}}}
+{"u":{"type":"node","id":"8578","labels":["Genres"],"properties":{"artistgenres":"orchestra"}}}
+{"u":{"type":"node","id":"8579","labels":["Genres"],"properties":{"artistgenres":"german rock"}}}
+{"u":{"type":"node","id":"8580","labels":["Genres"],"properties":{"artistgenres":"japanese electropop"}}}
+{"u":{"type":"node","id":"8581","labels":["Genres"],"properties":{"artistgenres":"jazz metal"}}}
+{"u":{"type":"node","id":"8582","labels":["Genres"],"properties":{"artistgenres":"technical death metal"}}}
+{"u":{"type":"node","id":"8583","labels":["Genres"],"properties":{"artistgenres":"electropop"}}}
+{"u":{"type":"node","id":"8584","labels":["Genres"],"properties":{"artistgenres":"metropopolis"}}}
+{"u":{"type":"node","id":"8585","labels":["Genres"],"properties":{"artistgenres":"swedish electropop"}}}
+{"u":{"type":"node","id":"8586","labels":["Genres"],"properties":{"artistgenres":"swedish synthpop"}}}
+{"u":{"type":"node","id":"8587","labels":["Genres"],"properties":{"artistgenres":"french soundtrack"}}}
+{"u":{"type":"node","id":"8588","labels":["Genres"],"properties":{"artistgenres":"jazz fusion"}}}
+{"u":{"type":"node","id":"8589","labels":["Genres"],"properties":{"artistgenres":"rockabilly"}}}
+{"u":{"type":"node","id":"8590","labels":["Genres"],"properties":{"artistgenres":"swedish rockabilly"}}}
+{"u":{"type":"node","id":"8591","labels":["Genres"],"properties":{"artistgenres":"deep southern trap"}}}
+{"u":{"type":"node","id":"8592","labels":["Genres"],"properties":{"artistgenres":"dirty south rap"}}}
+{"u":{"type":"node","id":"8593","labels":["Genres"],"properties":{"artistgenres":"gangster rap"}}}
+{"u":{"type":"node","id":"8594","labels":["Genres"],"properties":{"artistgenres":"british invasion"}}}
+{"u":{"type":"node","id":"8595","labels":["Genres"],"properties":{"artistgenres":"merseybeat"}}}
+{"u":{"type":"node","id":"8596","labels":["Genres"],"properties":{"artistgenres":"rock-and-roll"}}}
+{"u":{"type":"node","id":"8597","labels":["Genres"],"properties":{"artistgenres":"surf music"}}}
+{"u":{"type":"node","id":"8598","labels":["Genres"],"properties":{"artistgenres":"british soul"}}}
+{"u":{"type":"node","id":"8599","labels":["Genres"],"properties":{"artistgenres":"scottish singer-songwriter"}}}
+{"u":{"type":"node","id":"8600","labels":["Genres"],"properties":{"artistgenres":"alternative dance"}}}
+{"u":{"type":"node","id":"8601","labels":["Genres"],"properties":{"artistgenres":"indie poptimism"}}}
+{"u":{"type":"node","id":"8602","labels":["Genres"],"properties":{"artistgenres":"indietronica"}}}
+{"u":{"type":"node","id":"8603","labels":["Genres"],"properties":{"artistgenres":"neo-synthpop"}}}
+{"u":{"type":"node","id":"8604","labels":["Genres"],"properties":{"artistgenres":"nyc pop"}}}
+{"u":{"type":"node","id":"8605","labels":["Genres"],"properties":{"artistgenres":"vapor soul"}}}
+{"u":{"type":"node","id":"8606","labels":["Genres"],"properties":{"artistgenres":"focus"}}}
+{"u":{"type":"node","id":"8607","labels":["Genres"],"properties":{"artistgenres":"post-minimalism"}}}
+{"u":{"type":"node","id":"8608","labels":["Genres"],"properties":{"artistgenres":"edm"}}}
+{"u":{"type":"node","id":"8609","labels":["Genres"],"properties":{"artistgenres":"brostep"}}}
+{"u":{"type":"node","id":"8610","labels":["Genres"],"properties":{"artistgenres":"catstep"}}}
+{"u":{"type":"node","id":"8611","labels":["Genres"],"properties":{"artistgenres":"complextro"}}}
+{"u":{"type":"node","id":"8612","labels":["Genres"],"properties":{"artistgenres":"electro house"}}}
+{"u":{"type":"node","id":"8613","labels":["Genres"],"properties":{"artistgenres":"uk pop"}}}
+{"u":{"type":"node","id":"8614","labels":["Genres"],"properties":{"artistgenres":"ninja"}}}
+{"u":{"type":"node","id":"8615","labels":["Genres"],"properties":{"artistgenres":"argentine rock"}}}
+{"u":{"type":"node","id":"8616","labels":["Genres"],"properties":{"artistgenres":"art pop"}}}
+{"u":{"type":"node","id":"8617","labels":["Genres"],"properties":{"artistgenres":"baroque pop"}}}
+{"u":{"type":"node","id":"8647","labels":["Genres"],"properties":{"artistgenres":"uk alternative pop"}}}
+{"u":{"type":"node","id":"8648","labels":["Genres"],"properties":{"artistgenres":"hi-nrg"}}}
+{"u":{"type":"node","id":"8649","labels":["Genres"],"properties":{"artistgenres":"vintage tango"}}}
+{"u":{"type":"node","id":"8650","labels":["Genres"],"properties":{"artistgenres":"japanese jazztronica"}}}
+{"u":{"type":"node","id":"8651","labels":["Genres"],"properties":{"artistgenres":"shibuya-kei"}}}
+{"u":{"type":"node","id":"8652","labels":["Genres"],"properties":{"artistgenres":"toronto rap"}}}
+{"u":{"type":"node","id":"8653","labels":["Genres"],"properties":{"artistgenres":"mandopop"}}}
+{"u":{"type":"node","id":"8654","labels":["Genres"],"properties":{"artistgenres":"singaporean mandopop"}}}
+{"u":{"type":"node","id":"8655","labels":["Genres"],"properties":{"artistgenres":"australian dance"}}}
+{"u":{"type":"node","id":"8656","labels":["Genres"],"properties":{"artistgenres":"drum and bass"}}}
+{"u":{"type":"node","id":"8657","labels":["Genres"],"properties":{"artistgenres":"canadian electropop"}}}
+{"u":{"type":"node","id":"8658","labels":["Genres"],"properties":{"artistgenres":"chillwave"}}}
+{"u":{"type":"node","id":"8659","labels":["Genres"],"properties":{"artistgenres":"escape room"}}}
+{"u":{"type":"node","id":"8660","labels":["Genres"],"properties":{"artistgenres":"grave wave"}}}
+{"u":{"type":"node","id":"8661","labels":["Genres"],"properties":{"artistgenres":"dfw rap"}}}
+{"u":{"type":"node","id":"8662","labels":["Genres"],"properties":{"artistgenres":"alternative pop"}}}
+{"u":{"type":"node","id":"8663","labels":["Genres"],"properties":{"artistgenres":"laboratorio"}}}
+{"u":{"type":"node","id":"8664","labels":["Genres"],"properties":{"artistgenres":"bubblegum dance"}}}
+{"u":{"type":"node","id":"8665","labels":["Genres"],"properties":{"artistgenres":"diva house"}}}
+{"u":{"type":"node","id":"8666","labels":["Genres"],"properties":{"artistgenres":"eurodance"}}}
+{"u":{"type":"node","id":"8667","labels":["Genres"],"properties":{"artistgenres":"hip house"}}}
+{"u":{"type":"node","id":"8668","labels":["Genres"],"properties":{"artistgenres":"deep techno"}}}
+{"u":{"type":"node","id":"8669","labels":["Genres"],"properties":{"artistgenres":"mainland chinese pop"}}}
+{"u":{"type":"node","id":"8670","labels":["Genres"],"properties":{"artistgenres":"radio symphony"}}}
+{"u":{"type":"node","id":"8671","labels":["Genres"],"properties":{"artistgenres":"forro"}}}
+{"u":{"type":"node","id":"8672","labels":["Genres"],"properties":{"artistgenres":"tecnobrega"}}}
+{"u":{"type":"node","id":"8673","labels":["Genres"],"properties":{"artistgenres":"technical groove"}}}
+{"u":{"type":"node","id":"8674","labels":["Genres"],"properties":{"artistgenres":"bluegrass gospel"}}}
+{"u":{"type":"node","id":"8675","labels":["Genres"],"properties":{"artistgenres":"new england americana"}}}
+{"u":{"type":"node","id":"8676","labels":["Genres"],"properties":{"artistgenres":"old-time"}}}
+{"u":{"type":"node","id":"8677","labels":["Genres"],"properties":{"artistgenres":"east coast hip hop"}}}
+{"u":{"type":"node","id":"8678","labels":["Genres"],"properties":{"artistgenres":"crunk"}}}
+{"u":{"type":"node","id":"8679","labels":["Genres"],"properties":{"artistgenres":"memphis hip hop"}}}
+{"u":{"type":"node","id":"8680","labels":["Genres"],"properties":{"artistgenres":"avant-garde jazz"}}}
+{"u":{"type":"node","id":"8681","labels":["Genres"],"properties":{"artistgenres":"bebop"}}}
+{"u":{"type":"node","id":"8682","labels":["Genres"],"properties":{"artistgenres":"contemporary jazz"}}}
+{"u":{"type":"node","id":"8683","labels":["Genres"],"properties":{"artistgenres":"contemporary post-bop"}}}
+{"u":{"type":"node","id":"8684","labels":["Genres"],"properties":{"artistgenres":"cool jazz"}}}
+{"u":{"type":"node","id":"8685","labels":["Genres"],"properties":{"artistgenres":"free jazz"}}}
+{"u":{"type":"node","id":"8686","labels":["Genres"],"properties":{"artistgenres":"hard bop"}}}
+{"u":{"type":"node","id":"8687","labels":["Genres"],"properties":{"artistgenres":"jazz"}}}
+{"u":{"type":"node","id":"8688","labels":["Genres"],"properties":{"artistgenres":"jazz saxophone"}}}
+{"u":{"type":"node","id":"8689","labels":["Genres"],"properties":{"artistgenres":"soul jazz"}}}
+{"u":{"type":"node","id":"8690","labels":["Genres"],"properties":{"artistgenres":"j-rap"}}}
+{"u":{"type":"node","id":"8691","labels":["Genres"],"properties":{"artistgenres":"japanese r&b"}}}
+{"u":{"type":"node","id":"8692","labels":["Genres"],"properties":{"artistgenres":"sambass"}}}
+{"u":{"type":"node","id":"8693","labels":["Genres"],"properties":{"artistgenres":"australian electropop"}}}
+{"u":{"type":"node","id":"8694","labels":["Genres"],"properties":{"artistgenres":"australian indie"}}}
+{"u":{"type":"node","id":"8695","labels":["Genres"],"properties":{"artistgenres":"downtempo"}}}
+{"u":{"type":"node","id":"8696","labels":["Genres"],"properties":{"artistgenres":"freak folk"}}}
+{"u":{"type":"node","id":"8697","labels":["Genres"],"properties":{"artistgenres":"garage pop"}}}
+{"u":{"type":"node","id":"8734","labels":["Genres"],"properties":{"artistgenres":"indie garage rock"}}}
+{"u":{"type":"node","id":"8735","labels":["Genres"],"properties":{"artistgenres":"neo-psychedelic"}}}
+{"u":{"type":"node","id":"8736","labels":["Genres"],"properties":{"artistgenres":"south african alternative"}}}
+{"u":{"type":"node","id":"8737","labels":["Genres"],"properties":{"artistgenres":"canadian post-hardcore"}}}
+{"u":{"type":"node","id":"8738","labels":["Genres"],"properties":{"artistgenres":"canadian rock"}}}
+{"u":{"type":"node","id":"8739","labels":["Genres"],"properties":{"artistgenres":"emo"}}}
+{"u":{"type":"node","id":"8740","labels":["Genres"],"properties":{"artistgenres":"metalcore"}}}
+{"u":{"type":"node","id":"8741","labels":["Genres"],"properties":{"artistgenres":"pop punk"}}}
+{"u":{"type":"node","id":"8742","labels":["Genres"],"properties":{"artistgenres":"screamo"}}}
+{"u":{"type":"node","id":"8743","labels":["Genres"],"properties":{"artistgenres":"christian metal"}}}
+{"u":{"type":"node","id":"8744","labels":["Genres"],"properties":{"artistgenres":"modern country rock"}}}
+{"u":{"type":"node","id":"8745","labels":["Genres"],"properties":{"artistgenres":"redneck"}}}
+{"u":{"type":"node","id":"8746","labels":["Genres"],"properties":{"artistgenres":"taiwan pop"}}}
+{"u":{"type":"node","id":"8747","labels":["Genres"],"properties":{"artistgenres":"yacht rock"}}}
+{"u":{"type":"node","id":"8748","labels":["Genres"],"properties":{"artistgenres":"acid house"}}}
+{"u":{"type":"node","id":"8749","labels":["Genres"],"properties":{"artistgenres":"chicago house"}}}
+{"u":{"type":"node","id":"8750","labels":["Genres"],"properties":{"artistgenres":"detroit techno"}}}
+{"u":{"type":"node","id":"8751","labels":["Genres"],"properties":{"artistgenres":"electro"}}}
+{"u":{"type":"node","id":"8752","labels":["Genres"],"properties":{"artistgenres":"techno"}}}
+{"u":{"type":"node","id":"8753","labels":["Genres"],"properties":{"artistgenres":"funk rock"}}}
+{"u":{"type":"node","id":"8754","labels":["Genres"],"properties":{"artistgenres":"instrumental funk"}}}
+{"u":{"type":"node","id":"8755","labels":["Genres"],"properties":{"artistgenres":"new orleans funk"}}}
+{"u":{"type":"node","id":"8756","labels":["Genres"],"properties":{"artistgenres":"classic opm"}}}
+{"u":{"type":"node","id":"8757","labels":["Genres"],"properties":{"artistgenres":"indie jazz"}}}
+{"u":{"type":"node","id":"8758","labels":["Genres"],"properties":{"artistgenres":"jazz trumpet"}}}
+{"u":{"type":"node","id":"8759","labels":["Genres"],"properties":{"artistgenres":"nova mpb"}}}
+{"u":{"type":"node","id":"8760","labels":["Genres"],"properties":{"artistgenres":"black 'n' roll"}}}
+{"u":{"type":"node","id":"8761","labels":["Genres"],"properties":{"artistgenres":"viking metal"}}}
+{"u":{"type":"node","id":"8762","labels":["Genres"],"properties":{"artistgenres":"theme"}}}
+{"u":{"type":"node","id":"8763","labels":["Genres"],"properties":{"artistgenres":"canadian electronic"}}}
+{"u":{"type":"node","id":"8764","labels":["Genres"],"properties":{"artistgenres":"electronic trap"}}}
+{"u":{"type":"node","id":"8765","labels":["Genres"],"properties":{"artistgenres":"progressive electro house"}}}
+{"u":{"type":"node","id":"8766","labels":["Genres"],"properties":{"artistgenres":"southampton indie"}}}
+{"u":{"type":"node","id":"8767","labels":["Genres"],"properties":{"artistgenres":"big room"}}}
+{"u":{"type":"node","id":"8768","labels":["Genres"],"properties":{"artistgenres":"boston rock"}}}
+{"u":{"type":"node","id":"8769","labels":["Genres"],"properties":{"artistgenres":"banda"}}}
+{"u":{"type":"node","id":"8770","labels":["Genres"],"properties":{"artistgenres":"regional mexican"}}}
+{"u":{"type":"node","id":"8771","labels":["Genres"],"properties":{"artistgenres":"goregrind"}}}
+{"u":{"type":"node","id":"8772","labels":["Genres"],"properties":{"artistgenres":"grindcore"}}}
+{"u":{"type":"node","id":"8773","labels":["Genres"],"properties":{"artistgenres":"pop edm"}}}
+{"u":{"type":"node","id":"8774","labels":["Genres"],"properties":{"artistgenres":"perreo"}}}
+{"u":{"type":"node","id":"8775","labels":["Genres"],"properties":{"artistgenres":"reggaeton flow"}}}
+{"u":{"type":"node","id":"8776","labels":["Genres"],"properties":{"artistgenres":"salsa choke"}}}
+{"u":{"type":"node","id":"8777","labels":["Genres"],"properties":{"artistgenres":"classic girl group"}}}
+{"u":{"type":"node","id":"8778","labels":["Genres"],"properties":{"artistgenres":"breakbeat"}}}
+{"u":{"type":"node","id":"8779","labels":["Genres"],"properties":{"artistgenres":"country dawn"}}}
+{"u":{"type":"node","id":"8780","labels":["Genres"],"properties":{"artistgenres":"hong kong indie"}}}
+{"u":{"type":"node","id":"8805","labels":["Genres"],"properties":{"artistgenres":"classic mandopop"}}}
+{"u":{"type":"node","id":"8806","labels":["Genres"],"properties":{"artistgenres":"psychedelic rock"}}}
+{"u":{"type":"node","id":"8807","labels":["Genres"],"properties":{"artistgenres":"manila sound"}}}
+{"u":{"type":"node","id":"8808","labels":["Genres"],"properties":{"artistgenres":"brazilian jazz"}}}
+{"u":{"type":"node","id":"8809","labels":["Genres"],"properties":{"artistgenres":"piano mpb"}}}
+{"u":{"type":"node","id":"8810","labels":["Genres"],"properties":{"artistgenres":"afropop"}}}
+{"u":{"type":"node","id":"8811","labels":["Genres"],"properties":{"artistgenres":"desert blues"}}}
+{"u":{"type":"node","id":"8812","labels":["Genres"],"properties":{"artistgenres":"griot"}}}
+{"u":{"type":"node","id":"8813","labels":["Genres"],"properties":{"artistgenres":"kora"}}}
+{"u":{"type":"node","id":"8814","labels":["Genres"],"properties":{"artistgenres":"malian blues"}}}
+{"u":{"type":"node","id":"8815","labels":["Genres"],"properties":{"artistgenres":"mande pop"}}}
+{"u":{"type":"node","id":"8816","labels":["Genres"],"properties":{"artistgenres":"world"}}}
+{"u":{"type":"node","id":"8817","labels":["Genres"],"properties":{"artistgenres":"melodic thrash"}}}
+{"u":{"type":"node","id":"8818","labels":["Genres"],"properties":{"artistgenres":"ye ye"}}}
+{"u":{"type":"node","id":"8819","labels":["Genres"],"properties":{"artistgenres":"electronic rock"}}}
+{"u":{"type":"node","id":"8820","labels":["Genres"],"properties":{"artistgenres":"new rave"}}}
+{"u":{"type":"node","id":"8821","labels":["Genres"],"properties":{"artistgenres":"classical baritone"}}}
+{"u":{"type":"node","id":"8822","labels":["Genres"],"properties":{"artistgenres":"italian bass"}}}
+{"u":{"type":"node","id":"8823","labels":["Genres"],"properties":{"artistgenres":"future garage"}}}
+{"u":{"type":"node","id":"8824","labels":["Genres"],"properties":{"artistgenres":"indie soul"}}}
+{"u":{"type":"node","id":"8825","labels":["Genres"],"properties":{"artistgenres":"finnish death metal"}}}
+{"u":{"type":"node","id":"8826","labels":["Genres"],"properties":{"artistgenres":"finnish metal"}}}
+{"u":{"type":"node","id":"8827","labels":["Genres"],"properties":{"artistgenres":"melodic death metal"}}}
+{"u":{"type":"node","id":"8828","labels":["Genres"],"properties":{"artistgenres":"progressive metal"}}}
+{"u":{"type":"node","id":"8829","labels":["Genres"],"properties":{"artistgenres":"indie surf"}}}
+{"u":{"type":"node","id":"8830","labels":["Genres"],"properties":{"artistgenres":"deep pop r&b"}}}
+{"u":{"type":"node","id":"8831","labels":["Genres"],"properties":{"artistgenres":"brighton indie"}}}
+{"u":{"type":"node","id":"8832","labels":["Genres"],"properties":{"artistgenres":"dream pop"}}}
+{"u":{"type":"node","id":"8833","labels":["Genres"],"properties":{"artistgenres":"etherpop"}}}
+{"u":{"type":"node","id":"8834","labels":["Genres"],"properties":{"artistgenres":"experimental pop"}}}
+{"u":{"type":"node","id":"8835","labels":["Genres"],"properties":{"artistgenres":"baile pop"}}}
+{"u":{"type":"node","id":"8836","labels":["Genres"],"properties":{"artistgenres":"funk carioca"}}}
+{"u":{"type":"node","id":"8837","labels":["Genres"],"properties":{"artistgenres":"funk das antigas"}}}
+{"u":{"type":"node","id":"8843","labels":["Genres"],"properties":{"artistgenres":"trancecore"}}}
+{"u":{"type":"node","id":"8844","labels":["Genres"],"properties":{"artistgenres":"deep indian pop"}}}
+{"u":{"type":"node","id":"8845","labels":["Genres"],"properties":{"artistgenres":"tamil pop"}}}
+{"u":{"type":"node","id":"8846","labels":["Genres"],"properties":{"artistgenres":"swedish indie pop"}}}
+{"u":{"type":"node","id":"8875","labels":["Genres"],"properties":{"artistgenres":"skate punk"}}}
+{"u":{"type":"node","id":"8876","labels":["Genres"],"properties":{"artistgenres":"bristol electronic"}}}
+{"u":{"type":"node","id":"8877","labels":["Genres"],"properties":{"artistgenres":"deep dubstep"}}}
+{"u":{"type":"node","id":"8878","labels":["Genres"],"properties":{"artistgenres":"footwork"}}}
+{"u":{"type":"node","id":"8879","labels":["Genres"],"properties":{"artistgenres":"riddim"}}}
+{"u":{"type":"node","id":"8880","labels":["Genres"],"properties":{"artistgenres":"scandipop"}}}
+{"u":{"type":"node","id":"8881","labels":["Genres"],"properties":{"artistgenres":"mexican pop"}}}
+{"u":{"type":"node","id":"8882","labels":["Genres"],"properties":{"artistgenres":"icelandic pop"}}}
+{"u":{"type":"node","id":"8883","labels":["Genres"],"properties":{"artistgenres":"classic pakistani pop"}}}
+{"u":{"type":"node","id":"8884","labels":["Genres"],"properties":{"artistgenres":"indian folk"}}}
+{"u":{"type":"node","id":"8885","labels":["Genres"],"properties":{"artistgenres":"slayer"}}}
+{"u":{"type":"node","id":"8886","labels":["Genres"],"properties":{"artistgenres":"swedish death metal"}}}
+{"u":{"type":"node","id":"8887","labels":["Genres"],"properties":{"artistgenres":"swedish metal"}}}
+{"u":{"type":"node","id":"8888","labels":["Genres"],"properties":{"artistgenres":"christian rock"}}}
+{"u":{"type":"node","id":"8889","labels":["Genres"],"properties":{"artistgenres":"post-screamo"}}}
+{"u":{"type":"node","id":"8890","labels":["Genres"],"properties":{"artistgenres":"german tech house"}}}
+{"u":{"type":"node","id":"8891","labels":["Genres"],"properties":{"artistgenres":"gospel r&b"}}}
+{"u":{"type":"node","id":"8892","labels":["Genres"],"properties":{"artistgenres":"australian pop"}}}
+{"u":{"type":"node","id":"8893","labels":["Genres"],"properties":{"artistgenres":"ambient techno"}}}
+{"u":{"type":"node","id":"8894","labels":["Genres"],"properties":{"artistgenres":"dub techno"}}}
+{"u":{"type":"node","id":"8895","labels":["Genres"],"properties":{"artistgenres":"experimental"}}}
+{"u":{"type":"node","id":"8896","labels":["Genres"],"properties":{"artistgenres":"glitch"}}}
+{"u":{"type":"node","id":"8897","labels":["Genres"],"properties":{"artistgenres":"outsider house"}}}
+{"u":{"type":"node","id":"8898","labels":["Genres"],"properties":{"artistgenres":"trash rock"}}}
+{"u":{"type":"node","id":"8899","labels":["Genres"],"properties":{"artistgenres":"j-reggae"}}}
+{"u":{"type":"node","id":"8900","labels":["Genres"],"properties":{"artistgenres":"latin arena pop"}}}
+{"u":{"type":"node","id":"8901","labels":["Genres"],"properties":{"artistgenres":"house"}}}
+{"u":{"type":"node","id":"8902","labels":["Genres"],"properties":{"artistgenres":"tropical house"}}}
+{"u":{"type":"node","id":"8903","labels":["Genres"],"properties":{"artistgenres":"uk dance"}}}
+{"u":{"type":"node","id":"8935","labels":["Genres"],"properties":{"artistgenres":"crossover thrash"}}}
+{"u":{"type":"node","id":"8936","labels":["Genres"],"properties":{"artistgenres":"early us punk"}}}
+{"u":{"type":"node","id":"8937","labels":["Genres"],"properties":{"artistgenres":"hardcore punk"}}}
+{"u":{"type":"node","id":"8938","labels":["Genres"],"properties":{"artistgenres":"thrash core"}}}
+{"u":{"type":"node","id":"8939","labels":["Genres"],"properties":{"artistgenres":"hardcore techno"}}}
+{"u":{"type":"node","id":"8940","labels":["Genres"],"properties":{"artistgenres":"rave"}}}
+{"u":{"type":"node","id":"8941","labels":["Genres"],"properties":{"artistgenres":"blues"}}}
+{"u":{"type":"node","id":"8942","labels":["Genres"],"properties":{"artistgenres":"traditional blues"}}}
+{"u":{"type":"node","id":"8943","labels":["Genres"],"properties":{"artistgenres":"post-romantic era"}}}
+{"u":{"type":"node","id":"8944","labels":["Genres"],"properties":{"artistgenres":"anti-folk"}}}
+{"u":{"type":"node","id":"8945","labels":["Genres"],"properties":{"artistgenres":"comedienne"}}}
+{"u":{"type":"node","id":"8946","labels":["Genres"],"properties":{"artistgenres":"new comedy"}}}
+{"u":{"type":"node","id":"8947","labels":["Genres"],"properties":{"artistgenres":"bachata"}}}
+{"u":{"type":"node","id":"8948","labels":["Genres"],"properties":{"artistgenres":"conscious hip hop"}}}
+{"u":{"type":"node","id":"8949","labels":["Genres"],"properties":{"artistgenres":"dmv rap"}}}
+{"u":{"type":"node","id":"8950","labels":["Genres"],"properties":{"artistgenres":"dark post-punk"}}}
+{"u":{"type":"node","id":"8951","labels":["Genres"],"properties":{"artistgenres":"dark wave"}}}
+{"u":{"type":"node","id":"8952","labels":["Genres"],"properties":{"artistgenres":"ebm"}}}
+{"u":{"type":"node","id":"8953","labels":["Genres"],"properties":{"artistgenres":"ethereal wave"}}}
+{"u":{"type":"node","id":"8954","labels":["Genres"],"properties":{"artistgenres":"gothic rock"}}}
+{"u":{"type":"node","id":"8955","labels":["Genres"],"properties":{"artistgenres":"industrial"}}}
+{"u":{"type":"node","id":"8956","labels":["Genres"],"properties":{"artistgenres":"industrial rock"}}}
+{"u":{"type":"node","id":"8957","labels":["Genres"],"properties":{"artistgenres":"neoclassical"}}}
+{"u":{"type":"node","id":"8958","labels":["Genres"],"properties":{"artistgenres":"bass house"}}}
+{"u":{"type":"node","id":"8959","labels":["Genres"],"properties":{"artistgenres":"classical era"}}}
+{"u":{"type":"node","id":"8960","labels":["Genres"],"properties":{"artistgenres":"early music"}}}
+{"u":{"type":"node","id":"8961","labels":["Genres"],"properties":{"artistgenres":"galante era"}}}
+{"u":{"type":"node","id":"8962","labels":["Genres"],"properties":{"artistgenres":"circuit"}}}
+{"u":{"type":"node","id":"8963","labels":["Genres"],"properties":{"artistgenres":"deep house"}}}
+{"u":{"type":"node","id":"8964","labels":["Genres"],"properties":{"artistgenres":"disco house"}}}
+{"u":{"type":"node","id":"8965","labels":["Genres"],"properties":{"artistgenres":"tribal house"}}}
+{"u":{"type":"node","id":"8966","labels":["Genres"],"properties":{"artistgenres":"vocal house"}}}
+{"u":{"type":"node","id":"8967","labels":["Genres"],"properties":{"artistgenres":"deep groove house"}}}
+{"u":{"type":"node","id":"8968","labels":["Genres"],"properties":{"artistgenres":"melbourne bounce"}}}
+{"u":{"type":"node","id":"8969","labels":["Genres"],"properties":{"artistgenres":"moombahton"}}}
+{"u":{"type":"node","id":"8970","labels":["Genres"],"properties":{"artistgenres":"colombian rock"}}}
+{"u":{"type":"node","id":"8971","labels":["Genres"],"properties":{"artistgenres":"salsa colombiana"}}}
+{"u":{"type":"node","id":"8972","labels":["Genres"],"properties":{"artistgenres":"french pop"}}}
+{"u":{"type":"node","id":"8973","labels":["Genres"],"properties":{"artistgenres":"south african rock"}}}
+{"u":{"type":"node","id":"8974","labels":["Genres"],"properties":{"artistgenres":"mandolin"}}}
+{"u":{"type":"node","id":"9002","labels":["Genres"],"properties":{"artistgenres":"electric blues"}}}
+{"u":{"type":"node","id":"9003","labels":["Genres"],"properties":{"artistgenres":"modern blues"}}}
+{"u":{"type":"node","id":"9004","labels":["Genres"],"properties":{"artistgenres":"texas blues"}}}
+{"u":{"type":"node","id":"9005","labels":["Genres"],"properties":{"artistgenres":"arabesk"}}}
+{"u":{"type":"node","id":"9006","labels":["Genres"],"properties":{"artistgenres":"deep turkish pop"}}}
+{"u":{"type":"node","id":"9007","labels":["Genres"],"properties":{"artistgenres":"canadian hip hop"}}}
+{"u":{"type":"node","id":"9008","labels":["Genres"],"properties":{"artistgenres":"persian alternative"}}}
+{"u":{"type":"node","id":"9009","labels":["Genres"],"properties":{"artistgenres":"persian pop"}}}
+{"u":{"type":"node","id":"9010","labels":["Genres"],"properties":{"artistgenres":"brazilian hip hop"}}}
+{"u":{"type":"node","id":"9011","labels":["Genres"],"properties":{"artistgenres":"umbanda"}}}
+{"u":{"type":"node","id":"9012","labels":["Genres"],"properties":{"artistgenres":"velha guarda"}}}
+{"u":{"type":"node","id":"9013","labels":["Genres"],"properties":{"artistgenres":"trap queen"}}}
+{"u":{"type":"node","id":"9014","labels":["Genres"],"properties":{"artistgenres":"progressive trance"}}}
+{"u":{"type":"node","id":"9015","labels":["Genres"],"properties":{"artistgenres":"nottingham indie"}}}
+{"u":{"type":"node","id":"9016","labels":["Genres"],"properties":{"artistgenres":"electro-industrial"}}}
+{"u":{"type":"node","id":"9017","labels":["Genres"],"properties":{"artistgenres":"futurepop"}}}
+{"u":{"type":"node","id":"9018","labels":["Genres"],"properties":{"artistgenres":"industrial metal"}}}
+{"u":{"type":"node","id":"9019","labels":["Genres"],"properties":{"artistgenres":"neue deutsche harte"}}}
+{"u":{"type":"node","id":"9020","labels":["Genres"],"properties":{"artistgenres":"neue deutsche todeskunst"}}}
+{"u":{"type":"node","id":"9021","labels":["Genres"],"properties":{"artistgenres":"gothenburg metal"}}}
+{"u":{"type":"node","id":"9022","labels":["Genres"],"properties":{"artistgenres":"afrobeat"}}}
+{"u":{"type":"node","id":"9023","labels":["Genres"],"properties":{"artistgenres":"bronx hip hop"}}}
+{"u":{"type":"node","id":"9024","labels":["Genres"],"properties":{"artistgenres":"hardcore hip hop"}}}
+{"u":{"type":"node","id":"9025","labels":["Genres"],"properties":{"artistgenres":"grupera"}}}
+{"u":{"type":"node","id":"9026","labels":["Genres"],"properties":{"artistgenres":"norteno"}}}
+{"u":{"type":"node","id":"9027","labels":["Genres"],"properties":{"artistgenres":"ranchera"}}}
+{"u":{"type":"node","id":"9028","labels":["Genres"],"properties":{"artistgenres":"new jersey rap"}}}
+{"u":{"type":"node","id":"9029","labels":["Genres"],"properties":{"artistgenres":"deathcore"}}}
+{"u":{"type":"node","id":"9030","labels":["Genres"],"properties":{"artistgenres":"piano rock"}}}
+{"u":{"type":"node","id":"9060","labels":["Genres"],"properties":{"artistgenres":"country pop"}}}
+{"u":{"type":"node","id":"9061","labels":["Genres"],"properties":{"artistgenres":"talent show"}}}
+{"u":{"type":"node","id":"9062","labels":["Genres"],"properties":{"artistgenres":"alternative r&b"}}}
+{"u":{"type":"node","id":"9063","labels":["Genres"],"properties":{"artistgenres":"afrofuturism"}}}
+{"u":{"type":"node","id":"9064","labels":["Genres"],"properties":{"artistgenres":"dubstep product"}}}
+{"u":{"type":"node","id":"9065","labels":["Genres"],"properties":{"artistgenres":"bandoneon"}}}
+{"u":{"type":"node","id":"9066","labels":["Genres"],"properties":{"artistgenres":"orquesta tipica"}}}
+{"u":{"type":"node","id":"9067","labels":["Genres"],"properties":{"artistgenres":"tango"}}}
+{"u":{"type":"node","id":"9068","labels":["Genres"],"properties":{"artistgenres":"filter house"}}}
+{"u":{"type":"node","id":"9069","labels":["Genres"],"properties":{"artistgenres":"french indie pop"}}}
+{"u":{"type":"node","id":"9070","labels":["Genres"],"properties":{"artistgenres":"french indietronica"}}}
+{"u":{"type":"node","id":"9071","labels":["Genres"],"properties":{"artistgenres":"new french touch"}}}
+{"u":{"type":"node","id":"9072","labels":["Genres"],"properties":{"artistgenres":"sertanejo tradicional"}}}
+{"u":{"type":"node","id":"9073","labels":["Genres"],"properties":{"artistgenres":"spiritual jazz"}}}
+{"u":{"type":"node","id":"9074","labels":["Genres"],"properties":{"artistgenres":"brega"}}}
+{"u":{"type":"node","id":"9075","labels":["Genres"],"properties":{"artistgenres":"folktronica"}}}
+{"u":{"type":"node","id":"9076","labels":["Genres"],"properties":{"artistgenres":"trap soul"}}}
+{"u":{"type":"node","id":"9077","labels":["Genres"],"properties":{"artistgenres":"float house"}}}
+{"u":{"type":"node","id":"9078","labels":["Genres"],"properties":{"artistgenres":"channel pop"}}}
+{"u":{"type":"node","id":"9092","labels":["Genres"],"properties":{"artistgenres":"rock steady"}}}
+{"u":{"type":"node","id":"9093","labels":["Genres"],"properties":{"artistgenres":"palm desert scene"}}}
+{"u":{"type":"node","id":"9094","labels":["Genres"],"properties":{"artistgenres":"stoner metal"}}}
+{"u":{"type":"node","id":"9095","labels":["Genres"],"properties":{"artistgenres":"stoner rock"}}}
+{"u":{"type":"node","id":"9096","labels":["Genres"],"properties":{"artistgenres":"vintage schlager"}}}
+{"u":{"type":"node","id":"9097","labels":["Genres"],"properties":{"artistgenres":"german dance"}}}
+{"u":{"type":"node","id":"9098","labels":["Genres"],"properties":{"artistgenres":"hard rock brasileiro"}}}
+{"u":{"type":"node","id":"9099","labels":["Genres"],"properties":{"artistgenres":"rock alternativo brasileiro"}}}
+{"u":{"type":"node","id":"9100","labels":["Genres"],"properties":{"artistgenres":"k-hop"}}}
+{"u":{"type":"node","id":"9101","labels":["Genres"],"properties":{"artistgenres":"k-pop"}}}
+{"u":{"type":"node","id":"9102","labels":["Genres"],"properties":{"artistgenres":"mathcore"}}}
+{"u":{"type":"node","id":"9103","labels":["Genres"],"properties":{"artistgenres":"noisecore"}}}
+{"u":{"type":"node","id":"9104","labels":["Genres"],"properties":{"artistgenres":"powerviolence"}}}
+{"u":{"type":"node","id":"9105","labels":["Genres"],"properties":{"artistgenres":"boston punk"}}}
+{"u":{"type":"node","id":"9106","labels":["Genres"],"properties":{"artistgenres":"canadian soundtrack"}}}
+{"u":{"type":"node","id":"9141","labels":["Genres"],"properties":{"artistgenres":"japanese indie pop"}}}
+{"u":{"type":"node","id":"9142","labels":["Genres"],"properties":{"artistgenres":"technical black metal"}}}
+{"u":{"type":"node","id":"9143","labels":["Genres"],"properties":{"artistgenres":"turkish folk"}}}
+{"u":{"type":"node","id":"9144","labels":["Genres"],"properties":{"artistgenres":"glitch hop"}}}
+{"u":{"type":"node","id":"9145","labels":["Genres"],"properties":{"artistgenres":"atl trap"}}}
+{"u":{"type":"node","id":"9146","labels":["Genres"],"properties":{"artistgenres":"northern soul"}}}
+{"u":{"type":"node","id":"9147","labels":["Genres"],"properties":{"artistgenres":"west coast rap"}}}
+{"u":{"type":"node","id":"9148","labels":["Genres"],"properties":{"artistgenres":"early romantic era"}}}
+{"u":{"type":"node","id":"9149","labels":["Genres"],"properties":{"artistgenres":"deathrock"}}}
+{"u":{"type":"node","id":"9150","labels":["Genres"],"properties":{"artistgenres":"early modern classical"}}}
+{"u":{"type":"node","id":"9151","labels":["Genres"],"properties":{"artistgenres":"russian modern classical"}}}
+{"u":{"type":"node","id":"9152","labels":["Genres"],"properties":{"artistgenres":"trip hop"}}}
+{"u":{"type":"node","id":"9153","labels":["Genres"],"properties":{"artistgenres":"afro house"}}}
+{"u":{"type":"node","id":"9154","labels":["Genres"],"properties":{"artistgenres":"uk dnb"}}}
+{"u":{"type":"node","id":"9155","labels":["Genres"],"properties":{"artistgenres":"bay area indie"}}}
+{"u":{"type":"node","id":"9156","labels":["Genres"],"properties":{"artistgenres":"shoegaze"}}}
+{"u":{"type":"node","id":"9157","labels":["Genres"],"properties":{"artistgenres":"anthem emo"}}}
+{"u":{"type":"node","id":"9158","labels":["Genres"],"properties":{"artistgenres":"vapor twitch"}}}
+{"u":{"type":"node","id":"9159","labels":["Genres"],"properties":{"artistgenres":"modern salsa"}}}
+{"u":{"type":"node","id":"9160","labels":["Genres"],"properties":{"artistgenres":"salsa"}}}
+{"u":{"type":"node","id":"9161","labels":["Genres"],"properties":{"artistgenres":"deep comedy"}}}
+{"u":{"type":"node","id":"9162","labels":["Genres"],"properties":{"artistgenres":"nu-metalcore"}}}
+{"u":{"type":"node","id":"9163","labels":["Genres"],"properties":{"artistgenres":"fingerstyle"}}}
+{"u":{"type":"node","id":"9198","labels":["Genres"],"properties":{"artistgenres":"speed garage"}}}
+{"u":{"type":"node","id":"9199","labels":["Genres"],"properties":{"artistgenres":"uk funky"}}}
+{"u":{"type":"node","id":"9200","labels":["Genres"],"properties":{"artistgenres":"british soundtrack"}}}
+{"u":{"type":"node","id":"9201","labels":["Genres"],"properties":{"artistgenres":"alternative hip hop"}}}
+{"u":{"type":"node","id":"9202","labels":["Genres"],"properties":{"artistgenres":"jump up"}}}
+{"u":{"type":"node","id":"9203","labels":["Genres"],"properties":{"artistgenres":"liquid funk"}}}
+{"u":{"type":"node","id":"9204","labels":["Genres"],"properties":{"artistgenres":"old school thrash"}}}
+{"u":{"type":"node","id":"9205","labels":["Genres"],"properties":{"artistgenres":"thrash metal"}}}
+{"u":{"type":"node","id":"9206","labels":["Genres"],"properties":{"artistgenres":"slow core"}}}
+{"u":{"type":"node","id":"9207","labels":["Genres"],"properties":{"artistgenres":"salsa puertorriquena"}}}
+{"u":{"type":"node","id":"9208","labels":["Genres"],"properties":{"artistgenres":"belgian dance"}}}
+{"u":{"type":"node","id":"9209","labels":["Genres"],"properties":{"artistgenres":"belgian edm"}}}
+{"u":{"type":"node","id":"9210","labels":["Genres"],"properties":{"artistgenres":"candy pop"}}}
+{"u":{"type":"node","id":"9211","labels":["Genres"],"properties":{"artistgenres":"ska mexicano"}}}
+{"u":{"type":"node","id":"9212","labels":["Genres"],"properties":{"artistgenres":"deep big room"}}}
+{"u":{"type":"node","id":"9244","labels":["Genres"],"properties":{"artistgenres":"swedish electronic"}}}
+{"u":{"type":"node","id":"9245","labels":["Genres"],"properties":{"artistgenres":"cape verdean folk"}}}
+{"u":{"type":"node","id":"9246","labels":["Genres"],"properties":{"artistgenres":"morna"}}}
+{"u":{"type":"node","id":"9247","labels":["Genres"],"properties":{"artistgenres":"twoubadou"}}}
+{"u":{"type":"node","id":"9248","labels":["Genres"],"properties":{"artistgenres":"arabic jazz"}}}
+{"u":{"type":"node","id":"9249","labels":["Genres"],"properties":{"artistgenres":"french jazz"}}}
+{"u":{"type":"node","id":"9250","labels":["Genres"],"properties":{"artistgenres":"dutch house"}}}
+{"u":{"type":"node","id":"9251","labels":["Genres"],"properties":{"artistgenres":"contrabass"}}}
+{"u":{"type":"node","id":"9252","labels":["Genres"],"properties":{"artistgenres":"regional mexican pop"}}}
+{"u":{"type":"node","id":"9253","labels":["Genres"],"properties":{"artistgenres":"dusseldorf electronic"}}}
+{"u":{"type":"node","id":"9254","labels":["Genres"],"properties":{"artistgenres":"krautrock"}}}
+{"u":{"type":"node","id":"9255","labels":["Genres"],"properties":{"artistgenres":"proto-techno"}}}
+{"u":{"type":"node","id":"9256","labels":["Genres"],"properties":{"artistgenres":"late romantic era"}}}
+{"u":{"type":"node","id":"9257","labels":["Genres"],"properties":{"artistgenres":"nu jazz"}}}
+{"u":{"type":"node","id":"9258","labels":["Genres"],"properties":{"artistgenres":"malaysian hip hop"}}}
+{"u":{"type":"node","id":"9259","labels":["Genres"],"properties":{"artistgenres":"malaysian pop"}}}
+{"u":{"type":"node","id":"9260","labels":["Genres"],"properties":{"artistgenres":"reading indie"}}}
+{"u":{"type":"node","id":"9261","labels":["Genres"],"properties":{"artistgenres":"classify"}}}
+{"u":{"type":"node","id":"9262","labels":["Genres"],"properties":{"artistgenres":"jumpstyle"}}}
+{"u":{"type":"node","id":"9263","labels":["Genres"],"properties":{"artistgenres":"classical soprano"}}}
+{"u":{"type":"node","id":"9264","labels":["Genres"],"properties":{"artistgenres":"stride"}}}
+{"u":{"type":"node","id":"9294","labels":["Genres"],"properties":{"artistgenres":"epicore"}}}
+{"u":{"type":"node","id":"9295","labels":["Genres"],"properties":{"artistgenres":"video game music"}}}
+{"u":{"type":"node","id":"9296","labels":["Genres"],"properties":{"artistgenres":"uk pop punk"}}}
+{"u":{"type":"node","id":"9297","labels":["Genres"],"properties":{"artistgenres":"italian soprano"}}}
+{"u":{"type":"node","id":"9298","labels":["Genres"],"properties":{"artistgenres":"modern old-time"}}}
+{"u":{"type":"node","id":"9299","labels":["Genres"],"properties":{"artistgenres":"p funk"}}}
+{"u":{"type":"node","id":"9300","labels":["Genres"],"properties":{"artistgenres":"rhythm and blues"}}}
+{"u":{"type":"node","id":"9301","labels":["Genres"],"properties":{"artistgenres":"acoustic blues"}}}
+{"u":{"type":"node","id":"9302","labels":["Genres"],"properties":{"artistgenres":"country blues"}}}
+{"u":{"type":"node","id":"9303","labels":["Genres"],"properties":{"artistgenres":"delta blues"}}}
+{"u":{"type":"node","id":"9304","labels":["Genres"],"properties":{"artistgenres":"brazilian composition"}}}
+{"u":{"type":"node","id":"9305","labels":["Genres"],"properties":{"artistgenres":"brazilian indie"}}}
+{"u":{"type":"node","id":"9306","labels":["Genres"],"properties":{"artistgenres":"cantautor"}}}
+{"u":{"type":"node","id":"9307","labels":["Genres"],"properties":{"artistgenres":"nova canco"}}}
+{"u":{"type":"node","id":"9308","labels":["Genres"],"properties":{"artistgenres":"nueva cancion"}}}
+{"u":{"type":"node","id":"9309","labels":["Genres"],"properties":{"artistgenres":"trova"}}}
+{"u":{"type":"node","id":"9310","labels":["Genres"],"properties":{"artistgenres":"miami hip hop"}}}
+{"u":{"type":"node","id":"9311","labels":["Genres"],"properties":{"artistgenres":"nu disco"}}}
+{"u":{"type":"node","id":"9312","labels":["Genres"],"properties":{"artistgenres":"indonesian pop"}}}
+{"u":{"type":"node","id":"9313","labels":["Genres"],"properties":{"artistgenres":"celtic rock"}}}
+{"u":{"type":"node","id":"9314","labels":["Genres"],"properties":{"artistgenres":"scottish rock"}}}
+{"u":{"type":"node","id":"9315","labels":["Genres"],"properties":{"artistgenres":"g funk"}}}
+{"u":{"type":"node","id":"9316","labels":["Genres"],"properties":{"artistgenres":"sheffield indie"}}}
+{"u":{"type":"node","id":"9352","labels":["Genres"],"properties":{"artistgenres":"norwegian doom metal"}}}
+{"u":{"type":"node","id":"9353","labels":["Genres"],"properties":{"artistgenres":"mexican rock"}}}
+{"u":{"type":"node","id":"9354","labels":["Genres"],"properties":{"artistgenres":"violao"}}}
+{"u":{"type":"node","id":"9355","labels":["Genres"],"properties":{"artistgenres":"instrumental soul"}}}
+{"u":{"type":"node","id":"9356","labels":["Genres"],"properties":{"artistgenres":"modern performance"}}}
+{"u":{"type":"node","id":"9357","labels":["Genres"],"properties":{"artistgenres":"socal pop punk"}}}
+{"u":{"type":"node","id":"9358","labels":["Genres"],"properties":{"artistgenres":"drumfunk"}}}
+{"u":{"type":"node","id":"9359","labels":["Genres"],"properties":{"artistgenres":"uk alternative hip hop"}}}
+{"u":{"type":"node","id":"9360","labels":["Genres"],"properties":{"artistgenres":"black thrash"}}}
+{"u":{"type":"node","id":"9361","labels":["Genres"],"properties":{"artistgenres":"crust punk"}}}
+{"u":{"type":"node","id":"9362","labels":["Genres"],"properties":{"artistgenres":"voidgrind"}}}
+{"u":{"type":"node","id":"9363","labels":["Genres"],"properties":{"artistgenres":"japanese garage rock"}}}
+{"u":{"type":"node","id":"9364","labels":["Genres"],"properties":{"artistgenres":"japanese girl punk"}}}
+{"u":{"type":"node","id":"9365","labels":["Genres"],"properties":{"artistgenres":"japanese punk rock"}}}
+{"u":{"type":"node","id":"9366","labels":["Genres"],"properties":{"artistgenres":"hamburg electronic"}}}
+{"u":{"type":"node","id":"9367","labels":["Genres"],"properties":{"artistgenres":"celtic"}}}
+{"u":{"type":"node","id":"9368","labels":["Genres"],"properties":{"artistgenres":"middle earth"}}}
+{"u":{"type":"node","id":"9369","labels":["Genres"],"properties":{"artistgenres":"anime"}}}
+{"u":{"type":"node","id":"9370","labels":["Genres"],"properties":{"artistgenres":"anime rock"}}}
+{"u":{"type":"node","id":"9371","labels":["Genres"],"properties":{"artistgenres":"j-pixie"}}}
+{"u":{"type":"node","id":"9372","labels":["Genres"],"properties":{"artistgenres":"dixieland"}}}
+{"u":{"type":"node","id":"9373","labels":["Genres"],"properties":{"artistgenres":"naija worship"}}}
+{"u":{"type":"node","id":"9374","labels":["Genres"],"properties":{"artistgenres":"world worship"}}}
+{"u":{"type":"node","id":"9375","labels":["Genres"],"properties":{"artistgenres":"bassline"}}}
+{"u":{"type":"node","id":"9376","labels":["Genres"],"properties":{"artistgenres":"belgian pop"}}}
+{"u":{"type":"node","id":"9407","labels":["Genres"],"properties":{"artistgenres":"girl group"}}}
+{"u":{"type":"node","id":"9408","labels":["Genres"],"properties":{"artistgenres":"partyschlager"}}}
+{"u":{"type":"node","id":"9409","labels":["Genres"],"properties":{"artistgenres":"colombian pop"}}}
+{"u":{"type":"node","id":"9410","labels":["Genres"],"properties":{"artistgenres":"r&b en espanol"}}}
+{"u":{"type":"node","id":"9411","labels":["Genres"],"properties":{"artistgenres":"canzone d'autore"}}}
+{"u":{"type":"node","id":"9412","labels":["Genres"],"properties":{"artistgenres":"orchestral performance"}}}
+{"u":{"type":"node","id":"9413","labels":["Genres"],"properties":{"artistgenres":"j-acoustic"}}}
+{"u":{"type":"node","id":"9414","labels":["Genres"],"properties":{"artistgenres":"japanese city pop"}}}
+{"u":{"type":"node","id":"9415","labels":["Genres"],"properties":{"artistgenres":"jam band"}}}
+{"u":{"type":"node","id":"9416","labels":["Genres"],"properties":{"artistgenres":"jamgrass"}}}
+{"u":{"type":"node","id":"9417","labels":["Genres"],"properties":{"artistgenres":"string band"}}}
+{"u":{"type":"node","id":"9418","labels":["Genres"],"properties":{"artistgenres":"dreamo"}}}
+{"u":{"type":"node","id":"9419","labels":["Genres"],"properties":{"artistgenres":"hampton roads indie"}}}
+{"u":{"type":"node","id":"9420","labels":["Genres"],"properties":{"artistgenres":"canadian country"}}}
+{"u":{"type":"node","id":"9421","labels":["Genres"],"properties":{"artistgenres":"boy band"}}}
+{"u":{"type":"node","id":"9422","labels":["Genres"],"properties":{"artistgenres":"old school dancehall"}}}
+{"u":{"type":"node","id":"9423","labels":["Genres"],"properties":{"artistgenres":"ecm-style jazz"}}}
+{"u":{"type":"node","id":"9424","labels":["Genres"],"properties":{"artistgenres":"jazz piano"}}}
+{"u":{"type":"node","id":"9425","labels":["Genres"],"properties":{"artistgenres":"american post-rock"}}}
+{"u":{"type":"node","id":"9460","labels":["Genres"],"properties":{"artistgenres":"australian indie folk"}}}
+{"u":{"type":"node","id":"9461","labels":["Genres"],"properties":{"artistgenres":"canzone napoletana"}}}
+{"u":{"type":"node","id":"9462","labels":["Genres"],"properties":{"artistgenres":"classical tenor"}}}
+{"u":{"type":"node","id":"9463","labels":["Genres"],"properties":{"artistgenres":"italian tenor"}}}
+{"u":{"type":"node","id":"9464","labels":["Genres"],"properties":{"artistgenres":"operatic pop"}}}
+{"u":{"type":"node","id":"9465","labels":["Genres"],"properties":{"artistgenres":"coverchill"}}}
+{"u":{"type":"node","id":"9466","labels":["Genres"],"properties":{"artistgenres":"bmore"}}}
+{"u":{"type":"node","id":"9467","labels":["Genres"],"properties":{"artistgenres":"lgbtq+ hip hop"}}}
+{"u":{"type":"node","id":"9468","labels":["Genres"],"properties":{"artistgenres":"jazztronica"}}}
+{"u":{"type":"node","id":"9469","labels":["Genres"],"properties":{"artistgenres":"livetronica"}}}
+{"u":{"type":"node","id":"9470","labels":["Genres"],"properties":{"artistgenres":"doom metal"}}}
+{"u":{"type":"node","id":"9471","labels":["Genres"],"properties":{"artistgenres":"drone metal"}}}
+{"u":{"type":"node","id":"9472","labels":["Genres"],"properties":{"artistgenres":"psychedelic doom"}}}
+{"u":{"type":"node","id":"9473","labels":["Genres"],"properties":{"artistgenres":"sludge metal"}}}
+{"u":{"type":"node","id":"9474","labels":["Genres"],"properties":{"artistgenres":"space rock"}}}
+{"u":{"type":"node","id":"9475","labels":["Genres"],"properties":{"artistgenres":"uk doom metal"}}}
+{"u":{"type":"node","id":"9476","labels":["Genres"],"properties":{"artistgenres":"japanese post-hardcore"}}}
+{"u":{"type":"node","id":"9477","labels":["Genres"],"properties":{"artistgenres":"trap latino"}}}
+{"u":{"type":"node","id":"9478","labels":["Genres"],"properties":{"artistgenres":"latin classical"}}}
+{"u":{"type":"node","id":"9479","labels":["Genres"],"properties":{"artistgenres":"nuevo tango"}}}
+{"u":{"type":"node","id":"9480","labels":["Genres"],"properties":{"artistgenres":"anime score"}}}
+{"u":{"type":"node","id":"9481","labels":["Genres"],"properties":{"artistgenres":"japanese classical"}}}
+{"u":{"type":"node","id":"9482","labels":["Genres"],"properties":{"artistgenres":"japanese soundtrack"}}}
+{"u":{"type":"node","id":"9483","labels":["Genres"],"properties":{"artistgenres":"modern power pop"}}}
+{"u":{"type":"node","id":"9511","labels":["Genres"],"properties":{"artistgenres":"classic cantopop"}}}
+{"u":{"type":"node","id":"9512","labels":["Genres"],"properties":{"artistgenres":"latin jazz"}}}
+{"u":{"type":"node","id":"9513","labels":["Genres"],"properties":{"artistgenres":"rap dominicano"}}}
+{"u":{"type":"node","id":"9514","labels":["Genres"],"properties":{"artistgenres":"underground hip hop"}}}
+{"u":{"type":"node","id":"9515","labels":["Genres"],"properties":{"artistgenres":"dutch edm"}}}
+{"u":{"type":"node","id":"9516","labels":["Genres"],"properties":{"artistgenres":"pop violin"}}}
+{"u":{"type":"node","id":"9517","labels":["Genres"],"properties":{"artistgenres":"oxford indie"}}}
+{"u":{"type":"node","id":"9518","labels":["Genres"],"properties":{"artistgenres":"melodic techno"}}}
+{"u":{"type":"node","id":"9519","labels":["Genres"],"properties":{"artistgenres":"flamenco"}}}
+{"u":{"type":"node","id":"9520","labels":["Genres"],"properties":{"artistgenres":"rumba"}}}
+{"u":{"type":"node","id":"9521","labels":["Genres"],"properties":{"artistgenres":"rumba catalana"}}}
+{"u":{"type":"node","id":"9522","labels":["Genres"],"properties":{"artistgenres":"doo-wop"}}}
+{"u":{"type":"node","id":"9523","labels":["Genres"],"properties":{"artistgenres":"violin"}}}
+{"u":{"type":"node","id":"9524","labels":["Genres"],"properties":{"artistgenres":"german soundtrack"}}}
+{"u":{"type":"node","id":"9525","labels":["Genres"],"properties":{"artistgenres":"detroit hip hop"}}}
+{"u":{"type":"node","id":"9528","labels":["Genres"],"properties":{"artistgenres":"australian metal"}}}
+{"u":{"type":"node","id":"9529","labels":["Genres"],"properties":{"artistgenres":"technical brutal death metal"}}}
+{"u":{"type":"node","id":"9561","labels":["Genres"],"properties":{"artistgenres":"cartoon"}}}
+{"u":{"type":"node","id":"9562","labels":["Genres"],"properties":{"artistgenres":"japanese techno"}}}
+{"u":{"type":"node","id":"9563","labels":["Genres"],"properties":{"artistgenres":"nursery"}}}
+{"u":{"type":"node","id":"9564","labels":["Genres"],"properties":{"artistgenres":"jazz guitar"}}}
+{"u":{"type":"node","id":"9565","labels":["Genres"],"properties":{"artistgenres":"funky tech house"}}}
+{"u":{"type":"node","id":"9566","labels":["Genres"],"properties":{"artistgenres":"baroque"}}}
+{"u":{"type":"node","id":"9567","labels":["Genres"],"properties":{"artistgenres":"english baroque"}}}
+{"u":{"type":"node","id":"9568","labels":["Genres"],"properties":{"artistgenres":"emo punk"}}}
+{"u":{"type":"node","id":"9569","labels":["Genres"],"properties":{"artistgenres":"folk metal"}}}
+{"u":{"type":"node","id":"9570","labels":["Genres"],"properties":{"artistgenres":"progressive black metal"}}}
+{"u":{"type":"node","id":"9571","labels":["Genres"],"properties":{"artistgenres":"healing"}}}
+{"u":{"type":"node","id":"9572","labels":["Genres"],"properties":{"artistgenres":"new age"}}}
+{"u":{"type":"node","id":"9604","labels":["Genres"],"properties":{"artistgenres":"new jersey hardcore"}}}
+{"u":{"type":"node","id":"9605","labels":["Genres"],"properties":{"artistgenres":"new jersey punk"}}}
+{"u":{"type":"node","id":"9606","labels":["Genres"],"properties":{"artistgenres":"canadian psychedelic rock"}}}
+{"u":{"type":"node","id":"9607","labels":["Genres"],"properties":{"artistgenres":"chicago blues"}}}
+{"u":{"type":"node","id":"9608","labels":["Genres"],"properties":{"artistgenres":"soul blues"}}}
+{"u":{"type":"node","id":"9609","labels":["Genres"],"properties":{"artistgenres":"nouvelle chanson francaise"}}}
+{"u":{"type":"node","id":"9610","labels":["Genres"],"properties":{"artistgenres":"garage psych"}}}
+{"u":{"type":"node","id":"9611","labels":["Genres"],"properties":{"artistgenres":"chillstep"}}}
+{"u":{"type":"node","id":"9612","labels":["Genres"],"properties":{"artistgenres":"substep"}}}
+{"u":{"type":"node","id":"9613","labels":["Genres"],"properties":{"artistgenres":"bass trap"}}}
+{"u":{"type":"node","id":"9614","labels":["Genres"],"properties":{"artistgenres":"funk metal"}}}
+{"u":{"type":"node","id":"9615","labels":["Genres"],"properties":{"artistgenres":"j-punk"}}}
+{"u":{"type":"node","id":"9616","labels":["Genres"],"properties":{"artistgenres":"okinawan pop"}}}
+{"u":{"type":"node","id":"9641","labels":["Genres"],"properties":{"artistgenres":"instrumental surf"}}}
+{"u":{"type":"node","id":"9642","labels":["Genres"],"properties":{"artistgenres":"kiwi rock"}}}
+{"u":{"type":"node","id":"9643","labels":["Genres"],"properties":{"artistgenres":"portland hip hop"}}}
+{"u":{"type":"node","id":"9644","labels":["Genres"],"properties":{"artistgenres":"mariachi"}}}
+{"u":{"type":"node","id":"9645","labels":["Genres"],"properties":{"artistgenres":"german pop rock"}}}
+{"u":{"type":"node","id":"9646","labels":["Genres"],"properties":{"artistgenres":"progressive rock"}}}
+{"u":{"type":"node","id":"9647","labels":["Genres"],"properties":{"artistgenres":"symphonic rock"}}}
+{"u":{"type":"node","id":"9648","labels":["Genres"],"properties":{"artistgenres":"hindustani classical"}}}
+{"u":{"type":"node","id":"9649","labels":["Genres"],"properties":{"artistgenres":"hindustani instrumental"}}}
+{"u":{"type":"node","id":"9650","labels":["Genres"],"properties":{"artistgenres":"indian classical"}}}
+{"u":{"type":"node","id":"9651","labels":["Genres"],"properties":{"artistgenres":"chicago drill"}}}
+{"u":{"type":"node","id":"9652","labels":["Genres"],"properties":{"artistgenres":"chicago rap"}}}
+{"u":{"type":"node","id":"9653","labels":["Genres"],"properties":{"artistgenres":"drill"}}}
+{"u":{"type":"node","id":"9654","labels":["Genres"],"properties":{"artistgenres":"irish rock"}}}
+{"u":{"type":"node","id":"9684","labels":["Genres"],"properties":{"artistgenres":"lo-fi"}}}
+{"u":{"type":"node","id":"9685","labels":["Genres"],"properties":{"artistgenres":"new jersey indie"}}}
+{"u":{"type":"node","id":"9686","labels":["Genres"],"properties":{"artistgenres":"chicago punk"}}}
+{"u":{"type":"node","id":"9687","labels":["Genres"],"properties":{"artistgenres":"folk punk"}}}
+{"u":{"type":"node","id":"9688","labels":["Genres"],"properties":{"artistgenres":"melodic hardcore"}}}
+{"u":{"type":"node","id":"9689","labels":["Genres"],"properties":{"artistgenres":"orgcore"}}}
+{"u":{"type":"node","id":"9690","labels":["Genres"],"properties":{"artistgenres":"power-pop punk"}}}
+{"u":{"type":"node","id":"9691","labels":["Genres"],"properties":{"artistgenres":"filthstep"}}}
+{"u":{"type":"node","id":"9692","labels":["Genres"],"properties":{"artistgenres":"zapstep"}}}
+{"u":{"type":"node","id":"9693","labels":["Genres"],"properties":{"artistgenres":"romanian pop"}}}
+{"u":{"type":"node","id":"9694","labels":["Genres"],"properties":{"artistgenres":"cinematic post-rock"}}}
+{"u":{"type":"node","id":"9695","labels":["Genres"],"properties":{"artistgenres":"instrumental post-rock"}}}
+{"u":{"type":"node","id":"9696","labels":["Genres"],"properties":{"artistgenres":"wassoulou"}}}
+{"u":{"type":"node","id":"9697","labels":["Genres"],"properties":{"artistgenres":"happy hardcore"}}}
+{"u":{"type":"node","id":"9698","labels":["Genres"],"properties":{"artistgenres":"british choir"}}}
+{"u":{"type":"node","id":"9699","labels":["Genres"],"properties":{"artistgenres":"fidget house"}}}
+{"u":{"type":"node","id":"9700","labels":["Genres"],"properties":{"artistgenres":"nz electronic"}}}
+{"u":{"type":"node","id":"9701","labels":["Genres"],"properties":{"artistgenres":"makossa"}}}
+{"u":{"type":"node","id":"9702","labels":["Genres"],"properties":{"artistgenres":"soukous"}}}
+{"u":{"type":"node","id":"9703","labels":["Genres"],"properties":{"artistgenres":"portland indie"}}}
+{"u":{"type":"node","id":"9717","labels":["Genres"],"properties":{"artistgenres":"progressive sludge"}}}
+{"u":{"type":"node","id":"9718","labels":["Genres"],"properties":{"artistgenres":"birmingham metal"}}}
+{"u":{"type":"node","id":"9719","labels":["Genres"],"properties":{"artistgenres":"atmospheric dnb"}}}
+{"u":{"type":"node","id":"9720","labels":["Genres"],"properties":{"artistgenres":"jungle"}}}
+{"u":{"type":"node","id":"9721","labels":["Genres"],"properties":{"artistgenres":"neurofunk"}}}
+{"u":{"type":"node","id":"9722","labels":["Genres"],"properties":{"artistgenres":"forro tradicional"}}}
+{"u":{"type":"node","id":"9723","labels":["Genres"],"properties":{"artistgenres":"mbalax"}}}
+{"u":{"type":"node","id":"9754","labels":["Genres"],"properties":{"artistgenres":"wrestling"}}}
+{"u":{"type":"node","id":"9755","labels":["Genres"],"properties":{"artistgenres":"danish metal"}}}
+{"u":{"type":"node","id":"9756","labels":["Genres"],"properties":{"artistgenres":"detroit house"}}}
+{"u":{"type":"node","id":"9757","labels":["Genres"],"properties":{"artistgenres":"german alternative rap"}}}
+{"u":{"type":"node","id":"9758","labels":["Genres"],"properties":{"artistgenres":"german indie"}}}
+{"u":{"type":"node","id":"9759","labels":["Genres"],"properties":{"artistgenres":"liedermacher"}}}
+{"u":{"type":"node","id":"9760","labels":["Genres"],"properties":{"artistgenres":"psychill"}}}
+{"u":{"type":"node","id":"9761","labels":["Genres"],"properties":{"artistgenres":"space ambient"}}}
+{"u":{"type":"node","id":"9762","labels":["Genres"],"properties":{"artistgenres":"kc indie"}}}
+{"u":{"type":"node","id":"9763","labels":["Genres"],"properties":{"artistgenres":"midwest emo"}}}
+{"u":{"type":"node","id":"9764","labels":["Genres"],"properties":{"artistgenres":"classical mandolin"}}}
+{"u":{"type":"node","id":"9765","labels":["Genres"],"properties":{"artistgenres":"instrumental bluegrass"}}}
+{"u":{"type":"node","id":"9766","labels":["Genres"],"properties":{"artistgenres":"american folk revival"}}}
+{"u":{"type":"node","id":"9767","labels":["Genres"],"properties":{"artistgenres":"bubblegum pop"}}}
+{"u":{"type":"node","id":"9804","labels":["Genres"],"properties":{"artistgenres":"psych gaze"}}}
+{"u":{"type":"node","id":"9805","labels":["Genres"],"properties":{"artistgenres":"boogaloo"}}}
+{"u":{"type":"node","id":"9806","labels":["Genres"],"properties":{"artistgenres":"cali rap"}}}
+{"u":{"type":"node","id":"9807","labels":["Genres"],"properties":{"artistgenres":"hyphy"}}}
+{"u":{"type":"node","id":"9808","labels":["Genres"],"properties":{"artistgenres":"west coast trap"}}}
+{"u":{"type":"node","id":"9809","labels":["Genres"],"properties":{"artistgenres":"uk metalcore"}}}
+{"u":{"type":"node","id":"9810","labels":["Genres"],"properties":{"artistgenres":"la indie"}}}
+{"u":{"type":"node","id":"9811","labels":["Genres"],"properties":{"artistgenres":"piano blues"}}}
+{"u":{"type":"node","id":"9812","labels":["Genres"],"properties":{"artistgenres":"hands up"}}}
+{"u":{"type":"node","id":"9813","labels":["Genres"],"properties":{"artistgenres":"turntablism"}}}
+{"u":{"type":"node","id":"9814","labels":["Genres"],"properties":{"artistgenres":"finnish edm"}}}
+{"u":{"type":"node","id":"9815","labels":["Genres"],"properties":{"artistgenres":"honky tonk"}}}
+{"u":{"type":"node","id":"9816","labels":["Genres"],"properties":{"artistgenres":"appalachian folk"}}}
+{"u":{"type":"node","id":"9849","labels":["Genres"],"properties":{"artistgenres":"traditional country"}}}
+{"u":{"type":"node","id":"9850","labels":["Genres"],"properties":{"artistgenres":"yodeling"}}}
+{"u":{"type":"node","id":"9851","labels":["Genres"],"properties":{"artistgenres":"florida death metal"}}}
+{"u":{"type":"node","id":"9852","labels":["Genres"],"properties":{"artistgenres":"latin house"}}}
+{"u":{"type":"node","id":"9853","labels":["Genres"],"properties":{"artistgenres":"classical cello"}}}
+{"u":{"type":"node","id":"9854","labels":["Genres"],"properties":{"artistgenres":"modern ska punk"}}}
+{"u":{"type":"node","id":"9855","labels":["Genres"],"properties":{"artistgenres":"nu skool breaks"}}}
+{"u":{"type":"node","id":"9856","labels":["Genres"],"properties":{"artistgenres":"cuban rumba"}}}
+{"u":{"type":"node","id":"9857","labels":["Genres"],"properties":{"artistgenres":"nordic soundtrack"}}}
+{"u":{"type":"node","id":"9858","labels":["Genres"],"properties":{"artistgenres":"classic uk pop"}}}
+{"u":{"type":"node","id":"9859","labels":["Genres"],"properties":{"artistgenres":"nederpop"}}}
+{"u":{"type":"node","id":"9860","labels":["Genres"],"properties":{"artistgenres":"dc hardcore"}}}
+{"u":{"type":"node","id":"9861","labels":["Genres"],"properties":{"artistgenres":"straight edge"}}}
+{"u":{"type":"node","id":"9862","labels":["Genres"],"properties":{"artistgenres":"denpa-kei"}}}
+{"u":{"type":"node","id":"9863","labels":["Genres"],"properties":{"artistgenres":"dominican pop"}}}
+{"u":{"type":"node","id":"9864","labels":["Genres"],"properties":{"artistgenres":"ecuadorian pop"}}}
+{"u":{"type":"node","id":"9865","labels":["Genres"],"properties":{"artistgenres":"chicago hardcore"}}}
+{"u":{"type":"node","id":"9896","labels":["Genres"],"properties":{"artistgenres":"spanish pop rock"}}}
+{"u":{"type":"node","id":"9897","labels":["Genres"],"properties":{"artistgenres":"mangue bit"}}}
+{"u":{"type":"node","id":"9898","labels":["Genres"],"properties":{"artistgenres":"pernambuco alternative"}}}
+{"u":{"type":"node","id":"9899","labels":["Genres"],"properties":{"artistgenres":"progressive trance house"}}}
+{"u":{"type":"node","id":"9900","labels":["Genres"],"properties":{"artistgenres":"swedish punk"}}}
+{"u":{"type":"node","id":"9901","labels":["Genres"],"properties":{"artistgenres":"bayerischer rap"}}}
+{"u":{"type":"node","id":"9902","labels":["Genres"],"properties":{"artistgenres":"british alternative rock"}}}
+{"u":{"type":"node","id":"9903","labels":["Genres"],"properties":{"artistgenres":"southern rock"}}}
+{"u":{"type":"node","id":"9904","labels":["Genres"],"properties":{"artistgenres":"taiwan singer-songwriter"}}}

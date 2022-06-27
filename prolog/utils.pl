@@ -1,4 +1,8 @@
-% Return all the Tracks for a given artist and a given Album
+
+
+:- consult("C:\\Users\\user\\Desktop\\AI-Project\\MusicNet\\prolog\\wn\\wn_connect.pl").
+
+
 getArtistTracks(NameArtist, NameAlbum, TrackName) :-
     artist(NameArtist),    
     published_by(IDalbum, NameArtist),
@@ -39,3 +43,18 @@ jaccard(SimA,SimB,Sim) :-
     length(I,NI),
     length(U,NU),
     Sim is NI/NU.
+
+%find all the ids of the tracks whose features match the features given in input.
+% the ids are shuffled and the first 10 ids are returned 
+% getTracksByFeatures("low_danceable", "high_energy", "low_valence", TenTracks).
+getTracksByFeatures(Dance, Energy, Valence, TenTracks) :- 
+    findall(TrackId, (features(TrackId, Dance, Energy, _, _, _, _,Valence, _)), Tracks),
+    random_permutation(Tracks, TracksPer),
+    take(TracksPer, 10, TenTracks).
+
+take([X|T1],N,[X|T2]):-
+    N>=0,
+    N1 is N-1,
+    take(T1,N1,T2).
+
+take([_|_], 0, []) :-!.

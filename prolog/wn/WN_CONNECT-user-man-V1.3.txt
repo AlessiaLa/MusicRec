@@ -1,0 +1,592 @@
+WN_CONNECT source v1.3 : 
+%%%%%%%%%%%%%%%%%%%%%%%%
+
+WN_CONNECT is a software application prototype that aims to access the lexical database WordNet. One of its main features is that it has been fully implemented using PROLOG or related technologies.
+
+WN_CONNECT is divided into the following modules.
+
+:- use_module(wn).
+:- use_module(wn_synsets).
+:- use_module(wn_hypernyms).
+:- use_module(wn_hyponyms).
+:- use_module(wn_similar_adjectives).
+:- use_module(wn_sim_measures).
+:- use_module(wn_ic_measures).
+:- use_module(wn_rel_measures).
+
+:- use_module(wn_utilities).
+
+
+A general characteristic of the predicates implemented in these modules is that the parameter Word (occurring in that predicates) is a term that follows the syntax "Word[:SS_type[:Sense_num]]" and actually represents a concept identified by a synset ID. 
+
+Where SS_type is a one character code indicating the synset type:
+    n NOUN
+    v VERB
+    a ADJECTIVE
+    s ADJECTIVE SATELLITE
+    r ADVERB
+
+and "Sense_num" specifies the sense number (meaning) of the word, within the part of speech encoded in the synset_id. "Sense_num" is a natural number: 1, 2, 3, ...
+
+Note that sometimes this term may be partially specified; that is, SS_type and Sense_num could be variables (or even omitted).
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+:- use_module(wn).
+%%%%%%%%%%%%%%%%%%%%%%%%
+This module was implemented by Jan Wielemaker. It discloses the Wordnet Prolog files in a more SWI-Prolog friendly manner. It exploits SWI-Prolog demand-loading and SWI-Prolog Quick Load Files to load `just-in-time' and as quickly as possible.
+
+The system creates Quick Load Files for  each wordnet file needed if the .qlf file doesn't exist and the wordnet directory is writeable. For shared installations it is adviced to   run load_wordnet/0 as user with sufficient privileges to create the Quick Load Files.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+:- use_module(wn_synsets).
+%%%%%%%%%%%%%%%%%%%%%%%%
+This module implements predicates to retrieve information about words and synsets stored in WordNet.
+
+This module uses:
+
+:- if(getenv('WNDEVEL', yes)).
+:- use_module(wn_portray).
+:- else.
+:- use_module(wn).
+:- endif.
+ 
+
+The public predicates implemented in this module are:
+
+    wn_word_info/1,         %% (+Word)
+    wn_gloss_of/2,          %% (+Word, -Gloss)
+    wn_synset_ID_of/2,      %% (+Word, -W_Synset_ID)
+    wn_synset_of/2,         %% (+Word, -W_synset)
+    wn_synset_of/3,         %% (+Word, -W_synset, +Verbosity)
+    wn_synset_components/2, %% (+Synset_ID, -Synset_Words)
+    wn_synset_components/3  %% (+Synset_ID, -Synset_Words, +Verbosity)
+
+
+** wn_word_info(+Word): 
+Prints the information about a word, Word, stored in the
+database 'wn_s.pl' of Wordnet. 
+
+** wn_gloss_of(+Word, -Gloss): 
+Returns the Gloss of a Word. 
+
+** wn_synset_ID_of(+Word, -W_Synset_ID): 
+W_Synset_ID is the synset ID to which W belongs. 
+
+** wn_synset_of(+Word, -W_synset): 
+W_synset is the synset to which Word belongs. W_synset is represented by a set of words that are synonyms of Word. The words in the output list W_synset are represented as terms "Word:SS_type:Sense_num".
+
+It is equivalent to calling wn_synset_of/3 setting the third parameter to ``verbose(yes)''. That is, 
+			wn_synset_of(Synset_ID, Synset_Words, verbose(yes)).
+
+** wn_synset_of(+Word, -W_synset, Verbosity):
+W_synset is the synset to which Word belongs.
+W_synset is represented by a set of words that are synonyms of Word. Depending on the value of Verbosity (see below) it show information of the type and sense of the word component of the synset.
+
+The input Word terms follow the syntax "Word[:SS_type[:Sense_num]]". If the option Verbosity is set to "verbose(no)", the output list W_synset is a list of plain words. On the other hand if the option Verbosity is "verbose(yes)", the words in the output list W_synset are represented as ground terms "word:ss_type:sense_num"
+
+** wn_synset_components(+Synset_ID, -Synset_Words):
+Synset_Words is the list of words that compounds the synset Synset_ID. The words in the output list Synset_Words are represented as ground terms "word:ss_type:sense_num"
+It is equivalent to calling wn_synset_components/3 setting the third parameter to ``verbose(yes)''. That is,
+			wn_synset_components(Synset_ID, Synset_Words, verbose(yes)).
+
+
+** wn_synset_components(+Synset_ID, -Synset_Words, Verbosity):
+Synset_Words is the list of words that compounds the synset Synset_ID.
+
+"Verbosity" is a parameter that controls the degree of information shown. It can be set to "verbose(no)" or "verbose(yes)". If the option Verbosity is set to "verbose(no)", the output list W_synset is a list of plain words. In the second case for each word W in the synset, ist syntactic type SS_type and its sense number SS_Num are shown.
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+:- use_module(wn_hypernyms).
+%%%%%%%%%%%%%%%%%%%%%%%%
+This module implements predicates to retrieve information about hypernyms of a concept (synset). These predicates only work with either nouns or verbs. 
+
+This module uses:
+
+:- use_module(wn_synsets).
+:- use_module(wn_utilities).
+ 
+
+The public predicates implemented in this module are:
+
+wn_hypernyms/2,               %% (+W_Hyponym, -List_SynSet_HyperNym)
+wn_hypernyms/3,               %% (+W_Hyponym, +Verbosity, -List_SynSet_HyperNym)
+wn_display_hypernyms/1,       %% (+W_Hyponym)
+wn_display_graph_hypernyms/1, %% (+W_Hyponym)
+wn_lcs/2,                     %% (List_of_Words, LCS)
+wn_lcs_nondet/2,              %% (+List_of_Words, -LCS)
+wn_lcs/3,                     %% (+Word1, +Word2, -LCS)
+wn_lcs_nondet/3               %% (+Word1, +Word2, -LCS)
+
+NEW PREDICATES STARTING FROM VERSION 1.2: wn_hypernyms/3, wn_lcs/2, wn_lcs_nondet/2, wn_lcs/3, wn_lcs_nondet/3
+
+** wn_hypernyms(+Word, -List_SynSet_HyperNym):
+Given a word (term) "Word" returns the list "List_SynSet_HyperNym" of its hypernym synset_IDs. Word is a hyponym of the elements of that list.
+
+It is equivalent to calling wn_hypernyms/3 setting the second parameter to ``verbose(yes)''. That is,
+			wn_synset_components(Synset_ID, Synset_Words, verbose(yes)).
+
+** wn_display_hypernyms(+ Word):
+Given a word (term) "W_Hyponym" prints a textual representation of the chain of its hypernym synsets. Word is a hyponym of the elements of that chain.
+
+** wn_display_graph_hypernyms(+Word):
+It shows a graphic representation of all hypernyms corresponding to all the senses of the word 'Word'. A node of the graph only shows the representative word of that hypernym synset.
+
+** wn_lcs(+Word1, +Word2, -LCS):
+Calculates the Less Common Subsumer (LCS) of Word1 and Word2.
+
+NOTE: Deterministic version of wn_lcs_nondet/3. It evaluates all the LCSs obtained by confronting all the HyperTrees of Word1 and Word2, calculates the depth of them (measured from the root of the hierarchy) and selects the LCS with greater depth.
+
+** wn_lcs_nondet(+Word1, +Word2, -LCS):
+Calculates the Less Common Subsumer (LCS) of Word1 and Word2.
+
+Non-deterministic version of wn_lcs/2. All possible HyperTrees are considered and an answer is delivered for each pair of those HyperTrees.
+
+** wn_lcs(+List_of_Words, -LCS):
+Returns the Less Common Subsumer LCS of a set of words.
+
+This is a deterministic predicate. If a set of words is provided and the type and sense of the words are not set or the concepts have several HyperTrees, all possible HyperTrees are considered and confronted. Then a set of LCSs is obtained (jointly with their depth) and the deepest LCS is selected.
+
+
+** wn_lcs_nondet(+List_of_Words, -LCS)
+Returns the Less Common Subsumer LCS of a set of words.
+
+This is a non-deterministic predicate. All possible HyperTrees are considered and an answer is delivered for each combination of those HyperTrees.
+
+
+NOTE: These predicates can be used without specifying the Type and Sense of a Word, but in this case the LCS for all combinations of types and senses of these two words are obtained. If you want to obtain the LCS for two precise concepts introduce "Word1:W1_Type:W1_Sense" and "Word2:W2_Type:W2_Sense" with specific values the words, types, and senses.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+:- use_module(wn_hyponyms).       %% NEW MODULE, STARTING FROM VERSION 1.3
+%%%%%%%%%%%%%%%%%%%%%%%%
+This module implements predicates to retrieve information about hyponyms of a concept (synset). These predicates only work with either nouns or verbs. 
+
+This module uses:
+
+:- use_module(wn_synsets).
+:- use_module(wn_utilities).
+ 
+
+The public predicates implemented in this module are:
+
+:- module(wn_hyponyms, [
+	wn_hyponyms/2,                  %% (+W_Hypernym, -List_SynSet_Hyponyms)
+        wn_hyponyms/3,                  %% (+W_Hypernym, +Verbosity, -List_SynSet_Hyponyms)
+        wn_gen_all_hyponyms_of/2,       %% (+Synset_ID, -List_all_Hyponym_IDs)
+                                        %% useful for implementation tasks.
+                                        %% It works with Synset_IDs.
+        wn_hyponyms_upto_level/3,       %% (+W_Hypernym, +Level, -List_SynSet_Hyponyms)
+        wn_hyponyms_upto_level/4,       %% (+W_Hypernym, +Level, +Verbosity, -List_SynSet_Hyponyms)
+        wn_gen_hyponyms_upto_level/3,   %% (+Synset_ID, +Level, -List_Hyponym_IDs)
+                                        %% useful for implementation tasks.
+                                        %% It works with Synset_IDs.
+        wn_display_graph_hyponyms/2     %% (+Word, +Level)
+   ]).
+
+
+** wn_hyponyms(+W_Hypernym, -List_SynSet_Hyponyms):
+Given a word (term) "W_Hypernym" returns the list "List_SynSet_Hyponyms" of its hyponym synset_IDs
+
+It is equivalent to the call of 
+	wn_hyponyms(W_Hypernym, verbose(yes), List_SynSet_Hyponyms)
+
+** wn_gen_all_hyponyms_of(+Synset_ID, -List_all_Hyponym_IDs):
+Generates all hyponyms of a concept (Synset_ID).
+"List_all_Hyponym_IDs" is the list of all hyponyms of the synset "Synset_ID".
+The list "List_all_Hyponym_IDs" is a bag of synset_IDs hyponyms of "Synset_ID".
+
+** wn_hyponyms_upto_level(+W_Hypernym, +Level, -List_SynSet_Hyponyms):
+Given a word (term) "W_Hypernym" returns the list "List_SynSet_Hyponyms" of its hyponym synset_IDs (level by level) upto level "Level".
+
+It is equivalent to the call of 
+wn_hyponyms_upto_level(W_Hypernym, Level, verbose(yes), List_SynSet_Hyponyms)
+
+** wn_gen_hyponyms_upto_level(+Synset_ID, +Level, -List_Hyponym_IDs):
+"List_Hyponym_IDs" is the list of hyponyms upto level "Level" of the synset "Synset_ID". The list "List_Hyponym_IDs" is a bag of synset_IDs hyponyms of "Synset_ID".
+
+** wn_display_graph_hyponyms(+Word, +Level):
+It shows a graphic representation of the hyponyms corresponding to all the senses of the word 'Word', level by level.
+
+A node of the graph only shows the representative word of that hyponym synset.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+:- use_module(wn_similar_adjectives). 
+%%% 
+%%% THE WHOLE MODULE REBUILT STARTING FROM VERSION 1.3
+%%%%%%%%%%%%%%%%%%%%%%%%
+This module defines predicates that find the adjectives which are similar
+in meaning to a input adjective. Do not confuse "similar" with "synonym".
+Synonym words are grouped in a synset and they are words equals in meaning.
+In other words, synonym words must have the maximum (top) degree of similarity.
+
+Most of predicates defined in this module a based on the operator "sim"
+
+		sim(synset_id,synset_id). 
+
+The "sim" operator specifies that the second synset is similar in meaning
+to the first synset. This means that the second synset is a satellite of
+the first synset (or viceversa), which is the cluster head. This relation
+only holds for adjective synsets contained in adjective clusters.
+
+The two addressed synsets are either two head synsets, or one head synset
+and one satellite synset. There is no matching sim clause for two satellite
+synsets. Because, if they would have similar meanings, they would be grouped
+together in one synset.
+
+Therefore, the predicates defined in this module are for adjectives and do not
+work for other parts of speech.
+
+As it occurs in other modules, the word "Adjective" is a term with the following syntax:
+                      Word[:SS_type[:Sense_num]]
+
+which actually represents a concept.
+
+
+This module uses:
+
+:- use_module(wn_synsets).
+
+
+The public predicates implemented in this module are:
+
+    wn_sim_adjectives_of/2,         % (+Adjective, -List_sim_SynSets)
+    wn_sim_adjectives_of/3,         % (+Adjective, +Verbosity, -List_sim_SynSets)
+    wn_display_sim_adjectives_of/1, % (+Adjective)
+    wn_display_sim_adjectives_of/2, % (+Adjective, +Verbosity)
+    wn_display_graph_sim_adjectives_of/1, % (Adjective)
+    wn_display_graph_cluster_of/1 %(Adjective)
+
+
+** wn_sim_adjectives_of(Word, List_sim_SynSets): 
+It is true if List_sim_SynSets is a list of similar adjectives synsets of the adjective Word.
+Note that Word must be an adjective. Only adjectives can be similar one of each other. That is, words of type "a" or "s". There is no matching sim clause for two satellite synsets. Because, if they would have similar meanings, they would be grouped together in one synset.
+
+It is equivalent to the call of 
+	wn_sim_adjectives_of(Adjective, verbose(yes), List_sim_SynSets)
+
+** wn_display_sim_adjectives_of(+Adjective):
+Given a word (term) "Adjective", prints the list of representatives of its similar synsets. The head adjective is listed first.
+
+It is equivalent to the call of 
+	wn_display_sim_adjectives_of(Adjective, verbose(yes))
+
+** wn_display_graph_sim_adjectives_of(+Adjective):
+Displays a graphical representation of all adjectives which are similar to "Adjective". This representation is shown as a hierarchy with the head adjective in the root and the satellite adjectives in the leaves.
+
+** wn_display_graph_cluster_of(+Adjective):
+Displays a graphical representation of the cluster to which the "Adjective" belongs. A cluster is formed by two head adjectives, which are antonyms one of each other, and their corresponding satellite adjectives in the leaves.
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+:- use_module(wn_sim_measures).
+%%%%%%%%%%%%%%%%%%%%%%%%
+This module implements predicates to compute standard similarity measures between concepts based on counting edges.  
+
+This module uses:
+
+:- use_module(wn_hypernyms).
+:- use_module(wn_synsets).
+ 
+
+The public predicates implemented in this module are:
+
+      	wn_path/3,        %(+Word1:SS_type1:W1_Sense_num, +Word2:SS_type2:W2_Sense_num, -Degree)
+	wn_path_nondet/3, %(+Word1:SS_type1:W1_Sense_num, +Word2:SS_type2:W2_Sense_num, -Degree)
+        wn_wup/3,         %(+Word1:SS_type1:W1_Sense_num, +Word2:SS_type2:W2_Sense_num, -Degree)
+        wn_wup_nondet/3,  %(+Word1:SS_type1:W1_Sense_num, +Word2:SS_type2:W2_Sense_num, -Degree)
+        wn_lch/3,         %(+Word1:SS_type1:W1_Sense_num, +Word2:SS_type2:W2_Sense_num, -Degree)
+        wn_lch_nondet/3   %(+Word1:SS_type1:W1_Sense_num, +Word2:SS_type2:W2_Sense_num, -Degree)
+
+
+** wn_path(+Word1:SS_type1:W1_Sense_num, +Word2:SS_type2:W2_Sense_num, -Degree):
+This predicate implements the PATH similarity measure.
+Takes two concepts (terms -- Word:SS_type:Sense_num) and returns the degree of similarity between them. Note that we do not explicitly require information about the synset type and sense number of a word (that can be variables).
+
+We check that both Word1 and Word2 are nouns or verbs but not combinations of them.
+
+A concept can have different HyperTrees. Therefore, depending on the different HyperTrees
+of c1 and c2 involved in the computation, different similarity values can be obtained:
+
+     sim_PATH(c1, c2) = 1/len(c1, c2)
+
+where len(W1, W2) = (DepthW1-LCS_depth) + (DepthW2-LCS_depth) +1
+
+This predicate combines all HyperTrees of c1 and c2, computes the respective similarity
+values and returns the maximum.
+
+
+** wn_path_nondet(+Word1:SS_type:W1_Sense_num, +Word2:SS_type:W2_Sense_num, -Degree):
+Nondeterministic predicate. It is the user interface to the private predicate path/3.
+ 
+Inspects a pair of HyperTrees associated to Word1 and Word2 and obtains the degree of similarity between Word1 and Word2 (according to that pair of HyperTrees).
+
+** wn_wup(+Word1, +Word2, -Degree)
+This predicate implements the WUP similarity measure.
+Takes two concepts (terms -- Word:SS_type:Sense_num) and returns the degree of similarity between them. Note that we do not explicitly require information about the synset type and sense number of a word (that can be variables).
+
+We check that both Word1 and Word2 are nouns or verbs but not combinations of them.
+
+The computation scheme is like the one explained in the wn_path/3 measure.
+
+	sim_WUP(c1,c2)= 2*depth(lcs(c1,c2)) / (Depth(c1)+Depth(c2))
+
+** wn_wup_nondet(+Word1:SS_type:W1_Sense_num, +Word2:SS_type:W2_Sense_num, -Degree):
+Nondeterministic predicate. It is the user interface to the private predicate wup/3.
+ 
+Inspects a pair of HyperTrees associated to Word1 and Word2 and obtains the degree of similarity between Word1 and Word2 (according to that pair of HyperTrees)
+
+** wn_lch(+Word1, +Word2, -Degree)
+This predicate implements the LCH similarity measure.
+Takes two concepts (terms -- Word:SS_type:Sense_num) and returns the degree of similarity between them. Note that we do not explicitly require information about the synset type and sense number of a word  (that can be variables).
+
+We check that both Word1 and Word2 are nouns or verbs but not combinations of them.
+
+The computation scheme is like the one explained in the wn_path/3 measure.
+
+	sim_LCH (c1, c2) = −ln[ len(c1,c2) / (2 * max{depth(c)|c in WordNet})]
+
+	NOTE 1: len(W1, W2) = (DepthW1-LCS_depth) + (DepthW2-LCS_depth) +1
+	NOTE 2: max{depth(c)|c in WordNet} is the maximum depth of a concept in 
+		   the WordNet data base. In practice, is a fixed constant for each 
+		   part of speech
+				MaxDepth(n) = 20    (Nouns)
+				MaxDepth(v) = 14    (Verbs)
+
+** wn_lch_nondet(+Word1:SS_type:W1_Sense_num, +Word2:SS_type:W2_Sense_num, -Degree):
+Nondeterministic predicate. It is the user interface to the private predicate lch/3.
+
+Inspects a pair of HyperTrees associated to Word1 and Word2 and obtains the degree of similarity between Word1 and Word2 (according to that pair of HyperTrees).
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+:- use_module(wn_ic_measures).
+%%%%%%%%%%%%%%%%%%%%%%%%
+This module implements predicates to compute standard similarity measures between concepts based on information content (IC).  
+
+This module uses:
+
+:- use_module(wn_hypernyms).
+:- use_module(wn_synsets).
+ 
+
+The public predicates implemented in this module are:
+
+wn_res/3,        %% (+Word1:SS_type:W1_Sense_num, +Word2:SS_type:W2_Sense_num, -Degree)
+wn_res_nondet/3, %% (+Word1:SS_type:W1_Sense_num, +Word2:SS_type:W2_Sense_num, -Degree)
+wn_jcn/3,        %% (+Word1:SS_type:W1_Sense_num, +Word2:SS_type:W2_Sense_num, -Degree)
+wn_jcn_nondet/3, %% (+Word1:SS_type:W1_Sense_num, +Word2:SS_type:W2_Sense_num, -Degree)
+wn_lin/3,        %% (+Word1:SS_type:W1_Sense_num, +Word2:SS_type:W2_Sense_num, -Degree)
+wn_lin_nondet/3, %% (+Word1:SS_type:W1_Sense_num, +Word2:SS_type:W2_Sense_num, -Degree)
+wn_information_content/2 %% (+Word, -IC)
+
+NEW PREDICATES SINCE VERSION 1.2: wn_res_nondet/3, wn_jcn_nondet/3, wn_lin_nondet/3, wn_information_content/2.
+
+NOTE: In all these IC measures
+		 "Word1:SS_type1:W1_Sense_num" denotes de concept c1 and 
+		 "Word2:SS_type2:W2_Sense_num" de concept c2.
+
+** wn_res(+Word1, +Word2, -Degree):
+This predicate implements the RESNIK similarity measure, based on information content.
+Takes two concepts (terms -- Word:SS_type:Sense_num) and returns the degree of similarity between them. Note that we do not explicitly require information about the synset type and sense number of a word. 
+
+We check that both Word1 and Word2 are nouns or verbs but not combinations of them.
+
+
+A concept can have different HyperTrees. Therefore, depending on the HyperTrees of c1 and c2 involved in the computation, different LCSs are obtained, leading to different similarity values:
+
+         sim_RES(c1,c2)= IC(lcs(c1,c2))
+
+This predicate combines all HyperTrees of c1 and c2, computes the respective similarity
+values and returns the maximum (the task is done by the auxiliary predicate max_res/3).
+
+** wn_res_nondet(+Word1:SS_type:W1_Sense_num, +Word2:SS_type:W2_Sense_num, -Degree)
+Inspects a pair of HyperTrees associated to c1 and c2 and obtains the degree of similarity between c1 and c2 (according to that pair of HyperTrees)
+
+NOTE: Nondeterministic predicate. It is the user interface to the private predicate res/3.
+
+
+** wn_jcn(+Word1, +Word2, -Degree):
+This predicate implements the JIANG & CONRATH similarity measure, based on information content.
+Takes two concepts (terms -- Word:SS_type:Sense_num) and returns the degree of similarity between them. Note that we do not explicitly require information about the synset type and sense number of a word. 
+
+We check that both Word1 and Word2 are nouns or verbs but not combinations of them.
+
+The computation scheme is like the one explained in the wn_res/3 measure.
+
+		sim_JCN(c1,c2)= 1/ [IC(c1) + IC(c2) - 2*IC(lcs(c1,c2))]
+
+
+** wn_jcn_nondet(+Word1:SS_type:W1_Sense_num, +Word2:SS_type:W2_Sense_num, -Degree)
+Inspects a pair of HyperTrees associated to c1 and c2 and obtains the degree of similarity between c1 and c2 (according to that pair of HyperTrees)
+
+NOTE: Nondeterministic predicate. It is the user interface to the private predicate jcn/3.
+
+
+** wn_lin(+Word1, +Word2, -Degree):
+This predicate implements the LIN similarity measure, based on information content.
+Takes two concepts (terms -- Word:SS_type:Sense_num) and returns the degree of similarity between them. Note that we do not explicitly require information about the synset type and sense number of a word. 
+
+We check that both Word1 and Word2 are nouns or verbs but not combinations of them.
+
+The computation scheme is like the one explained in the wn_res/3 measure.
+
+		sim_LIN(c1, c2) = [2 * IC(lcs(c1,c2))] / [IC(c1)+IC(c2)]
+
+
+** wn_lin_nondet(+Word1:SS_type:W1_Sense_num, +Word2:SS_type:W2_Sense_num, -Degree)
+Inspects a pair of HyperTrees associated to c1 and c2 and obtains the degree of similarity between c1 and c2 (according to that pair of HyperTrees)
+
+NOTE: Nondeterministic predicate. It is the user interface to the private predicate lin/3.
+
+
+
+** wn_information_content(+Synset_ID, -IC):
+Computes the information content IC of the concepts designed by the different senses of Word.
+
+It relies on the private predicate information_content/3, which computes the information content IC of the concept denoted by the Synset_ID. This quantity is defined as:
+
+		IC = -ln(Frequency/Frequency_Root)
+
+if frequency_of_use(Synset_ID, Frequency) and frequency_of_use(Root_ID, Frequency_Root)
+
+	NOTES:
+	1) Root_ID is the synset number of the concept in the root of the hierarchy.
+	2) IC(c) is defined as the natural logarithm of the probability of 
+	   encountering an instance of a concept c (meassured in terms of a relative 
+	   frequency of use of the concept c in a corpus).
+	3) Natural logarithm: logarithm to the base of the mathematical constant e.
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+:- use_module(wn_rel_measures).
+%%%%%%%%%%%%%%%%%%%%%%%%
+This module implements a new relatedness measures between concepts based on the Jaccard index. THIS MEASURE HAS NOT A GOOD PERFORMANCE. IT HAS TO BE IMPROVED.
+
+This module uses:
+
+:- use_module(etu).               %%% Michael A. Covington's Efficient Tokenizer
+:- use_module(wn_synsets).
+:- use_module(library(snowball)). %%% The Snowball multi-lingual stemmer library
+ 
+
+The public predicates implemented in this module are:
+
+	wn_yarm/3 %(+Word1, +Word2, -Degree)
+
+
+** wn_yarm(+Word1, +Word2, -Degree)
+YARM (Yet Another Relatedness Measure) compares the gloses SGL_W1 and SGL_W2 of two words (after removing stop words and stemming) by computing the Jaccard index for them as the relatednes Degree:
+  Degree = |SGL_W1 intersect SGL_W2| / |SGL_W1 union SGL_W2|
+		= |SGL_W1 intersect SGL_W2| / (|SGL_W1| + |SGL_W2| - |SGL_W1 intersect SGL_W2|)
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+:- use_module(wn_utilities).
+%%%%%%%%%%%%%%%%%%%%%%%%
+This module implements a series of predicates used in the automatic generation of proximity equations and the predicate display_graph/1 for graphical display of graphs. It is an auxiliary module.
+
+The public predicates implemented in this module are:
+
+wn_word/1,          % ?Word
+wn_measure/1,       % ?Measure
+check_wn_words/2,   % +Words, -Word
+
+wn_display_graph/1,     % +Graph
+wn_maxDepth/2,          % (+Type, -MaxDepth)
+wn_max_wordnet_sense/3, % (+Word, +Type, -MaxSense)
+wn_virtual_root/2,      % (+List_HyperNymSynSets, -Virtual_Root_ID)
+wn_convert_synsetID_to_representative/2,  % (+SynSet_ID, -Word_string)
+wn_convert_synsetIDs_to_representatives/2 % (+List_SynSet_IDs, -List_representatives)
+
+
+
+** wn_word(?Word):
+Unifies Word with one of the words in WordNet.
+
+** wn_measure(?Measure):
+Unifies Measure with one of the supported WordNet measures.
+
+** check_wn_words(+Words, -Word)
+Return in Word the first word in the list Words which is not found in WordNet. If all words are found, Word will not be unified.
+
+** wn_display_graph(+Graph):
+	Graph is a list of arc(From,To)
+	Displays a PDF containing the graphical representation of Graph
+	Creates the files:
+	- out.dot: A file with the graph in DOT format (graph description language) 
+	- out.pdf: The PDF document with the graph representation
+	- out.tex: The LaTeX document with the graph representation. Disabled for now (just uncomment it below for enabling)
+
+% Use:
+	wn_display_graph(Graph), where Graph=[arc(v1,v2),...,arc(vn-1,vn)]
+
+% Examples:
+	?- findall(arc(X,Y),(wn_hypernyms(man,List),append(_,[X,Y|_],List)),Graph), wn_display_graph(Graph).
+	?- setof(arc(X,Y),List^H^T^(wn_hypernyms(man,List),append(H,[X,Y|T],List)),Graph), wn_display_graph(Graph).
+
+% Requires:
+	- PDF displayer (as indicated in pdf_displayer/1 fact and accesible in the path).
+	- dot (part of Graphviz, accesible in the path)
+	- dot2tex (for generating a LaTeX version of the graph). If LaTeX output is enabled (disabled by default)
+
+
+
+%%%        PARAMETERS AND OTHER AUXILIARY PREDICATES        %%%
+
+** wn_maxDepth(+Type, -MaxDepth)
+Returns the maximum depth of a concept in the hierachies of nouns (Type=n) and verbs (Type=v).
+
+
+** wn_max_wordnet_sense(+Word, +Type, -MaxSense)
+Returns the maximum number of senses, 'MaxSense', of a word, 'Word', of type, 'Type'.
+If the parameters 'Word' and 'Type' are not instantiated then it returns the maximum number of senses for a word in the WordNet data base.
+
+
+** wn_virtual_root(SynSet_ID, -Virtual_Root_ID)
+Given a SynSet_ID and, acording to it, generates a virtual Root ID
+
+NOTE 1 (PROBLEMS WITH the Root of the hierarchy):
+Verbs do not have an explicit root. It may be that two verbs
+do not share a Less Common Subsumer. In this case LCS=Root and Root is assigned
+to a virtual root for verbs (Synset_ID = 200000000). Note that in this case, the
+information content of the LCS is 0 and the similarity of these two verbs should
+be around 0 also.
+On the other hand, nouns have a unique root hierarchy which is "entity" (synset_ID =
+100001740). However, by uniformity of treatment we introduce a virtual root for names
+(Synset_ID = 100000000).
+
+NOTE 2: This predicate is useful when computing similarity measures and information
+content of words.
+
+
+
+** wn_convert_synsetID_to_representative(+SynSet_ID, -Word_string):
+Given a SynSet_ID it returns a string which starts by the most representative word in the synset designed by SynSet_ID.
+We mean by "representative word" the first word of the synset. The one with W_num=1. This is usually the most representative word of the sysntet.
+
+It relies on the private predicate word_term_to_string/2 that converts a word term Word:SS_type:Sense_num into a string "<Word>_<SS_type>_<Sense_num>". For instance, the word term 'psychological feature':n:1 is converted into "psychological_feature_n_1".
+
+
+** wn_convert_synsetIDs_to_representatives(+List_SynSet_IDs, -List_representatives):
+Behaves like wn_convert_synsetID_to_representative/2 but for a list of SynSet_IDs. This predicate converts List_SynSet_IDs into a list of representative words. List_SynSet_IDs is a list of synset_IDs (which usually are hypernyms or hyponyms of a given word).
+
+
+
+
+
+
+

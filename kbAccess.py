@@ -1,9 +1,7 @@
 import os
-
 from pyswip import Prolog
+
 os.chdir(os.path.join(os.getcwd(), "prolog"))
-
-
 path = os.path.join(os.getcwd(), "album.pl").replace("\\","/")
 print(path)
 prolog = Prolog()

@@ -2,16 +2,12 @@ import streamlit as st
 import pandas as pd
 import base64
 import threading
-from openpage import threadFunc
 import os
+import menu
 
-def App1page(clicked):
-    if clicked==True:
-        placeholder_module = st.markdown("<h1 style='text-align: center; color: white;'>Ciao  </h1>"
-                    "<h1 style='text-align: center; color: red;'>MusicRec!</h1>", unsafe_allow_html=True)
+
 
 def main_page():
-
     interface1=st.container()
     with interface1:
         l, m, r = interface1.columns(3)
@@ -32,6 +28,7 @@ def main_page():
 
 
     interface3=st.empty()
+
     clicked=False
     with interface3:
             g,h,i,j,k,l,m = st.columns(7)
@@ -39,7 +36,7 @@ def main_page():
                 placeholder_main4 = st.empty()
                 if placeholder_main4.button("Start"):
                     clicked=True
-                    App1page(clicked)
+                    menu.main()
 
     if clicked:
         placeholder_main1.empty()

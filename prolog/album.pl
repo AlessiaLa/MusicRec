@@ -4301,7 +4301,7 @@ album("5LDVT3f4VOxBeQ5NzjgM1S", "the singles").
 album("0reJSYIbuFVnP4tmaocY9r", "jingo").
 album("17sPX82cIsjRjZtcv0VzF6", "santana is live! (live 2000)").
 album("7zYYNghKBAQ39RRODoeKbH", "santana live! (live)").
-album("5rEffm19IHdtfFZZpoKmEl", "carlos santana divine light: reconstruction & mix translation by bill laswell").
+album("5rEffm19IHdtfFZZpoKmEl", "carlos santana  divine light: reconstruction & mix translation by bill laswell").
 album("36ydx7i8ANYTr9OSpYGXOt", "blues for salvador").
 album("2EdpflfgXzkVBLK9aKcwEE", "havana moon").
 album("79RKfnrrbyVoxvKeX9wFKY", "the swing of delight").
@@ -4315,7 +4315,7 @@ album("51tAz06EJxwhsk8uNfWxBo", "static age").
 album("3HJcuW4PqFGNhM9TkCMkfC", "american psycho").
 album("6vZ6KNlP8hReYxJVuU7G42", "the misfits box set").
 album("65KQFqWUDiwmVc9BjchWZy", "legacy of brutality").
-album("6P2nv7OF0UngkW3OIcoMog", "earth a.d. die  die my darling").
+album("6P2nv7OF0UngkW3OIcoMog", "earth a.d.  die  die my darling").
 album("6R2JgfaxJrl2fI0LdgeBlU", "hollow").
 album("5HLTdRYDQwZHzz84fx4KjX", "remix of fools").
 album("0ZNjWY53iMHDv1hBK1lRpx", "ship of fools").

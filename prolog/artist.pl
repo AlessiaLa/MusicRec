@@ -639,7 +639,7 @@ artist("onerepublic").
 artist("psycroptic").
 artist("toadies").
 artist("macklemore & ryan lewis").
-artist("go, diego, go!").
+artist("godiegogo!").
 artist("jeff mills").
 artist("kool & the gang").
 artist("david gray").
@@ -792,7 +792,7 @@ artist("bob sinclar").
 artist("georges prêtre").
 artist("chris thile").
 artist("shawn phillips").
-artist("peter, paul and mary").
+artist("peterpaul and mary").
 artist("haddaway").
 artist("nami tamaki").
 artist("haim").
@@ -911,8 +911,6 @@ artist("sonu nigamalka yagnik").
 artist("edgar meyerchris thile").
 artist("london philharmonic orchestradavid parry").
 artist("franz schubertnew york philharmonicalan gilbert").
-artist("godiegogo!").
 artist("wolfgang amadeus mozartjosé gallardo").
 artist("explosions in the skysteve jablonsky").
-artist("peterpaul and mary").
 artist("miles davisjohn coltrane").

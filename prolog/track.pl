@@ -18,11 +18,11 @@ track("2T8DGZBz19p5JH4ofDQlVx", "all day long - live at mif").
 track("3bLwhHuSwTLR1Oxw0Z0OIz", "shellshock - live at mif").
 track("4QOpZhyQr4xK0sLx0cq0Ga", "guilt is a useless emotion - live at mif").
 track("0vofYOuyzHC7IMmXGkTYOC", "sub-culture - live at mif").
-track("3KE2APeLt3bzEMx9Bsr3ub", "Singularity - Live").
-track("5VvldG9XDNLadWojU0Aatr", "Crystal - Live").
-track("7HiQg32fHIMPEkxJS0igcv", "Restless - Live").
-track("09DCQgGsT2yc9DKR7uHPJG", "Your Silent Face - Live").
-track("4GrcB6e9dOzAo7Xc5vT9Qp", "People On The High Line - Live").
+track("3KE2APeLt3bzEMx9Bsr3ub", "singularity - live").
+track("5VvldG9XDNLadWojU0Aatr", "crystal - live").
+track("7HiQg32fHIMPEkxJS0igcv", "restless - live").
+track("09DCQgGsT2yc9DKR7uHPJG", "your silent face - live").
+track("4GrcB6e9dOzAo7Xc5vT9Qp", "people on the high line - live").
 track("5j4JXdbtqXvVwIiM1qTnxV", "introduction: das rheingold – vorspiel (wagner) - live").
 track("38cH15GOLgWR7STeRz8bmt", "singularity - live").
 track("712ssdiGh2gOeDF6MIiPHi", "ceremony - live").
@@ -112,14 +112,14 @@ track("3tqcMIf83Fq31ErK5Tu4wX", "solitaire").
 track("65W9au95mAGAhrU7uRWR7r", "did anyone call?").
 track("3FV6krWv3ZzcynRNuSrzv0", "please mr. sun").
 track("0qZxUDpy5h5L3oNqg0NBvO", "the hungry years").
-track("6d0XLMtsKGKVOptRXK6nHk", "now").
+track("6d0XLMtsKGKVOptRXK6nHk", "herenow").
 track("3nvMLqB60Xxh4LSr0ft3ap", "i go to rio").
 track("6Ohq7tbpm7yuTBJg0R2RYe", "i'm not in love").
 track("1gmQbBgmop6bnRZ2WCceNE", "star sounds").
 track("1ODnC2ExS28AnwnlC9N1Zb", "what i did for love").
 track("4Z7myJW0kFHVQUNBAOj2ks", "misty").
 track("3EeWl60aH5Vxu7odJDwEND", "every little movement").
-track("2KhaAOIZ1WLoy0Bg98VlTK", "madame").
+track("2KhaAOIZ1WLoy0Bg98VlTK", "couragemadame").
 track("6zXTGrCEExj7K16lTERmby", "switchin' channels").
 track("2mQ7uuAzZE4X5l2dEWWeue", "happy holiday").
 track("3rVWINDPJII980BtEGqtKW", "i like a sleighride").
@@ -160,12 +160,12 @@ track("3QgwtxEsSBzd8E2gXM465W", "hand on the plow - live").
 track("5SzYnCgJSwd19iwdUYtId3", "until it's time for you to go - live").
 track("58CvRoz72ozrACnx3MOvee", "something stupid - live").
 track("0RB2hV1KNwVITJbqAtwyGa", "what is a woman - live").
-track("6E9yFen8io0dVtW9qnItKt", "you win - live").
+track("6E9yFen8io0dVtW9qnItKt", "alrightokayyou win - live").
 track("648FxsueDrwr1ohSWHXu02", "a cottage for sale").
 track("59lYNML1917btZJjPwku3R", "don't be so mean to baby - alternate version").
 track("0vrUuOSmbbaTYAe8Xq9Pvh", "aren't you kind of glad we did").
 track("2YvjBxBnP9epLfqxzWTWGF", "i've had my moments").
-track("1TOKyg7G6TEil8aRDYD5d6", "sweet chariot - alternate version").
+track("1TOKyg7G6TEil8aRDYD5d6", "swing lowsweet chariot - alternate version").
 track("5vjLKd0ddwzFWSIdeMvMGl", "trouble is a man").
 track("7GeuofBEMFitprYVLXjTsQ", "music maestro please").
 track("1P4Rd5ueQNtZOnLCzndgLd", "it's lovin' time").
@@ -185,7 +185,7 @@ track("6atUkoZ6Cj4w8QzOUjQucI", "you don't know what love is (you just do as you
 track("2Zbnh37ISbOOaTu4If4lhu", "300 m.p.h. torrential outpour blues").
 track("1ITd91pncftIqQ2tCJsSFT", "conquest").
 track("3eMwOh7qeMJfBZohwQeSJQ", "bone broke").
-track("16lB9A8JqYZIwy2hO1kmXj", "but sweetly worn").
+track("16lB9A8JqYZIwy2hO1kmXj", "prickly thornbut sweetly worn").
 track("6uFBWWfeSegNyclRQrwsVA", "st. andrew (this battle is in the air)").
 track("5TYJxWg0Hns7P2uc8zIB85", "little cream soda").
 track("6SCkfhvPQUxEJM2I30M6yr", "rag and bone").
@@ -199,12 +199,12 @@ track("18lyUhvrobRPrRn5pEDQwY", "the denial twist").
 track("00tpA2ZDmHHeaRiSXm98xQ", "white moon").
 track("0clQiOusfD8zydgXYIqPI2", "instinct blues").
 track("7Fpf91Fwlv65WY6pMI76m6", "passive manipulation").
-track("1YDvMZI7NJzpKmRjWEZryo", "take").
+track("1YDvMZI7NJzpKmRjWEZryo", "taketaketake").
 track("1jNOi6m3Hn8nLEeHCp5Msr", "seven nation army").
 track("3V2aszRCW165JY9YVvXv6p", "black math").
 track("3AAEkclKEDOGGGT61RTrhI", "there's no home for you here").
 track("2x1Dx3UI3iEWkN24rfJzvr", "i just don't know what to do with myself").
-track("0QhKhJTsO2TALg7bTeJ6AE", "cold night").
+track("0QhKhJTsO2TALg7bTeJ6AE", "in the coldcold night").
 track("3q8asS16PlEtgphwMSCWyn", "i want to be the boy to warm your mother's heart").
 track("0ZDGGlJCoFnBXiG9qpHG3y", "you've got her in your pocket").
 track("3M5Qsg8Iq8fuGTVhzp2Fr0", "ball and biscuit").
@@ -226,7 +226,7 @@ track("0H6miPKHqs5wZMqQ3H0slM", "little bird").
 track("19LP2263QGfUJrisTReVG0", "apple blossom").
 track("6CEWrmBbx5zhrtyHouYv6D", "i'm bound to pack it up").
 track("3Pi3IrD3g7qLSyRPnK23zY", "death letter").
-track("6z02X6QL241MeNu081Y26g", "do you know my name?").
+track("6z02X6QL241MeNu081Y26g", "sisterdo you know my name?").
 track("1eAIy7XxknJEuW2OSLFcJb", "truth doesn't make a noise").
 track("4PhtAQptU7Z0lOk7JOFVbL", "a boy's best friend").
 track("59Od78ds7WaZwDDLWUEdO1", "let's build a home").
@@ -328,7 +328,7 @@ track("6vGhuJS38CNt3LhcRRttgK", "the hurdy gurdy man - from piouhgd").
 track("2nEn2witPwL1EEIQcyPdAw", "goldedn showers - from piouhgd").
 track("74QuGCLJSrzXQ8MPZ9hyZ0", "lonesome bulldog iii - from piouhgd").
 track("3ZufpbKcb59azsZBPE3Gkt", "blindman - from piouhgd").
-track("2JTddgb2dDNiicndrGrdaU", "i'm iron man - from piouhgd").
+track("2JTddgb2dDNiicndrGrdaU", "noi'm iron man - from piouhgd").
 track("2cNxiIPaPRM1wvO8fBVi16", "something - from piouhgd").
 track("3LQmkA1WAQ6WQmn61qnNfr", "the shah sleeps in lee harvey's grave").
 track("4lk5hYo7TScWqjhy85Fa6e", "hey").
@@ -643,10 +643,10 @@ track("1mKnzPuoEhyGP1dgMvOzfT", "gammal fäbodpsalm - live").
 track("6YPvn6me5k5OiXVPtgmeak", "voulez-vous - live").
 track("3GcRxtoMaxXe4zjvRLzZlr", "if it wasn't for the nights - live").
 track("4juV8pzyyD53BeWJzCanQb", "as good as new - live").
-track("5wTlYf7V2ser4UslPKxIKU", "knowing you - live").
+track("5wTlYf7V2ser4UslPKxIKU", "knowing meknowing you - live").
 track("43iNYzBbyAQF29CjsalAik", "rock me - live").
 track("5VFWFYzo4stfWnux8rWdPO", "chiquitita - live").
-track("0M4KWb0efz5XjIfmPix6sQ", "money - live").
+track("0M4KWb0efz5XjIfmPix6sQ", "moneymoneymoney - live").
 track("7K5sFSOkP1Yz7xJipXDaBV", "i have a dream - live").
 track("3hEy5GbQv7yC1X6yhoPz2y", "gimme! gimme! gimme! (a man after midnight) - live").
 track("5v35PWmB4SwHhH0JJFXrmR", "the visitors").
@@ -661,7 +661,7 @@ track("6RsyKvX5j0tLevy0ge7Lt5", "like an angel passing through my room").
 track("3mSZkRKRVmu4salEkqW69R", "super trouper").
 track("3XATRf8HVpoSBvGcmqMek9", "the winner takes it all").
 track("3pjEpjEkEdrjvYiiZOI6S5", "on and on and on").
-track("1YnBV85uTTvZLRXED7oM2Y", "andante").
+track("1YnBV85uTTvZLRXED7oM2Y", "andanteandante").
 track("0yQsyVzdHXMwTYjUKHr77g", "me and i").
 track("7MUOiFTqEUBUAiW495JTUT", "happy new year").
 track("67yRtYaxtUIGu2kDdbsASx", "our last summer").
@@ -669,12 +669,12 @@ track("2nRBX3fdtR2V5ObohB2cyM", "the piper").
 track("540comwSRmoot1fnlAHNXH", "lay all your love on me").
 track("3jIQTEXQeuQZIxFmgZQNuF", "the way old friends do").
 track("68oCBPzCLj5vHp7ukEJo0U", "mamma mia").
-track("1lJTOA5dy1xMjbYJMqgUJR", "hey helen").
+track("1lJTOA5dy1xMjbYJMqgUJR", "heyhey helen").
 track("1Ba3zDOBqK7CCutxuAFGCA", "tropical loveland").
 track("3k3uycF2Bgj1aLOtkEVMUf", "sos").
 track("134QsXCbK3B7NruDAVZK97", "man in the middle").
 track("6di98QRVO1Mhva2SmaLXpu", "bang-a-boomerang").
-track("5DlRVpU2iWhg7090un6pqc", "i do").
+track("5DlRVpU2iWhg7090un6pqc", "i doi doi doi doi do").
 track("2PVOabbUcL8uDt1hlsafU6", "rock me").
 track("7B8mXv99rDUAnL7Lmk9QxO", "intermezzo no.1").
 track("2x13oEM19I4mr6OxW2mpnZ", "i've been waiting for you").
@@ -710,7 +710,7 @@ track("4ASaSHvHH4pjwL0dKjRA8C", "lovers (live a little longer)").
 track("0HPF6YFoMBA8mOU9dqHlNL", "kisses of fire").
 track("69OmpIXN0WPreDYxoFwlYC", "eagle - long version").
 track("5BckPAYcKEJuYs1eV1BHHe", "take a chance on me").
-track("5fVCO1kPh1qE3s8aVqRv9t", "one woman").
+track("5fVCO1kPh1qE3s8aVqRv9t", "one manone woman").
 track("1lDo24S34NvI1pAg7Oxldc", "the name of the game").
 track("3JqQ2YBFQwinmY2E9Ujggu", "move on").
 track("3bqPiLwxU0sltObhhVky9X", "hole in your soul").
@@ -720,10 +720,10 @@ track("1ajok0m1FDgGtrBguMIy5Q", "i'm a marionette").
 track("59l71sxjX2oBVPQGYlqvnb", "thank you for the music - doris day mix").
 track("6zk4lFEYIWs1UZZ03NVetT", "when i kissed the teacher").
 track("0GjEhVFGZW8afUYGChu3Rr", "dancing queen").
-track("7qbQFKgGOxk7aoCBGwLZuA", "my life").
+track("7qbQFKgGOxk7aoCBGwLZuA", "my lovemy life").
 track("5Ale7Htu2SdvOcBwlEdGhZ", "dum dum diddle").
-track("798cuJeotvXP8UVa8GJPnD", "knowing you").
-track("3lKN03PDeBnXZS7sDukRBt", "money").
+track("798cuJeotvXP8UVa8GJPnD", "knowing meknowing you").
+track("3lKN03PDeBnXZS7sDukRBt", "moneymoneymoney").
 track("32SHYXEJZkpsnJkcggucM0", "that's me").
 track("65EhfozJEurgR34SyrNV3P", "why did it have to be me?").
 track("7qBRGNCdXeqLtGsxZE3Z1m", "tiger").
@@ -734,7 +734,7 @@ track("2HnKmdlhi5IwAEqJKn5qFx", "king kong song").
 track("3wvrmmNB16rtreCvgw3sqv", "hasta manana").
 track("7IHKr96kTrygmAoLyu4zMw", "my mama said").
 track("16vVJdUJPhQ4pyjlUjfGy8", "dance (while the music still goes on)").
-track("5JLRQJ8vhuIQuJblXxfVWg", "honey").
+track("5JLRQJ8vhuIQuJblXxfVWg", "honeyhoney").
 track("1rrg0TY4nhMZ1sD4YfSfvf", "watch out").
 track("6Wc0RFHf8hE5JEWpvQRCRj", "what about livingstone").
 track("0NavuOQnZ4hCOQY3YS5BzJ", "gonna sing you my love song").
@@ -807,7 +807,7 @@ track("36UhpBVXyKAf6BHLjp9y3K", "paper route").
 track("10KtlNBi4tREWJbwwlmgea", "back me up").
 track("7qxgSmrxD7taas9QFAGiIV", "coastline").
 track("5H39b80WRuNFDFGDX0058o", "flymuthafucka").
-track("43k1PqvLh7Voe07Yi2KIGD", "pt. 1 - pt. 2").
+track("43k1PqvLh7Voe07Yi2KIGD", "precious lordpt. 1 - pt. 2").
 track("5IcvwSIiPzyNRlJS74N3LW", "the day is past and gone").
 track("3OHiQoK1XvI6KanH3dgASe", "you grow closer").
 track("4sC75GCGVzrAtUS8x6Pldx", "he will wash you white as snow").
@@ -839,7 +839,7 @@ track("5XsZOGnjjTIJWaUQPajAWa", "respect").
 track("2ViTfNKtokuceV8WGEYKU7", "chain of fools").
 track("7yqBcaScDIVzmhwH6MEt9p", "think").
 track("1QKN9JaaUkf3B0c0rEkh69", "rock steady").
-track("2mbVFqaOOLu9eZVdYMfPNv", "i love you").
+track("2mbVFqaOOLu9eZVdYMfPNv", "babyi love you").
 track("0RjSw03uYcz78ECFsNYY1x", "i say a little prayer").
 track("05qpkTgRNRVLsHY09E5Qky", "son of a preacher man").
 track("4w8K3pb2xZLXA4sLrS5wcd", "dr. feelgood (love is serious business)").
@@ -890,7 +890,7 @@ track("7qlK58Ow0s8zgM2mnQqrRn", "trouble in mind").
 track("3tsh4E6y9uGgfx23SBZkJu", "try a little tenderness").
 track("6tc93AYNg5vgdVdBH2qzVl", "it ain't necessarily so").
 track("0CBzDHhtkE5D7uBNk5iYTT", "how deep is the ocean").
-track("5XtBVuKLBQ3pYBGPgEu3ji", "cold heart").
+track("5XtBVuKLBQ3pYBGPgEu3ji", "coldcold heart").
 track("7m1xSKg5zUCjKLhv2sLA63", "love for sale - original session take").
 track("4Wh9wewTc7hjTndcWW4N5U", "how glad i am").
 track("4DG2QZfwQ8FGJ2R8DlE3fO", "skylark").
@@ -908,7 +908,7 @@ track("5HvOCic2Rhbyi6JGP6rOQe", "koboreteshimattamizunoyouni").
 track("3JBTU8YqWvvexfozlsggdj", "indestructible").
 track("6oHObTPqawPBaMRLad2O8P", "fearless").
 track("60QHI6dxXHeRe1GBWkYaMf", "miracle pill").
-track("0vBbglPA6EKUtojwgBIGaV", "fame & fortune").
+track("0vBbglPA6EKUtojwgBIGaV", "moneyfame & fortune").
 track("6rwbWMvTSSKDMapH5rzgI5", "step in line").
 track("2rF2dht1UkYFPpJ73w0AU6", "over you").
 track("6VF53eeI9lVvIGFGb1P9T9", "lights").
@@ -1010,7 +1010,7 @@ track("1sND294mI7T2YLCtpS5TNY", "the mule").
 track("6X4R8UC9TPurPdP1qxdnX0", "long legs").
 track("2tM5bfZeJoSbqVEYflDfMp", "love me like you").
 track("7yk3xRgBYFznXN01gHA3NO", "which way to happy").
-track("2G38cuoEaOpgeZvtMfja30", "you see me").
+track("2G38cuoEaOpgeZvtMfja30", "i see youyou see me").
 track("6EoylSdjlNSLSdivy4T92o", "don't give up the fight").
 track("6uARaIdmJgGmmfLxj8fx1X", "this love").
 track("0wJe7YyAd43ARXuyKthJKJ", "wheels on fire").
@@ -1024,11 +1024,11 @@ track("4DaIg7BG5IEPU78wmbLPnr", "i see you you see me - live at islington assemb
 track("23FFPob9VyFzAxoOQvZ21x", "the pulse - live at islington assembly hall london").
 track("2VTbieJI8xukG4g2jG8PwN", "forever lost - live at islington assembly hall london").
 track("6Pjc6ymo8hhGdfwZf81VBF", "thowing my heart away - live at islington assembly hall london").
-track("7pFrmxz8ZAAVFmaT0Wz4tn", "Ride Against The Wind").
-track("6AO5mOqnZjGkGWa1gtcKmt", "Sweet Divide").
-track("1mG6LJj5utys6m4gcOZ11Y", "The Keeper").
-track("4EB2GKqUJsmyMNqnQhjWCF", "Power Lines").
-track("3klZ2MGaCtrkgcdLkjUTdO", "Sing Me a Rebel Song").
+track("7pFrmxz8ZAAVFmaT0Wz4tn", "ride against the wind").
+track("6AO5mOqnZjGkGWa1gtcKmt", "sweet divide").
+track("1mG6LJj5utys6m4gcOZ11Y", "the keeper").
+track("4EB2GKqUJsmyMNqnQhjWCF", "power lines").
+track("3klZ2MGaCtrkgcdLkjUTdO", "sing me a rebel song").
 track("7Gg396gYwmn55jg1wRo3cd", "wake up").
 track("6nLaFcCxrTOpp1lcjJP2i7", "you k(no)w").
 track("0sOXZWl0uMBlzlnBhhXkm5", "out on the streets").
@@ -1065,7 +1065,7 @@ track("2wfePvFwfxABXSgKNOk3Pu", "the mule").
 track("0tJSjRqyGNRdQrrt0W9lUd", "long legs").
 track("2mHw3pWvFcBi8YWfOL68Sl", "love me like you").
 track("05pwbgnAEdHuhDRbmzYjeO", "which way to happy").
-track("15T2Hhy65wBilJXMhGJSGW", "you see me").
+track("15T2Hhy65wBilJXMhGJSGW", "i see youyou see me").
 track("1sDD6poPkF9CUFcR93CRV6", "don't give up the fight").
 track("5NKTV3eeObKoB7RLmJzQ1i", "this love").
 track("4oOJy5QYcdFoC1yJ5mj3ga", "wheels on fire").
@@ -1177,7 +1177,7 @@ track("47hVzpTqHP5qnVHVrqWKsD", "just another thing").
 track("0CqvhN7ChNjQf4tHp5rKTv", "i wish i was").
 track("6LWNBtLLJjDMgdijzoiizZ", "second wind").
 track("5aS1eCyo6eSMUKCRNcsrza", "intro").
-track("2RIY5iYbjjHsEPXbu5qS9K", "july").
+track("2RIY5iYbjjHsEPXbu5qS9K", "julyjuly").
 track("3TmvrdeQWoxhjUW0UkZMw7", "only the strong survive").
 track("6sIlqRX6SaPX7x7kbbTISR", "it's too late").
 track("6LVuNw9lhTb5AuXQMyAUNZ", "let's get it on").
@@ -1221,7 +1221,7 @@ track("67YNqbykfHQb8ZyMfnHE2J", "without you").
 track("5yFXcyvl8iJXkEyOsYBj1P", "word sure gets around").
 track("3tVh4RTBgccJae0eJXZdrU", "i trust you").
 track("7acTQ0sGLozR4ss0ipwAsi", "i think i'll stay home today").
-track("2SHMTYTsis20SNBwH6kxSA", "july").
+track("2SHMTYTsis20SNBwH6kxSA", "julyjulyjulyjuly").
 track("4Bt1bolv73Tc5K9nw8v5cN", "billy's back home").
 track("7xqSaoh2f7r0NV3Gx70Bal", "i've got so much to live for").
 track("3bL3Q7RPzST59rgRLo7koY", "my head's on straight").
@@ -1406,11 +1406,11 @@ track("1LKhwufE2W2789DZ3ieDBg", "days of rock n roll").
 track("3BMZYQxu9l5CMHO4Pr9nZH", "children of the mind").
 track("67ndYixM2sZ0zgqfUg3LQJ", "rainbow bridge").
 track("4ngPLI34e7jRU79RDk4Myt", "angels (with broken hearts)").
-track("1jKkQyA9rS59XBNLQGtpBe", "Firebox").
-track("2bZgV7yXg6K6Q66eqMcUYl", "Scream of Anger").
-track("3vdnVzsO9RhBhZl7PcYlyQ", "No Stone Unturned").
-track("6hjNRVGYCzoGK38CPS3sCo", "In the Future to Come").
-track("0PwewovKXchyBcY8vuzpIz", "Girl from Lebanon").
+track("1jKkQyA9rS59XBNLQGtpBe", "firebox").
+track("2bZgV7yXg6K6Q66eqMcUYl", "scream of anger").
+track("3vdnVzsO9RhBhZl7PcYlyQ", "no stone unturned").
+track("6hjNRVGYCzoGK38CPS3sCo", "in the future to come").
+track("0PwewovKXchyBcY8vuzpIz", "girl from lebanon").
 track("68McnWQPIZr5yYf8yqyqsN", "riches to rags").
 track("16MVnOqzh9IDcSZ0dMFXV2", "not supposed to sing the blues").
 track("7LkyyMAMdoJemSKQYNNKCl", "firebox").
@@ -1619,7 +1619,7 @@ track("1mHPTUYCEQkDvMF1lCqUXD", "people get ready").
 track("09zRybzOxMPLgJWD3mocyw", "somebody help me").
 track("0hfj2BYfizCBbIB83WZYZA", "minstrel and queen").
 track("2dnIQVTSGf6RZYZ2dQ9xBz", "can't you see").
-track("13FRgryuMDwklrctApnO78", "long winter").
+track("13FRgryuMDwklrctApnO78", "longlong winter").
 track("3iBSnMD4QHmO5RQa9vCHes", "it's all right - single version").
 track("6V8Nte8FudAL6h5kekN7HH", "keep on pushing - single version").
 track("1uaQo7kAZgxDjqChzosBCj", "people get ready - single version").
@@ -1690,7 +1690,7 @@ track("0omHv5ddDz59B016tUNGcs", "運命のcoda").
 track("11gXvaB2DEdGTdCoj6pt6l", "realize").
 track("0gRupqcv5X3cIgrbcXNIVD", "king & queen").
 track("6or8VffHoRjrIZLQPEnL4L", "ハートシグナル").
-track("1LSyxmOiCRVXYZzObdtBcz", "all night long - アルバム.ver").
+track("1LSyxmOiCRVXYZzObdtBcz", "all day longall night long - アルバム.ver").
 track("7gaXtzTpokxX1snVSFCJgq", "i give u my ...").
 track("6iarXDFKLigjv8W8APJ8wk", "記憶の底の未来の君へ").
 track("4OgKn9pskBDx7KRv2q3Wb3", "はじまりの日に - overture").
@@ -1705,7 +1705,7 @@ track("2yht3pDGKEPFhspvD42yIB", "mach 1.67").
 track("6pJydKTV4bvypoYEDBESXp", "i'm a voice actor").
 track("3hPj2tlapo8Wpmc73gwenA", "poppens mussolinis - inspelad för sr tonkraft 1975").
 track("6IZt0HAMbeZ7NjtJKAvU1F", "bängen trålar - inspelad för sr tonkraft 1975").
-track("4T7TNqFaM24gsCcJm8Fg40", "kolla - inspelad för sr tonkraft 1975").
+track("4T7TNqFaM24gsCcJm8Fg40", "kollakolla - inspelad för sr tonkraft 1975").
 track("4ClxrAf85YFtaUwu1UZ2Z3", "diktläsning - inspelad för sr tonkraft 1975").
 track("56a1GHAKTPCLEmpsPYkjNS", "hon flytta ut till bergsjön - inspelad för sr tonkraft 1975").
 track("3i2jjqtDo37kiCBH3GR5gZ", "spisa - inspelad för sr tonkraft 1975").
@@ -1726,7 +1726,7 @@ track("6OXN5M8zvKpgRw9cp9CSH1", "kolla kolla - live").
 track("6hHcStxup3IwwkarSfL12i", "barnkammaren").
 track("371UqUKbYihIIK1OP8Rf6w", "landet ingenstans").
 track("2m63iD878u9p69iZTvCfYk", "piratlivets lott").
-track("4mnSoQyF18BOe5fzJUAdf7", "måne").
+track("4mnSoQyF18BOe5fzJUAdf7", "lagunsång - månemåne").
 track("23kXFNEfAz91OCX5NobUh1", "uppfostransramsa").
 track("1qkEbPU8NabRJkqkBvn6iF", "blod och pilsner").
 track("4GCCsCuZmH4br5NqDcSYmT", "landet ingenstans").
@@ -1888,15 +1888,15 @@ track("3Ya92CUJA5uYda3viiHhwB", "this charming man").
 track("5O0iWnvuwMlMect347UXMR", "tv trays").
 track("4dRY1RS8AQxpNT4zRfInR3", "l'uomo dell'armonica (from c'era una volta il west)").
 track("26UMa9MgPphFgPdHIEppD1", "a fistful of dollars - main theme (from a fistful of dollars - per un pugno di dollari)").
-track("4XAstlNHoSibYKbKU0neW2", "the bad and the ugly)").
+track("4XAstlNHoSibYKbKU0neW2", "the goodthe bad and the ugly (from the goodthe bad and the ugly)").
 track("0J1oetKDNw2zSGp5lpXBYr", "my name is nobody (from my name is nobody)").
 track("7g5iLGmpL80DSkGTiN0nvJ", "watch chimes (from for a few dollars more)").
-track("3PhIAwMPKgRuA6PUP12UJe", "the bad and the ugly)").
+track("3PhIAwMPKgRuA6PUP12UJe", "the sundown - il tramonto (from the goodthe bad and the ugly)").
 track("4kgTjUpNQPzLQkc6jQKodz", "faccia a faccia - titles (from face to face)").
 track("4VKb9fpPh6azT7E4r40cLq", "acido e charme").
 track("00MCHG8560umA1vNEW6POc", "e finalmente").
 track("5pdAgg0m4gErobBrmhgA3X", "move").
-track("7gmdoyQpLbFFhNFuOrmIzY", "sorridimi").
+track("7gmdoyQpLbFFhNFuOrmIzY", "sorridimisorridimi").
 track("0tgglwlaiB8WUT6insOthX", "come quando fuori piove").
 track("41b6C4rM0dgIx3OxLIm5X7", "gli intoccabili (party music)").
 track("7vArdnpiAdftLw3ZM2opqB", "good news").
@@ -1908,16 +1908,16 @@ track("09hNbkWmhEO8rDLMLAneRC", "the sicilian clan (from the sicilian clan)").
 track("7vVLjrdedKVOQKirMhSvYJ", "marcia di sacco e vanzetti (from sacco e vanzetti)").
 track("1ukylVyvVZoH6FN8G89Css", "chi mai (from maddalena)").
 track("6qOKCFWHOQopv0aefjnf4r", "my name is nobody (from my name is nobody)").
-track("1jzRUj2ojMeXUbBfUoyPxT", "the bad and the ugly)").
-track("2T89HpLhynAfcryhJBM9rN", "the bad and the ugly)").
-track("45gnBZ5l1WUV6WKQ7YuDsk", "the bad and the ugly)").
+track("1jzRUj2ojMeXUbBfUoyPxT", "the goodthe bad and the ugly (from the goodthe bad and the ugly)").
+track("2T89HpLhynAfcryhJBM9rN", "the goodthe bad and the ugly (from the goodthe bad and the ugly)").
+track("45gnBZ5l1WUV6WKQ7YuDsk", "il forte (from the goodthe bad and the ugly)").
 track("1Zat5mN6gOPiTFqCrrnJFo", "for a few dollars more (from for a few dollars more)").
 track("6c9xjIr0Z0DON3OiUZ0DsV", "watch chimes (from for a few dollars more)").
 track("1J1NzZtziRJ0Rl7p3z2tN6", "my name is nobody (from my name is nobody)").
 track("2CvwyPUficwQ0Dr1LmK9AF", "un monumento (from the hellbenders - i crudeli)").
 track("30a2ciCTY91ohnQONx5Vtt", "the wild horde (from my name is nobody)").
 track("0r06yAQc4GWtzmpt8nAePn", "tema di ada (from novecento - 1900)").
-track("6r2Hi5VTihfH4HF7wnLIPW", "the bad and the ugly)").
+track("6r2Hi5VTihfH4HF7wnLIPW", "the story of a soldier - la storia di un soldato (from the goodthe bad and the ugly)").
 track("0xRqiQfS8ARPwkSty6O7mN", "canone inverso primo (from canone inverso)").
 track("7Ar9hkn4sRbqgzIkjBguox", "notte di nozze (from il mercenario - a professional gun)").
 track("7AM1eEsBsqMCyNuUi8NSVA", "padre e figlia (from novecento - 1900)").
@@ -1939,22 +1939,22 @@ track("1IeV17no1rwZGRM7rD3LjA", "tre anni fa una sera (from viaggio con anita)")
 track("4XcHDHKy66321OEW2c6wsf", "tema d'amore per nata (from cinema paradiso)").
 track("31HHNf0nDFD1iM9zwAhx4R", "sole sulla pelle (from una lucertola con la pelle di donna)").
 track("76wSccXWQfJZXEosqAqRyZ", "l'uomo proiettile - love theme (from l'uomo proiettile)").
-track("7iq1BJ1QkZjDgOW5M7d1Yb", "il giorno (from la cugina)").
+track("7iq1BJ1QkZjDgOW5M7d1Yb", "la serala notteil giorno (from la cugina)").
 track("7oYdtf9lzOZX7g9KhswVLz", "arpa - x variazione (from i bambini chiedono perchè)").
 track("46cX4RRI1nYVJynJ7j6XWY", "watch chimes (from for a few dollars more)").
-track("77AHVNrjceDL6aRfqRzrtv", "the bad and the ugly)").
+track("77AHVNrjceDL6aRfqRzrtv", "the goodthe bad and the ugly (from the goodthe bad and the ugly)").
 track("136vzoplWct6ssVA4ifCNO", "for a few dollars more (from for a few dollars more)").
-track("0jdBiy6TtAQd5Sjm7OIRRe", "the bad and the ugly)").
+track("0jdBiy6TtAQd5Sjm7OIRRe", "the sundown - il tramonto (from the goodthe bad and the ugly)").
 track("4GkhlonUQqVji4N6V3b4F8", "my name is nobody (from my name is nobody)").
 track("5k36HPxwgIdws0eCCrehLc", "the wild horde (from my name is nobody)").
-track("1xzMfB3YEpze0GCJIWVaQN", "the bad and the ugly)").
+track("1xzMfB3YEpze0GCJIWVaQN", "the trio (from the goodthe bad and the ugly)").
 track("1aKvil3Hc2KWI7HKsDqDDO", "she loves me - lei mi ama").
 track("7kDkCPjqe7tAnsrU53OCE6", "tre anni fa una sera (from viaggio con anita)").
 track("0OYDHxRptBdWX5eamchnVs", "esercizi d'amore").
 track("7vdENGmae2zrrcO0cz3SuR", "tema d'amore per nata").
 track("23aD9z0CGuX1e39qlUHEmt", "acido e charme (from trio infernale)").
 track("2kjxgtqlxFatq88uXHaOgL", "sole sulla pelle (from una lucertola con la pelle di donna)").
-track("4PNWf7TfhMJQWKiwOI4cAI", "il giorno 2 (from la cugina)").
+track("4PNWf7TfhMJQWKiwOI4cAI", "la serala notteil giorno 2 (from la cugina)").
 track("1pkkd05DGoH58WvBt4C4ag", "la lucertola (from una lucertola con la pelle di donna)").
 track("3GMR53R1iHIgwYR8HmLsNK", "la favola dell'uccellino").
 track("1OfEfwXp9IKC5qRTtiGUWg", "every little honky tonk bar").
@@ -1995,7 +1995,7 @@ track("5Q851iZNbt0aq3fP9Kik76", "here for a good time - live").
 track("7cazpzDMT6xhtnbpTciffb", "i can still make cheyenne - live").
 track("6h0VKVPn38JB9pLLK5DYMh", "the cowboy rides away").
 track("7E79pA0Rk9j9Epo80FsBH7", "she'll leave you with a smile").
-track("46ts8oxy3Fabye6VktfIHz", "easy go").
+track("46ts8oxy3Fabye6VktfIHz", "easy comeeasy go").
 track("7dodmE0PYL4z8SYWgL7lAW", "fool hearted memory").
 track("2dgMaCYJfG3BHDAOxTGera", "check yes or no").
 track("2R2apKvUmAgRn90WGFgByy", "we really shouldn't be doing this").
@@ -2016,7 +2016,7 @@ track("013IXgOa1zzkXMPDX7hhdC", "i believe").
 track("1w4CtMSli0dwsXbmuxCLBG", "i just want to dance with you").
 track("7EL1VGC5Fj8Pntoq13Sqfx", "am i blue").
 track("0i47RGADnkKrqMcDQY0U8z", "all my ex's live in texas").
-track("6kh2Sd8pTxYK14Xb7Ooxa8", "easy go").
+track("6kh2Sd8pTxYK14Xb7Ooxa8", "easy comeeasy go").
 track("4AgawhSPQcswyxwr0oEpNx", "right or wrong").
 track("013huSgMqfjzK1jcd4nnbx", "fool hearted memory").
 track("5GnWoorAkjnirIwk3lK0wA", "the chair").
@@ -2210,7 +2210,7 @@ track("5wgg9Gr2L2mmCpuVnbdaJj", "predawn").
 track("33G3doQZuMIhSJgyHIdoNG", "don't give it up").
 track("7eUMbZc1yuF1dzeg4e0iWk", "たぶん、ずっと好き").
 track("7bnIheAcsFrIXyHvYgPKYx", "water lily 〜睡蓮〜").
-track("70IehWroYnv6x93Sk0A3KT", "my road!").
+track("70IehWroYnv6x93Sk0A3KT", "startingmy road!").
 track("6ygYBzmYKfq4DbzsgPYXzQ", "リフレクション").
 track("0vc0GhgZqtZ2v6WZX0hc7X", "never ever - tjo & yusuke from blu-swing remix").
 track("7a4kESt7mM3DMf5Um43o6O", "illusion - tjo & yusuke from blu-swing remix").
@@ -2628,12 +2628,12 @@ track("6qh2T7LTzPdt3lLV0qNyIa", "spring rain").
 track("59NAjnfK4EF9UvN9uoPOlu", "interlude (me?)").
 track("0Zbrev06J69Aj8BdjY0Ozp", "leave behind").
 track("3pmZNvdGafpQcN9fx8ihqr", "sweet dream my dear").
-track("1KrIUmjk5GJR7GDwzZAfeQ", "summer nocturne").
+track("1KrIUmjk5GJR7GDwzZAfeQ", "nocturne no. 1 in csummer nocturne").
 track("28pRNiqJTg4f8qIOEtSvmM", "stay in memory").
 track("2P98yzjjBH0FiZNPv1HGOO", "i could see you").
 track("1K9LuREvA4VeDElOvah794", "nocturne no.2 in eb").
 track("7uiDSwcRahw77yd1f8YuoF", "impromptu").
-track("1scwbT7tUVJorfDWJ2CEaW", "sad couple 'n happy again (piano ver.)").
+track("1scwbT7tUVJorfDWJ2CEaW", "happy couplesad couple 'n happy again (piano ver.)").
 track("5LG8efE2lJdFYaz4ikHcSx", "falling in love (piano ver.)").
 track("5Edr0z0Jo06fFOxmCEyjIt", "nocturne no.3 in a minor").
 track("1bXO5TTRnJ3Or46JrcIqiL", "silver line").
@@ -2687,11 +2687,11 @@ track("0WCa7ZEnWVRFSCIHcVXNa1", "belize").
 track("772yFeuvTjXcJC9s0JVEW4", "get away").
 track("3OAcVFL6FA49c6ETfxWMLM", "little red riding hood").
 track("1leEiTrDMuZdMD9tTKiqBf", "fish at night").
-track("4Pw1gVlbmSdIjRdPzBk2DM", "Wolves ov Siberia").
-track("4t4ZO52sSUnWv6Jg11NfvU", "Ecclesia Diabolica Catholica").
-track("5LGdDjgWxupD2SFQFru4TF", "If Crucifixion Was Not Enough...").
-track("6QTyJzKRvqmtoHQ9VYXCZo", "Sabbath Mater").
-track("6Iky10MLi7lR1AGWx0v8cd", "Rom 5:8").
+track("4Pw1gVlbmSdIjRdPzBk2DM", "wolves ov siberia").
+track("4t4ZO52sSUnWv6Jg11NfvU", "ecclesia diabolica catholica").
+track("5LGdDjgWxupD2SFQFru4TF", "if crucifixion was not enough...").
+track("6QTyJzKRvqmtoHQ9VYXCZo", "sabbath mater").
+track("6Iky10MLi7lR1AGWx0v8cd", "rom 5:8").
 track("1WjsZyndfUdK43x7qM9aAi", "blow your trumpets gabriel - live").
 track("7vXN0lNC62uJnejTQT0s80", "furor divinus - live").
 track("2Kq8PDGuz9PtbiQ86Hi7LC", "messe noire - live").
@@ -2701,10 +2701,10 @@ track("5G09k7EyYqgs3PckE6i8y0", "the satanist - live").
 track("2tqRlQLjqmjP0gpDCOQLEM", "ben sahar - live").
 track("1ucOebzMOPV4REvdmzvbfx", "in the absence ov light - live").
 track("3MtSuh2d3Ijk7wvihdUQIC", "o father o satan o sun! - live").
-track("1tLhBEBMhYdsuzIXml4Pyn", "Furor Divinus - Live").
-track("0Y2rehx8qTVf3Rpvl8jFzM", "Ora Pro Nobis Lucifer - Live").
-track("5wVclovGACTx3pIXDqqqbF", "The Satanist - Live").
-track("25HQaHyUjeRCw2GsjH6oXx", "In the Absence Ov Light - Live").
+track("1tLhBEBMhYdsuzIXml4Pyn", "furor divinus - live").
+track("0Y2rehx8qTVf3Rpvl8jFzM", "ora pro nobis lucifer - live").
+track("5wVclovGACTx3pIXDqqqbF", "the satanist - live").
+track("25HQaHyUjeRCw2GsjH6oXx", "in the absence ov light - live").
 track("0oKCTySjktoqWA3N4SAoyb", "thy winter kingdom").
 track("2gmb3k9JxYJY7KenMJkNVq", "the dance of the pagan flames").
 track("6D0XXsITS9zYIV6fJGAFHk", "moonspell kites").
@@ -2740,7 +2740,7 @@ track("6RWxgmdbeLz2kZQsDVlSPG", "ov fire and the void").
 track("1NvLheoZ91xhyjl1UXTb2e", "transmigrating beyond realms ov amenti").
 track("7DlBIoeCw48yjRYMajLzpj", "he who breeds pestilence").
 track("0GrmwlheSMuBWLxmRIzXFn", "the seed ov i").
-track("2KmjLJ4BwGXn4pyWScQNrM", "lord is upon me").
+track("2KmjLJ4BwGXn4pyWScQNrM", "alaslord is upon me").
 track("698zm7KS711PsKjWQ2HPrM", "defiling morality ov black god").
 track("70e9XeYjK8tim1xDpqQpOk", "lucifer").
 track("15X6YsCumX1IwG3bVBq6sn", "intro").
@@ -2778,12 +2778,12 @@ track("2MPYqeHnZG5MRsGLmUUAUB", "don't bother me").
 track("2U3s2xmqEEIwpd0bU4PHPo", "jack white on don't bother me").
 track("6B6inK1WKpHmGThxhPfh55", "shine the light on me").
 track("6JAbmOjmaDpgXYkQ72Aqv9", "jack white on shine the light on me").
-track("4GTCwHf5tLna3yW6HJ1DvW", "Salute Your Solution").
-track("3Is2O0GsNY2blRxkKV3RKY", "Old Enough").
-track("0i8BKPfGlnetxgv6QPI1IO", "Hold Up").
-track("5wgCxWrHqUWgSDxm5kPh8r", "Many Shades Of Black").
-track("2Ndoc3EhEfTzGH4qqIDTj4", "Attention").
-track("2i37Y95xkPhHtoYBywVBUm", "as she goes").
+track("4GTCwHf5tLna3yW6HJ1DvW", "salute your solution").
+track("3Is2O0GsNY2blRxkKV3RKY", "old enough").
+track("0i8BKPfGlnetxgv6QPI1IO", "hold up").
+track("5wgCxWrHqUWgSDxm5kPh8r", "many shades of black").
+track("2Ndoc3EhEfTzGH4qqIDTj4", "attention").
+track("2i37Y95xkPhHtoYBywVBUm", "steadyas she goes").
 track("3VZTotF0KXv4deDUgLafTo", "hands").
 track("2jflTXeLsIllLlAoZcIbX5", "broken boy soldier").
 track("7vDz1ddx4mJ3Uw9klMo1DA", "intimate secretary").
@@ -2922,16 +2922,16 @@ track("62tKnOwHemKlo9VHRNn5Pt", "requiem pour un twister").
 track("18bEIYh8WFhL0JrAjB4pN6", "charleston des déménageurs").
 track("2zDuhcVBZ2VyYGcf9LZjmV", "ce grand méchant vous").
 track("64ZQo88rq7KxbIbeFHLzTW", "intoxicated man").
-track("5R4xNvJZTvVWLd3z19Tr5C", "casino de paris  1985").
-track("0QUws27sxcPIWtCrNaBiB5", "casino de paris  1985").
-track("0x7XRBwhN4sV1ZtSQ88xxM", "casino de paris  1985").
-track("5gvpOuPWXw5v9IKooiVH96", "casino de paris  1985").
-track("7lIjhH3Rnzg4k8CPuhXOBN", "casino de paris  1985").
-track("2WeonDfEBTuasGUfMHY7Y5", "casino de paris  1985").
-track("3qDmAAs9TvwYEioGBm5vTe", "casino de paris  1985").
-track("2rqIRcbUnFBjC8wr0QFBi6", "casino de paris  1985").
-track("6oHDFIXJMsS2Zmzqwka3Kw", "casino de paris  1985").
-track("3kxdoZKqVMc44JTEESeuSb", "casino de paris  1985").
+track("5R4xNvJZTvVWLd3z19Tr5C", "love on the beat - livecasino de paris  1985").
+track("0QUws27sxcPIWtCrNaBiB5", "initials b.b. - livecasino de paris  1985").
+track("0x7XRBwhN4sV1ZtSQ88xxM", "harley davidson - livecasino de paris  1985").
+track("5gvpOuPWXw5v9IKooiVH96", "sorry angel - livecasino de paris  1985").
+track("7lIjhH3Rnzg4k8CPuhXOBN", "aux armes et cætera - livecasino de paris  1985").
+track("2WeonDfEBTuasGUfMHY7Y5", "nazi rock - livecasino de paris  1985").
+track("3qDmAAs9TvwYEioGBm5vTe", "des laids des laids - livecasino de paris  1985").
+track("2rqIRcbUnFBjC8wr0QFBi6", "ballade de johnny-jane - livecasino de paris  1985").
+track("6oHDFIXJMsS2Zmzqwka3Kw", "bonnie and clyde - livecasino de paris  1985").
+track("3kxdoZKqVMc44JTEESeuSb", "vieille canaille - livecasino de paris  1985").
 track("775XKH1pgcWxJohoQxxXqs", "javanaise remake - dub style").
 track("1NMU8F7p8R3tYCpV9EogsT", "aux armes et caetera - dub style").
 track("3SPzMsqpvK9SlfgUHSY0Vj", "les locataires - dub style").
@@ -2976,7 +2976,7 @@ track("7bISveCnMNqh3fpsF5K5Eb", "ecce homo").
 track("0NL5y0CQCO64Zm2M2yQU9V", "negusa nagast").
 track("5Phnqk1KLGmHlfYnKOSJq2", "my lady héroïne").
 track("5SX807Z0TxyBqDKZy6GSbq", "le cadavre exquis").
-track("0wBgQhSoVC0aHTc2wxmiF4", "lippy").
+track("0wBgQhSoVC0aHTc2wxmiF4", "lippylippy").
 track("5zogBktKXJMYDyQuwizgCu", "bawl").
 track("6aPquzpugdm6qcldJ2djYN", "at the top (just us)").
 track("3iYcVyTyFYsCCGoIpzwddd", "forever (raw)").
@@ -3055,7 +3055,7 @@ track("2evzV6Flz9vvlb3LbRBAG3", "the left hand and the right hand").
 track("0o6gfGX0LjA4EDr2XCgfRn", "i felt like jesus").
 track("6Y0HH6er1rSTMHH1Q5RInd", "who shot john").
 track("5IYHfAqLKGDtpCHDV80FB9", "he came from so far away (red man speaks)").
-track("5VxquG0jslnDFdymyInxk8", "little boy").
+track("5VxquG0jslnDFdymyInxk8", "little girllittle boy").
 track("0Mz34NGe1hYMeIZ16pbEOQ", "sonny liston's blues").
 track("1xspe39BSK6iqlGv9qN8RQ", "what can a mother do").
 track("4dMnDR016sgiTTst0Yf5iN", "where the hell is henry?").
@@ -3284,7 +3284,7 @@ track("2v3w8YEvc3waTby9Iz88fG", "empty chairs").
 track("28i2Kp2dH5zwwQHKfF4GSB", "since i don't have you").
 track("4tfE2KZqQMzR3uj4Gz7VPq", "i tune the world out").
 track("78cRPpwiGxl6U7WdbNK5T3", "addicted to black").
-track("4cKu5oqoWnySawWXGEu6eP", "diana run").
+track("4cKu5oqoWnySawWXGEu6eP", "rundiana run").
 track("7B3Jua2eI7U3KJ8Vd1Uom0", "beside myself").
 track("1lTPVeBYNT6tttWgXbymKB", "mary lost a ring").
 track("61MBkdu0SQrVo8kVPoD4O0", "lovers love the spring").
@@ -3317,7 +3317,7 @@ track("0IY5lHDP46LTWfEwu66TZd", "que beleza").
 track("6b9mSTJ7c2IIQdheCD0cAT", "let's have a ball tonight").
 track("6UspWN8YJF0veSazYwf1H7", "o caminho do bem").
 track("6j7u5clB8uvIjV1YTr5vIO", "ela partiu").
-track("3fEUj93uti1FaJ6PBu2fOK", "quer não queira").
+track("3fEUj93uti1FaJ6PBu2fOK", "quer queiraquer não queira").
 track("3aZnn4jK5gXFRRAsOqQ2TF", "brother father mother sister").
 track("70QAZmaOxrSQGP2OMY5DUz", "do leme ao pontal").
 track("5MVYxljWqI4EWzhtf7kLQk", "nobody can live forever").
@@ -3325,13 +3325,13 @@ track("3XMFpSHd6CdKzk6OP5uOLK", "i don't care").
 track("4UEgyuWBzxbxoFRktsifEm", "bom senso").
 track("4y9FMybhO87us5K8tdydn0", "primavera (vai chuva)").
 track("5RvYirdYj4S5yyVgg0HGVX", "o vento e as canções").
-track("5V9ywq1j9T2krOpQBZq9Eq", "eu e você").
+track("5V9ywq1j9T2krOpQBZq9Eq", "você e eueu e você").
 track("30DmZoDNZaaLTWtur7cI66", "me dê motivos").
 track("7afnlNBp7WOUu2XBXwpVwC", "azul da cor do mar").
 track("6ytTLOQCYtrvPivhcV1MvH", "você").
-track("2xgBb0YpJMwE0CBd39oQXu", "goiabada para a sobremesa)").
+track("2xgBb0YpJMwE0CBd39oQXu", "do leme ao pontal (tomo guaranásuco de cajugoiabada para a sobremesa)").
 track("3hyunTzcADyRCO9S9qL1OJ", "a festa do santo reis").
-track("0qstQhMhPORbC6FbHZXkVZ", "só quero amar").
+track("0qstQhMhPORbC6FbHZXkVZ", "não quero dinheirosó quero amar").
 track("41UtrfZQMk8598NmRIbZlt", "um dia de domingo").
 track("5KZTXLhQxpSVWnsW26ehAE", "réu confesso").
 track("4lqJizVlijumu0Jn7dXnbC", "gostava tanto de você").
@@ -3340,7 +3340,7 @@ track("5lnlqi3dmXP8aqDBp2HqxO", "azul da cor do mar").
 track("2GHfL0yMZ6vvV7AtujvwML", "o descobridor dos sete mares").
 track("2FXNR7mZoMCfAewJhopXX1", "não vou ficar").
 track("1s2eUrF5lV3MM2YaXxVyEy", "a festa do santo reis").
-track("2C1mZ9jFSMIkpyj8nYeWZV", "eu e você (juntinhos)").
+track("2C1mZ9jFSMIkpyj8nYeWZV", "você e eueu e você (juntinhos)").
 track("2GVAeUO5hjUVrFE0s08cKD", "não quero dinheiro (só quero amar)").
 track("2vq9jIZRH5wryz40TlQI86", "você").
 track("39KlBHTWR2OzenSYHMJfGJ", "sossego").
@@ -3353,7 +3353,7 @@ track("4rw2aqtZs57Rd1oAfUzMAp", "azul da cor do mar").
 track("04psVKWpfTpYrvya3LfXw7", "descobridor dos sete mares").
 track("3ZG4PL9Jbl1oKhBnPKo3UH", "você").
 track("3ZzxdyflJz6P3a3ARPBCIo", "paixão antiga").
-track("3407OS2nx03e3M3mciBANB", "goiabada para a sobremesa)").
+track("3407OS2nx03e3M3mciBANB", "do leme ao pontal (tomo guaranásuco de cajugoiabada para a sobremesa)").
 track("0z6h7ekKKbpteZ5vb5Xqrc", "pudera").
 track("7oLiKBNwGeCyOgEr9vRwS8", "sossego").
 track("3PdU9lo21kinaVq9nWErab", "onde está você").
@@ -3556,7 +3556,7 @@ track("04hzqDKq5gO3CjCdaaDg1a", "inverness").
 track("41t9p08DVCYaDB97QShqAL", "water - remix").
 track("4dhiZEUOUxTemJ5M40fGFR", "needle in the camel's eye - home recording").
 track("75XOskTHBxKXFsKSyk1V7f", "nine lives to rigel five").
-track("2ot9w8x3jxaSHIaxEgiiT5", "things wont").
+track("2ot9w8x3jxaSHIaxEgiiT5", "pennythings wont").
 track("0eJ3PqWccTYbYomNRVid4e", "dead center").
 track("4Q79cd30jDyAnTPYCOANpV", "the red baron").
 track("6s3X4TZjmbnzPapkhY5m17", "the letter").
@@ -3565,10 +3565,10 @@ track("5ll7wzzAZlrLzLNGWj1vs2", "metal and glass exact").
 track("13OZvs8HPQUWoEzFEoAoDW", "selfish again").
 track("6giFpa6R3wDkVkrO25Xp9y", "too late for tears").
 track("4XTgLoKWYEhNVy7dkydAul", "live in july").
-track("51kXoK4CmMBwy8X9quv7Lu", "honey").
+track("51kXoK4CmMBwy8X9quv7Lu", "room for one morehoney").
 track("2hf5sZ1Ajg8hLyWG3gonsD", "what the whole world wants").
 track("1Gmogpm80FbB44mPKYlOC6", "the picture of agreeability").
-track("5OxxVIlAcaCXBWe4lYI5jB", "have you lost").
+track("5OxxVIlAcaCXBWe4lYI5jB", "ameliahave you lost").
 track("6FIZh45ha5X0noGeRkiYZv", "rolling with the moody girls").
 track("6fj4Pf5mhoKuteZBbTQM0w", "wyoming").
 track("7uxLbxeY0oYRpNp1rQoKz9", "in a delorean").
@@ -3578,7 +3578,7 @@ track("67ZS9aJEfD3OTZnmJfRoiz", "wish i could stand or have").
 track("7F75yqEmjrlq2N5mquVsVB", "kenneth-what's the frequency?").
 track("048CnvCnoC4HcVMscroCqH", "not because you can").
 track("0BvEK77ihZIP2pwEKgGgNn", "shard").
-track("7iAtxIgqgVZopSgrOsBCut", "you're dying to").
+track("7iAtxIgqgVZopSgrOsBCut", "go aheadyou're dying to").
 track("4BRKRZXhRe0kyBDJydfuqg", "dripping with looks").
 track("7pFGrh9UZBGDUNxLZGv3ly", "exactly what we don't want to hear").
 track("3j3BS8ds3qsQTKrzQOJ0ti", "we love you carol and alison").
@@ -3666,7 +3666,7 @@ track("1XoDuQWETlzKgFgBNru2xk", "the strangulation chair").
 track("0PV7aQ8yfo3cr3LLyq7KbV", "caged...contorted").
 track("5IblssBOKZZIpKpm8KVn9P", "crucifier avenged").
 track("0sxrgZF5EGpXQpKlRCtimI", "evisceration plague").
-track("76FzShH2QysmHzLPqjeWLO", "splattered brains").
+track("76FzShH2QysmHzLPqjeWLO", "scattered remainssplattered brains").
 track("28ZzFc0gi45kn9UfF5VnNJ", "make them suffer").
 track("4TAm8GRy3b8J5lxsc2ZgxN", "death walking terror").
 track("6UEV6tKW4cI7N4BugPKjZu", "devoured by vermin").
@@ -3697,7 +3697,7 @@ track("1uDzM8XYWQq77QeMWdbeDv", "eaten from inside").
 track("0Gs11toGzIBAxEXZ3unsxK", "orgasm through torture").
 track("6Yt8wqHP7i8XzM4PjAFQ15", "staring through the eyes of the dead").
 track("0XKB9PZsZSN51ipIKOCuAu", "fucked with a knife").
-track("5uGo5EagLBu8DLMOGVNtSS", "and strangled").
+track("5uGo5EagLBu8DLMOGVNtSS", "strippedrapedand strangled").
 track("2r9JzGYg4vrJ3IvvzWBMkh", "pulverized").
 track("7ct2GZAlOkIqOgw3BJQm2n", "return to flesh").
 track("6PbwdYpNcqSkiTvQZ3vlSk", "the pick axe murders").
@@ -3726,61 +3726,61 @@ track("3z8h0TU7ReDPLIbEnYhWZb", "bohemian rhapsody - 2011 mix").
 track("4ysz5yttr3rpRkvyVMLlRB", "now i'm here - live at the hammersmith odeon").
 track("1F9NVicWfNQA5ki8WmEtk8", "crazy little thing called love").
 track("6Am82YdURCRXRvoVUObzzG", "love of my life - live at rock in rio").
-track("1mfSkhW2ohvJPlMhk9APPW", "langham 1 studio").
-track("6PQfKlBmj8GcyHOIwio9IB", "langham 1 studio").
-track("1TE5vQsrINuoC2g5EoAR9p", "langham 1 studio").
-track("3wMcguu9HIDN1ZXIygVBFo", "langham 1 studio").
-track("5UaZhs8rSrvIR4JmmOTyT0", "langham 1 studio").
-track("2VWTASJlkTrp4tw6FM2gN6", "langham 1 studio").
-track("0nOJaFMTP5tarBivkzS59C", "langham 1 studio").
-track("74r3rgwSw89ipAvs1e9tMg", "langham 1 studio").
-track("5zJGMOWOjteRfvoM64ppQM", "langham 1 studio").
-track("28UhKvnkpswG6buH54lPtM", "langham 1 studio").
-track("22PDDxasXyFMek05JaWmVC", "langham 1 studio").
-track("3qFTqz2IW4C9pRXPiijwjt", "langham 1 studio").
-track("16EyUKbpib1iHyV3qa0HYH", "langham 1 studio").
-track("15ndeIwAaYeY86sPCWMGwf", "langham 1 studio").
-track("5QqgSUN4pcoXFIrPKKvftv", "langham 1 studio").
-track("0OpJzqZmaSrE3LvGvWa32P", "langham 1 studio").
-track("7D8BOBofsGAUlgvKBOS5xG", "langham 1 studio").
-track("7FwLqOBu6cv1AAewM4Lji9", "langham 1 studio").
-track("4Yk3CMLGIum15fTwyudaXX", "langham 1 studio").
-track("7BHFdEeGM9bXcqyjCJfzW9", "langham 1 studio").
-track("39rssQXzcEBYgkauXuICYX", "London  1975").
-track("6oiY3SDevCOaU4AOkoSLRW", "London  1975").
-track("1B4UkeQ5Qe6MZd0Jxfz9vL", "London  1975").
-track("4NReSwro351GpF5CNKi4x9", "London  1975").
-track("6ooNgJrR3Yz9J5ZwmAgnJx", "London  1975").
-track("7gFoyQ9oAQJK3qdDRXi7Dq", "london  november 1974").
-track("235NrqDx3hG30Eb65nVBRG", "london  november 1974").
-track("1KQjPIvBqUi7TDHJcuGu3j", "london  november 1974").
-track("4IUpTNc0zjbiQS052ravW5", "london  november 1974").
-track("6IMx8CcMaL3CsJYE57fjlR", "london  november 1974").
-track("3f7eACwFzEtb5T8zf0LKsj", "london  november 1974").
-track("3p3iBsGt3fMdkB2JlPEKtn", "london  november 1974").
-track("0hhR0rVFBI5GdvQdLOYaXP", "london  november 1974").
-track("0lVGSQwO4y2hyeretKQpJ6", "london  november 1974").
-track("1h6snPpEKlOc8i8IF5dnHz", "london  november 1974").
-track("61aRcMFKNd8XYHh471fADI", "london  march 1974").
-track("3Roq8PISHp5R2n8y7q2KTG", "london  march 1974").
-track("49bhDvjOxX4s7F4AYUg4rP", "london  march 1974").
-track("1nis6lIFphdheUNlSP22qM", "london  march 1974").
-track("66iUcvpE32FbYCWPGz9iTH", "london  march 1974").
-track("1iPk8f2tJvyrXq4Ko05Zh0", "london  march 1974").
-track("2lkKvyyCZpMrZHHa1qcX7Q", "london  march 1974").
-track("4wWyho72GZ7OIuHfVh091F", "london  march 1974").
-track("0kEQ0IfFugNf6RChG83poL", "london  march 1974").
-track("4Kw2oUHyGUNpUlu0g3vPU4", "london  march 1974").
-track("2GO2hNib4ao5EyDYRp6oPh", "london  march 1974").
-track("5aGORH5pMbWGtIHMFcOALO", "london  march 1974").
-track("1AzNO2L0QQ1DOXsdeiIhQ9", "london  march 1974").
-track("0JNOmhdLBWITpCNeguv17d", "london  march 1974").
-track("3YUQQ13YcwpBl5uQhlpJhJ", "london  march 1974").
-track("0ubQq6Scj4VNCWaf9nSWyb", "london  march 1974").
-track("0ns96UCKI5Y6SxFGZWljmZ", "london  march 1974").
-track("28NMcjW2Ntl0dP3aBiSssZ", "london  march 1974").
-track("6Rhb42vs67otRFULx5YPCN", "london  march 1974").
-track("3TZ31LSmaY17b4heXSfFo4", "london  march 1974").
+track("1mfSkhW2ohvJPlMhk9APPW", "my fairy king - bbc session  february 5th 1973langham 1 studio").
+track("6PQfKlBmj8GcyHOIwio9IB", "keep yourself alive - bbc session  february 5th 1973langham 1 studio").
+track("1TE5vQsrINuoC2g5EoAR9p", "doing all right - bbc session  february 5th 1973langham 1 studio").
+track("3wMcguu9HIDN1ZXIygVBFo", "liar - bbc session  february 5th 1973langham 1 studio").
+track("5UaZhs8rSrvIR4JmmOTyT0", "see what a fool i've been - bbc session  july 25th 1973langham 1 studio").
+track("2VWTASJlkTrp4tw6FM2gN6", "keep yourself alive - bbc session  july 25th 1973langham 1 studio").
+track("0nOJaFMTP5tarBivkzS59C", "liar - bbc session  july 25th 1973langham 1 studio").
+track("74r3rgwSw89ipAvs1e9tMg", "son and daughter - bbc session  july 25th 1973langham 1 studio").
+track("5zJGMOWOjteRfvoM64ppQM", "ogre battle - bbc session  december 3rd 1973langham 1 studio").
+track("28UhKvnkpswG6buH54lPtM", "modern times rock 'n' roll - bbc session  december 3rd 1973langham 1 studio").
+track("22PDDxasXyFMek05JaWmVC", "my fairy king - bbc session  february 5th 1973langham 1 studio").
+track("3qFTqz2IW4C9pRXPiijwjt", "keep yourself alive - bbc session  february 5th 1973langham 1 studio").
+track("16EyUKbpib1iHyV3qa0HYH", "doing all right - bbc session  february 5th 1973langham 1 studio").
+track("15ndeIwAaYeY86sPCWMGwf", "liar - bbc session  february 5th 1973langham 1 studio").
+track("5QqgSUN4pcoXFIrPKKvftv", "see what a fool i've been - bbc session  july 25th 1973langham 1 studio").
+track("0OpJzqZmaSrE3LvGvWa32P", "keep yourself alive - bbc session  july 25th 1973langham 1 studio").
+track("7D8BOBofsGAUlgvKBOS5xG", "liar - bbc session  july 25th 1973langham 1 studio").
+track("7FwLqOBu6cv1AAewM4Lji9", "son and daughter - bbc session  july 25th 1973langham 1 studio").
+track("4Yk3CMLGIum15fTwyudaXX", "ogre battle - bbc session  december 3rd 1973langham 1 studio").
+track("7BHFdEeGM9bXcqyjCJfzW9", "modern times rock 'n' roll - bbc session  december 3rd 1973langham 1 studio").
+track("39rssQXzcEBYgkauXuICYX", "ogre battle - live at the hammersmith odeonlondon  1975").
+track("6oiY3SDevCOaU4AOkoSLRW", "bohemian rhapsody - live at the hammersmith odeonlondon  1975").
+track("1B4UkeQ5Qe6MZd0Jxfz9vL", "the march of the black queen - live at the hammersmith odeonlondon  1975").
+track("4NReSwro351GpF5CNKi4x9", "bring back that leroy brown - live at the hammersmith odeonlondon  1975").
+track("6ooNgJrR3Yz9J5ZwmAgnJx", "guitar solo - live at the hammersmith odeonlondon  1975").
+track("7gFoyQ9oAQJK3qdDRXi7Dq", "procession - live at the rainbowlondon  november 1974").
+track("235NrqDx3hG30Eb65nVBRG", "now i'm here - live at the rainbowlondon  november 1974").
+track("1KQjPIvBqUi7TDHJcuGu3j", "ogre battle - live at the rainbowlondon  november 1974").
+track("4IUpTNc0zjbiQS052ravW5", "father to son - live at the rainbowlondon  november 1974").
+track("6IMx8CcMaL3CsJYE57fjlR", "white queen (as it began) - live at the rainbowlondon  november 1974").
+track("3f7eACwFzEtb5T8zf0LKsj", "flick of the wrist - live at the rainbowlondon  november 1974").
+track("3p3iBsGt3fMdkB2JlPEKtn", "in the lap of the gods - live at the rainbowlondon  november 1974").
+track("0hhR0rVFBI5GdvQdLOYaXP", "killer queen - live at the rainbowlondon  november 1974").
+track("0lVGSQwO4y2hyeretKQpJ6", "the march of the black queen - live at the rainbowlondon  november 1974").
+track("1h6snPpEKlOc8i8IF5dnHz", "bring back that leroy brown - live at the rainbowlondon  november 1974").
+track("61aRcMFKNd8XYHh471fADI", "procession - live at the rainbowlondon  march 1974").
+track("3Roq8PISHp5R2n8y7q2KTG", "father to son - live at the rainbowlondon  march 1974").
+track("49bhDvjOxX4s7F4AYUg4rP", "ogre battle - live at the rainbowlondon  march 1974").
+track("1nis6lIFphdheUNlSP22qM", "son and daughter - live at the rainbowlondon  march 1974").
+track("66iUcvpE32FbYCWPGz9iTH", "guitar solo - live at the rainbowlondon  march 1974").
+track("1iPk8f2tJvyrXq4Ko05Zh0", "son and daughter (reprise) - live at the rainbowlondon  march 1974").
+track("2lkKvyyCZpMrZHHa1qcX7Q", "white queen (as it began) - live at the rainbowlondon  march 1974").
+track("4wWyho72GZ7OIuHfVh091F", "great king rat - live at the rainbowlondon  march 1974").
+track("0kEQ0IfFugNf6RChG83poL", "the fairy feller's master-stroke - live at the rainbowlondon  march 1974").
+track("4Kw2oUHyGUNpUlu0g3vPU4", "keep yourself alive - live at the rainbowlondon  march 1974").
+track("2GO2hNib4ao5EyDYRp6oPh", "procession - live at the rainbowlondon  march 1974").
+track("5aGORH5pMbWGtIHMFcOALO", "father to son - live at the rainbowlondon  march 1974").
+track("1AzNO2L0QQ1DOXsdeiIhQ9", "ogre battle - live at the rainbowlondon  march 1974").
+track("0JNOmhdLBWITpCNeguv17d", "son and daughter - live at the rainbowlondon  march 1974").
+track("3YUQQ13YcwpBl5uQhlpJhJ", "guitar solo - live at the rainbowlondon  march 1974").
+track("0ubQq6Scj4VNCWaf9nSWyb", "son and daughter (reprise) - live at the rainbowlondon  march 1974").
+track("0ns96UCKI5Y6SxFGZWljmZ", "white queen (as it began) - live at the rainbowlondon  march 1974").
+track("28NMcjW2Ntl0dP3aBiSssZ", "great king rat - live at the rainbowlondon  march 1974").
+track("6Rhb42vs67otRFULx5YPCN", "the fairy feller's master-stroke - live at the rainbowlondon  march 1974").
+track("3TZ31LSmaY17b4heXSfFo4", "keep yourself alive - live at the rainbowlondon  march 1974").
 track("2pughRn5WLbv7NmGYr8fGX", "one vision - live").
 track("6lLxsToKaa2bbmj4q56qQh", "tie your mother down - live").
 track("0VESQOOCVbCM8JjWR2LZwX", "in the lap of the gods... revisited - live").
@@ -3800,7 +3800,7 @@ track("2DhfjZoSLghZf3smdwFsxV", "you could be greater").
 track("2kInpEda7OAjT3tSFlEHwD", "team meets cayden  inside the internet").
 track("3fgYGSNrlqkrQZljLYsr5W", "dinah identifies vincent").
 track("3bj7ub75D7MvunbqSOfZVP", "deathstroke extracts revenge").
-track("3lSeccTdQuMfJrORZXhFdr", "like son").
+track("3lSeccTdQuMfJrORZXhFdr", "like fatherlike son").
 track("4WU29N5kO0n5fAKKloWooQ", "back with a vengeance  meet tobias church").
 track("3XlD5KQCzpnEUW8kOSOxwF", "time to hang up the hockey mask").
 track("6IrFVwVWumaKxq5ZB6sqpA", "bratva brothers").
@@ -3860,16 +3860,16 @@ track("4R5aMibrJKBOvB6gv4v5kh", "speak low").
 track("3kRIweBTQHxClIN3bMd8bL", "nancy (with the laughing face)").
 track("2W9VibvyxFoPjdD0uYkDdM", "the man with 2 left feet").
 track("6pXXkGiba6P23ZnoSGStT5", "that old feeling").
-track("4nUKRJ0vOA3eJDL0evqnzj", "jason marshall & reginald veal)").
-track("1b5Wtyut69mJX7QKLSQkK5", "reginald veal & winard harper)").
-track("5kuILkqjwKAnolDPYyh57k", "winard harper & david pulphus)").
-track("3MBUQSPnQEhzhggaYkZ8AE", "david pulphus & winard harper)").
-track("1qT0KDL7zAtuKjeb3kAhuG", "mark gross & jason marshall)").
-track("5tgXuIYOqsGNf6oKhFBwsN", "tiger okoshi & victor goines)").
-track("0zXpTabHqWg4qKSoLKs84A", "winard harper & jason marshall)").
-track("6AgUK8xCMcVwhjEWMEGN1H", "victor goines & jason marshall)").
-track("06pwbSbD2LWVeaK7ulceki", "david pulphus & jason marsalis)").
-track("27ZKlpVlUGuTzA6Jk921UD", "victor red atkins & tiger okoshi)").
+track("4nUKRJ0vOA3eJDL0evqnzj", "such sweet thunder (feat. winard harperbranford marsalismulgrew millermark gross -tiger okoshijason marshall & reginald veal)").
+track("1b5Wtyut69mJX7QKLSQkK5", "sonnet for sister kate (feat. mark grossjason marshallvictor goinesjason marsalisreginald veal & winard harper)").
+track("5kuILkqjwKAnolDPYyh57k", "sonnet to hank cinq (feat. mark shimtiger okoshimark grossjason marshallvictor red atkinswinard harper & david pulphus)").
+track("3MBUQSPnQEhzhggaYkZ8AE", "half the fun (feat. branford marsalismark grosstiger okoshijason marshallvictor red atkinsdavid pulphus & winard harper)").
+track("1qT0KDL7zAtuKjeb3kAhuG", "up & downup & down (feat. tiger okoshivictor red atkinscharnette moffettwinard harpervictor goinesmark gross & jason marshall)").
+track("5tgXuIYOqsGNf6oKhFBwsN", "madness in great ones (feat. victor red atkinscharnette moffettjason marsalismark grossjason marshalltiger okoshi & victor goines)").
+track("0zXpTabHqWg4qKSoLKs84A", "star-crossed lovers (feat. mulgrew millermark grossdavid pulphusreginald vealwinard harperwinard harper & jason marshall)").
+track("6AgUK8xCMcVwhjEWMEGN1H", "sonnet in search of a moor (feat. mark grossvictor red atkinscharnette moffettjason marsaliswinard harpervictor goines & jason marshall)").
+track("06pwbSbD2LWVeaK7ulceki", "the telecasters (feat. tiger okoshimulgrew millermark grossbranford marsalisjason marshalldavid pulphus & jason marsalis)").
+track("27ZKlpVlUGuTzA6Jk921UD", "sonnet for caesar (feat. branford marsalismark grossjason marshalldavid pulphusjason marsalisvictor red atkins & tiger okoshi)").
 track("4diUG4YVYzfNL7a3cawE7N", "such sweet thunder").
 track("7BspQgpcmYUeSNOsgmWHBV", "sonnet for sister kate").
 track("1LmTFQFm2I92nULcaIq3WG", "sonnet to hank cinq").
@@ -3935,7 +3935,7 @@ track("7HhP71WZNaJoyovkSBoF4f", "min tid här på jorden").
 track("1M2D84M5ketKh8YxwvsaD4", "hey hey hey hey").
 track("0hmwkTCVgfmfyMJ1cXyyC3", "i neonljussken").
 track("3ja4UeKvGoG3f9DO6IZlaM", "livet är till för att levas").
-track("6IXG16Z0tr8v2dyTEw8lna", "nån gång").
+track("6IXG16Z0tr8v2dyTEw8lna", "nånstansnån gång").
 track("0zAt2ZuZrTnzLkMdwAErsI", "jag kan höra dig andas").
 track("1LlAg16kVaxa79CkKYI0yH", "stjärnfall").
 track("4vdey8DEBsnRnzX0SxJhLo", "min tös").
@@ -3983,7 +3983,7 @@ track("1tU0qFJdAeE9Th6JTUyi1Q", "vem vet?").
 track("6QijLqePhepzf7XwrghSb2", "baton rouge").
 track("3LAsPH59uNtx1XqUQ6dX6V", "om jag kommer om natten").
 track("1FMSUWiwxvN04yBrxH83vU", "jag är strandad på jamaica").
-track("55WlAXfxhzKQexuSw9TtWl", "glömma och förlåta").
+track("55WlAXfxhzKQexuSw9TtWl", "älskaglömma och förlåta").
 track("7KLaDBtUZ3kWp3I3MkSjlL", "coca-cola och en hot burrito").
 track("503mVZFbeY4Zqn3DdeWal1", "socker och salt").
 track("39e1dUEa3HBgMH2GiqUaGa", "varje ensam natt (i forgot to remember to forget)").
@@ -4142,11 +4142,11 @@ track("66vd2hASEkqh3fhexIDrGg", "scars").
 track("0uFJ8tCi6sTqb7poS3wIoL", "damn the flood").
 track("3nPAe3DoUoNk7HMuzN5AhY", "i've gone away").
 track("2d31JvDmjgvYw6bYfqjbjI", "empty promises").
-track("034Uv8Gb2OoyEoGnTTQFAv", "My Dying Time").
-track("4t3ommKn1szQjjDzG5hrEo", "Angel of Mercy").
-track("46b7VWxFnJPREdxE8A8DeY", "Beyond the Down").
-track("1oyFdq7booNul4PnV1I7GU", "Damn the Flood").
-track("1JuWqMTO1WJUolcWREDeEB", "Empty Promises").
+track("034Uv8Gb2OoyEoGnTTQFAv", "my dying time").
+track("4t3ommKn1szQjjDzG5hrEo", "angel of mercy").
+track("46b7VWxFnJPREdxE8A8DeY", "beyond the down").
+track("1oyFdq7booNul4PnV1I7GU", "damn the flood").
+track("1JuWqMTO1WJUolcWREDeEB", "empty promises").
 track("6wu9MCBDuBjvzXKcG19ddf", "losin' your mind - live").
 track("4c2hDpDYmHmI0HQqHLMUPN", "the blessed hellride - live").
 track("38bVaLg0ADlm1RA54SYxy8", "sold my soul - live").
@@ -4197,16 +4197,16 @@ track("2H2e261kosOP7lFfqyVLRO", "has it come to this? - high contrast it's come 
 track("4UncXp5NUZEEMWLAj0c0PD", "has it come to this? - jameson mix").
 track("1XCQF8yjY6xJ2Trr37gtqX", "has it come to this? - zed bias vocal mix").
 track("1NvioR5fwZCNgcwnc3IH4j", "has it come to this? - zed bias dub mix").
-track("6o001lltgreeuHoG8McEbH", "31-10-02").
-track("31Jt4DtTlc4soJs1dSIpjH", "31-10-02").
-track("5bxSdCUGKv0846pM4dlGgx", "31-10-02").
-track("7gFK1We1tE878AoeV7XILo", "31-10-02").
-track("3RX4e3IfLQ71KfD9pGyoKd", "31-10-02").
-track("6c4qGQatQLeV9c3vvfRgaY", "31-10-02").
-track("3rdvpz0ia1v4UnHdL32URC", "31-10-02").
-track("6eKLwnYA7eB6U1bQLWFTRZ", "31-10-02").
-track("6kP9jB6ijCJw84AEb9mEBo", "31-10-02").
-track("4UmFrj5Nlc466FyR61fjll", "31-10-02").
+track("6o001lltgreeuHoG8McEbH", "introduction  turn the page - one live in nottingham31-10-02").
+track("31Jt4DtTlc4soJs1dSIpjH", "has it come to this? - one live in nottingham31-10-02").
+track("5bxSdCUGKv0846pM4dlGgx", "same old thing - one live in nottingham31-10-02").
+track("7gFK1We1tE878AoeV7XILo", "geezers need excitement - one live in nottingham31-10-02").
+track("3RX4e3IfLQ71KfD9pGyoKd", "give me my lighter back - one live in nottingham31-10-02").
+track("6c4qGQatQLeV9c3vvfRgaY", "too much brandy - one live in nottingham31-10-02").
+track("3rdvpz0ia1v4UnHdL32URC", "let's push things forward - one live in nottingham31-10-02").
+track("6eKLwnYA7eB6U1bQLWFTRZ", "it's too late - one live in nottingham31-10-02").
+track("6kP9jB6ijCJw84AEb9mEBo", "sharp darts - one live in nottingham31-10-02").
+track("4UmFrj5Nlc466FyR61fjll", "all got our runnins - one live in nottingham31-10-02").
 track("4wujVeAoHMZ6saehy67GKj", "outside inside").
 track("6aFEH2lvJuIW125UzOnyTB", "going through hell").
 track("1LlJvFMIFUp1FdUTOhveP6", "roof of your car").
@@ -4375,12 +4375,12 @@ track("2m1Vddv2ZWoAnCiiTmZgvc", "intro").
 track("0qbKx8pDPBdLNfe4QO4WsO", "talking to girls at bars").
 track("2QP8Om30nDrUSQBl7k7pDV", "crush on a waitress").
 track("5Xr0CgoswalgInWcrMv3zF", "texting with girls").
-track("69gLCUhXRpRdgzAtm0477D", "is that a problem?").
+track("69gLCUhXRpRdgzAtm0477D", "i kinda have a boyfriendis that a problem?").
 track("1yNNREvbDQYXf7mzFMYYTw", "i think too much").
 track("3aWuQlOGGpR1WxJYLqjvlJ", "the macaroni and cheese fuckin' days are over").
 track("1n5vf9meFCGS3E7QgrCLye", "wasting time on the internet").
 track("1ECTxgtD2XjlCMCO0RlOuU", "the donut video").
-track("49NIshcNGeLTIN4WL6jY6S", "sorry!)").
+track("49NIshcNGeLTIN4WL6jY6S", "sign language for jizz everywhere (this bit not ideal for audiosorry!)").
 track("3X73JXN4ncXysXrh0u5tHN", "gay rights").
 track("2jdxurfHt6AEm0TrQYa8mr", "sheets").
 track("2I0eY8mBAE0e5EInFxbCzT", "cvs").
@@ -4649,9 +4649,9 @@ track("0u912qeLhEfp4nGhrBI1KD", "sufoco - ao vivo").
 track("3T3GJ75ay0k5Aw32y4rXz2", "2 anos - ao vivo").
 track("4J1Hyw056CFDiu6DvGAzrl", "aô buteco - ao vivo").
 track("5XJ97cXccjwEPhTcAdpk0D", "curtição (faz de conta)").
-track("43wV19i3jQdVHz7t3OyovB", "bebo e choro").
+track("43wV19i3jQdVHz7t3OyovB", "cantobebo e choro").
 track("68KKxDkkDxL8RlmWruqpO3", "terremoto").
-track("1NpD7cQH8hGMZrufOQQ0Xk", "me liga - ao vivo").
+track("1NpD7cQH8hGMZrufOQQ0Xk", "chorame liga - ao vivo").
 track("69sn0qRbSiygNkzfD4UFhG", "sufoco").
 track("21RTjtGCwC11QZzBGMo849", "meu mundo gira").
 track("41IAxFWxEzUNzXD7jHNWEB", "coração só vê você").
@@ -4785,7 +4785,7 @@ track("6wKy90zlePkpXnu14PD0ng", "pretty little bunny (remastered)").
 track("0EWRspVdB7AvXj4sBo4RFo", "without money (remastered)").
 track("1c8lwvIAfPwEMmA2Zwm59a", "better can wuk").
 track("0MtIGaBbOYT5B3pGvzI7AG", "bubble hard").
-track("4XmPPjTDOdgGRmhgtYRGyl", "pt. 3").
+track("4XmPPjTDOdgGRmhgtYRGyl", "freaky galpt. 3").
 track("6CCjVwvBLXLN8yh8L4xpuN", "life").
 track("6heWzUB7txGBjeNwnFmbWX", "put it on hard").
 track("0zjZ2i8lKL6tp1SsChyD6K", "real badman").
@@ -4849,13 +4849,13 @@ track("5l60fENQBovokVsP1qIOok", "christmas in whoville").
 track("46V6sJgsEO5bIvy0DP5sd8", "lost lonely boy").
 track("2Qiq0C6YfqHPIotRvx9lFx", "welcome song  forlorn").
 track("6zxP0NaPS8S6QkGSfbS5vc", "to the fort").
-track("1PpvKhz3v7rHzJJYhyeIAJ", "he won't get far on foot (main title)").
+track("1PpvKhz3v7rHzJJYhyeIAJ", "don't worryhe won't get far on foot (main title)").
 track("5DIsfpJDUDxiFVucFfGAbM", "1st drink").
 track("2huLycZtFk5uDloCk7YEr5", "phone call").
 track("0ZILvkw3W7QUpUvx8yGLfu", "car crash").
 track("2uPfYSrHeHhqWqrm4osXRS", "stuck in the tracks").
 track("1EgxYL1ba316dRxIYUXZyB", "out of reach").
-track("6r9xPOzgmdGp9YxLcXuGeO", "pt. 1").
+track("6r9xPOzgmdGp9YxLcXuGeO", "the kidspt. 1").
 track("3YE4fdlycxs2ecBF101Lu1", "mother's name").
 track("1t7IThs99S1UZl2onhcnHg", "the liquor store").
 track("6QzNFd98Vcmz1AeJm7lr2w", "annu").
@@ -4919,7 +4919,7 @@ track("1PSQmz1hGl04A8jGuVKFGV", "você me encantou demais - ao vivo").
 track("6qYWvnkPzObDSyDxRXddIK", "dentro da música - ao vivo").
 track("3QtOVxrvOgCGJACXSQ5YwI", "groove bom - ao vivo").
 track("5AstnYrT7SAn9b8zBoF5tY", "no mar - ao vivo").
-track("7I5WLD7sLPOdmKNEdt5glO", "sou rei - ao vivo").
+track("7I5WLD7sLPOdmKNEdt5glO", "sorrisou rei - ao vivo").
 track("3LZsoJCKCTVKIgBR4AQE6u", "naticongo - ao vivo").
 track("1cQmwTjKTitJ6JdzMwfp3t", "a cor - faixa bônus ao vivo").
 track("2ce2D41MgrRhUGblP4rr4J", "andei só - ao vivo").
@@ -4966,10 +4966,10 @@ track("0xdD8stKfHqfSNwNVlU7Qn", "glamour tropical (rio em dia de paz)").
 track("073tv1DjgcvSxYEiY3310S", "groove bom").
 track("5CdZ0B8KsJEzHOPfeJQAk7", "fogueira de desilusões").
 track("4OiO40Kyn7Tdl8q0dFqapa", "no mar").
-track("0a7XJG0EJ0cm7agECWBz0h", "coração").
+track("0a7XJG0EJ0cm7agECWBz0h", "ventosolcoração").
 track("3tq50TFUgtHBziN8x3bHzF", "1996").
 track("0AfjjjOtXP4BDavaGBGkcL", "arco-íris e planetas").
-track("0Ufqez8zoIMlIulVT4uRGJ", "um sol e um mar").
+track("0Ufqez8zoIMlIulVT4uRGJ", "um céuum sol e um mar").
 track("54r02OyBHIpeb3viz0DQp2", "зерно").
 track("0wZPDFmE60EfDdYMLFK7qJ", "сила и честь").
 track("76rVACrbkPdQ2WjHcuxgmJ", "m2 intro").
@@ -5036,7 +5036,7 @@ track("2sI9mlKe8NKqiB4WN94LNA", "i can't help it").
 track("6zvLh3A84rRNGVufpB7ci4", "i'm gonna make you love me").
 track("6lr2CR0hbNho7vPVOkHBkS", "love won't let me wait").
 track("2CvjkqX1PLJMMAydyX04Gx", "our time has come").
-track("1HJ1or4UvREvUjShD3f2dL", "for love").
+track("1HJ1or4UvREvUjShD3f2dL", "for youfor love").
 track("0sMtlVUkqNudn2dZIG7uAM", "let's go round again").
 track("6Yn5R6gAI6tsZmOeQmI6lo", "whatcha' gonna do for me").
 track("77U9MPzSeIoZURK1lVFQpj", "into the night").
@@ -5172,7 +5172,7 @@ track("1hU7HJ6vBZ0HApZM1XUQko", "too late").
 track("6IeJwzXTYriAT4C7LVVkdJ", "roosevelt high").
 track("4UIvXb87JSDlDCKd43Ql52", "places").
 track("26UCzUB97Zbbm0SIMKSYbk", "music of the spheres").
-track("3Q7VNKLs2vuwDZxA6FDHVS", "love and unity - 2012 - remaster").
+track("3Q7VNKLs2vuwDZxA6FDHVS", "lifelove and unity - 2012 - remaster").
 track("2RRngIcMlK1uCEij9HpbDA", "little britain - 2012 - remaster").
 track("6o4dEX2GSoI8jrdHbqo3cV", "a canterbury tale - 2012 - remaster").
 track("2hApN6n6J0GmMe60SOeXgG", "captain dread - 2012 - remaster").
@@ -5181,7 +5181,7 @@ track("3hVa3wStfSIXvJy4OEAMDV", "zion youth - 2012 - remaster").
 track("0o19tBZtbKo1TJqgWuGHxA", "one way - 2012 - remaster").
 track("5H5VUM7AXlmVjc2kg9WQIk", "shining path - 2012 - remaster").
 track("0QaHaIKONNjAV2vkXSpkg6", "out of heaven - 2012 - remaster").
-track("1dh5snz4dzivxSRJbsGSPT", "21 august 1994").
+track("1dh5snz4dzivxSRJbsGSPT", "maximum - john peel session21 august 1994").
 track("3DgG1Y1pWy7uJl377BiT6K", "tomorrow never comes").
 track("60enIYWgzKX8sjdzVb7Iwd", "for a reason").
 track("5bxyUXZijfIRFnfYCGIowt", "changes").
@@ -5224,7 +5224,7 @@ track("0SFlftyjasFjeBK9XibtGL", "prologue").
 track("4kH3BIr7xD2N8Mp5BsB7zt", "'til i hear you sing").
 track("752YjBQuPzmE5kRHVBdWrc", "coney island waltz").
 track("4t69MNA6JAGQOok8lDACET", "only for you").
-track("0ubJW39NLhyTcgwbWgohQI", "did you see?").
+track("0ubJW39NLhyTcgwbWgohQI", "motherdid you see?").
 track("4gMucFO6ttU4gqYQnzNdA2", "christine disembarks").
 track("35CbLVshx4eqLFb6667Jkr", "arrival of the trio").
 track("4uPIzEQQM0UXWihhenMHaT", "what a dreadful town!").
@@ -5290,11 +5290,11 @@ track("5gAjCzOj1eapkmE8diWT6e", "olsun").
 track("7DjOd6cixX1BqmHzO4vZj8", "seni çektim i̇çime").
 track("0hXxLLKPSfqLDHX1jdNz1q", "sevda tanrıçası").
 track("5yfZS5bXBEOLP4nyVENXuW", "sonbahar").
-track("3UVjOwB5EfOQz7nva1HtNI", "Our Way").
-track("67IFwc34FtjiqPKj12qyEu", "Worried Song").
-track("5DHUzJNGBYeDdQlCPtKEwl", "Who We Are Right Now").
-track("53BTsnNesjQgjrfuvYuVML", "Dead End Dream").
-track("5Dlzp0xGGN6upY1272LWNz", "Upward Dog").
+track("3UVjOwB5EfOQz7nva1HtNI", "our way").
+track("67IFwc34FtjiqPKj12qyEu", "worried song").
+track("5DHUzJNGBYeDdQlCPtKEwl", "who we are right now").
+track("53BTsnNesjQgjrfuvYuVML", "dead end dream").
+track("5Dlzp0xGGN6upY1272LWNz", "upward dog").
 track("3vdzgWsMtIDlMw4crHk2n1", "sure as the sky").
 track("1sO80vkPQU9ZNsqfRur8as", "saint bernard").
 track("4HdHHh5p3mkXr7QWOtycTe", "loving you").
@@ -5334,7 +5334,7 @@ track("3D98QF3b0HY9QCF6hZwNAF", "lost in thought").
 track("6YSEEH5SoFQjAergTlGFT1", "sneak out the back door").
 track("6ZhjNr5lBYzKPlRhxADX2g", "back of my hand").
 track("3G0nNrVRKTRbGzePqeIcwF", "deepens with time").
-track("4i8yfLHzH3jacvpe1ggwHi", "myself and wine").
+track("4i8yfLHzH3jacvpe1ggwHi", "memyself and wine").
 track("1p8GduVgOVxJEVqE13jHkX", "get in line").
 track("416x0yoaG1KZUKhCbjZqPX", "the reason why").
 track("2mRL3uxPZ632sF9GuEiwkP", "believe it when i see it").
@@ -5345,11 +5345,11 @@ track("0uey5RYMucS1qlEYUHa9PQ", "heavenly").
 track("6IxxOvZIOnDcsxFDhStdZP", "michael and his dad").
 track("7kwdfkbTsUNSz8jsi6mb26", "middle of love").
 track("0eqV0p2CSnbx5TKMcplAtY", "everytime i follow").
-track("6GjPJkP7fR2bqG2rmDogVS", "This Is How I Know").
-track("5vlH00NCIGJ2PrjBNc5x1J", "Ghost of a Chance").
-track("2nOtncx4oinHw0sePMKlj3", "Brandy Alexander").
-track("2Q0DLHypI7uHGOs5toKvXh", "Poor Helpless Dreams").
-track("1Wzk0ikAahswHYVoJJ9Opv", "The Impossible World").
+track("6GjPJkP7fR2bqG2rmDogVS", "this is how i know").
+track("5vlH00NCIGJ2PrjBNc5x1J", "ghost of a chance").
+track("2nOtncx4oinHw0sePMKlj3", "brandy alexander").
+track("2Q0DLHypI7uHGOs5toKvXh", "poor helpless dreams").
+track("1Wzk0ikAahswHYVoJJ9Opv", "the impossible world").
 track("5vg05YSj8tT559MW8ZOZBR", "hands of time").
 track("555J0iWxhe7gBK6h8DfXHE", "snow angel").
 track("3Si3XFNtE6Z3udk4wrsLXe", "all in good time").
@@ -5373,7 +5373,7 @@ track("1ZEAI3d2SmZlbFxtu5YLWP", "summertime - live").
 track("7JKwboSAWRHJI5U1XGTqS3", "big star - live").
 track("0qzYT1K8c39pM3EqOsRWLn", "boston - live").
 track("5LYPcvkDV0euORWfaRzFoJ", "when i see this bar - live").
-track("5t8UTyE6j6CHeCYinFa2tl", "no problems - live").
+track("5t8UTyE6j6CHeCYinFa2tl", "no shoesno shirtno problems - live").
 track("7KKhDiVlL86jYC3FVLoe54", "anything but mine - live").
 track("4DVbthLuleyZjNac9UxY7I", "guitars and tiki bars - live").
 track("4HvTV32Xu7PIQhiEqcVFii", "hemingway's whiskey - live").
@@ -5437,7 +5437,7 @@ track("60PkDJ37jdYRBzdBJIO6jI", "spirit of a storm").
 track("4a61BWfU2BZrCk7lnmHxKK", "ten with a two").
 track("2OW7KMcLUlU9PwEvX7imqm", "the life").
 track("1Bid9TnBXEf1GE4HwLPtk1", "key’s in the conch shell").
-track("3htkHicKvF932iLt6jfKID", "nowhere to be").
+track("3htkHicKvF932iLt6jfKID", "nowhere to gonowhere to be").
 track("41OvINy2RjLet11iW849vX", "never wanted nothing more").
 track("6reuJxDtjebwc9FB6rNpp0", "don't blink").
 track("1JtYfT7sJF3jojvLo1Vl7c", "shiftwork (with george strait) - duet with george strait").
@@ -5448,7 +5448,7 @@ track("5Wz9a5T5T3JgVDxMpX9BFu", "better as a memory").
 track("1mVOmtEPOeXTxsn6fp0kIb", "dancin' for the groceries").
 track("1kMbWg7kWnsipnDCkpDAEF", "wild ride - featuring joe walsh").
 track("3sZq1WbbTZ2lbFwK9PEKOC", "scare me").
-track("7mhGm8vI8hZnlY2iiMMHl9", "right now").
+track("7mhGm8vI8hZnlY2iiMMHl9", "hereright now").
 track("5UtfyJb1AkClEEgtc6e4oJ", "you got me thinking").
 track("0bX6tkdt64gVXrCH76Q0cE", "only a wave (better days)").
 track("2cvo4JSFZv5kfZH7hK4eaI", "going with you").
@@ -5497,12 +5497,12 @@ track("3rnyi3VuUUEq1DyYYF5Db9", "i'd rather be with you - live").
 track("3hcs9zrATL1yXWLttve1nk", "closer - live").
 track("59zq3Fb0adInrhp5t4zH5Q", "paperweight - live").
 track("0J2waE2nku1Rycc9d6Vobn", "belong - live").
-track("2tzSXLu6rbdiQXT5nT7hT1", "Belong").
+track("2tzSXLu6rbdiQXT5nT7hT1", "belong").
 track("1bzoxgGq763P8VixglARcY", "beautiful day").
-track("4AQpoM5tFcDXVBE6JKZt8W", "In Your Hands").
-track("28ZY1N90OHnlWEqnDPJ1T7", "Another Beginning").
-track("5Wf1NpdgplVXyGXns4mpYH", "Away We Go").
-track("0fmXsUSYXtVqH259YPz8FV", "We'll Keep Running Forever").
+track("4AQpoM5tFcDXVBE6JKZt8W", "in your hands").
+track("28ZY1N90OHnlWEqnDPJ1T7", "another beginning").
+track("5Wf1NpdgplVXyGXns4mpYH", "away we go").
+track("0fmXsUSYXtVqH259YPz8FV", "we'll keep running forever").
 track("4Ua18Ku5Mfpl26cVDwMQYu", "belong").
 track("2ave7WJvsrDGYxtUa0fUJM", "beautiful day").
 track("1gSGDaichkbtiP6AOHV79q", "angels").
@@ -5512,7 +5512,7 @@ track("1RXTBVe4nxRFwK4fLsnRSe", "another beginning").
 track("2ulkUHOq9BANDPBbnNSlkK", "blow away").
 track("01OUvgnlkkfkbFc7Eh2y4C", "away we go").
 track("1cVKF9bzn7DsjXMc1JAqTZ", "worlds apart").
-track("5Mmn9za7EVar9BsyRdISEn", "Beautiful Day").
+track("5Mmn9za7EVar9BsyRdISEn", "beautiful day").
 track("21m6b8tdlV3G6691vytJgX", "when we're together").
 track("4E5b0vgcBI1W83iaImFu7F", "cross that line").
 track("1vAtvZGvuvxDwiu9OeMUMN", "back to where i'm from").
@@ -5843,16 +5843,16 @@ track("3KZkT599v5OS2d2ty6ATMI", "lost in my mind").
 track("2LFgoCoUfmWujDruZ5JeTg", "winter song").
 track("4JLFm3iFUNGERnoVKRE44q", "sounds like hallelujah").
 track("1CcXWQT7uxFrUxx090SENr", "heaven go easy on me").
-track("4gVQhuMf5slH3RiqVZQWkF", "Coeur D'Alene").
-track("1VwJcYyhfIL45OnOwIC1gi", "Down in the Valley").
-track("3GAW5bAjF2kC6eYYDTMZAw", "Honey Come Home").
-track("2tlJNkTb7vkk6pZUkkiSbZ", "Winter Song").
-track("4SFwrhd3EbXlksAq1zCNWd", "Heaven Go Easy on Me").
-track("0NZGkerFgiv2JjkJTJeTLD", "Sticks & Stones").
-track("0Ge59b10tdbD63NBSDwkRX", "'Til Death Do Us Part").
-track("6dMHxNAVbX25y378aYwCI1", "Tomorrow May Never Come").
-track("2D7snYbPsbAIqPMLycnmI0", "New Kings").
-track("5U4uIgrXkgQHCEnpddASvt", "My Soul to Keep").
+track("4gVQhuMf5slH3RiqVZQWkF", "coeur d'alene").
+track("1VwJcYyhfIL45OnOwIC1gi", "down in the valley").
+track("3GAW5bAjF2kC6eYYDTMZAw", "honey come home").
+track("2tlJNkTb7vkk6pZUkkiSbZ", "winter song").
+track("4SFwrhd3EbXlksAq1zCNWd", "heaven go easy on me").
+track("0NZGkerFgiv2JjkJTJeTLD", "sticks & stones").
+track("0Ge59b10tdbD63NBSDwkRX", "'til death do us part").
+track("6dMHxNAVbX25y378aYwCI1", "tomorrow may never come").
+track("2D7snYbPsbAIqPMLycnmI0", "new kings").
+track("5U4uIgrXkgQHCEnpddASvt", "my soul to keep").
 track("2qUyH4PEQ8dB5gLER6IvnY", "the sermon").
 track("1PcKPoB9xjEGDJiOqzHegf", "creatures of the night").
 track("6Lxmhr7PXD9LC9jFxXgZdL", "shake").
@@ -5883,11 +5883,11 @@ track("293WFIEUJNPRaFMVtOOmR4", "dusk til dawn").
 track("5BMi18f9mYymNHbo3XoujA", "keep dreaming").
 track("4zAQVwzjyU2M7rt0C5b91o", "hellbound").
 track("3pUKWmCZWysOcAAV7s5rS7", "going down").
-track("1dr0IakmZ4uzMibsv3Rin3", "Rue Morgue Radio").
-track("4UMQ6x97rltwNj6EQHd9Kq", "Run For Your Life").
-track("1qJqm3zWqLSEQRSdD56nKD", "Take My Hand").
-track("1CZjtXE0obL69E29hCUjR1", "Dearly Departed").
-track("4B6QnxQZlwRhJnFO6r6UWp", "Long Way Down").
+track("1dr0IakmZ4uzMibsv3Rin3", "rue morgue radio").
+track("4UMQ6x97rltwNj6EQHd9Kq", "run for your life").
+track("1qJqm3zWqLSEQRSdD56nKD", "take my hand").
+track("1CZjtXE0obL69E29hCUjR1", "dearly departed").
+track("4B6QnxQZlwRhJnFO6r6UWp", "long way down").
 track("5VJGDhc7JQDdb9ZzJtvW0p", "still a bless me").
 track("7CpHVecrwefeWu9Va7YqtL", "gone too far").
 track("5DJfR65zuPkaRhyA3oAvR5", "she got stoned").
@@ -5979,13 +5979,13 @@ track("1WY91MZiRjzkvCXjdX5ng3", "king kong ii").
 track("43p6sVP0UHJMhnDz5bdpz0", "for the season ii").
 track("7yGaVDRM7HCdHyZWT0xL14", "miss you ii").
 track("3fgNu3x0k5OSn5Lth63mlm", "cosmic radiation ii").
-track("1N5NFGjBbJHN8tLuz5pV50", "bbc2 10pm (rpt) ii").
+track("1N5NFGjBbJHN8tLuz5pV50", "seamless boogie woogiebbc2 10pm (rpt) ii").
 track("23YKqLuDf2Shj9HrJpxhAQ", "see saw ii").
 track("4huY6f2MvDQuYaDL1c5B9Z", "misty ii").
 track("3GYJvnrAdAdNrl3pGJkZTE", "done and dusted ii").
 track("4olvwpuv6WRAx0FsuwlZSp", "misty").
 track("2F90k2IUgnyfwtCVqGjL2w", "see saw").
-track("4EIUjhofg0tsHe9ZSArti4", "bbc2 10pm (rpt)").
+track("4EIUjhofg0tsHe9ZSArti4", "seamless boogie woogiebbc2 10pm (rpt)").
 track("7HpuQ8EqOTDlcSKSi3RBj1", "cosmic radiation").
 track("1gYeYErnxmt17qDZjZfDU3", "miss you").
 track("0EnZcHsY6nyfnZDC17jb8J", "for the season").
@@ -6062,19 +6062,19 @@ track("1xlS90kCn5p1wUcJUf8Bip", "t.k.").
 track("7MhZkJFHPoyO2DgWEb7RW4", "earth angel").
 track("4a46MK2b8SA2GmBfThHnvN", "distortions").
 track("4U9N4HsWqU4JJEP49I2LU0", "hippy death suite").
-track("7rKMXlgVwSGrbWRA2S35Bg", "Elevator Girl").
-track("6VQP6MdDTh6oVkVRnZ8qPx", "↑↓←→BBAB").
-track("0BdQ0yNUAFkx1YTqYeFmzy", "IN THE NAME OF").
-track("1AkgZTsHNnAWn6lC8wjZAY", "BABYMETAL DEATH - Live at Wembley").
-track("6rl6V2HYWlXFpVfOODxoSf", "YAVA! - Live at Wembley").
-track("1RhkBQ9FHPgeQc1vIW3RL7", "Doki Doki ☆ Morning - Live at Wembley").
-track("4yqcGlTuptJtp51Xa3qluh", "Amore - Live at Wembley").
-track("0yWq54585XEIPktyd0WWRQ", "KARATE - Live at Wembley").
-track("3A06o3rV5jyNap0GFuFMUt", "Road of Resistance").
-track("27RT1DvqAhRE1Gx4TT0mmU", "Awadama Fever").
-track("469pOSkezfVmzUil9iK9lm", "Amore").
-track("1EGGbj2RufXUr3kvG3GvmM", "From Dusk Till Dawn").
-track("5AcGRZS8AlhijLiIS94RI8", "Sis. Anger").
+track("7rKMXlgVwSGrbWRA2S35Bg", "elevator girl").
+track("6VQP6MdDTh6oVkVRnZ8qPx", "↑↓←→bbab").
+track("0BdQ0yNUAFkx1YTqYeFmzy", "in the name of").
+track("1AkgZTsHNnAWn6lC8wjZAY", "babymetal death - live at wembley").
+track("6rl6V2HYWlXFpVfOODxoSf", "yava! - live at wembley").
+track("1RhkBQ9FHPgeQc1vIW3RL7", "doki doki ☆ morning - live at wembley").
+track("4yqcGlTuptJtp51Xa3qluh", "amore - live at wembley").
+track("0yWq54585XEIPktyd0WWRQ", "karate - live at wembley").
+track("3A06o3rV5jyNap0GFuFMUt", "road of resistance").
+track("27RT1DvqAhRE1Gx4TT0mmU", "awadama fever").
+track("469pOSkezfVmzUil9iK9lm", "amore").
+track("1EGGbj2RufXUr3kvG3GvmM", "from dusk till dawn").
+track("5AcGRZS8AlhijLiIS94RI8", "sis. anger").
 track("2UrXFZd0CjxWubmcwX2fni", "megitsune - live").
 track("5zXayH9aDuTjLWqHpyfGM7", "doki doki ☆ morning - live").
 track("54T0YqeCtHbjphS2cGkeFA", "gimme chocolate!! - live").
@@ -6085,11 +6085,11 @@ track("6KG6IImQ6wLNlAx6oSaCgs", "rondo of nightmare - live").
 track("2LQDsmWaW2QDta9U2Ow2Qc", "onedari daisakusen - live").
 track("7E7G2aDyhEQBk8OBNgXj7y", "song 4 - live").
 track("3YJ7A9fRuoKIkvqkqUBoR0", "akatsuki - live").
-track("213fcsbfrn69u0vHnrg1Gl", "Megitsune").
-track("3u4LYXov3pkGo92mnQszZu", "Iine!").
-track("6BlngNRIg8dDBsV8SJR5jY", "Doki Doki ☆ Morning").
-track("6oy4D8FANF0pIzaQOLCpik", "Song 4").
-track("5y0vp7AAtdGOiPYN9Z1Xld", "Catch Me If You Can").
+track("213fcsbfrn69u0vHnrg1Gl", "megitsune").
+track("3u4LYXov3pkGo92mnQszZu", "iine!").
+track("6BlngNRIg8dDBsV8SJR5jY", "doki doki ☆ morning").
+track("6oy4D8FANF0pIzaQOLCpik", "song 4").
+track("5y0vp7AAtdGOiPYN9Z1Xld", "catch me if you can").
 track("5IdDrfw01H5oghbN1voJ9c", "メギツネ (live)").
 track("3U6ZrXjuzaPIAOuA11FcWj", "ド・キ・ド・キ☆モーニング (live)").
 track("5W91ep2tcSbxCuNiuEtDGX", "ギミチョコ!! (live)").
@@ -6250,12 +6250,12 @@ track("3cNWfnLjWljdfdnumSXjJk", "isotype").
 track("4qVR1LTpum0dM1XlVjBzBl", "robot man").
 track("58MhBW2iV7WHh9QoPNYjF0", "what have we done").
 track("59gHN8ZpeDAmjmCrje8UD6", "precision & decay").
-track("6UNdU2GD4MlxXWn7hOebjK", "so we close").
+track("6UNdU2GD4MlxXWn7hOebjK", "as we openso we close").
 track("49aDfdDbRgCUS8mseY9yKh", "art eats art").
 track("3reCflqUTNR8t5pLczgSvf", "kiss kiss kiss bang bang bang").
 track("085SgBvA3pUVTsuPBsxIDQ", "one more time").
 track("51NOVAkggOwuJMAljzP5wv", "la mitrailleuse").
-track("255WtnGim7agl3rC09XstX", "parts iiiii & vii - architecture & morality - dazzle ships - live at the royal albert hall").
+track("255WtnGim7agl3rC09XstX", "dazzle shipsparts iiiii & vii - architecture & morality - dazzle ships - live at the royal albert hall").
 track("0s2H8drK0vp2LE1h8PPieJ", "radio prague - architecture & morality - dazzle ships - live at the royal albert hall").
 track("1KU4wYMNYxNbvQ3krghXQk", "abc auto industry - architecture & morality - dazzle ships - live at the royal albert hall").
 track("7JIG8EYtfOJ0y0HKSWIkRP", "international - architecture & morality - dazzle ships - live at the royal albert hall").
@@ -6265,13 +6265,13 @@ track("6P9HBMYZlyAtZJU0CsblKF", "genetic engineering - architecture & morality -
 track("4kvDK5kKH750SwbRE4dF6U", "telegraph - architecture & morality - dazzle ships - live at the royal albert hall").
 track("7vlwAlcwjwftUBZfMtmJ6A", "radio waves - architecture & morality - dazzle ships - live at the royal albert hall").
 track("6F1Yefb7T4yanZOeQxv61x", "time zones - architecture & morality - dazzle ships - live at the royal albert hall").
-track("7BO5CixvXoUa5KalQVM7Qh", "iii & vii - live at the museum of liverpool").
+track("7BO5CixvXoUa5KalQVM7Qh", "dazzle shipspt. iiiii & vii - live at the museum of liverpool").
 track("2Xj2ig7R7e64obCfEVEG2K", "abc auto-industry - live at the museum of liverpool").
 track("1gXYgmMIKfIg84y2admTpp", "sealand - live at the museum of liverpool").
 track("66vjXxHLHLvhARr0eakB2T", "messages - live at the museum of liverpool").
 track("5zxrrd30T0hLkwgDtaeW7R", "radio waves - live at the museum of liverpool").
 track("07S7YplD9u53IfiPbxeRwf", "genetic engineering - live at the museum of liverpool").
-track("39cmiCOWkkzVHzcmAwdH9q", "pt. i - live at the museum of liverpool").
+track("39cmiCOWkkzVHzcmAwdH9q", "history of modernpt. i - live at the museum of liverpool").
 track("52RwAifN2MssXal0s9fnOe", "julia's song - live at the museum of liverpool").
 track("71Cc7g9CIFSkG2G1h5IuMw", "she's leaving - live at the museum of liverpool").
 track("3WKrnuCgG0zbxqSjEuiveu", "souvenir - live at the museum of liverpool").
@@ -6291,21 +6291,21 @@ track("0vtrveT3QefXfCsA6nSqh0", "kissing the machine").
 track("4LgNUrBbPPsJLBZgXhXxK2", "decimal").
 track("6RECgsOsghWBcLAGrDVPL4", "stay with me").
 track("5L4YXslkYWhjrEMfJGyNYj", "dresden").
-track("5uA5NynmN023WRXhaJJTTZ", "pt. ii & iv").
+track("5uA5NynmN023WRXhaJJTTZ", "history of modernpt. ii & iv").
 track("5E5yR5u4yiCmCBST4vZFTA", "new babies; new toys").
 track("0z7BcWpb8uc4SJpamyvPNw", "messages").
 track("0gccTSyI1wvpTvcrq19gW4", "tesla girls").
 track("6aGMr5olGO9HOjCeec0lUF", "bunker soliders").
-track("1NLGQB6b7s1cAtkev2bpDC", "pt. i").
+track("1NLGQB6b7s1cAtkev2bpDC", "history of modernpt. i").
 track("795LbNibO8M25rNtvmN7Go", "(forever) live and die").
 track("6xKEFI66oTuzTSx3EKbYWV", "she's leaving").
 track("433zzaJDaJlp5AW2epjiS3", "souvenir").
 track("2kmC6YphgSgdKug2kstCza", "joan of arc").
-track("5so30aDpCroluhCFFEY8Jw", "pt. i").
-track("4BkbUpBd9PAnXWUoHx7shJ", "pt. ii").
-track("5ZyaPXQzM9zW7JqM2WVAN5", "pt. iii & iv - live version").
-track("62lJt5GsT6u6IL1nPH6Rd4", "pt. i - omd's extended mix").
-track("6gEsaoJorXspo0Fe7Ev8Ud", "pt. i - radio edit").
+track("5so30aDpCroluhCFFEY8Jw", "history of modernpt. i").
+track("4BkbUpBd9PAnXWUoHx7shJ", "history of modernpt. ii").
+track("5ZyaPXQzM9zW7JqM2WVAN5", "history of modernpt. iii & iv - live version").
+track("62lJt5GsT6u6IL1nPH6Rd4", "history of modernpt. i - omd's extended mix").
+track("6gEsaoJorXspo0Fe7Ev8Ud", "history of modernpt. i - radio edit").
 track("3inmogwUJpFmuednz5m3wd", "vcr").
 track("3JNmfMKhGH23xFsI9Xcj3k", "the grand deception").
 track("621TcU9vr61MbDFqnZ8X0x", "drugz").
@@ -6426,7 +6426,7 @@ track("3RFfOozY9CC1eVO6V6G3Ms", "un siglo sin ti - live version").
 track("7tnhzWLVIpiprwknKuADMX", "si no estás - live version").
 track("3M57FqvTuKMOqKjQl08DXW", "caprichosa - live version").
 track("7cmGatpsrcNyKw1LCPKXpN", "tu boca - live version").
-track("59kDhSKkObG32rgHfdc4Lz", "baila - live version").
+track("59kDhSKkObG32rgHfdc4Lz", "bailabaila - live version").
 track("6KqHk7bf4UjnWt8nQW1JKa", "dejaría todo - live version").
 track("054MfwZIH77RfpKvWJdB6N", "salomé - live version").
 track("3UPSQwIlHH1L9fe4YuPp7V", "besos en la boca (beijar na boca) - live version").
@@ -6593,7 +6593,7 @@ track("1hABpCOBd6208sfqPBqgRS", "first of summer").
 track("0m9U9VxtzcZA4NPEm2Fz6O", "when heroes die").
 track("36fbaUEkree2j7ZMt5Uhpr", "reveal the remedy").
 track("6x8y466lHOTjsCic4JxrRw", "the arsonist").
-track("6eKTTkQ2X1hzVPzgSZKX2t", "a silent whisper").
+track("6eKTTkQ2X1hzVPzgSZKX2t", "endlessa silent whisper").
 track("62UCyYuIC8qqN8Penbf4Bl", "safety in numbers").
 track("4ODgeSYC9914u8Lo8mvDio", "a city of sleeping hearts").
 track("7vz80msKcykHUNnkuZoC4m", "柳の都").
@@ -6694,7 +6694,7 @@ track("2MISJ8EIpcM8nN2V2CK2wY", "tu calor").
 track("5gR1hNKjMjJwXNONX38FK8", "ese camino").
 track("2S8ARneqhigYq6SV8Hoegf", "algo sucede").
 track("3lQj9mVGtQ8L9IbQzRpzFI", "una respuesta").
-track("6BsZQbAKqN47ArdrKgxe4W", "desolación").
+track("6BsZQbAKqN47ArdrKgxe4W", "buenas nochesdesolación").
 track("5P9dzJUu1kWSXVQmwkGPdA", "dos soledades").
 track("5Eeb4UxlljtpAOYELr4fd3", "se explicará").
 track("1ZmZoDgkxGmKKsMlHdI9gL", "porvenir").
@@ -6704,7 +6704,7 @@ track("2J4EGFqbwvtMyvNgGhIcVK", "tu calor - track by track commentary").
 track("4ypRDe1c32wJwPK7AIwhBe", "ese camino - track by track commentary").
 track("4ghV89JsSE3bqavcZt5Twk", "algo sucede - track by track commentary").
 track("04xelRaEdHeWE3AvvfJTEg", "una respuesta - track by track commentary").
-track("6i7ldmiqFPVoo2hUuGFbpz", "desolación - track by track commentary").
+track("6i7ldmiqFPVoo2hUuGFbpz", "buenas nochesdesolación - track by track commentary").
 track("5ordHA6U80LssOU7oJABN5", "dos soledades - track by track commentary").
 track("56TTCaxLQp0E7TxxDxTYWY", "se explicará - track by track commentary").
 track("5UfEgfLKhRTFldtJoHnbRa", "porvenir - track by track commentary").
@@ -6907,7 +6907,7 @@ track("1TpxiePLYv2URV4JPjN99r", "kaffecigg").
 track("1BaOKRbE75DBsPitF0gFrv", "din mamma").
 track("2EQLvamleLG2VmdYCDGay3", "växande molnighet").
 track("3CzGiSHUpWd2yCh8rA0aLv", "annie hall").
-track("1hJIruv0lYBcgvPQMWcxIE", "sundbyberg").
+track("1hJIruv0lYBcgvPQMWcxIE", "acksundbyberg").
 track("4aQJOU4vaoPkwGsIEBBGcr", "still echoes").
 track("6y0PbQqNdZ5uxXuFAhDBJD", "erase this").
 track("7LsdvPwmV18qhipmHcRF8A", "512").
@@ -7012,8 +7012,8 @@ track("2JoeEtEeS3TFkVMMBRxJ7K", "michael jackson's money").
 track("0tmwXzwT1vnCtMnRuJAPLP", "keepin' it real").
 track("6cr4zYaXwicSJMLOwNm018", "yolanda adams").
 track("2WA4ZE95dUdBm1vZS1Mij7", "church check in").
-track("1PUnUzNapsTWQC135CZ2Gb", "amen").
-track("3CgApY3N54NS3UjIHsekRQ", "your kids").
+track("1PUnUzNapsTWQC135CZ2Gb", "noamen").
+track("3CgApY3N54NS3UjIHsekRQ", "my kidsyour kids").
 track("2MQDrjY4ctqsJGW6onC0AK", "my autograph").
 track("1H03TPPejSqLLugoLbfh5v", "the neighbor").
 track("1bfcQx98rpPfWyByyrzmGV", "radio show guests").
@@ -7039,7 +7039,7 @@ track("0ksH8twwL6JMpb2oQfwbLN", "willie turner").
 track("1SiV3CLN0xat2pIKXq5mzf", "agora sim - ao vivo").
 track("1lDlugsmgJLXSl12KfRvUB", "de volta pro futuro - ao vivo").
 track("38ZWEXupykXgewIIhhViSA", "felicidade - ao vivo").
-track("4bXUQs1jAtDpz3hr7fAFTK", "meio e fim - ao vivo").
+track("4bXUQs1jAtDpz3hr7fAFTK", "começomeio e fim - ao vivo").
 track("2fdh8wvIh8UQGn6r2JXoWX", "vício - ao vivo").
 track("37YdcAOVrBLVJ0pdpTXNiX", "bem maior (longer) - ao vivo").
 track("3ZBrIsN3sMX4NsrC8cjKUJ", "retratos rasgados - ao vivo").
@@ -7053,7 +7053,7 @@ track("7bweZuNOKCOPi3RAo1xD1u", "volta pra casa").
 track("35Ywc2TJnVe8cMRbZ67HdX", "bicho selvagem").
 track("5rGhJ8ZROswn5cJ57SXahx", "queda de braço").
 track("5FrBMGrKqfBiv9MjovEjIs", "sem tempo a perder (no time)").
-track("5KkIyGvaXapyimJAuZ3N2L", "a praça e outras coisas").
+track("5KkIyGvaXapyimJAuZ3N2L", "a chuvaa praça e outras coisas").
 track("1zA4rcdC9W5RqM3szDCdNY", "vem me descobrir (daydream believer)").
 track("1TFbeAA0BK22v9EBYPMaGJ", "my eyes adored you").
 track("3EBWCvk31rLmpEx7XLyBym", "rádio canções (rainbow)").
@@ -7110,14 +7110,14 @@ track("5pZHPWeayWNuPpw2wPrm1F", "a viagem - ao vivo").
 track("1RcuBeqaMTuvgkTYnd4IY2", "volta pra mim - ao vivo").
 track("1oProDtsareuYJkLRBNJqt", "a força do amor - ao vivo").
 track("3XEIrwPfoVzofqSgN1WfG3", "cantar faz feliz o coração - ao vivo").
-track("1R9Cv9WQ1R12luI3qve3sT", "meio e fim - ao vivo").
+track("1R9Cv9WQ1R12luI3qve3sT", "seguindo no trem azul  anjo  princesa  amar é  amo o silêncio  começomeio e fim - ao vivo").
 track("7cIp91ncZ6bYj3c6l0pA8i", "canção de verão - ao vivo").
 track("31q5aqrrDLCTL7pPYFPyNH", "canção pirata - ao vivo").
 track("6SFdbTuR3yEpm37X3IcX4l", "whisky à go-go").
 track("5KvCe4TdHAlVK0b3x544kp", "chuva de prata").
 track("1pAkj56to7etCk1uU6OmBX", "coração pirata").
 track("29ktGWX7KIQvECPcKDZVMd", "sapato velho").
-track("7zcQi38N5kAkyvskQkr4rs", "meio e fim").
+track("7zcQi38N5kAkyvskQkr4rs", "começomeio e fim").
 track("0ICcZEuZqcVTmZKTtBhCGl", "ibiza dance (meme radio mix)").
 track("5qgdnThKi9lKBAkGNSwF0t", "volta pra mim").
 track("2xQN61WfVbvyKqv3V7ncdt", "linda demais").
@@ -7181,11 +7181,11 @@ track("1nIZgfbFOKyr1OJjjiKDdQ", "si no te conociera (de pocahontas)").
 track("3ZIQmaxBu1lJVDn7yZUkRu", "qué chiquitín").
 track("7xD2NmsBtziCMcBi2qpgF3", "tic tac").
 track("3RgdFC5yb5b3wIely2MVXV", "como una muñeca").
-track("1cj8691S7FJFizq8Jt1Iaw", "ea").
+track("1cj8691S7FJFizq8Jt1Iaw", "nanitaea").
 track("5n1hl6ubjNsoMZKSt5FToD", "duérmete en paz").
 track("0L6qTHmUo6gB6eDGxHgubF", "pequeño bribón").
 track("70de0FDM5NPNlb4agFu8BY", "yo tengo una niñita").
-track("2aGYZh6WMGuIPzwDbTBe5W", "nanita").
+track("2aGYZh6WMGuIPzwDbTBe5W", "a la nanananita").
 track("7Jk9bPp9Hn9UNbGwrRrB0S", "tienes que ser un niño bueno").
 track("3m2aP2trZXyGmnxeVm93ha", "duérmete pequeñito").
 track("7tnNP5Uu0SflbYtRM21A8O", "si no te conociera").
@@ -7361,11 +7361,11 @@ track("18UN3HqJxEef9bsOFsnnzI", "turn the lights down low").
 track("1x2BSUDolUjtWdeXTqikLL", "love beside me").
 track("3HaKJfdo5a3ueTCKE3Fxgm", "brink of destruction").
 track("2IGC46Q7MIrLZMuTeHPg9h", "beautiful girl").
-track("0CGq8CdsKfsIQKT6YiVfSo", "Illusions of Bliss").
-track("5EOX8hTG6bVwfayj5AfrHr", "Changes").
-track("5YceZxMqsFycVqU8Lhc1uo", "Rivers Of Love").
-track("3x5q5Z2RUbsB2bBvQLCfTt", "Out Of Tune").
-track("7DCDh4kw6EY2Ji4CiL32sm", "Don't Give Up On Us").
+track("0CGq8CdsKfsIQKT6YiVfSo", "illusions of bliss").
+track("5EOX8hTG6bVwfayj5AfrHr", "changes").
+track("5YceZxMqsFycVqU8Lhc1uo", "rivers of love").
+track("3x5q5Z2RUbsB2bBvQLCfTt", "out of tune").
+track("7DCDh4kw6EY2Ji4CiL32sm", "don't give up on us").
 track("4zJIr85Jrywz5U4jJR3IZA", "vox").
 track("3cCDsVEUVftzKI1Q2aeI5E", "the path of thorns - terms").
 track("5YQiHYmlYy38xpR7cm90HV", "into the fire").
@@ -7433,7 +7433,7 @@ track("1sHR1oxWuSZKCzellY3mZB", "pae paoe").
 track("4Zzb3SWy520EYTCtgFWKeo", "tibular vader").
 track("0zlnbpWfTjzib2mpRUFyIj", "veronex cypher").
 track("1yLWGbsWX9IANEbGgZNmTL", "magnasushi").
-track("3ZTEgUkVWUhr8ifwrorHL9", "chuma").
+track("3ZTEgUkVWUhr8ifwrorHL9", "ochuma").
 track("1DBO06m1jFH043dv077oKs", "horizophon").
 track("4WA1eVjO1xS603EZrXqkAW", "soleiele").
 track("0fAcrJbWuG5eRntdgal49i", "vm8").
@@ -7535,7 +7535,7 @@ track("5gPJaHmptPHcGwGEhW9z8p", "devil and a .45").
 track("0yAVOS19tvidfuhApdlpbX", "daddy cry").
 track("2xGCYcEpxW1tIrg1gTM2hQ", "today's a good day").
 track("6NsJIkmml0RSZAfkz7Q9KX", "jackie chan").
-track("6bUyNOe3Q8ekK14MsfDMH3", "rude baby").
+track("6bUyNOe3Q8ekK14MsfDMH3", "ruderude baby").
 track("3kHgSbSSd3ZvOowtlFXNEw", "2-tone army").
 track("2MbDcRmQ2IXg1DfSSNBGr5", "talk is cheap").
 track("6of9hiIaC0sy5OkZpMntQX", "friends").
@@ -7570,11 +7570,11 @@ track("43IcfOedqzlZZg3YhvalL3", "angels - elements live in concert").
 track("6mgF7uFGvWZMpvHcpiU1VR", "sanctuary intro - elements live in concert").
 track("2mlvD0bGHB9yxlenGfgpbY", "the last dance - elements live in concert").
 track("2LvU1sXOwDowNZp1t72e4l", "say my name - elements live in concert").
-track("0Ysxfoz7FUup0bjnArJQ90", "In The Middle Of The Night - Elements Live In Concert").
-track("6T9s8mosRYpMWF15DOYnRu", "Fire And Ice - Elements Live In Concert").
-track("3UUI1zMevrGVv6zBL0TCN2", "Stand My Ground - Elements Live In Concert").
-track("4TY2kTtIpiwgXvFKiBG5oK", "Sanctuary Intro - Elements Live In Concert").
-track("6b33DZpLoTGVZQv772u1Bx", "Say My Name - Elements Live In Concert").
+track("0Ysxfoz7FUup0bjnArJQ90", "in the middle of the night - elements live in concert").
+track("6T9s8mosRYpMWF15DOYnRu", "fire and ice - elements live in concert").
+track("3UUI1zMevrGVv6zBL0TCN2", "stand my ground - elements live in concert").
+track("4TY2kTtIpiwgXvFKiBG5oK", "sanctuary intro - elements live in concert").
+track("6b33DZpLoTGVZQv772u1Bx", "say my name - elements live in concert").
 track("7joA6ptowEk0u2EqP5rQKE", "iron - live 2012").
 track("2PxeOLnhVHcyqSeSNV4gQ7", "in the middle of the night - live 2012").
 track("0kP2eBh8KDIAg6oXQHIBtW", "faster - live 2012").
@@ -8028,26 +8028,26 @@ track("7qbnjttz6hJCXvE2Nks5xn", "chapter 19 - portrait version").
 track("69JGqzoSygR7KqOaK28UQ4", "rue des cascades - portrait version").
 track("4ixkUQZlEDfCyMK6RxyxE4", "the old man still wants it - portrait version").
 track("4zK1NSHWYHx2NraMbrXEHg", "porz goret - portrait version").
-track("6CsW42pYJTXZJbExLy4pGB", "Koad").
-track("1JON4JW4SETydFWtK28Gr1", "Usal Road").
-track("3OGRimD2G9fXKmzUwf3obU", "Bloavezhioù").
-track("2oAT0BkeMiL0zqy2zqBYBv", "Gwennilied").
-track("2YrposUE6bdI61fo8aULUn", "Prad").
-track("0m9nXEua3q3WPh8fQ1GzaW", "Pern").
-track("04gk89Ml90KQwgI4Exn0xY", "Porz Goret").
-track("4dxdWA2UItOh3GvaXrHrds", "Hent III").
-track("0vOh1IAgc2Gvlb6GeAx9HP", "Hent IV").
-track("6dpc7feQF1kidaGqQULh65", "Hent V").
-track("4zFM5O5vXiANuaMatLwlib", "pt. 1").
+track("6CsW42pYJTXZJbExLy4pGB", "koad").
+track("1JON4JW4SETydFWtK28Gr1", "usal road").
+track("3OGRimD2G9fXKmzUwf3obU", "bloavezhioù").
+track("2oAT0BkeMiL0zqy2zqBYBv", "gwennilied").
+track("2YrposUE6bdI61fo8aULUn", "prad").
+track("0m9nXEua3q3WPh8fQ1GzaW", "pern").
+track("04gk89Ml90KQwgI4Exn0xY", "porz goret").
+track("4dxdWA2UItOh3GvaXrHrds", "hent iii").
+track("0vOh1IAgc2Gvlb6GeAx9HP", "hent iv").
+track("6dpc7feQF1kidaGqQULh65", "hent v").
+track("4zFM5O5vXiANuaMatLwlib", "hurricanept. 1").
 track("02OPG8stdZCZjRMp9VMWoa", "porz goret").
 track("7pi7ycYk31hbNR7tYDvD5R", "storm eye").
-track("34q8tr766WErnpl2lNIO7n", "pt. 2").
-track("66Uu5OvXeJxQcYw4GdZlqs", "pt. 1").
-track("0hK9yIESPhMAGL8gkPTTKb", "pt. 3").
+track("34q8tr766WErnpl2lNIO7n", "hurricanept. 2").
+track("66Uu5OvXeJxQcYw4GdZlqs", "slippery stonespt. 1").
+track("0hK9yIESPhMAGL8gkPTTKb", "hurricanept. 3").
 track("6F79S0g3SO0wzPyhsPKrFM", "forest").
 track("5CWPR1UjKQceogSgqwN4uW", "cloud").
 track("0oFMqPpt8397Aa5ZGrSAvW", "shrimp").
-track("7qPQT213QZWtyyMz1Wuvu3", "pt. 2").
+track("7qPQT213QZWtyyMz1Wuvu3", "slippery stonespt. 2").
 track("7AVFs95dtTSef2NxKauqpc", "∞").
 track("0dYh895xBJDW7JiBGjoLVY", "slippery stones").
 track("7d2ILXxjhW8P2EqjDAh2ct", "a midsummer evening").
@@ -8142,7 +8142,7 @@ track("7N3rPMZkh7hPrTna8WA3hK", "me & mrs. jones").
 track("265S0aZUrXG86qbdGSQ621", "star time").
 track("4Pf8V2TRi9hbTHBrgXtP7b", "mr. pitiful").
 track("10e55WnDasfX7uzHYAAn6I", "heaven must be missing an angel").
-track("3dBpIWwXE542E2warqIHgf", "sweet baby)").
+track("3dBpIWwXE542E2warqIHgf", "since you've been gone (babybabysweet baby)").
 track("4chsPXO6cQMcqbHIhfrjlL", "(heaven must have sent) your precious love").
 track("4509UYi1KTZJaUFgFQ5h6U", "check it out (instrumental)").
 track("4E7bY5VQJWw9sOgLdGOXgq", "what is hip?").
@@ -8290,7 +8290,7 @@ track("1tC8OXHo0nSnRxyxYOeFCm", "sonuva").
 track("4EB1G9HhHAZMBKteWDvgXk", "camouflage 94-99").
 track("5jWYST4Ty8RHBdTEggh1NL", "family").
 track("2HE6gheIQB7srqkBFC2USA", "one wish").
-track("5edgxcu4czd26tMreIZYK9", "and the light").
+track("5edgxcu4czd26tMreIZYK9", "the truththe wayand the light").
 track("0CQJ1aRpzqEke5HjUmMFtu", "tennessee").
 track("6jraGqv3EThWvg9QGF38vV", "the window").
 track("0A7RTV8KJRkAaawV83TgYI", "beautiful").
@@ -8302,7 +8302,7 @@ track("364tMI34Kr7hOO33b9kp7s", "one in a million").
 track("0CYMCmRCE0caEXSNjIRrJY", "for your precious love").
 track("2w34jUMYWHYTCrhrk8Zur8", "ain't too proud to beg").
 track("3bLgq0Uz7USJVTQLGE7OJ5", "love ballad").
-track("74jZof5tkgYWPBYvYonsHq", "baby").
+track("74jZof5tkgYWPBYvYonsHq", "ooh babybaby").
 track("4PMYFwe1bbAVogIE5Wh5Zh", "are you gonna break your promise").
 track("7tJByjQvoSyYw2wbDnE3MA", "you make me feel brand new").
 track("0PBPQiTe7WV3A37GO1SqQr", "treat her like a lady").
@@ -8681,7 +8681,7 @@ track("70GyjQ9zNbrxRLZFChdgJL", "better man - live").
 track("7cqIoasBFS2va1B1GOcPr9", "elderly woman behind the counter in a small town - live").
 track("64MwuXv0kokoVgAj8ACte5", "last exit - live").
 track("0Fx0IjaERpkG4RwxsKcoIc", "lightning bolt - live").
-track("2bzyMUu3HM4rHu6DEFXkR6", "yellow - live").
+track("2bzyMUu3HM4rHu6DEFXkR6", "blackredyellow - live").
 track("79wSLcuIkKe9kq00NqFSvz", "black - live").
 track("3D83cZrWsr3HUHUsqRyIQi", "corduroy - live").
 track("0N0xjeADHHX0UPioLnbvRI", "given to fly - live").
@@ -8816,7 +8816,7 @@ track("1BJj5bOpAZW0u19zLVR9WW", "the professor’s portrait").
 track("38UyYzKeC5UvWbBdfh35DK", "the interrogation").
 track("6XqOQXte8sRP1RFiE3IMOz", "to belong").
 track("54VA8IDrTTPng7EGGqAPCo", "1951").
-track("1yoFf5ZptWIGZREozzwgGE", "your sword").
+track("1yoFf5ZptWIGZREozzwgGE", "your penyour sword").
 track("0RYvm6Wf0Z82UuH28lyV5J", "the mind’s eye").
 track("5t8oIK0B2XPSK9coKb5Tgd", "kurt & elisabeth").
 track("54n00uH2n18VY2rifOfu70", "enemy lines").
@@ -8826,7 +8826,7 @@ track("6CkLZvLTMoebLRTqNx8P6d", "the professor’s portrait").
 track("4vh0InZ04V6FFpaSMMXo8h", "the interrogation").
 track("2TdFwM3QylcPdM2raAI4BJ", "to belong").
 track("4kLGItUtUi115PsFThRLiz", "1951").
-track("1mJBoS9RTVmhk0l95Xoimo", "your sword").
+track("1mJBoS9RTVmhk0l95Xoimo", "your penyour sword").
 track("6yWLXmK1YaUaQMugzhyhJc", "peyote").
 track("7fkRofwWcImujXdqaotyeZ", "chasing the wild").
 track("1DehtVbbTjUQjxGaXd5PnH", "drifter").
@@ -8955,7 +8955,7 @@ track("39Q20GZHKK0IK8oKkhfxiJ", "one last song").
 track("6hPFEpT7bVguj9aCFLOmiz", "midnight train").
 track("7FyhrRNRJOZSM8IeuAx7su", "burning").
 track("0TdKJnJqeONlGZpfI1Wn93", "him").
-track("7HwcH5CiJzuUzspuOqOJQa", "you make me crazy").
+track("7HwcH5CiJzuUzspuOqOJQa", "babyyou make me crazy").
 track("5UFvcTCbp9P057YbRNsJ3U", "palace").
 track("59ljpSFcgtfWJKS3vqG27R", "pray").
 track("42B0BxAvZEqfrUIoP9HSJe", "money on my mind").
@@ -9100,18 +9100,18 @@ track("7qVZWSn4bevO3FVc2iD73x", "light rain").
 track("40yKKkS6Gmp16aiQAmx2J8", "tak 1").
 track("0fvp8MRqXHcfckjnzcIWFo", "new family").
 track("15Z0RFhCi9HPlq7wvEv2wE", "zala").
-track("0ivstQt2TxJqyRZKSmmqrk", "venezianisches gondellied (venetian gondola song)").
-track("2WkiwVw5juXaSLvr9Ertun", "spinnerlied").
-track("09DIiaN7HRFZnSbkcAkmjI", "no. 4").
-track("5WYqjZZI9UMYbCo0PIHePi", "venezianisches gondellied").
-track("2q6Qnt4kOF2xpztNLUPI00", "reiterlied (horseman's song)").
-track("5T7tOWss4PSOqBk3ED0rZn", "vokslied").
-track("5BCAOmdNwiY7843wmFVSyS", "venezianishes gondellied").
-track("1ClxR4SYcGQNJNx4LE1nIl", "no. 2").
-track("18z4dDlT3Tk6fOndGIx8Dr", "op. 85: no. 4. andante sostenuto in d major").
-track("07ETfAxMOA3FdtsuZlSq2V", "k. 331: iii. rondo alla turca").
-track("7zxMBTjs3nvoxveypszEfA", "k. 540").
-track("3vG0xVpk5PxVYosLNwuyQR", "cradle song").
+track("0ivstQt2TxJqyRZKSmmqrk", "lieder ohne worte (song without words) no. 6 in g minorop. 19no. 6venezianisches gondellied (venetian gondola song)").
+track("2WkiwVw5juXaSLvr9Ertun", "lieder ohne worte (song without words)book 6op. 67: no. 34 in c majorop. 67no. 4spinnerlied").
+track("09DIiaN7HRFZnSbkcAkmjI", "lieder ohne worte (songs without words)book 2op. 30: no. 10 in b minorop. 30no. 4").
+track("5WYqjZZI9UMYbCo0PIHePi", "lieder ohne worte (songs without words)book 2op. 30: no. 12 in f-sharp minorop. 30no. 6venezianisches gondellied").
+track("2q6Qnt4kOF2xpztNLUPI00", "lied ohne worte (song without words) in d minormwv u187reiterlied (horseman's song): lieder ohne worte (song without words) in d minorreiterlied (horseman's song)").
+track("5T7tOWss4PSOqBk3ED0rZn", "lieder ohne worte (song without words) book 4op. 53: no. 23 in a minorop. 53no. 5vokslied").
+track("5BCAOmdNwiY7843wmFVSyS", "lied ohne worte (song without words)op. 62mwv sd 29: lieder ohne worte (song without words)book 5op. 62: no. 29 in a minorop. 62no. 5venezianishes gondellied").
+track("1ClxR4SYcGQNJNx4LE1nIl", "lieder ohne worte (songs without words)book 4op. 53: no. 20 in e-flat majorop. 53no. 2").
+track("18z4dDlT3Tk6fOndGIx8Dr", "lieder ohne worte (songs without words)book 7op. 85: no. 4. andante sostenuto in d major").
+track("07ETfAxMOA3FdtsuZlSq2V", "piano sonata no. 11 in a majork. 331: iii. rondo alla turca").
+track("7zxMBTjs3nvoxveypszEfA", "adagio in b minork. 540").
+track("3vG0xVpk5PxVYosLNwuyQR", "lieder ohne wortebook 6op. 67: songs without wordsno. 36cradle song").
 track("2Sn5x4v8dXFLrw91RPC20u", "esclavo de tu amor").
 track("2Oeu9Qz2fRSgtKohOvGgEP", "solo otra vez - alone again").
 track("1ZlLUtSZtC3ICA7TU9GelI", "puro teatro").
@@ -9199,7 +9199,7 @@ track("1tpkN6z0Zd3wphAd3DASDX", "the end of love").
 track("47a7Hn4fFE4mHgVJF19CO1", "no choir").
 track("6CtnrcBHoK6Xf5rHUf0vbZ", "ship to wreck").
 track("2ZE1EiHnmtdiv9KAJTGeRq", "what kind of man").
-track("7GlwvJ8iAbCEfZjGq3iwmZ", "how beautiful").
+track("7GlwvJ8iAbCEfZjGq3iwmZ", "how bighow bluehow beautiful").
 track("4ZkGNzavB3e5mPpEP8HUjB", "queen of peace").
 track("5ZEAEazgJGdIMSz55qOORv", "various storms & saints").
 track("3o9qzsqkT0mvfxcusUaXsN", "delilah").
@@ -9209,7 +9209,7 @@ track("1gBnTCV0hZheP3XWGRo085", "third eye").
 track("61cqRRPu5UNnh5ki7d2QsO", "st jude").
 track("20NEld0MhrR4Zpgrf9brq8", "ship to wreck").
 track("1w9ta1CvXlJPRXh6Py2Mto", "what kind of man").
-track("27SNkJMYnWLLYhg5ak6tkJ", "how beautiful").
+track("27SNkJMYnWLLYhg5ak6tkJ", "how bighow bluehow beautiful").
 track("0z7xzF4dilCewzdLWvbhaE", "queen of peace").
 track("0GtP3Ts6YWVmAOKH0a1WDy", "various storms & saints").
 track("0fgSfUAnuJzzB8l8MdgRZg", "delilah").
@@ -9224,31 +9224,31 @@ track("3uksbbXl031KzSj2eo7l8t", "heartlines - live at effenaar").
 track("1NcMinYiypDDEttSawBHvW", "shake it out - live at effenaar").
 track("756T8YrGGpDeVNQ5nCEnVp", "dog days are over - live at effenaar").
 track("3iMotOSYCBDWGIvaep4Cug", "rabbit heart (raise it up) - live at effenaar").
-track("6RDERfNT4StLy7zEuIxDEK", "2012").
-track("7d5o0Cytqaxp8mWMH3NaEY", "2012").
-track("5tbLCQKbkFn9S1KtOFulDA", "2012").
-track("5jCkmO0DhBFY15nGgBDjl9", "2012").
-track("3JIKoXtJ0S032fWivBCa3z", "2012").
-track("3i7VvUyC0AtTph1AhPTouM", "2012").
-track("2qohB30QIv5R9QTna1HOT4", "2012").
-track("013IZaIJkwK2tdZMN8aV4d", "2012").
-track("4OwIS0v8nbdzV1rXF0GZ0h", "2012").
-track("6E70QCHmes058lOKeX7ZkQ", "2012").
-track("052DxKQ9VcgYfFS6CRUosf", "2012").
-track("6MpH6LDH6quGaFqekA4GLZ", "2012").
-track("1ajizg9ZxH6gwfBc8gw4Nj", "2012").
-track("7viVy4Pzl3vbISTFT0Y7BJ", "2012").
-track("72tdmZVjJlUfFEwd2UDcl8", "2012").
-track("7BFab72CNred3EUfqXn3WA", "2012").
-track("7p6nIrt16grZxpnaAfVMoy", "2012").
-track("1EWMC52f81plzO8HIHlO8q", "2012").
+track("6RDERfNT4StLy7zEuIxDEK", "only if for a night - mtv unplugged2012").
+track("7d5o0Cytqaxp8mWMH3NaEY", "drumming song - mtv unplugged2012").
+track("5tbLCQKbkFn9S1KtOFulDA", "cosmic love - mtv unplugged2012").
+track("5jCkmO0DhBFY15nGgBDjl9", "breaking down - mtv unplugged2012").
+track("3JIKoXtJ0S032fWivBCa3z", "never let me go - mtv unplugged2012").
+track("3i7VvUyC0AtTph1AhPTouM", "try a little tenderness - mtv unplugged2012").
+track("2qohB30QIv5R9QTna1HOT4", "no lightno light - mtv unplugged2012").
+track("013IZaIJkwK2tdZMN8aV4d", "what the water gave me - mtv unplugged2012").
+track("4OwIS0v8nbdzV1rXF0GZ0h", "dog days are over - mtv unplugged2012").
+track("6E70QCHmes058lOKeX7ZkQ", "only if for a night - mtv unplugged2012").
+track("052DxKQ9VcgYfFS6CRUosf", "drumming song - mtv unplugged2012").
+track("6MpH6LDH6quGaFqekA4GLZ", "cosmic love - mtv unplugged2012").
+track("1ajizg9ZxH6gwfBc8gw4Nj", "breaking down - mtv unplugged2012").
+track("7viVy4Pzl3vbISTFT0Y7BJ", "never let me go - mtv unplugged2012").
+track("72tdmZVjJlUfFEwd2UDcl8", "try a little tenderness - mtv unplugged2012").
+track("7BFab72CNred3EUfqXn3WA", "no lightno light - mtv unplugged2012").
+track("7p6nIrt16grZxpnaAfVMoy", "what the water gave me - mtv unplugged2012").
+track("1EWMC52f81plzO8HIHlO8q", "dog days are over - mtv unplugged2012").
 track("4i35y8cPIuevtmka8o1NGm", "only if for a night").
 track("5OGAgTeE2lvBR7HIhtP83f", "shake it out").
 track("2MgY0umzrjjm9R1xZBzEz0", "what the water gave me").
 track("0PvCCGebAPaQ0zasowbLk8", "never let me go").
 track("6nqFyRfArScWMxSx7YxmOl", "breaking down").
 track("7tGd7UwQqftAyovVw4s6gl", "lover to lover").
-track("32zpA0IdpSJhGMfglmn6vu", "no light").
+track("32zpA0IdpSJhGMfglmn6vu", "no lightno light").
 track("0YCWM1wcjtgs8wENmpDG1B", "seven devils").
 track("5V5OAiI8IiCrjgObgtPRfs", "heartlines").
 track("2lFazbg95mLdQoDj3jTmDZ", "spectrum").
@@ -9258,7 +9258,7 @@ track("2QcK7U4m9RQpR5eTmVoW5N", "what the water gave me").
 track("0uLoaE6lsP2bwYd256314b", "never let me go").
 track("2Agg2uDrEIWnld6eoRW4Mj", "breaking down").
 track("67n9AFObbODrkuYgvWrAcQ", "lover to lover").
-track("6IfMKPhf1Qo8IZib5jOhWt", "no light").
+track("6IfMKPhf1Qo8IZib5jOhWt", "no lightno light").
 track("4mSRaHyKjUHz4Uh1yUb2qj", "seven devils").
 track("14tzFnMLaw3EPaZIoZvs9p", "heartlines").
 track("3oAJPaILCEZtMCVkVgiPC5", "spectrum").
@@ -9268,7 +9268,7 @@ track("10H6mvk1cPPTzs3IHsHSHi", "what the water gave me").
 track("3HNTLCpAGnizbyJmk7466r", "never let me go").
 track("7H9odSOKHE0rgo41FXobbd", "breaking down").
 track("0qo1zQwzw9tjHJDLkX4Aak", "lover to lover").
-track("0Y68ITZG1KQigFVAAn7AON", "no light").
+track("0Y68ITZG1KQigFVAAn7AON", "no lightno light").
 track("6NmEbJz0hXsoe5mogu23it", "seven devils").
 track("7fTqmkB0NuWJfOhZnrJSJg", "heartlines").
 track("7efTNoBgYZ3IsB8wpP1f7R", "spectrum").
@@ -9466,7 +9466,7 @@ track("067c8VTZUITWxzVgdm8lLw", "flicks tonight").
 track("11EXxh0p67OuFC9nJUtLCH", "fading tonight").
 track("5scGXaFA6FSVK4FL6g1XuE", "sky as dark").
 track("0rxAksvoninWmy4lU3hY5F", "sky was dark").
-track("6UNC8MPdiZGnEi4BDNu12j", "clap").
+track("6UNC8MPdiZGnEi4BDNu12j", "laughsingclap").
 track("7ubrKi86YUX27fQBmBpQro", "star appears").
 track("6xOrovr5qwZB83gMVOiGnJ", "my alone again").
 track("08CcB6M9ZlIqjMEurL7UOH", "dusk of love").
@@ -9599,8 +9599,8 @@ track("5ami95W9OOWQPwrBb5tud5", "watercolour - full version (single)").
 track("5E1UIRcuHd7Rr7PYbQSEOu", "set me on fire").
 track("6hzwfFKrTabeUsW5SWti17", "crush").
 track("5AhJXm6nrCNDjVphyBUeLH", "under the waves").
-track("1Thv8uCYzyOFC7PME9J936", "pt. i (dawn)").
-track("26s79pNvksAh8tlEembKm3", "pt. ii (dusk)").
+track("1Thv8uCYzyOFC7PME9J936", "the island -pt. i (dawn)").
+track("26s79pNvksAh8tlEembKm3", "the island -pt. ii (dusk)").
 track("2ZIJUwprFZrAaZCRKYfAno", "comprachicos").
 track("2MIDzBpm8D09sFNbWEnUni", "intro live at brixton academy").
 track("7kdkb1bqvbyE4pAID9hDZZ", "showdown live at brixton academy").
@@ -9701,7 +9701,7 @@ track("4Z0iqg7sCzbj5CXidJWU7l", "† river †").
 track("2fm28ez6O3nndLQ881JCLj", "swan song").
 track("6HV4CxCU2wSsBvRO1xRq6u", "caladan").
 track("095ZQYDDcEW3gHBE5rg4LE", "sardaukar levenbrech").
-track("6ybzjq0j4d8TRYlqXjyaSY", "face dancer").
+track("6ybzjq0j4d8TRYlqXjyaSY", "zoalface dancer").
 track("47iQwtwCY9hrj7gCeO70s5", "rosa").
 track("4Pgm02HcsZPOZXlAgCFUQT", "avi").
 track("2wAPq1Oh68CeNI0E6LcvlD", "feyd rautha dark heart").
@@ -9790,7 +9790,7 @@ track("26XkeGZ9LKWkk64BYYK2zw", "where you get love - edit").
 track("3cx84pp1IfW8N5nmDzHiBb", "someone to pull the trigger").
 track("3LcUpoElWYKEykzmwADv2A", "if time permits").
 track("5Q5Ighv5nnKEPsuxPBKP12", "behind the smile").
-track("6yPWgwPtgJ6WINqhArehmK", "oldendaze!").
+track("6yPWgwPtgJ6WINqhArehmK", "oholdendaze!").
 track("7E7j0h9wVXL2bj80cGGUjR", "ivory tower").
 track("4wTpBRy4RbpNGMH0SyETQI", "she walks the night").
 track("28N5iZ57oZ9fwnMZJRxjPn", "when love lets go i'm falling").
@@ -9862,11 +9862,11 @@ track("4eQWBBbpWwsbwwWa30eRWu", "no tears to cry").
 track("00Wr5EEgdK6aKSV4IC4tIw", "sexy eyes").
 track("2LNfRZAsjGF5daJM8ol1XO", "givin' all my love").
 track("2aMbVIvR6xXLZaby61lu5l", "out of sight").
-track("07RBylBVoDc4GCVWpSCpKX", "Another Day").
-track("4e243VKhlrQDMvpGTMFmS1", "Was a time").
-track("4jKXi4ekJJCHcfWpjLOiBQ", "Saturday Night").
-track("20OnO99ykDCRJawrVdUjwq", "Gotta Getcha").
-track("0a3y4GEWYCzaSJoYMJCVlJ", "Sexy Eyes").
+track("07RBylBVoDc4GCVWpSCpKX", "another day").
+track("4e243VKhlrQDMvpGTMFmS1", "was a time").
+track("4jKXi4ekJJCHcfWpjLOiBQ", "saturday night").
+track("20OnO99ykDCRJawrVdUjwq", "gotta getcha").
+track("0a3y4GEWYCzaSJoYMJCVlJ", "sexy eyes").
 track("1lnDgIw1LKxfZ7n2q4CFXA", "think of you").
 track("5DEPY5AirmFqVCJEvgWUNE", "gotta getcha - original").
 track("7zYKjc2TlLgHnk5vjqkykI", "amazing and beautiful - original").
@@ -9941,7 +9941,7 @@ track("049wex7bsaDrf0Ach90yUJ", "fleeing from kijimi").
 track("0GEj9A9hoMo4f96hAXqAbI", "we go together").
 track("1RAIbSaaHCerFec4ZrHwzw", "join me").
 track("6xMq5ZlaeXhQgeEMf0PW82", "descargas (feat. jesus alejandro el niño perez)").
-track("5O6d8gLIHNHEBdHJmT2rYg", "you to me are everything (medley )").
+track("5O6d8gLIHNHEBdHJmT2rYg", "esperando primaverayou to me are everything (medley )").
 track("3VFOVOBCeexkQa0fdYmt1B", "la fiesta de mi compadre").
 track("2glvfQfljNMO7XMGuo27ei", "vivo por tu amor").
 track("03yW9sicbDc8VqanWTPsmH", "estoy perdido").
@@ -10109,7 +10109,7 @@ track("2MAAQJtMrAk4bYwNlAwL9B", "olhar aflito - ao vivo").
 track("70C41JyBymESUPFRhRIUSJ", "anjo - ao vivo").
 track("68DZGr1DVXQco6asleQzqT", "volta - ao vivo").
 track("2jeVHWWxaeFTN8duCbeITG", "um homem que seja só meu - ao vivo").
-track("4ZpHxwRsLHF2ATsOLtQdVs", "pelo não - ao vivo").
+track("4ZpHxwRsLHF2ATsOLtQdVs", "pelo simpelo não - ao vivo").
 track("0xYI1p0gx7O4rPlVB7j5BV", "caminho do prazer - ao vivo").
 track("1U3bDmYLCI4HRiO8PlXRUq", "インパルス").
 track("58NMuI9VXzL9c6PhVI0D6I", "デスヴァリュエーション").
@@ -10173,10 +10173,10 @@ track("7KUc9SssnOCl8suTnsNAit", "the golden vanity(live)").
 track("26qavgFQ2M4M4pvnyHrLzu", "wind and rain(live)").
 track("0zpjOA6VNl3qklFnyOcBQV", "undone in sorrow").
 track("1e7xM2CrJSIFPP5e3eXIGi", "the absentee").
-track("5r9bbxAHDasIDyGyMbVovx", "captain").
+track("5r9bbxAHDasIDyGyMbVovx", "captaincaptain").
 track("5qRoBLbFmwK1aZqN9il8Wu", "tell her to come back home").
 track("5KGOpZ084HFs0lXYQWiGr4", "low down and dirty").
-track("6RrL5sxRQliVyZ9NyfBYF9", "agamemnon").
+track("6RrL5sxRQliVyZ9NyfBYF9", "ohagamemnon").
 track("3WPkkP5y12ILmLVKrM8MPT", "pharaoh").
 track("2xBfyHi5hjaZ77LsX6XmYC", "florence").
 track("6fnWBpIvLeIb7QKI5gqUGp", "did you sleep well?").
@@ -10283,7 +10283,7 @@ track("28dcUzZuXCP6KD6AtD1QE8", "iska").
 track("1U9BRgMB6hWlBWMV6pOSWv", "wind").
 track("7q3e78Qfndgl3kkHIPGFjt", "storm").
 track("5FEyH0dO1Y5vaCvk3hPaK1", "calm").
-track("04HPFobkuaL8brw0LcCmFQ", "emptiness)").
+track("04HPFobkuaL8brw0LcCmFQ", "de pois do amoro vazio (after loveemptiness)").
 track("7eMrSOK1gS2TwzI5ND4aEQ", "joy").
 track("6dL73JUZw1d2YS9b3vSe55", "orbits - live in europe2011").
 track("6xbICv6CA5s3WM5NiRh6CR", "starry night - live in europe2011").
@@ -10476,11 +10476,11 @@ track("4mgj4czwvkvRyuTD7Fyy0l", "stay close").
 track("1bGtssyUuyKCbSEt23Zke9", "change").
 track("0fnwkQrgavFSaGZaCmjqsY", "ezra").
 track("1J3A9VehYCHLqMezcKxkW1", "more than you thought").
-track("3fNKL3sr1r73TK9o7upMBa", "One Thing").
-track("6l2RWoJgGN6KDk54GJAewE", "There She Goes").
-track("07rnANkHgtnVGzjJ8wEnV5", "Eyes On Me").
-track("3nCKYjm90gnqCCUKh0wqrI", "Footprints").
-track("77tEJfvWQfMtXA4sPKtwXX", "Too Young to Pray").
+track("3fNKL3sr1r73TK9o7upMBa", "one thing").
+track("6l2RWoJgGN6KDk54GJAewE", "there she goes").
+track("07rnANkHgtnVGzjJ8wEnV5", "eyes on me").
+track("3nCKYjm90gnqCCUKh0wqrI", "footprints").
+track("77tEJfvWQfMtXA4sPKtwXX", "too young to pray").
 track("309HLqFWWxQv0CXMfrLghS", "celebration #1").
 track("4IZwJtljzXP8PrAGerntx0", "power child").
 track("11V92gxnJcPnL02Eq9ASnJ", "rightwrong").
@@ -10517,16 +10517,16 @@ track("4EdEfctYMuqrVpKvNKjR6v", "all on me").
 track("6uGFfimHmLz3CpXz4UjuJB", "say yes!").
 track("6CHTtgYpDYbXciYClpdCrs", "stop").
 track("4qXbjx12n0C0mN7w8MBheC", "september 14th").
-track("0n8rmcrPWKPW0ojLUM45eV", "ca)").
-track("7AHchyvDMNzLbgMTxaFW7F", "ga)").
-track("7nufd7YGRXXO9h3Ypgefid", "ca)").
-track("0TgqnXbl9q5yJ4nxVXiNwH", "on)").
-track("2HVOigjiTbed3DhkwUuCU3", "ga)").
-track("18HzLrIznybNx1fmYar18u", "fl)").
-track("3Xf96NeWwNCBBoxibN7i4U", "tx)").
-track("1Qh7wJcQ9WlRJjHt1OdJTh", "az)").
-track("0sLGr4eWzO2EtjbmM5iIlV", "qc)").
-track("1zFCRTAcyWbj6hYRkZV3Hx", "la)").
+track("0n8rmcrPWKPW0ojLUM45eV", "smashed into pieces (live in anaheimca)").
+track("7AHchyvDMNzLbgMTxaFW7F", "red light pledge (live in atlantaga)").
+track("7nufd7YGRXXO9h3Ypgefid", "giving up (live in los angelesca)").
+track("0TgqnXbl9q5yJ4nxVXiNwH", "november (live in londonon)").
+track("2HVOigjiTbed3DhkwUuCU3", "last days of summer (live in atlantaga)").
+track("18HzLrIznybNx1fmYar18u", "bleeds no more (live in orlandofl)").
+track("3Xf96NeWwNCBBoxibN7i4U", "hear me out (live in dallastx)").
+track("1Qh7wJcQ9WlRJjHt1OdJTh", "the weak and the wounded (live in phoenixaz)").
+track("0sLGr4eWzO2EtjbmM5iIlV", "wish i could forget you (live in montrealqc)").
+track("1zFCRTAcyWbj6hYRkZV3Hx", "when broken is easily fixed (live in new orleansla)").
 track("78koTLpNZKZjz5Nikq4oIq", "smashed into pieces").
 track("2ijLauuGC0MIFa5pzEO3zX", "smile in your sleep").
 track("1LnyvcpQlJRmoWB5bQf3l2", "american dream").
@@ -10547,26 +10547,26 @@ track("63uomu80LBSXc1xEzOdVnC", "demons").
 track("4VKN3lBovrmKK7nWP4xknO", "the afterglow").
 track("3qKbOFVpM8x3XpyYnnMawN", "cut and run").
 track("2He1bQ5SaGnl7jww63ozyw", "secret's safe").
-track("7JTrvTPwR1yNKHPfkF3Zh0", "On Brave Mountains We Conquer").
-track("2sRbBvkpfC8lVvF1yJIJxn", "This Is How").
-track("4R77eO9EbUOoOBkWrOoEON", "Hide Your Secrets").
-track("2IKvNr8scVecyKCwgvI7KF", "In a Place of Solace").
-track("3DHYPfpaXLuGNImtfl7rJT", "California").
-track("3JJeIDbpCMrkhZbLnnvc6s", "A Midwestern State of Emergency").
-track("1rFofEV14tTFuVqmMKGaCR", "Hell and Purgatory").
-track("2tyvwEYe4O3HwgUxhtg2iA", "Late on 6th").
-track("1vEfxOeWANxAaTnaqHUVsg", "The Continual Condition").
-track("4jlQse2MGah5j0P9n6QuuA", "In the Dark").
-track("2IEnWbVMK4BPTNV1iPxUZm", "On Brave Mountains We Conquer").
-track("5XQ4RLhgpkcEBz7dXl4hgu", "This is How").
-track("136NqzH7EL1RSY74eM97eF", "Hide Your Secrets").
-track("0LpbeKKM7t1NIMLqiwEzOk", "In a Place of Solace").
-track("65HSECbV0O35BFAH92efUD", "California").
-track("5JhjeAAn8vDbtDSH38myfZ", "On Brave Mountains We Conquer").
-track("3Dm6dMlySynx2ceizpqgP9", "This is How").
-track("5jPhcFQtze6Xhj6rtZsB3A", "Hide Your Secrets").
-track("1OvGdDS2mVgxvsEgXmlh8J", "In a Place of Solace").
-track("2dcFOtbFVNZvL1hPc8iCTW", "California").
+track("7JTrvTPwR1yNKHPfkF3Zh0", "on brave mountains we conquer").
+track("2sRbBvkpfC8lVvF1yJIJxn", "this is how").
+track("4R77eO9EbUOoOBkWrOoEON", "hide your secrets").
+track("2IKvNr8scVecyKCwgvI7KF", "in a place of solace").
+track("3DHYPfpaXLuGNImtfl7rJT", "california").
+track("3JJeIDbpCMrkhZbLnnvc6s", "a midwestern state of emergency").
+track("1rFofEV14tTFuVqmMKGaCR", "heavenhell and purgatory").
+track("2tyvwEYe4O3HwgUxhtg2iA", "late on 6th").
+track("1vEfxOeWANxAaTnaqHUVsg", "the continual condition").
+track("4jlQse2MGah5j0P9n6QuuA", "in the dark").
+track("2IEnWbVMK4BPTNV1iPxUZm", "on brave mountains we conquer").
+track("5XQ4RLhgpkcEBz7dXl4hgu", "this is how").
+track("136NqzH7EL1RSY74eM97eF", "hide your secrets").
+track("0LpbeKKM7t1NIMLqiwEzOk", "in a place of solace").
+track("65HSECbV0O35BFAH92efUD", "california").
+track("5JhjeAAn8vDbtDSH38myfZ", "on brave mountains we conquer").
+track("3Dm6dMlySynx2ceizpqgP9", "this is how").
+track("5jPhcFQtze6Xhj6rtZsB3A", "hide your secrets").
+track("1OvGdDS2mVgxvsEgXmlh8J", "in a place of solace").
+track("2dcFOtbFVNZvL1hPc8iCTW", "california").
 track("6yu321PxHGgfpcaSrv3GVY", "just like that").
 track("7zNxrPajBc4twregjvrKLn", "universe").
 track("2lprbu2jYfYFYOVtyF7ceX", "save me").
@@ -10632,7 +10632,7 @@ track("5okUIopBGG8gSfX6xEhYKt", "sassafras").
 track("1mu2KA0H0NeOxDzc8cwWdq", "born to lose").
 track("3DB6IeWtKHagIQbCpmpFSd", "mammoth").
 track("0WFFppAlseA6xFheHuPkHk", "kansas").
-track("3mB75O35HuU5vhKnLJGPNK", "what's your name again?").
+track("3mB75O35HuU5vhKnLJGPNK", "hey johnwhat's your name again?").
 track("5wuN8B0FcLmMO2CapR9cpQ", "vengeance").
 track("2A0udXTqfjf0e9WbgbIeu7", "outnumbered").
 track("6Ui2PZEK25OzbmOSINZ3Dc", "dead throne").
@@ -10656,13 +10656,13 @@ track("2F9h1BJsE8WzY11yA7L0FG", "wapakalypse").
 track("1jBfKLo7PdlRqMHXTsbgcz", "gimme half").
 track("1KE8EOJFxFdja4e8qQAymu", "louder than thunder").
 track("6p5g9XbuZH0QQYnk9b3AGH", "goats on a boat").
-track("0aLxSntH3lV1TfXGBYmbzm", "never forgot").
+track("0aLxSntH3lV1TfXGBYmbzm", "number threenever forgot").
 track("0H70ZBhiNQIMPNZDQkOvoa", "html rulez dood").
-track("5jPpZwrSNJitd8I1wLaATi", "what's your name again?").
+track("5jPpZwrSNJitd8I1wLaATi", "hey johnwhat's your name again?").
 track("746qPMwDyxpRAXDLukdvK7", "don't dink and drance").
 track("1eO61dLnaJ3k0CfqADTSsq", "you can't spell crap without c").
 track("5T9ZykHXyg7o1NjnnTErKM", "this song is called").
-track("2j6WWYgyioqqscE8j4A3mj", "king of the ozone").
+track("2j6WWYgyioqqscE8j4A3mj", "reptarking of the ozone").
 track("0xObfxQ5628Fyr0wRHKJVN", "the scorpion deathlock").
 track("2A52s9HJ1h3b9vbUdiroaJ", "nickels is money too").
 track("1704kryXr8D4SdPs3lNL1l", "the ascent").
@@ -10671,8 +10671,8 @@ track("1IQzj4xFzGaTVTwCRYepqG", "dogs can grow beards all over").
 track("60t7yWS5DcLTz4dUJ1MMqB", "and the sentence trails off...").
 track("46hJEfPdsOKtmuKbvnytfK", "rosemary had an accident").
 track("2aUrEIVlBc4jpHdDDs1CP3", "redemption").
-track("6BZaragNfYtKd2Ong4NUhz", "dragons & diet coke").
-track("60ItfcyKQMdbXasiCLLmxp", "colon quesadilla").
+track("6BZaragNfYtKd2Ong4NUhz", "swordsdragons & diet coke").
+track("60ItfcyKQMdbXasiCLLmxp", "who speaks spanishcolon quesadilla").
 track("3A5F4LaCrRhbMoafySfjFd", "texas is south").
 track("3xx38u9OhomZcRigkgblGs", "modeify the pronunciation").
 track("3eQI4KOZL5xKOsIayMfPWy", "first strike - juventa club mix").
@@ -10865,7 +10865,7 @@ track("25nhzQ9iy8n501hUx8eSyj", "still they ride").
 track("3wYPUVmhkMcfxm3UoqD5ey", "escape").
 track("0LKWnrPsDuAAahWjmJ7Hul", "lay it down").
 track("5J0gJzGyLC2bVjEDoOI5iU", "dead or alive").
-track("7b4B6ZkDJ5bvxUf1gRqea9", "father").
+track("7b4B6ZkDJ5bvxUf1gRqea9", "motherfather").
 track("10Kd1qtzsfv7aqLCknR5hL", "open arms").
 track("503Auf0TZf8wOpEmWrJ9V3", "separate ways (worlds apart)").
 track("1LpSdx27Zb7N41k1Q87jFS", "send her my love").
@@ -10877,11 +10877,11 @@ track("1xMyLmBZDWS2tMVbtCwlol", "troubled child").
 track("1RIFSDquYnsc5A705yybNZ", "back talk").
 track("4dilmm0unBLvgiP8gpSkIw", "frontiers").
 track("7u8AgDLiyvXZyk0CMTbkMc", "rubicon").
-track("4IqFArMrPGxmCqyDz32LNH", "Edge Of The Moment").
-track("69fByXTtnXwYRn6JTTClEV", "Tantra").
-track("6vIZtmHBSUbkLUM6XQPqNZ", "Resonate").
-track("7jeNJMWUYyqsJpPVQdmMqD", "Human Feel").
-track("70lnzGKMpZuqk28G2x2sv1", "To Whom It May Concern").
+track("4IqFArMrPGxmCqyDz32LNH", "edge of the moment").
+track("69fByXTtnXwYRn6JTTClEV", "tantra").
+track("6vIZtmHBSUbkLUM6XQPqNZ", "resonate").
+track("7jeNJMWUYyqsJpPVQdmMqD", "human feel").
+track("70lnzGKMpZuqk28G2x2sv1", "to whom it may concern").
 track("1mGwJEO1Qk3ZBGdSzFu4dn", "新たなる旅路").
 track("5gVFoMRjyEnbzH92y9r20b", "陽だまりのように").
 track("5WSafDSTLEbJlHRSvu16fU", "チェンジ・フォー・ザ・ベター").
@@ -10907,7 +10907,7 @@ track("0LvkjlglgksYO3UaI1xTi8", "line of fire - live version").
 track("3ecAT8R2Dz2TSVfgUP5Fuu", "lights - live version").
 track("5LVqZdHWSoY2IrFqYCaut5", "stay awhile - live version").
 track("6ieLIAmMUxERy2M0JVCGkg", "open arms - live version").
-track("0vK3fBfGJI6odjtvjN0N6y", "father - live version").
+track("0vK3fBfGJI6odjtvjN0N6y", "motherfather - live version").
 track("07eVnTzPt1YMtJ6lRz0Nen", "jonathan cain solo - live version").
 track("3VW7Af0gh1inQ2djsAKyV6", "who's crying now - live version").
 track("62a5Fl0qxrFHCqQxPvhAFg", "where were you - live version").
@@ -10964,7 +10964,7 @@ track("0rw5rejq1zRHW2SQ1mY6Gt", "too much (never get enough)").
 track("7wFdtSRRbbK6FMG4foGhgZ", "this too will pass").
 track("0DpeTaVqW63QjjBoayONYe", "your heart will lead you home").
 track("4XtZjdyOV7gYTn0DosBr19", "you'll be in my heart").
-track("3oxOwJOhn29dU1smsW9klD", "in all ways").
+track("3oxOwJOhn29dU1smsW9klD", "alwaysin all ways").
 track("5FMvyZGED31NhYB28bbocK", "flying dreams").
 track("6oJeFk7Nb5AvV90lHqqqkT", "that'll do").
 track("52fAmM5sW9Ic2FxMgiu90r", "turn around").
@@ -11034,7 +11034,7 @@ track("0hXZUhr7FrKaDHVIokMZfH", "freestyle").
 track("5UrFMWDf1p78f2NCY18H28", "a rest  beyond kaos").
 track("3BcFcJUfnBh3nmwvg6ra3g", "the dance").
 track("5SzPgr0QwHjjeY7U1aNqBm", "spaced out").
-track("2zGwA60byxEWlt4FeVxwet", "it is what it is").
+track("2zGwA60byxEWlt4FeVxwet", "daymaresit is what it is").
 track("1q0kr0k8RsIN2JBzDoT8o0", "some more spaced out").
 track("6u8sdgLvXgDWWapRKOpm9O", "feel surreal ends the feel surreal").
 track("4Ju5x5Adat1hiJFtIPW3x5", "strings of the strings of life").
@@ -11043,7 +11043,7 @@ track("1a5j5LH6i3tvkZuGJedYPF", "freestyle").
 track("3U5XQf9ytEwDi0Nr4euZGR", "a rest  beyond kaos").
 track("3S34of7ZaNsUuCqhVVOlce", "the dance").
 track("1vZs9ZyVEfR6O7f5H79dOT", "spaced out").
-track("3VHSdOTr0kX9SJyN4RfOV2", "it is what it is").
+track("3VHSdOTr0kX9SJyN4RfOV2", "daymaresit is what it is").
 track("4cclZqZUc1HoAcEiw9FwHU", "some more spaced out").
 track("50CaHllhRtdIp3UTrr8fe6", "beyond the dance (the cult mix)").
 track("5Fpce4kKDJblDmQh9lp9ah", "feel surreal ends the feel surreal").
@@ -11156,7 +11156,7 @@ track("7cFX8C2peVbko5eWylrrkW", "hanggang kailan").
 track("3qRQGTlgnIB0LRVTqtQKmK", "i'll be alright").
 track("1QiWZGF39kWJVHaL4bwbGy", "i still believe in loving you").
 track("6Yeo0S24lnmQHqbHsg5Odl", "dahil minahal mo ako").
-track("2DoOyErEvY0yrWaEUMndbD", "bukas at kailanman").
+track("2DoOyErEvY0yrWaEUMndbD", "ngayonbukas at kailanman").
 track("6ez6Jqy9axJVaLZGyvrtLP", "miss").
 track("3bjvlC57aLqs8duSrS88Ne", "ikaw").
 track("4myrPwDpuBne5xHaNx8BRq", "i'm sorry").
@@ -11302,7 +11302,7 @@ track("3Y9iWtaFoseSyQEjC1hfW1", "prime evil renaissance - remastered").
 track("46NZI6ifklGgr1CIHoYm2i", "supersonic journey - remastered").
 track("0hEIVypiTzZ1G5vyUtBjQE", "end of journey - remastered").
 track("7gmjv3rxrCqejDSFzbtgM7", "a moment of clarity - remastered").
-track("4rsjR24Bi5ZCf8NM8ZzwKQ", "up north - remastered").
+track("4rsjR24Bi5ZCf8NM8ZzwKQ", "down southup north - remastered").
 track("6VpAjhnoxThR5chcBuR98c", "the scorn torrent - remastered").
 track("6s5dMouNAv9YgtZTR8dvfl", "tied in bronze chains - remastered version").
 track("223AUXHAi3vpAKLw4wheoq", "filthgrinder - remastered version").
@@ -11312,20 +11312,20 @@ track("6zsrBpTh1n9LC7zq7Uxyy7", "prime evil renaissance - remastered version").
 track("5cpmLYH0UfDW9kI4bvKJhk", "supersonic journey - remastered version").
 track("2MSotlYlvaYVUeAEq6R61V", "end of journey - remastered version").
 track("1jBP5nJWAJ5P8gJmMuFFYE", "a moment of clarity - remastered version").
-track("6k5zdHr2ha30xiYnj6X9H8", "up north - remastered version").
+track("6k5zdHr2ha30xiYnj6X9H8", "down southup north - remastered version").
 track("2A80kPYtdl3ndZYhtsrwMX", "the scorn torrent - remastered version").
-track("7tLet5XMf2NgBJLVJduE4Z", "Blood Cracks Open The Ground").
-track("6XVnNAAIkvcIZoxM0P8gyj", "Deep Calleth Upon Deep").
-track("0kXQr12zF76bwzlsf6ISVD", "Dissonant").
-track("398Ws2IhGGnXINT9ZfALYk", "Burial Rite").
-track("0Lnc6vjcRoxfTc3cx65JSE", "Diabolical - Live").
-track("4vXxGRDSMH3qalA2PSWF5J", "It Rumbles Tonight - Live").
-track("1qailgDyihNQgHnUheNo1B", "Die By My Hand - Live").
-track("7ybPDPvKFZAhkPNvC11IRl", "Phoenix - Live").
-track("04UVQzwa06mkC7wTjZdEV9", "The Infinity Of Time And Space - Live").
+track("7tLet5XMf2NgBJLVJduE4Z", "blood cracks open the ground").
+track("6XVnNAAIkvcIZoxM0P8gyj", "deep calleth upon deep").
+track("0kXQr12zF76bwzlsf6ISVD", "dissonant").
+track("398Ws2IhGGnXINT9ZfALYk", "burial rite").
+track("0Lnc6vjcRoxfTc3cx65JSE", "nowdiabolical - live").
+track("4vXxGRDSMH3qalA2PSWF5J", "our worldit rumbles tonight - live").
+track("1qailgDyihNQgHnUheNo1B", "die by my hand - live").
+track("7ybPDPvKFZAhkPNvC11IRl", "phoenix - live").
+track("04UVQzwa06mkC7wTjZdEV9", "the infinity of time and space - live").
 track("7Gyoh8uraFHEJC6dQjqqn3", "voice of shadows").
 track("4Mmp2cZe7MYoS2gTxSKvOj", "tro og kraft").
-track("2cKVcUi6fMpeUuS1egpbAS", "it rumbles tonight").
+track("2cKVcUi6fMpeUuS1egpbAS", "our worldit rumbles tonight").
 track("2xIVFmHOGSxcGEf9X1nG4z", "nocturnal flare").
 track("3Qi2h4lE93eASMou9NqGnK", "phoenix").
 track("0JtMayDWhEqi7cxRppw4Pi", "walker upon the wind").
@@ -11335,7 +11335,7 @@ track("79wv3j2US25TEnjfYaDfqX", "the infinity of time and space").
 track("2hsrRx4NlxWfrYFyjI08lT", "natt - different fade").
 track("2RHtxjDVkfjIdA9F3xCykN", "voice of shadows").
 track("11aOo10PgdSS2GQoWwD7uy", "tro og kraft").
-track("6cVusjsAs4jAT3BBLC3gIZ", "it rumbles tonight").
+track("6cVusjsAs4jAT3BBLC3gIZ", "our worldit rumbles tonight").
 track("4c2qnFOvfKlMooAo1W4UuC", "nocturnal flare").
 track("7GmyHSiCbWEreE4dQCMDtm", "phoenix").
 track("7MAXR9HGLgRPK3aqo10Xnd", "walker upon the wind").
@@ -11343,10 +11343,10 @@ track("2yDmyE10s7DJSNdV843ln6", "nekrohaven").
 track("4JXrDZe9IBOR8GYqaTVtIR", "ageless northern spirit").
 track("6M3nRordaIZhwlmgPaHNpF", "the infinity of time and space").
 track("0teUjPR0x2syzMI76Ar687", "natt").
-track("51lsgIWoj39CWL8lVoEhHQ", "The Wolfpack").
-track("5GyYoWhS9QvDMknMN9dE7f", "Die by My Hand").
-track("5FuBXA4jpc3P01x1VNCcya", "The Sign of the Trident").
-track("6GL0Dq6p8jEiWFID4EbrsU", "Den Siste").
+track("51lsgIWoj39CWL8lVoEhHQ", "the wolfpack").
+track("5GyYoWhS9QvDMknMN9dE7f", "die by my hand").
+track("5FuBXA4jpc3P01x1VNCcya", "the sign of the trident").
+track("6GL0Dq6p8jEiWFID4EbrsU", "den siste").
 track("46erowwlLc8auhg0imGxOU", "main link").
 track("3FWvJzZB5vtj2sZ2ZjGAiJ", "welcome link").
 track("16v0ciProKsyxrAuVZVMu5", "helpful link").
@@ -11483,7 +11483,7 @@ track("5lRrEbUlzRjhmITaGduJnD", "velvet roof").
 track("4hl52DXoNcUt9bRTMh7o3B", "i'm not there").
 track("1Tku2XUgdme8fbP3b6ddfH", "stymied").
 track("5yh8iozPHK2r7qynTt1ydu", "porchlight").
-track("7lDfddqklLh9BmUMe5il9L", "watch").
+track("7lDfddqklLh9BmUMe5il9L", "arisewatch").
 track("43LkZcr42KiouWfmUY6T92", "she's not your thing").
 track("0MfX1WJVdeJgyt6XqkXGMs", "down").
 track("0I26fI5Nz6swwdtnFYKClG", "don't forget me").
@@ -11633,11 +11633,11 @@ track("2PTdjlJWSIKlADlY8pqLmz", "pain").
 track("5KLWX5xHkYw13NvHqiIzDW", "hillbilly hippies").
 track("1Oh6wCNu1iJAwZIV9BztRl", "better for it").
 track("4Ymljb41ZnLnoC5RBeB2PC", "that's just living").
-track("4mpyQOskY7ASQh2UVTOqQW", "Ain't No Law Against That").
-track("0xRTTx1rzEBC33nw3mS0Ar", "Empty").
-track("1ClbzETK2CaY5TMi46KAEZ", "I Like Those People").
-track("1QFQexvXJZTjU8KCiNBHuR", "Simple Things").
-track("2QEtot9Hk8QNF9W6vhXFb1", "So Called Life").
+track("4mpyQOskY7ASQh2UVTOqQW", "ain't no law against that").
+track("0xRTTx1rzEBC33nw3mS0Ar", "empty").
+track("1ClbzETK2CaY5TMi46KAEZ", "i like those people").
+track("1QFQexvXJZTjU8KCiNBHuR", "simple things").
+track("2QEtot9Hk8QNF9W6vhXFb1", "so called life").
 track("0fdpzvV9SCjbiXkeLxeUL8", "the big revival").
 track("6U7hJoo1kiTZI69cEF8uCD", "long line of losers").
 track("0hs74eIy9ugQbJP2zs1FHC", "now you're talkin'").
@@ -11701,7 +11701,7 @@ track("7KXAQWNzUmp0IOgHqBTXH9", "el árbol de la horca").
 track("3gSX8sJw1Ac20sxl3RsEPc", "mujer paseada").
 track("1WOuNQeCGydKp2BkEgKj92", "dos monedas").
 track("00ZLVgfBdvkZyvHXS9St2k", "compadécete mujer").
-track("6eubhuQtabxaWMw8csPErq", "polvo y plomo").
+track("6eubhuQtabxaWMw8csPErq", "entre hierbapolvo y plomo").
 track("4NjuZrJ18hRMYkJ4rusrjx", "tres suspiros").
 track("5Tk5S0aNB6yXh3KRucbBGq", "la revancha").
 track("6ztG1CQr1BieJWIhqycTqb", "como te olvido").
@@ -11715,7 +11715,7 @@ track("4rI1t1DWVFKQ8FdIZybgxA", "que loquerón").
 track("15MTv9ok2LTzuAtpLqGLGO", "tres disparos").
 track("0ef78HnFpSV3bJeNUyLbkb", "mi padrino el diablo").
 track("69qhcKKQzgv1nxayBCLmrC", "¿cómo te llamas?").
-track("7GY4ppld7VpdroQJuJ16Lh", "ando contento").
+track("7GY4ppld7VpdroQJuJ16Lh", "ando alegreando contento").
 track("0AyRA9fYYd8bhfOFBFnfil", "lucha de amor").
 track("4fIOQ6m9pgHxLdTUtVHM8Q", "amor de marca").
 track("5VuIFGZ3B9t13JwKprMTiO", "adicto a la tristeza").
@@ -11811,7 +11811,7 @@ track("6Jomfv5fihr67DmPzOe9IN", "vertical - ao vivo").
 track("0wpvw3EXcGc0itFXOGS56e", "guantánamo - ao vivo").
 track("7xR3Ovre0NEQ9QODRsViXx", "a montanha - ao vivo").
 track("31CLwpRSTd4cnuJd3Z3bdz", "quebra cabeça - ao vivo").
-track("5GZQKy5oAs1ro1XLtQZoE8", "você - ao vivo").
+track("5GZQKy5oAs1ro1XLtQZoE8", "no meio de tudovocê - ao vivo").
 track("2FIw93PlwLLAWDjmAsSofw", "não consigo odiar ninguém - ao vivo").
 track("44jn2Dbqlk7PdxP6x7SuJ9", "cinza - ao vivo").
 track("4MEZMQwZCJeGiBQYqQkaQH", "coração blindado - ao vivo").
@@ -11819,10 +11819,10 @@ track("6TpPimRfGSQhSwrU18fTao", "a onda - ao vivo").
 track("6qCx75NxBQHbCtAgzOPGOK", "toda forma de poder").
 track("0inc45auKVLHn51Wvhney7", "longe demais das capitais").
 track("0Xp3iRzrf8FkWzfDB2vWKB", "infinita highway").
-track("7cHIkKSWIeVLtoVQfuDoTB", "canções de amor").
+track("7cHIkKSWIeVLtoVQfuDoTB", "filmes de guerracanções de amor").
 track("79H1f2I5jKHCRyBG0CqEyR", "refrão de bolero").
 track("1pGA0icJLdcmeB5XJ2ahas", "somos quem podemos ser").
-track("3uQg0I8khZTptUX0AOgbQz", "nao ouça ninguém").
+track("3uQg0I8khZTptUX0AOgbQz", "ouça o que eu digonao ouça ninguém").
 track("2aQzbVAvz6rGa00cZbTh7E", "tribos e tribunais").
 track("7BOndTHkkW4dhWjzFc9WtU", "alívio imediato").
 track("73l5Mao6MzGfJb6v6Gi0YI", "terra de gigantes").
@@ -12076,7 +12076,7 @@ track("3j8yrodmTjgcNi9tNITX6i", "don't rain on my parade").
 track("2SDF4hqIrRt3O0dCYNSGUD", "people").
 track("1vphHL2GThK0u4LYr7xxi7", "cornet man").
 track("7GO3gnidLlCNmrFhJfelJL", "his love makes me beautiful").
-track("78DTkOV7PY3tfFAjKBzivO", "sadie").
+track("78DTkOV7PY3tfFAjKBzivO", "sadiesadie").
 track("1ZZ3Y6bC4RHqs5LeU3oPuN", "i'm the greatest star").
 track("4yChgYDVcQrAgIEIErW27b", "reflections").
 track("1Vt8HH4r49hsrED8kCd2AL", "i'm gonna make it (i will wait for you)").
@@ -12085,7 +12085,7 @@ track("3ltNWOGnN0JS0HHKYumNNf", "i can't make it alone").
 track("3215kcniU6gv7FdOXefhom", "in and out of love").
 track("3ycljyTPvnxxFNJGR0cw9b", "bah-bah-bah").
 track("0URrYnXW3eS1piG3TqHB2J", "what the world needs now is love").
-track("0Jp9v9mWS0deAl7YUW1HgR", "up and away").
+track("0Jp9v9mWS0deAl7YUW1HgR", "upup and away").
 track("53hAMSLTm622JEhpKTnt8O", "love (makes me do foolish things)").
 track("5kBNC8MfYv00LOqr1PTaMc", "then").
 track("2Mbz8delHsAZvjdN5nG4Gc", "holy arp").
@@ -12197,7 +12197,7 @@ track("5qcbM2cy66tr3f2J4ZZUwY", "now i know").
 track("2WnWvJZFkhPXC3Vy1Kzhjv", "every time").
 track("5Yp2qtUCAEpw0YiuiZT1l2", "i don't like anyone").
 track("1uwhxAWIjY2uytumbywLEw", "karma").
-track("3oiRCYxZQm2rrozzysETh9", "hopelessly").
+track("3oiRCYxZQm2rrozzysETh9", "helplesslyhopelessly").
 track("0rK4HCKzv2r1IXqKX3DKpq", "who i am").
 track("6lqS5ZFNxoCbHbtF85sW0P", "these wings").
 track("4X2xIcysafTwa7FTuLL0L6", "never had it so good").
@@ -12536,14 +12536,14 @@ track("2pFwdWMfP4pu3FUhCCWkDT", "trap house").
 track("1sXJ0TZDdYBIV4mlzQFi4j", "fall in love").
 track("1UZyoEXsrCgj7H7b1eXaio", "i'm an old cowhand").
 track("4ikrm5H1XHNNnoUWYdLUut", "solitude").
-track("78oOWCGWb6TYLZu6BTsaN8", "gone").
+track("78oOWCGWb6TYLZu6BTsaN8", "comegone").
 track("41VGgY0H5RvOusVpzF13lV", "wagon wheels").
 track("21PmGcYvA9iz0OkFwyKbt0", "there is no greater love").
 track("3KacAEFdfjpk8aiRr6YuqF", "way out west").
 track("5LSIjQOjgQjlA2WRbr24jC", "monologue: you gotta dig the lyrics").
 track("0dL8xfVkwJjbnexqvMhH0r", "i'm an old cowhand - alternate version").
-track("07D3Lc1Dy1z5PTFPiI6Cft", "gone”").
-track("4yWKWxnDUogCEGDp5AJdxz", "gone - alternate version").
+track("07D3Lc1Dy1z5PTFPiI6Cft", "dialogue: titling “comegone”").
+track("4yWKWxnDUogCEGDp5AJdxz", "comegone - alternate version").
 track("1Vy0F1S921Vmj6rgXjoiSB", "in a sentimental mood - live").
 track("0irXU3ILGg7979vWUlqQ0K", "professor paul - live").
 track("4PfjafFDab13pbgHDuxwfE", "mixed emotions - live").
@@ -12711,9 +12711,9 @@ track("3lRELwkqAqSpuAEJE5xRHG", "kingdom of desire - live").
 track("5lvOtIYM36nKQr6JwuObAk", "hydra - live").
 track("3UVK1DEII1nl07Z7G4cOVX", "taint your world - live").
 track("7doglFCqHS9xI2vTqO8pBI", "gypsy train - live").
-track("51jE4bqs8zNxD61HMgteK5", "At Your Door").
-track("6Qp3CZVmKphNEPTdgGXZMz", "Slow Revolution").
-track("3sZNisgO6uSo378Y8GJSJ0", "The Light (Her Hands Were Leaves)").
+track("51jE4bqs8zNxD61HMgteK5", "at your door").
+track("6Qp3CZVmKphNEPTdgGXZMz", "slow revolution").
+track("3sZNisgO6uSo378Y8GJSJ0", "the light (her hands were leaves)").
 track("7yvxnSAfrtFBtbyauKU8PO", "all my days").
 track("2LudR64kXrGhRiHtc403MN", "orange sky").
 track("30UEJkRkOGmpb33HuN6CiZ", "home").
@@ -12727,7 +12727,7 @@ track("4DSHGjRXPUuWFvAib3kYUl", "blue mind").
 track("7vGB3xz5OJpdUr6BTMzVvg", "bluchanga").
 track("7Cu17ziiNiYhGUTZXPSCK0", "uma benção").
 track("0cQMwgTH001V2K2tMzU2qj", "lua dourada").
-track("0hV0nydDsP5NFPQWWiMS47", "não").
+track("0hV0nydDsP5NFPQWWiMS47", "não tem nadanão").
 track("3gOIAQsOUu6a01vX9rRhSw", "nua ideia").
 track("70l68zf8UaxsM5bbvGbyHM", "the mohican and the great spirit").
 track("7FnF9zFq6L8zLv6C2OCT8b", "trident").
@@ -12809,12 +12809,12 @@ track("7yi6fynaCi2lWhjcOfcHz5", "endless night").
 track("51NZCggjFj5NGcleguitxM", "sever the hand").
 track("1l01vLanC8tXYXhz9HCd84", "beauty in the sorrow").
 track("2CSpiBpyXR0n5uWdjptqhP", "the revanchist").
-track("2RG2TmOiziUFwoLk63OKoD", "Pillars of Serpents").
-track("619BKZZcRoKkWesmDWqsdk", "Fugue (A Revelation)").
-track("1NNay8l3WRgi4rz8Aq1FLa", "Ember to Inferno").
-track("19fwA1wpzckkXFTzUiXoU5", "To Burn the Eye").
-track("5QIuFnUaecMUlTDwec2M4l", "My Hatred").
-track("0tZprx59tagb8xVhzNTA0R", "the bleeding skies").
+track("2RG2TmOiziUFwoLk63OKoD", "pillars of serpents").
+track("619BKZZcRoKkWesmDWqsdk", "fugue (a revelation)").
+track("1NNay8l3WRgi4rz8Aq1FLa", "ember to inferno").
+track("19fwA1wpzckkXFTzUiXoU5", "to burn the eye").
+track("5QIuFnUaecMUlTDwec2M4l", "my hatred").
+track("0tZprx59tagb8xVhzNTA0R", "inceptionthe bleeding skies").
 track("3Kt60A2H2kEzVDhmA6y1Er", "pillars of serpents").
 track("5UfrpbMYH0DE0TAMN18t4e", "if i could collapse the masses").
 track("56CVdTJjU7QgEIX9tdOMLV", "fugue (a revelation)").
@@ -13047,7 +13047,7 @@ track("2Ud3deeqLAG988pfW0Kwcl", "all my friends").
 track("6shyEhv7EqbnL2ZGcMdaHo", "us v them").
 track("4tzg6aQGUBL6YMOASdLkjN", "watch the tapes").
 track("442bPYh5CaoKNSadk699eG", "sound of silver").
-track("5rAff9XfcWx7rguN3t0fkW", "i love you but you're bringing me down").
+track("5rAff9XfcWx7rguN3t0fkW", "new yorki love you but you're bringing me down").
 track("5zk7SbvfgqBznQ12mdgjoj", "yr city's a sucker").
 track("5Cux3rsN6IjuhVF8fs99mG", "slowdive - xfm session").
 track("2dJs2UkLwb3mkm6Masrh50", "tribulations - lindstrom mix").
@@ -13065,9 +13065,9 @@ track("3zBgPi9s8iroxNQ5rNYeQR", "you took your time (feat. king krule)").
 track("2t0XPiQhdqLSoEHlZ2tMqG", "break well").
 track("0JJBc9IxBfWPvbwqVFw6BG", "blood and form").
 track("7M0GDtHcuJrTMWtnSs48I3", "made to stray").
-track("0ODzmLDk8UNWNtNrJKpGzh", "so many ways").
+track("0ODzmLDk8UNWNtNrJKpGzh", "so many timesso many ways").
 track("1dhibqyLfgm9pJ6PlZrI4X", "lie near").
-track("0ZxqWhiK6r7wc8XNQJllT1", "tone (feat. king krule)").
+track("0ZxqWhiK6r7wc8XNQJllT1", "meterpaletone (feat. king krule)").
 track("5mhpnGG2yC9lDC4u8inh34", "slow").
 track("4QTtoZ4E5IDPLF8YmtNzSV", "sullen ground").
 track("15CSOpkmPwwOQ3GkJRCsQ6", "tunnelvision").
@@ -13120,11 +13120,11 @@ track("120lt2jad7gQ6ymFGlYm1J", "transference - track by track").
 track("3Jgko4YjVDuV7qxB4qzMof", "transference").
 track("2AtqmLS2zj47L9U81wZKVu", "bodom blue moon (the second coming) - track by track").
 track("2dExees156OhruzmB0alqH", "bodom blue moon (the second coming)").
-track("3ZFEWFXLUz0TCaEbryxiKU", "Halo of Blood").
-track("4Zs9GSx5NQceovAUTnSlCX", "Transference").
-track("3aAKqfkV43Xv63cUXKKGMY", "Your Days Are Numbered").
-track("5snCPeBr2PXgXbcFAm8Rxa", "Damaged Beyond Repair").
-track("6BTwsLuYDrXeU1YU8Wafyq", "One Bottle and a Knee Deep").
+track("3ZFEWFXLUz0TCaEbryxiKU", "halo of blood").
+track("4Zs9GSx5NQceovAUTnSlCX", "transference").
+track("3aAKqfkV43Xv63cUXKKGMY", "your days are numbered").
+track("5snCPeBr2PXgXbcFAm8Rxa", "damaged beyond repair").
+track("6BTwsLuYDrXeU1YU8Wafyq", "one bottle and a knee deep").
 track("2PeWdbtJwqucifR5DiwlxM", "hate crew deathroll").
 track("0wPJWgBncx7aR73jAY1aNd", "shovel knockout").
 track("1SFgDWndqbajYuQpcQwgqa", "hate me").
@@ -13134,12 +13134,12 @@ track("3RqQWWu78dIzy0dD3jQNiw", "i´m shipping up to boston").
 track("0fW0odLNNLGKpYKSoZXj5j", "sixpounder").
 track("6fgQhPAhtgWPqCifW7Sw7j", "warheart").
 track("4dyCLjAb1EzwOX2yAaYqyj", "roundtrip to hell and back").
-track("3OEdhp3bVwQqzPAfWfrdXv", "lost and strungout").
+track("3OEdhp3bVwQqzPAfWfrdXv", "trashedlost and strungout").
 track("6aLuKv7xwjvfs9XLEAUWYj", "not my funeral").
 track("32tTzy5usetS0RNlW2ShnU", "shovel knockout").
 track("6sWzq9b7Zs8htQuixH3yEh", "roundtrip to hell and back").
 track("0RfrRxt6RwmVUa4EKretVr", "pussyfoot miss suicide").
-track("2SotmeA3tgJzG6Hc4CXlQh", "reckless forever").
+track("2SotmeA3tgJzG6Hc4CXlQh", "relentlessreckless forever").
 track("2A4iBDc23xO4Ey3Xtol9UH", "ugly").
 track("0aFV0ctwREDzngGfTrXL7h", "cry of the nihilist").
 track("1tCOc40VqUrXnWN6wJhuF0", "was it worth it?").
@@ -13148,7 +13148,7 @@ track("4mG2Y2wapwXHcdwJu3o7G2", "not my funeral").
 track("2izFMfLFrz0mAVoIrBnaDp", "shovel knockout").
 track("0hrRBZY0kkT4ANL2cS8UZL", "roundtrip to hell and back").
 track("2WeioyhUv8noNKkv7uqWtT", "pussyfoot miss suicide").
-track("79U2urqmMuyLNchos6OZVi", "reckless forever").
+track("79U2urqmMuyLNchos6OZVi", "relentlessreckless forever").
 track("0LlyxnNlpurfVqR5P0Cv2t", "ugly").
 track("65oIhWZKvEkCxr78loU43Z", "cry of the nihilist").
 track("3oB8ZlKqiYH264aDfsDc0E", "was it worth it?").
@@ -13204,11 +13204,11 @@ track("6UTfnXq5rsDLTSfWJoMCfk", "magnificent sadness").
 track("3YCfBA0jNyO26MnBSkZN6N", "love test").
 track("4p2BeDf2T3rngZDmQqtnDH", "not the man").
 track("6tiH5c2JD0zvJl6P5Wt64m", "rare hearts").
-track("0dOstqwhnFAlIGzHqWJv7Z", "Naked Kids").
-track("7n9Xw8yyyeACuB57PPVLWe", "One Million Lovers").
-track("7usu0H4alOM58hJVzv9HTq", "Living In A Memory").
-track("7vPtch8DEPzWJEzbFuysio", "In Between").
-track("2nrU6akjY8gmCRXFJHVUEd", "Row").
+track("0dOstqwhnFAlIGzHqWJv7Z", "naked kids").
+track("7n9Xw8yyyeACuB57PPVLWe", "one million lovers").
+track("7usu0H4alOM58hJVzv9HTq", "living in a memory").
+track("7vPtch8DEPzWJEzbFuysio", "in between").
+track("2nrU6akjY8gmCRXFJHVUEd", "row").
 track("7sA1XACbbpUce55aCJ3EF7", "dogheart ii").
 track("2fJQCoSo0FCZSE54FpCgeT", "hiding under covers").
 track("2Eh3wyNbvCyZo1Yu6QLHoN", "tell it how it is").
@@ -13258,7 +13258,7 @@ track("5apa9WfEGPM2JieHXZFdkR", "love on me").
 track("35uqvy5rykK4XNAImPaylK", "i don't like you").
 track("16qspp2prpW97qfGvA0LqL", "welcome to the people i used to know").
 track("0A6nyDnw6prnvkYqQe6fsE", "alert").
-track("2Bvxg8owGEFAgCYvRp7Ls9", "and drugs").
+track("2Bvxg8owGEFAgCYvRp7Ls9", "godlovesexand drugs").
 track("0iUQMaYF4PijgspAkghWMm", "make this song cry").
 track("6hPG9EjJ2NwmWvIzndbPzK", "crazy like you").
 track("4RPNO81NLmRg3ZGvc2SRCu", "kim k").
@@ -13274,11 +13274,11 @@ track("7vCCh1UMSJSnTJP7Q8lPCO", "nightstand").
 track("4SBA9sfPzu4HjLMaP1oYMq", "these men").
 track("5IuS8xniggmshmi0dvLZrx", "all i got").
 track("1fX5QlNmnqd8mqDGpaNihh", "time").
-track("5opJ00MqnlyQJOC0K4JHau", "Love 'Em All").
-track("2l3m4kk70k6gqIg7YTq4qH", "Cry").
-track("2EVQKae3TKmmsiVaN8HCon", "Hard to Do").
-track("6W2qlu4dKa3s0DBUdTMaXj", "Something About the Night").
-track("4xeiPWeQlw5bPm8mx882HX", "Build a Man Intro  Build a Man").
+track("5opJ00MqnlyQJOC0K4JHau", "love 'em all").
+track("2l3m4kk70k6gqIg7YTq4qH", "cry").
+track("2EVQKae3TKmmsiVaN8HCon", "hard to do").
+track("6W2qlu4dKa3s0DBUdTMaXj", "something about the night").
+track("4xeiPWeQlw5bPm8mx882HX", "build a man intro  build a man").
 track("1n4D61I7OfDbteEf7ygP8d", "my life").
 track("2erGRoIYfLDkUlux9yjKmF", "when i get a man").
 track("5PdfdYq4J16BgPMAmhR0mP", "v.s.o.p").
@@ -13354,8 +13354,8 @@ track("1jnhY6VzQ5FgiuYjG6eOyu", "i believe in you").
 track("1KDDyKo4V3VauBrbOhaKgZ", "scarred").
 track("4Lx5JxbUw7x5pQIHufCZ16", "joy to the world").
 track("4tRAGuI0qfqUoCOLP1GIK3", "carol of the bells").
-track("65YJJuhsINEtBjlVsJqQU8", "o come emmanuel").
-track("6FtMNov3rKHvjWtyfa2pCV", "isabella").
+track("65YJJuhsINEtBjlVsJqQU8", "o comeo come emmanuel").
+track("6FtMNov3rKHvjWtyfa2pCV", "bring a torchjeanetteisabella").
 track("0e7n8w5bR9SB3UuLhfnegs", "the first noel").
 track("5prtE48vfwAb78VwOuBhm3", "in the bleak midwinter").
 track("7aqXrtCIAqNKCTer2x7u1j", "o tannenbaum").
@@ -13552,7 +13552,7 @@ track("78FZxdc2lPHK7OlHR4q3vl", "the family").
 track("2gK9Yb53fFOgYt1X2QqUtf", "the confrontation").
 track("16bsu55HI1o2BGpIAgxAOP", "the eradication").
 track("1hTOMp4OlGm0f1I1weeuUb", "sexual man chocolate").
-track("33sYbbaOyaPfJJAtWugX5B", "nevada").
+track("33sYbbaOyaPfJJAtWugX5B", "renobnevada").
 track("0oRTZkvGsZGhNUeCQw9uoe", "i swear i'll change").
 track("187habQIYPjxd0CwRKKX6H", "shut your mouth").
 track("7GinxJAk9r2M2K4DENAkSp", "a for andrew").
@@ -13566,21 +13566,21 @@ track("18VXDDlE2eptij7g7yRE4y", "pick a side").
 track("2PXyBOCvQdXj1JJkNeEWim", "criminal").
 track("17u09RtyH5z4lMfc7N948r", "all alone").
 track("18kVlTkXKLfjuUWehKTFqF", "sexual man chocolate").
-track("6t8tV0G2sNvIK5BWGK8ODi", "nevada").
+track("6t8tV0G2sNvIK5BWGK8ODi", "renobnevada").
 track("7BSRHI1ljDy2ECWYKmuHDZ", "i swear i'll change").
 track("2yaLghHU1W00ASKU3OsoiK", "shut your mouth").
 track("5tUzNr1ilGnhbYOm8VMcD7", "a for andrew").
 track("4tXdTwla80gq4CgnkB4vwe", "smokahontas").
-track("6InQMGw38pntdd3Fjtvpqi", "and high tops").
+track("6InQMGw38pntdd3Fjtvpqi", "hot grillsand high tops").
 track("3QienJ6IMsUD8Mo24vITBg", "stick stickly").
-track("3vcIe7SpZQDVdhhqEka3nK", "ashley's here").
-track("0Qz6r5Hq45xvuUpOpkB5rA", "and blue").
+track("3vcIe7SpZQDVdhhqEka3nK", "broashley's here").
+track("0Qz6r5Hq45xvuUpOpkB5rA", "shredwhiteand blue").
 track("3w2v3TMjzRfGlANDY8nJAo", "party foul").
 track("6MvxFPsUTxDHxHimxMSyUE", "what happens if i can't check my myspace when we get there").
 track("2AMoQ7iQf2Bg9qbCHEjkdv", "interlude").
 track("1fgQQ08SxjDjx44vJYG58u", "the people's elbow").
-track("40mKihCP8zUZHoDqVmp620", "animal doctor").
-track("3YP8YpbWC4Cg1l633WmNXh", "pt. 3").
+track("40mKihCP8zUZHoDqVmp620", "kickin' winganimal doctor").
+track("3YP8YpbWC4Cg1l633WmNXh", "dr. shavargopt. 3").
 track("5i9ylo5qvShq8eIfsGmP6N", "linda").
 track("5vad5BZOk2PZBPl620NjKa", "trouble trouble").
 track("3nLFhnHAZAyV0DusiXqEcI", "kisses in the moonlight").
@@ -13785,8 +13785,8 @@ track("27rwfUAe45d7y6TexadMzn", "i know places").
 track("1hqkluHZiV09xZXbzEHKAP", "jerome").
 track("0iPAIaETIfzVLGo3np4Eyv", "silent my song").
 track("6R6i3ZblBdNWv4z0h9jgJh", "melodies & desires").
-track("4IY6z7IkiPs4Z2sOWhg8eT", "dance").
-track("1WYXIq1p5aRszfu4FllJsK", "i'm gone").
+track("4IY6z7IkiPs4Z2sOWhg8eT", "dancedancedance").
+track("1WYXIq1p5aRszfu4FllJsK", "i'm goodi'm gone").
 track("5Mz1wZdydNkjMNMcYJFEWu", "let it fall").
 track("6bAiAJP3dnu4qMoj8YDbmF", "my love").
 track("4J62Bt8QkWJVAVjVIH3afA", "tonight").
@@ -13859,7 +13859,7 @@ track("4ql37DQAaODZv76OjGe6cb", "the 11th hour").
 track("0LWkdUtorgGHr1bwT2C6tY", "roots radical").
 track("41kg2RvdwBuIv0OPpvBS4v", "time bomb").
 track("0TE5Q3XEPkEfmyNtr47wWa", "olympia wa").
-track("1jeGxeP4Z40YJCJQmGlVLu", "step & gone").
+track("1jeGxeP4Z40YJCJQmGlVLu", "lockstep & gone").
 track("3EQrvagKQlocmkXBHojqlA", "junkie man").
 track("3AfGYzuFZaduOllHad2BKs", "listed mia").
 track("1pNlZQeoPnlxqf1Mjgm0H2", "ruby soho").
@@ -13868,8 +13868,8 @@ track("4HE71FCuuKVYec3xFRiXZY", "maxwell murder").
 track("79QJK3tk5Rik1u6yPG5hdQ", "the 11th hour").
 track("6530Mhb1m9MWu8LocMLfNO", "roots radical").
 track("0ZP4fS8z5UkkhMGgMMYu7A", "time bomb").
-track("72CLRBfnzNuDehtD62KNRk", "wa").
-track("4ZYT6CwCTuQ67ZC5rqpjRW", "step & gone").
+track("72CLRBfnzNuDehtD62KNRk", "olympiawa").
+track("4ZYT6CwCTuQ67ZC5rqpjRW", "lockstep & gone").
 track("1Ft4FQ17qwgpR4JIGREXe8", "junkie man").
 track("0mJOMEhmJLrLdFVXkp9sJD", "listed m.i.a.").
 track("6e58wok6juWgmxfIyvNvrr", "ruby soho").
@@ -14005,7 +14005,7 @@ track("7x2jq2kAhxDH3M6FcgJKbs", "the red crusade - interlude").
 track("3WZiHsjugLgasZW7wGemNN", "the in-between").
 track("12f3kgz9J1vU0Sd3qISMuJ", "legacy").
 track("0kgXAjZ2y0kGjKUekY0H8t", "mother").
-track("4pj2L6WbBAlevdxx6jgm32", "so below").
+track("4pj2L6WbBAlevdxx6jgm32", "as aboveso below").
 track("4S0oduY2t0ajpZQ6T9kAq1", "born in flames").
 track("0qSVzDIOLWqIoOHjUUjv8c", "god is she").
 track("44QQarpAdUDdAidS5ddJIL", "salvation").
@@ -14129,12 +14129,12 @@ track("3FCdKxrrD7MtLyT8yGB8tJ", "love kills").
 track("18XndmAz0RgFwydGjB21hM", "we dance to the beat").
 track("5jOuT5bhbvpXDl1feNaevn", "criminal intent").
 track("72MP2tL61NAS819rBleaPv", "indestructible - acoustic version").
-track("14QzLkOn0K1BVl2t75LarK", "Include Me Out").
-track("0VhenEjA7wBIYqYEK1KZBo", "Love Kills").
-track("6J6fw5zuz7rTKiLIyNOm7T", "Criminal Intent").
-track("0h20T2r4xtaK6eyvKU1Dbe", "Fembot").
-track("6GZczC1cjgQsVLezhVeACo", "Cry When You Get Older").
-track("0Mi3VgLhq5U6BMyGkPwHYD", "Hang With Me - Acoustic").
+track("14QzLkOn0K1BVl2t75LarK", "include me out").
+track("0VhenEjA7wBIYqYEK1KZBo", "love kills").
+track("6J6fw5zuz7rTKiLIyNOm7T", "criminal intent").
+track("0h20T2r4xtaK6eyvKU1Dbe", "fembot").
+track("6GZczC1cjgQsVLezhVeACo", "cry when you get older").
+track("0Mi3VgLhq5U6BMyGkPwHYD", "hang with me - acoustic").
 track("4l9riqTdtiQ5JCNNtLF65J", "don't fucking tell me what to do").
 track("1OVPe57sQK0WWSVQTs7eUw", "fembot").
 track("3KiCzO6XdIWcAtUZnjLIoX", "dancing on my own").
@@ -14366,7 +14366,7 @@ track("2jBajO4on03L6N9H4jvD99", "dead eyes see no future").
 track("6wCoudMEImgbXErgBWZAat", "nemesis").
 track("1Er0NPCocyguw0Mtrlyet7", "we will rise").
 track("5kzeQvA9T91h2H5Y8OU6Qk", "tempore nihil sanat (prelude in f minor)").
-track("7gdqAiz2VMq0cybotZzls6", "never forget").
+track("7gdqAiz2VMq0cybotZzls6", "never forgivenever forget").
 track("0WZZENH0kt3O2cBE8q5IRq", "war eternal").
 track("3BkqtdD3Vc90C3JFtTTVqI", "as the pages burn").
 track("6U4PnLCxvpipBXCffkdHNo", "no more regrets").
@@ -14379,7 +14379,7 @@ track("5DBJP9jZMLXesTxUkNRB5T", "khaos overture - instrumental").
 track("0AOQFMydzS4AkbElri4FGw", "yesterday is dead and gone").
 track("5GLFAymISsbuFDjGEtppMV", "bloodstained cross").
 track("3w9DBYm53qG0dnVdXit9nr", "under black flags we march").
-track("2SR0CHOWgkVt0nLI9YwYti", "no masters").
+track("2SR0CHOWgkVt0nLI9YwYti", "no godsno masters").
 track("3KTUAqTNYTeZBXcnAJdB1A", "city of the dead").
 track("5f60khlT0IoDy2ontDl3aD", "through the eyes of a raven").
 track("3CsZ2syrNTBXqp5FAM1ybi", "cruelty without beauty").
@@ -14444,16 +14444,16 @@ track("4q0OK0HRaLd2Wzz23GeApJ", "wasted age").
 track("4n2lRIECef16FXXpFUB8RP", "encoder").
 track("7gZcedNgEwXzt2IGaIkqIT", "promise me").
 track("0fr7Nl49mFbf6nXXca6YwO", "learning to survive").
-track("6CHaO7cERnB9P0GVTVcNDQ", "Who Will Pray?").
-track("1j5Ji2SqM46abIbMKJUtWl", "Memories").
-track("02d4AqqhYozSvxo9T6Qcv4", "Blur").
-track("6y0gTHjK7E12r1XHM3Pdmb", "Flatline").
+track("6CHaO7cERnB9P0GVTVcNDQ", "who will pray?").
+track("1j5Ji2SqM46abIbMKJUtWl", "memories").
+track("02d4AqqhYozSvxo9T6Qcv4", "blur").
+track("6y0gTHjK7E12r1XHM3Pdmb", "flatline").
 track("44tWGaJ7ZRIeJFt6QITHo3", "1230").
 track("7f8mVFoYFVjV5BM3sHg37I", "tracing back roots").
 track("6RezujzhJACEEiF1iooMyB", "fade away").
 track("2nVeBfWBWPEqRLxlirNyOj", "i survive").
 track("3ZCQEso7u6FptVHRHIaQzk", "ghosts").
-track("1ClF2WwWNjCk6lbLMmb8YS", "and past").
+track("1ClF2WwWNjCk6lbLMmb8YS", "presentfutureand past").
 track("1eG4sSGcb3AkT1eWfHSU1d", "never let me go").
 track("4JFUKD0b2V6IiW1up71GqU", "hope").
 track("0OHp5Q974wRxcoNNbknodY", "tell me now").
@@ -14477,7 +14477,7 @@ track("2EVUr8jK1dqCzYhuzDFIS5", "dreams").
 track("2wpoAcq8dHPIYKkqC1VAZ3", "we are the reasons").
 track("0mc5NAmvldtM4fQwtF5Uyr", "beliefs").
 track("027GZRXYUvcs0yNJ0wZdA6", "i will not reap destruction").
-track("464fDZn4nfDbFVD2hVeFOT", "always").
+track("464fDZn4nfDbFVD2hVeFOT", "searchingseekingreachingalways").
 track("0joLMJQeUrFnspKLMZ8gGI", "an ever-growing wonder").
 track("2w1NrlvrdUFEOgJklukwNk", "misunderstanding").
 track("4Zbb26a8cnOWoqZuQd0xQC", "everything as planned").
@@ -14487,7 +14487,7 @@ track("0M2CEQSj4QxNmymcJQg0e2", "the way that we have been").
 track("7lxSnSeUHccx8WzKkQX84S", "a war inside").
 track("5AS8MaJKccxm0KBYUv1Y1x", "stay inspired").
 track("5nuBIxCzE65IIof1obNQcK", "just keep breathing").
-track("0CNrfpJdkei9lvUyuVep54", "to keep me from myself").
+track("0CNrfpJdkei9lvUyuVep54", "views that never ceaseto keep me from myself").
 track("1sR3zgmBXj7VONPhTrNRhZ", "what my heart held").
 track("1XDleb5NksSab3NmUAlvz6", "to plant a seed").
 track("2kPtfGFPBQj03inB3WnGUs", "broken statues").
@@ -14497,7 +14497,7 @@ track("3tmHExo7Gq2KlBwFWQH271", "dreams").
 track("6F6NYubOeEqn3xfCDD7S33", "we are the reasons").
 track("0I7a5s9fuXFXgYepRI4Uj6", "beliefs").
 track("7MVHb0Tj21dx6yptWX6JNy", "i will not reap destruction").
-track("1pN0aOCQ1av1ZGcM1tX8u7", "always").
+track("1pN0aOCQ1av1ZGcM1tX8u7", "searchingseekingreachingalways").
 track("64car6YEp1r8d4R5LVMRpo", "an ever-growing wonder").
 track("4jfGcG8kBoxi0c64ju9EK2", "te odeio te adoro - ao vivo").
 track("4fcXJkCGn8fO58N0QHlQLj", "nem pintado de ouro - ao vivo").
@@ -14531,11 +14531,11 @@ track("17878gVEAOq8KzxCwE2e7I", "eu sou seu meu bem").
 track("547ObJRAjysgooXzfOGEXJ", "me apego").
 track("3u5JwV7UmDUgNkgJ4obkpt", "efeitos").
 track("0wJFR1aHYcRtlnvck6I5Cy", "além da lenda").
-track("60rR5fx4CVh78YV3RuE21k", "cantando e chorando").
+track("60rR5fx4CVh78YV3RuE21k", "relaxa  bebendocantando e chorando").
 track("2IOSb666PRSCOaQt0appeE", "não sei me controlar").
 track("61GonlS98qQYbqs3ALAWFc", "efeitos (ao vivo)").
 track("3kldI39ui58Dr6zJXLujQG", "nem pintada de ouro (ao vivo)").
-track("6ulzG5UZjg6ktSL3E9mKzH", "te adoro (ao vivo)").
+track("6ulzG5UZjg6ktSL3E9mKzH", "te odeiote adoro (ao vivo)").
 track("13FsIDSNoF7hLwYU28mG7d", "é fato (ao vivo)").
 track("3SyYKbpRIUDTwLyJhjbqIt", "novela que não sai do ar (ao vivo)").
 track("5ca4WgPIb6EN21iewMiRms", "simples assim (ao vivo)").
@@ -14617,7 +14617,7 @@ track("5w99iDCXqfvdkrF14MAAVw", "intro to amazing grace").
 track("47rQlUxART4WZlJlYpMlqS", "smokie norful introduces melvin williams - live").
 track("1nLtI3rCFS7fGOhf2hUvx3", "intro to amazing grace - live").
 track("4LLiGK3emKCXclqpQvuhLs", "chapter 1: your great reward").
-track("4TuyZgcMHH0yqDP574gIQp", "you just can’t do it").
+track("4TuyZgcMHH0yqDP574gIQp", "chapter 2: without faithyou just can’t do it").
 track("1KsMtKCbUJcVuXEBWMtigP", "chapter 3: it’s already yours").
 track("3OLgCAv8rc1GdFQJzn1aAx", "chapter 4: he is your father").
 track("4EdcQwy7ydJmbMwKAWj4UN", "chapter 5: not yet").
@@ -14685,11 +14685,11 @@ track("0KPRsBn0LmbCJ2RNR46FlO", "reaper").
 track("7AGmVjImI0a7lTIK0l3vqb", "house on fire").
 track("1bP3JC07I2cUcPFAOZFXpf", "footprints").
 track("4ja8kmZf157nKAlQ8FdCky", "sweet design").
-track("0jxMqa1CSK2KciPFp36DNV", "Big Girls Cry").
-track("0fFmWt8wCn57V1yTIwNY97", "Eye of the Needle").
-track("4R5p3yOqDmfo0TGuvUdVyL", "Straight for the Knife").
-track("2EDhWhtqYBDAXyQgwYKgiJ", "Elastic Heart").
-track("6VijxPp9yPaWoTV2w5VDNb", "Fire Meet Gasoline").
+track("0jxMqa1CSK2KciPFp36DNV", "big girls cry").
+track("0fFmWt8wCn57V1yTIwNY97", "eye of the needle").
+track("4R5p3yOqDmfo0TGuvUdVyL", "straight for the knife").
+track("2EDhWhtqYBDAXyQgwYKgiJ", "elastic heart").
+track("6VijxPp9yPaWoTV2w5VDNb", "fire meet gasoline").
 track("7p47CMd9i5CRTDS2Whd7Wt", "chandelier").
 track("0Fp40uAo8xnlPJ5OURuFqi", "big girls cry").
 track("06cCihNZSRVeQqOKiPcqF4", "burn the pages").
@@ -14812,7 +14812,7 @@ track("0mwRNcHjq8SiXotHNC1fTn", "champagne of christmas").
 track("3rB39vWQ4S3KYN5xKaaGR9", "canadian christmas").
 track("6gRPnGo7XIQAFCoWHjQye8", "mr. santa claus").
 track("6o7K8q1CzmHqx9goRWicV2", "christmas with bazooka joe").
-track("13XC4RoXbkOFPmzZFTSb0e", "run!").
+track("13XC4RoXbkOFPmzZFTSb0e", "runrudolphrun!").
 track("5GQpdOPfrITFWzM1qWAwX6", "i still believe in christmas").
 track("7gRpbGWE5ehNQblvvfQB4e", "first date (are you coming on to me)").
 track("1Ryy3r1hSHWmFteTOaoVjo", "shiney heinie").
@@ -15087,7 +15087,7 @@ track("2ZupbjYI5KEp500EL8GtBb", "tu principe - live").
 track("0hydzgvGJw6WV5QS991LfG", "santifica tues escapularios - live").
 track("3C60XidZQYycU8qHqkjpUC", "corazones - live").
 track("2tS6uFjde9O94A11jzfI4b", "no me dejes solo - live").
-track("1HP3hAfho0cQ2rX8mUXzT7", "paso - live").
+track("1HP3hAfho0cQ2rX8mUXzT7", "lo que pasopaso - live").
 track("5cM5iFCyOecgCJFHlxdwoQ", "gasolina - live").
 track("68UyJvQo8yYisTEsFyOGsS", "intro").
 track("0zpmJNXSpRwY42jOyWPxgQ", "king daddy").
@@ -15096,7 +15096,7 @@ track("1EhM7nYYRpH2kzPdlnEpHa", "no me dejes solo").
 track("6jEZLz3YpnEBRpVkv35AmP", "gasolina").
 track("3S2wsVP6VihPaMdxrRELmA", "like you").
 track("1iH7lxELcTRwNXEDikqSEW", "el muro").
-track("6z5Xrx58p5Bs18RIe6KXbI", "pasó").
+track("6z5Xrx58p5Bs18RIe6KXbI", "lo que pasópasó").
 track("0PvhZxSSaVjmGBgtj2RtqL", "cuéntame").
 track("1apJbnviV34Tq8hz3wYVX2", "intro  segurosqui").
 track("56Wm4FC8snVRpF6vYseJ9A", "flow gangsteril").
@@ -15107,7 +15107,7 @@ track("5kesPpOY8Sysd7stBvN0bd", "sigan brincando").
 track("4MJqQ2k8sFTcb9PI21bPIo", "me quedo").
 track("5m5mGmkTg33Cuu0LmZmDpa", "yamilette").
 track("0IS2xSiwCLA2uNSqB6MBOR", "medley: blue moon - old devil moon").
-track("5jsNyuEPzveshOWo03lmIE", "what you said!").
+track("5jsNyuEPzveshOWo03lmIE", "oohwhat you said!").
 track("1XqcUPDjs7bxSLQfgmsIWx", "when you think of me").
 track("5DxvUz9hQUIsj1yv6ZhHBE", "mama look a booboo").
 track("1cqby99IdwJMqfqrwtMFNe", "born for you").
@@ -15327,11 +15327,11 @@ track("39eLlL5oxRyf9eYxAQJEc6", "all my lows").
 track("1HH5wXLolFKYE2ddvqyCKO", "the evolution of man").
 track("1Zu0vXqJFdiumTaQqiJ6Qf", "one way mirror").
 track("3z5YSWwwCYjCrSupn6Rlxg", "snakeskin").
-track("4EnGuiadITmcwqftSKEI23", "Close Enemies").
-track("5jTf1sqP2rUFlv8eeAQgYg", "Crying Out for Help").
-track("2oh1i88MJCCoZGuyyOYIO2", "Say Nothing - Radio Edit").
-track("0ykcuxy9gQaUzJmD0eigzQ", "The Evolution of Man").
-track("7jPmzeayGCUs7nzHz2WNQc", "Snakeskin").
+track("4EnGuiadITmcwqftSKEI23", "close enemies").
+track("5jTf1sqP2rUFlv8eeAQgYg", "crying out for help").
+track("2oh1i88MJCCoZGuyyOYIO2", "say nothing - radio edit").
+track("0ykcuxy9gQaUzJmD0eigzQ", "the evolution of man").
+track("7jPmzeayGCUs7nzHz2WNQc", "snakeskin").
 track("1e1Nxs7WjznSJHYkjnkleQ", "skies don't lie").
 track("6jb9RP9iKfvZalmGrwADvd", "stay awake").
 track("1J82vSrbxqtnO7svZA0zoX", "changed the way you kiss me").
@@ -15353,7 +15353,7 @@ track("7Kvgg1yLVik3q8SszqbTwa", "midnight run").
 track("3b5oYzUzDSoHdN3jsAi7D6", "under the influence").
 track("14esTYBEixtJRiSQEyZ7bi", "sinal vital").
 track("391K1I4vn863EnPjsTCrfQ", "eu topo").
-track("0sBJl5XpHDb3CW0IvOQ7rh", "brincos e beijos").
+track("0sBJl5XpHDb3CW0IvOQ7rh", "cabelosbrincos e beijos").
 track("5cDypTywIu28Ki145XFuDt", "proibido").
 track("5uMSjhEJcXLKT0UANFNyr6", "nosso flow").
 track("3N6AJXsNmeDBfSNO0zcqwS", "antes que o mundo acabe").
@@ -15384,7 +15384,7 @@ track("65BuCRjfmHgLdWLsvubrwT", "pot-pourri: curtindo a vida  deixa acontecer  t
 track("0XJy7zixJMzbC5pjQj4TSm", "pot-pourri: pra mim não é  se eu te pego te envergo  instigante - ao vivo").
 track("5bPMvKwUuGG9LD9j5ufVkB", "assim você mata o papai - ao vivo").
 track("3qQAyQFv8JNyKxI46ywugT", "coincidência não existe - ao vivo").
-track("1fyH6pEPSt2HQPM9ZmycV1", "aham  é nóis faze parapapá  a galera - ao vivo").
+track("1fyH6pEPSt2HQPM9ZmycV1", "pot-pourri: tá bomaham  é nóis faze parapapá  a galera - ao vivo").
 track("7foaXoI4YErmvwuezBxO3M", "vai e chora  eu já te quis um dia  pra você escutar - ao vivo").
 track("7iYGqnqlUTvXmI1YfFl0jL", "lua de mel  brigas por nada  1 metro e 65 - ao vivo").
 track("3O6rTO5qP4KkMJxpVNlLd4", "anjos guardiões de amor - ao vivo").
@@ -15414,7 +15414,7 @@ track("1SbTOuz3lflEq4C0Geo5Bh", "duas passagens").
 track("5jCqOE4ObJfc7hskcLu5Ai", "prédios vazios").
 track("7xl4oaEGei9HTZ0ysqo6Hh", "positividade").
 track("37CEqpKkCphyGxfpx50CIw", "pra você escutar").
-track("3nrJE7Il0BLxD9yHXgl5Xv", "aham").
+track("3nrJE7Il0BLxD9yHXgl5Xv", "tá bomaham").
 track("1CZzl8gksVGs1T5YqT7zEG", "aí que eu gosto e vou pra cima").
 track("35oKxoMacQ9K1kCMqnl3YE", "pot-pourri: amanhã  o que tinha que dar").
 track("5RPEbTndYeFRFAOzKFgbL5", "pot-pourri: o melhor pedaço  brigas por nada").
@@ -15424,7 +15424,7 @@ track("2FaqTj6mhxMCPuPkthoLfV", "pot-pourri: assim você mata o papai  fofinha d
 track("0lztbnKfacokLMQunaGGf2", "é nóis fazê parapapá").
 track("2XbAZweB7JUgxxyxqGyYkh", "pot-pourri: na cama  pra mim não é").
 track("6TJqOBt9zb3eTV0YcGbFU0", "pra você escutar").
-track("61pIXBoHqtCTWLBQMwN9NM", "aham").
+track("61pIXBoHqtCTWLBQMwN9NM", "tá bomaham").
 track("7Kwy7vdM2QMqnSuZeTd4Ue", "aí que eu gosto e vou pra cima").
 track("5xUaGpaz01GMEA4Sf5Jr3o", "pot-pourri: amanhã  o que tinha que dar").
 track("0xFPp18c02mnXlAPmVbxpm", "pot-pourri: o melhor pedaço  brigas por nada").
@@ -15437,21 +15437,21 @@ track("1DnqUPicdZVmHncWAGwAbz", "instigante - ao vivo").
 track("3P5vLvb5Gv2v1S6rRF6zLQ", "conselho de amigo - ao vivo").
 track("3U6QoOc0XBFC9w82zLF8n4", "1 metro e 65 - ao vivo").
 track("0Ugt5vyNBsm2tSXRFx75nk", "lua de mel - ao vivo").
-track("5D32vdsXsRdaFPoRTMTJxP", "por nós - ao vivo").
+track("5D32vdsXsRdaFPoRTMTJxP", "por mimpor nós - ao vivo").
 track("1Tx5hLzGBQjE1lZ2TLFXWp", "suas mentiras - ao vivo").
 track("0JzZhYxGtK0qgJmNHRQBhY", "na maldade - ao vivo").
 track("1SI4N9N8W3dyx8qT5ZrmNQ", "tá me dando mole - ao vivo").
 track("6vILsguQimfjav24F5HRW0", "para - ao vivo").
-track("2bq03x0Cn8l3a827HFmZPR", "1980").
-track("782aXjQYg4tw84f5YJ6xJI", "1980").
-track("2viVucuzhixYbmQWUkt1cV", "1980").
-track("4ha9oM02sLhdZ0mAdqNSeg", "1980").
-track("2zamh5Py7sYMlhXrNi0jeL", "1980").
-track("3Ha4xgJBG5MuNyK74BhpUB", "1980").
-track("1aShBPmnvSLEYo5pMJsNP5", "1980").
-track("3LnjiAM0ztvtbX4ahjUJo2", "1980").
-track("7pwIZBgBnL9uLn97tPwxMJ", "1980").
-track("4I9px02Cw7XDWNJ2Cfniob", "1980").
+track("2bq03x0Cn8l3a827HFmZPR", "circle one - live at the starwooddecember 31980").
+track("782aXjQYg4tw84f5YJ6xJI", "manimal - live at the starwooddecember 31980").
+track("2viVucuzhixYbmQWUkt1cV", "caught in my eye - live at the starwooddecember 31980").
+track("4ha9oM02sLhdZ0mAdqNSeg", "lion's share - live at the starwooddecember 31980").
+track("2zamh5Py7sYMlhXrNi0jeL", "no god - live at the starwooddecember 31980").
+track("3Ha4xgJBG5MuNyK74BhpUB", "our way - live at the starwooddecember 31980").
+track("1aShBPmnvSLEYo5pMJsNP5", "strange notes - live at the starwooddecember 31980").
+track("3LnjiAM0ztvtbX4ahjUJo2", "what we do is secret - live at the starwooddecember 31980").
+track("7pwIZBgBnL9uLn97tPwxMJ", "richie dagger's crime - live at the starwooddecember 31980").
+track("4I9px02Cw7XDWNJ2Cfniob", "land of treason - live at the starwooddecember 31980").
 track("6oD2fD98KlaubUue70HASB", "public image - live").
 track("4q9wLcih8qMDcdMxnZumFe", "lion's share - live").
 track("3lhvmSELWTuvQNY9PvkM0C", "strange notes (live 1980)").
@@ -15716,8 +15716,8 @@ track("0nrEpjLHHnZaieszsAIi2r", "temptation").
 track("3lwNPh0JeEwjbeVtwMZ0vs", "you made me love you").
 track("6MXy64NaYVzEefRGTRNPvX", "hong kong").
 track("2wq1LJe210m2FHem0CoAVM", "take me back to my boots and saddle").
-track("1V40GRr9bpkjydahFQqb3i", "You Ain't Foolin' Me").
-track("2P9ggkvcP4LElhvfj2m2bi", "Frenzy").
+track("1V40GRr9bpkjydahFQqb3i", "you ain't foolin' me").
+track("2P9ggkvcP4LElhvfj2m2bi", "frenzy").
 track("3VZsoOsGKgPc9LJZLoIFsn", "i put a spell on you").
 track("7IOmXHqkJ0xO14fWAIGX7h", "africa gone funky").
 track("7hDhjsobWdsgPFe117n7y7", "alligator wine").
@@ -15743,8 +15743,8 @@ track("2IItRUXmADDb3RQA8ZVRTc", "please don't leave me").
 track("3l8jWaB7gzTcrnVdgKK0z8", "it's only make believe").
 track("5l4mCkEElbGw8FtjjhqxvM", "what's gonna happen on the 8th day").
 track("4uadOIxSZp4dvWwZT7r3c5", "we love").
-track("2rcjwmbzSb7n6Qi8a8frrY", "pt. 1").
-track("4bE2Nbo6vKWE6jzeM5wHXK", "pt. 2").
+track("2rcjwmbzSb7n6Qi8a8frrY", "what good is itpt. 1").
+track("4bE2Nbo6vKWE6jzeM5wHXK", "what good is itpt. 2").
 track("6pdy7llkjOES1SfTmwYDL0", "same damn thing").
 track("6FNAhtbmCrDLde5JBTSniO", "itty bitty pretty one").
 track("6hTpHlawubn0o8AQBRsQf1", "i put a spell on you").
@@ -15890,14 +15890,14 @@ track("2TXk6WedtPsOJQJmz3VAEL", "gettin' it on - reprise - live 1982").
 track("67HPn8UZyDlNf2b8kMo11O", "come into my life - live 1982").
 track("7nyfq2JU5K7szkixCqMk4A", "standing on the top - live 1982").
 track("4mVKU8J9o2Mm7UeFcyI6FJ", "mary jane - live 1982").
-track("74nnrRhgvgn7DDxJ79Gj11", "ca").
-track("4dhVoHHsh1kNvqX9svioqd", "ca").
-track("4CgmJDz9tLZUcqnUBbWcMf", "ca").
-track("5HZpOEp4rhbWsutnfMHBSD", "ca").
-track("67QJs5Ph3preJkxKrEipXE", "ca").
-track("4pjKeABl8issskWiPC5Ohr", "ca").
-track("4ftNvHVRVfYKGze4TqX2Sm", "ca").
-track("1jP6AWuuqAVb2h1a4sgSWL", "ca").
+track("74nnrRhgvgn7DDxJ79Gj11", "introduction (rick jamesstreet songs-deluxe edition) - 1981live in long beachca").
+track("4dhVoHHsh1kNvqX9svioqd", "ghetto life - 1981live in long beachca").
+track("4CgmJDz9tLZUcqnUBbWcMf", "big time - 1981live in long beachca").
+track("5HZpOEp4rhbWsutnfMHBSD", "come into my life - 1981live in long beachca").
+track("67QJs5Ph3preJkxKrEipXE", "fire it up - 1981live in long beachca").
+track("4pjKeABl8issskWiPC5Ohr", "love gun - 1981live in long beachca").
+track("4ftNvHVRVfYKGze4TqX2Sm", "do you want some funk?! - interlude  1981live in long beachca").
+track("1jP6AWuuqAVb2h1a4sgSWL", "mary jane - 1981live in long beachca").
 track("4JL70PpvXDJNDoRCmgh9RU", "deeper still").
 track("1OhRnzo9y2zk1vItkXuXDY", "guinnevere").
 track("6vDFlI3CJ2xUqg3KHHjcOP", "stop it").
@@ -15982,7 +15982,7 @@ track("2CXZO0akBoJowIvZ9d89Uv", "horrible secrets").
 track("0c9t14sVoJYz8qBrrNThcG", "team work").
 track("7F5ItpXONOTqay0FAf2wOM", "frat neighbors").
 track("53yDjevKAulvxMU7jDkQxo", "ceramic dog bank").
-track("7a744s3vgw7Hj4H16ek5cJ", "ok?").
+track("7a744s3vgw7Hj4H16ek5cJ", "i love youok?").
 track("5hs8Pzx1hPWehyISID1mWN", "dog consequences").
 track("4WREkUmVf6P28cKIjp4Qi2", "lower property values").
 track("35FX2lcbTuRjeS3sIkezvO", "emotional sudoku").
@@ -16139,7 +16139,7 @@ track("69ZGoMuak0pJeJgFTf8jOs", "immediate").
 track("7dvqdrZZSAo0QHzIWdeevy", "jody").
 track("66tg0CnTLylMpe8EZYYb4Y", "garlic").
 track("0eBVyekALVpj4jxoJLc0dA", "pipsqueak").
-track("62XbYI776k20prsrypFruH", "she'll have a puppy").
+track("62XbYI776k20prsrypFruH", "she wants a puppyshe'll have a puppy").
 track("3hqjjlMUkLzIfJrHLdyONw", "you can't kill rock & roll").
 track("7dU3N9vxUOzHmH97DKW6hR", "cheerleading").
 track("7fiYA29pomIIi7TARM57fh", "i'll see you around").
@@ -16294,11 +16294,11 @@ track("36YO0Ubouo7PT4Cng94Ytx", "decades").
 track("24jsrkNRFG22zTCQfrFnWa", "heroes").
 track("3COUIRKMj0kdvapjh4exGb", "a question of time").
 track("0BITQhZesGFgemeD2qZayx", "creep").
-track("2IgDGh7qShM6m65dVqAnAW", "Love Got Lost - Live at The Castle Party").
-track("05K8Zw3c16YqHg33doHxNV", "Jasmine & Rose - Live at the Castle Party").
-track("2VicpBX8a6RCFmutgKjRf2", "This World - Live at The Castle Party").
-track("5pbYIa5LIj2F0HAXRW0286", "Calling You Out - Live at The Castle Party").
-track("6ehZoxaVXgsArahsUle04F", "Farewell - Live at The Castle Party").
+track("2IgDGh7qShM6m65dVqAnAW", "love got lost - live at the castle party").
+track("05K8Zw3c16YqHg33doHxNV", "jasmine & rose - live at the castle party").
+track("2VicpBX8a6RCFmutgKjRf2", "this world - live at the castle party").
+track("5pbYIa5LIj2F0HAXRW0286", "calling you out - live at the castle party").
+track("6ehZoxaVXgsArahsUle04F", "farewell - live at the castle party").
 track("1AOcG0Cdmvl9XrKiGOME5W", "my reality").
 track("3Kht3WTsFpdpu7FEFqBpBQ", "delete").
 track("6fLuh58XwqUxFDeG4mm30S", "my chicane").
@@ -16393,9 +16393,9 @@ track("55Nl7gL11hSsMHfaNVQPd2", "a tracky hold").
 track("0RWhkGeIDw1darT3Lt4N3R", "suavesito").
 track("3Hyz2NdC5NVDuvH9xo86ym", "un cosa de amour").
 track("3Tz0pBDhHtkLfs9QEK1mdU", "play that piano").
-track("1wcYgcBH8WW1kXNezuFBqU", "Blow That Smoke (feat. Tove Lo)").
+track("1wcYgcBH8WW1kXNezuFBqU", "blow that smoke (feat. tove lo)").
 track("6aV0mHDLlVzYu0DMlKOcWe", "pon de floor (feat. vybz kartel)").
-track("5qJmb2AyfxMIokW4gDmnJ5", "Roll the Bass").
+track("5qJmb2AyfxMIokW4gDmnJ5", "roll the bass").
 track("4r3qfYI6qILoZHPbixP636", "la-33 (gozalo)").
 track("1E7XX4M4vNbTfqA8eCzOWw", "pantera mambo").
 track("67kdL6e2StFyh6bVSeUAxf", "la reina del swing").
@@ -16580,7 +16580,7 @@ track("6BmSkXTar5kBLWZJfMBGpL", "le serment - live symphonique").
 track("67UuxBIrLLEZLhheDJu3xC", "où est l'élue ? - live symphonique").
 track("7zc6PKtgFZZwqg0VzlQEA5", "millésime - live symphonique").
 track("1sZGsfCe4UJAY81eybiNbd", "un billet de femme").
-track("56OCe8182RlHzBixI5nYTw", "je ne veux plus").
+track("56OCe8182RlHzBixI5nYTw", "je ne sais plusje ne veux plus").
 track("1ftzUmFDtS76cQ5CXDy20k", "le secret perdu").
 track("2dXfZC7CHaOCy2M4tJ1VeP", "s'il l'avait su").
 track("1FPQdMDuuN2rezNEMpT41R", "le serment").
@@ -16616,11 +16616,11 @@ track("1eY2dRkVo6bO271A3gdqxq", "singing my song").
 track("7HKkM572RoWPAX9qlh9sEJ", "la valse des regrets").
 track("70ByvS4ZK4FhzUygOjJUWP", "mr sunshine").
 track("0GxlA4N9TQvLZIz6096Zto", "banquise des anges").
-track("2uPrzYfCDnhgiEdv2Akfdz", "Après quoi on court").
-track("4TRLHgbLcMOsJa9a7bMWKZ", "Libre comme Picasso").
-track("4ju25PqvnCoVBOYXod8oIH", "Millésime").
-track("5cnpxjkR3pnLS6ZIBfgZ3d", "Noir slam").
-track("0a5Ik2UibYxm1NGBfpTRvK", "Le chanteur idéal").
+track("2uPrzYfCDnhgiEdv2Akfdz", "après quoi on court").
+track("4TRLHgbLcMOsJa9a7bMWKZ", "libre comme picasso").
+track("4ju25PqvnCoVBOYXod8oIH", "millésime").
+track("5cnpxjkR3pnLS6ZIBfgZ3d", "noir slam").
+track("0a5Ik2UibYxm1NGBfpTRvK", "le chanteur idéal").
 track("5sMvjzUZK1KSxPXzM3tInT", "rosa").
 track("2zWACm1Ts4VSlPB3Qaqjqw", "la machine").
 track("40luSNCeNITaBtF4BbHyvH", "le chanteur idéal").
@@ -16790,7 +16790,7 @@ track("4vtkz6KdFkwU5Y7XsSmHge", "the blind leaving the blind mvt 2").
 track("0OcBHgEdyET17CgSsNWley", "the blind leaving the blind mvt 3").
 track("1Wvw5QowME3D3YLkzZk9sF", "the blind leaving the blind mvt 4").
 track("2qUYhn17XHXxLioApp7bBD", "sometimes").
-track("3h1KrFLHgkSjNbYkNLKMCr", "then").
+track("3h1KrFLHgkSjNbYkNLKMCr", "nothingthen").
 track("6sKS1TtANry0jqbdWesEVK", "it'll happen").
 track("0Jx1XUWPVitfEc2xVYkcZH", "i know you know").
 track("1x8g9ovsHwzWVaukQY699E", "芙烈亞").
@@ -16896,11 +16896,11 @@ track("6Ndc2JpEfPiPYlp1zGlDqj", "mojo boogie - remastered").
 track("3ZoDR31EOuAmjpD9ZyzDVe", "last night - remastered").
 track("0ywEZu5gAIvd5SW3paDNWf", "walkin by myself - remastered").
 track("3H35VPVpvpzR4XXqYv1lcX", "mad dog - remastered").
-track("0EhGs1bM7ffSpJQoE5U2G9", "1969").
-track("7gGzVdwHDwSjpRQCutcTaO", "1969").
-track("4ZQTDEw46rH7vJvdCD485P", "1969").
-track("6INWQoowzqFxu0ZNjMfux2", "1969").
-track("3wVrX1Iw743dAtzB6qtu9I", "1969").
+track("0EhGs1bM7ffSpJQoE5U2G9", "mamatalk to your daughter - live at the woodstock music & art fairaugust 171969").
+track("7gGzVdwHDwSjpRQCutcTaO", "leland mississippi blues - live at the woodstock music & art fairaugust 171969").
+track("4ZQTDEw46rH7vJvdCD485P", "mean town blues - live at the woodstock music & art fairaugust 171969").
+track("6INWQoowzqFxu0ZNjMfux2", "you done lost your good thing now - live at the woodstock music & art fairaugust 171969").
+track("3wVrX1Iw743dAtzB6qtu9I", "johnny b. goode - live at the woodstock music & art fairaugust 181969").
 track("20KPwEB5e9khK0SuXrfXRW", "introduction (live) - remastered").
 track("0iPGcO2wlvswCO7wdSDJHb", "mean town blues (live) - remastered").
 track("4DSjgDMxAbKy7JlJFfKQVg", "black cat bone (live) - remastered").
@@ -17007,7 +17007,7 @@ track("2XUG87iUZT2ZzKvVvfKrWY", "pasta").
 track("2khzoLoEMqEyoO6WM7Q0jI", "zirve").
 track("3Tp54lXGXfUyYDYUBq7pY5", "dayan yüreğim").
 track("0aRNNwrzgBVAhp7J3Yxplv", "çanta").
-track("6K4irJEaY4e8vuw6wUaSai", "çocuklu").
+track("6K4irJEaY4e8vuw6wUaSai", "evlimutluçocuklu").
 track("4uCkjEtQknbnKdD3FoT2GV", "olacak olacak").
 track("3LyZYNySAdp8pMfohK6SsD", "zirve - versiyon mert ali i̇çelli").
 track("2oXMQX8HYKwkXqRoOEQ1EA", "umutsuz vaka - versiyon erhan bayrak").
@@ -17302,14 +17302,14 @@ track("6suiHqXl38oFQTZQRYnyUn", "vida de operário").
 track("4CeZsElAqAt1tnlAxlo60C", "o bom pastor").
 track("7vc0P0HFVSYwu6zMA7bQsL", "é o bicho é o bicho").
 track("20PIoUJlTDmJ4sODHHamnK", "safado é safado mesmo").
-track("31A8ZPYmhdR97IpYW601if", "2017").
-track("7cV4kTHzi1uBvq0Zouow0Y", "2017").
-track("403rPWZ150wKSV8x3LDFoD", "2017").
-track("7MFv62lmSJpQLNGhvLd9uM", "2017").
-track("42ToYHW2koZnAqgDoEQ314", "2017").
-track("6wyGoqZEndGtXaPBILVAw8", "2017").
-track("0z0mvzBePQByvevhoXni1A", "2017").
-track("712XikHBrJv5tyNHnXszBf", "2017").
+track("31A8ZPYmhdR97IpYW601if", "talladega - live at centurylink centeromahane  april 82017").
+track("7cV4kTHzi1uBvq0Zouow0Y", "lightning - live at scottrade centerst. louismo  may 132017").
+track("403rPWZ150wKSV8x3LDFoD", "cold one - live at scottrade centerst. louismo  may 132017").
+track("7MFv62lmSJpQLNGhvLd9uM", "mistress named music - live at td gardenbostonma  january 282017").
+track("42ToYHW2koZnAqgDoEQ314", "before she does - live at target centerminneapolismn  january 202017").
+track("6wyGoqZEndGtXaPBILVAw8", "young and wild - live at target centerminneapolismn  january 202017").
+track("0z0mvzBePQByvevhoXni1A", "homeboy - live at the palace at auburn hillsauburn hillsmi  february 252017").
+track("712XikHBrJv5tyNHnXszBf", "like a wrecking ball - live at the palace at auburn hillsauburn hillsmi  february 252017").
 track("1GLGfSerlDXRYBCJtHHnua", "the snake").
 track("4piRrSYdrtC0GSgjDElHfQ", "hangin’ around").
 track("4bXo5s1XC6w9tLyOKykxSz", "heart like a wheel").
@@ -17320,42 +17320,42 @@ track("74ZZOckotaqxig604AmI0Z", "higher wire").
 track("1vHeu2j2MpfMqqvcXKLtic", "desperate man").
 track("0yVG0ZtKZZT7lUy4hkzX2u", "solid").
 track("7KNrJiivZDZuTNfZ7kDMdA", "jukebox and a bar").
-track("7BTbPNkg0WO8HFVSqf6US5", "2017").
-track("32OzFuTXjeubhXJmnoG7w5", "2017").
-track("6fhXDIUSB8szLgh68GfXT0", "2017").
-track("4lzG811fbYbpqKCLaDgeWj", "2017").
-track("46MiO50rdXEJuYRpIoDJkY", "2017").
-track("4eLwJLmAxfcw9nr167dLXf", "2017").
-track("7JJgbsDO1gsZm9AjkBWzfb", "2017").
-track("6lf5Q3s19u8xcMxkmCWHi9", "2017").
-track("763Vq8AS5ZkamtMswQXPNX", "2017").
-track("2ZjCzHqV17Aq47tRpF7QsT", "2017").
-track("4ThGOAorZYc1uJn3afXRqs", "2017").
-track("2EbfOAhsCaH6p04UTDwTZv", "2017").
-track("6TItRcTEWCocQSBKBRn5lO", "2017").
-track("1e2rfmkp4rX9XfoDJWR4xR", "2017").
-track("6uHP2wo1uuwyyNvYbaVCuj", "2017").
-track("7KE9uZXJ6ol5C3ZO60yeqV", "2017").
-track("40lYJ3Ew1g03YQlgbvy5jv", "2017").
-track("5rvNLZ9H0S0WyNWMvYULKO", "2017").
-track("5YjKUrLiaVbEt3ZP8XjCoM", "2017").
-track("5crwi20MgbrFCtbpa2D76s", "2017").
-track("55lFTzIiKswOnUYhbyLmG4", "2017").
-track("2HyNkqpKtQ7TiQqdh12ZLD", "2017").
-track("3YEfRbtb1hBRMOQ8Nwo8fD", "2017").
-track("6176B2EW0MrkJSqv1Si8DV", "2017").
-track("0G0LZiE7iz0xAYvLgAVrKy", "2017").
-track("5VdnLhfuRUzHZd6F4zo7d6", "2017").
-track("0sYoy0wqukQ7aaSuRCfJNc", "2017").
-track("0bGBlGXIEd373lUVv62kcg", "2017").
-track("0k7b8Wy5ASpBdLWrDjQrlj", "2017").
-track("08PIGv8v73R8kWmlfE45cr", "2017").
-track("0qm0xvKU1eDbjcaP19l3bO", "2017").
-track("4tYfFrk9pXZ0toTzm9BrvR", "2017").
-track("7d2Ikqcx9WzusZfalAomsn", "2017").
-track("6PoyEaRJcoW5AVGnsFhusy", "2017").
-track("1BdxnFh1298jKijSaCIju1", "2017").
-track("6dQJjtKPl9zq9IQ5skwO4H", "2017").
+track("7BTbPNkg0WO8HFVSqf6US5", "like jesus does - live at us bank arenacincinnatioh  april 222017").
+track("32OzFuTXjeubhXJmnoG7w5", "i'm a ramblin' man - live at us bank arenacincinnatioh  april 222017").
+track("6fhXDIUSB8szLgh68GfXT0", "holdin' my own - live at mohegan sun arenauncasvillect  april 272017").
+track("4lzG811fbYbpqKCLaDgeWj", "just what i needed - live at mohegan sun arenauncasvillect  april 272017").
+track("46MiO50rdXEJuYRpIoDJkY", "heaven was a drink of wine - live at mohegan sun arenauncasvillect  april 282017").
+track("4eLwJLmAxfcw9nr167dLXf", "ain't wastin' time no more - live at snhu arenamanchesternh  april 292017").
+track("7JJgbsDO1gsZm9AjkBWzfb", "ooh la la - live at snhu arenamanchesternh  april 292017").
+track("6lf5Q3s19u8xcMxkmCWHi9", "what i almost was - acoustic  live at amalie arenatampafl  may 42017").
+track("763Vq8AS5ZkamtMswQXPNX", "seminole wind - live at amalie arenatampafl  may 42017").
+track("2ZjCzHqV17Aq47tRpF7QsT", "big city - live at brick breeden fieldhousebozemanmt  march 222017").
+track("4ThGOAorZYc1uJn3afXRqs", "those i've loved - live at brick breeden fieldhousebozemanmt  march 222017").
+track("2EbfOAhsCaH6p04UTDwTZv", "guys like me - live at taco bell arenaboiseid  march 242017").
+track("6TItRcTEWCocQSBKBRn5lO", "what's your name - live at taco bell arenaboiseid  march 242017").
+track("1e2rfmkp4rX9XfoDJWR4xR", "springsteen - live at vivint smart home arenasalt lake cityut  march 252017").
+track("6uHP2wo1uuwyyNvYbaVCuj", "tulane - live at vivint smart home arenasalt lake cityut  march 252017").
+track("7KE9uZXJ6ol5C3ZO60yeqV", "get back - live at talking stick resort arenaphoenixaz  march 282017").
+track("40lYJ3Ew1g03YQlgbvy5jv", "these boots - live at talking stick resort arenaphoenixaz  march 282017").
+track("5rvNLZ9H0S0WyNWMvYULKO", "lodi - live at golden 1 centersacramentoca  march 302017").
+track("5YjKUrLiaVbEt3ZP8XjCoM", "a man who was gonna die young - live at golden 1 centersacramentoca  march 302017").
+track("5crwi20MgbrFCtbpa2D76s", "memphis medley (how i got to memphiswalking in memphis) - live at landers centersouthavenms  february 182017").
+track("55lFTzIiKswOnUYhbyLmG4", "the hard way - live at bakers life fieldhouseindianapolisin  february 232017").
+track("2HyNkqpKtQ7TiQqdh12ZLD", "ophelia - live at bakers life fieldhouseindianapolisin  february 232017").
+track("3YEfRbtb1hBRMOQ8Nwo8fD", "livin' part of life - live at quicken loans arenaclevelandoh  february 242017").
+track("6176B2EW0MrkJSqv1Si8DV", "my town - live at quicken loans arenaclevelandoh  february 242017").
+track("0G0LZiE7iz0xAYvLgAVrKy", "creepin' - live at the palace at auburn hillsauburn hillsmi  february 252017").
+track("5VdnLhfuRUzHZd6F4zo7d6", "ramblin' gamblin' man - live at the palace at auburn hillsauburn hillsmi  february 252017").
+track("0sYoy0wqukQ7aaSuRCfJNc", "pledge allegiance to the hag - live at budweiser gardenslondonont  february 282017").
+track("0bGBlGXIEd373lUVv62kcg", "up on cripple creek - live at budweiser gardenslondonont  february 282017").
+track("0k7b8Wy5ASpBdLWrDjQrlj", "like a wrecking ball - live at pinnacle bank arenalincolnne  january 132017").
+track("08PIGv8v73R8kWmlfE45cr", "two pink lines - live at pinnacle bank arenalincolnne  january 132017").
+track("0qm0xvKU1eDbjcaP19l3bO", "lotta boot left to fill - live at denny sanford premier centersioux fallssd  january 142017").
+track("4tYfFrk9pXZ0toTzm9BrvR", "ain't killed me yet - live at ralph engelstad arenagrand forksnd  january 152017").
+track("7d2Ikqcx9WzusZfalAomsn", "sinners like me - live at wells fargo centerdes moinesia  january 192017").
+track("6PoyEaRJcoW5AVGnsFhusy", "the ballad of curtis loew - live at wells fargo centerdes moinesia  january 192017").
+track("1BdxnFh1298jKijSaCIju1", "record year - live at target centerminneapolismn  january 202017").
+track("6dQJjtKPl9zq9IQ5skwO4H", "knives of new orleans - live at target centerminneapolismn  january 202017").
 track("1edMVudo5tgwao0qyoIz4D", "mistress named music red rocks medley - live").
 track("7KIxzAiqQU1P6PCsfwmui1", "chattanooga lucy - live").
 track("7p8iJbM7ILeLXZc8SH45WW", "mixed drinks about feelings - live").
@@ -17381,7 +17381,7 @@ track("18dbCwJNKaN3noyBfDCqJv", "broke record").
 track("3HxQ1iYGXnihSBfdBQS1ld", "like a wrecking ball").
 track("7JEVVlQyWeB0kKWXnYUfmQ", "that’s damn rock & roll").
 track("1q7mPTh2TS5zXK7SyNQ9x4", "dark side").
-track("6ghfcGfhUiHbQPrZRWczcO", "devil (prelude: princess of darkness)").
+track("6ghfcGfhUiHbQPrZRWczcO", "devildevil (prelude: princess of darkness)").
 track("79qKR5ueg8tisuzIoraroT", "before she does - live").
 track("4tM1hVTKNFQ6EFXGhJyvIX", "how 'bout you - live").
 track("02aJS7F4MznpkFEdPnKjHk", "drink in my hand - live").
@@ -17464,16 +17464,16 @@ track("539irhlshWmh4YcE5gzYzH", "global - jordan suckley remix").
 track("4oIpa2Yr79YFATiLaVAfD0", "el segundo").
 track("76DDcDNPA31oF26miQLZy7", "full tilt").
 track("571QNqFGaXjd1JvumtDABH", "citadel").
-track("2mtZZ8vWbyWbICYokuqHut", "Big Picture").
-track("054ybW7shxoj7HfEyggaCj", "Oh Woman Oh Man").
-track("6AcVhYGsZ4YZX092gHP6te", "Everyone Else").
-track("79KNk030AHZNyqcbsZg6x2", "Bones Of Ribbon").
-track("5q3yjOltqEgTyHVl8qV9o0", "Leave The War With Me").
-track("37IqRuk9KrnvQTBrH54E4R", "Big Picture").
-track("1o1BBb4mySDfMdjbamEFcP", "Oh Woman Oh Man").
-track("5tEiT3Lkrwz6baHPrCTIA8", "Everyone Else").
-track("4zrur573J0lqLoQDxWMcp7", "Bones Of Ribbon").
-track("7xK9q27v0z9aEhGrigUtJ4", "Leave The War With Me").
+track("2mtZZ8vWbyWbICYokuqHut", "big picture").
+track("054ybW7shxoj7HfEyggaCj", "oh woman oh man").
+track("6AcVhYGsZ4YZX092gHP6te", "everyone else").
+track("79KNk030AHZNyqcbsZg6x2", "bones of ribbon").
+track("5q3yjOltqEgTyHVl8qV9o0", "leave the war with me").
+track("37IqRuk9KrnvQTBrH54E4R", "big picture").
+track("1o1BBb4mySDfMdjbamEFcP", "oh woman oh man").
+track("5tEiT3Lkrwz6baHPrCTIA8", "everyone else").
+track("4zrur573J0lqLoQDxWMcp7", "bones of ribbon").
+track("7xK9q27v0z9aEhGrigUtJ4", "leave the war with me").
 track("7c2D4oHqAUIew44U0vdFhs", "hey now").
 track("32XO08H1i1p8u8xi60b7GQ", "stay awake").
 track("1lBNU6fydBC1ofclWJoHyw", "shyer").
@@ -17631,7 +17631,7 @@ track("05Xdfo959hbm4HxSMNXaW5", "lay me down").
 track("0BTUYGDv0hK4LZjB3RIMEG", "hope there's someone").
 track("0FJHSyLzOJzPCo2PbZ7dV9", "heart upon my sleeve").
 track("6NPxIAL1oS6TIL55CerUqx", "voices (arcade version)").
-track("7yZ1yzbsA9ATyYl6wLlM7Y", "the mask (arcade version)").
+track("7yZ1yzbsA9ATyYl6wLlM7Y", "ithe mask (arcade version)").
 track("0VAXPdWk1QSMGKecoWjrlr", "call my name (arcade version)").
 track("35AruiHv6dIbZWbVbTqmH7", "i am above (arcade version)").
 track("6jb7TFYdswCFYWw6xYHeub", "follow me (arcade version)").
@@ -17650,11 +17650,11 @@ track("0ICRA0H6SLMT4cb4Ooo4ql", "ウィ・ウィル・リメンバー").
 track("1JkVEfjix9A74oxBl5UzvA", "イン・ディス・ライフ").
 track("0ZijP2bDsJqVKgjWOfNMC4", "バーン").
 track("6XvFozrG2zcMaAat42vv0B", "ディープ・インサイド").
-track("4sqfZMFTXNGWdHbkETHv9q", "The Mask").
-track("6qgpBezjMvybos30jStS2Z", "I Am Above").
-track("66zA4LSREJbXpSJEeouZZ3", "(This Is Our) House").
-track("0zXtZg37QETziZTUt1ZUNQ", "In This Life").
-track("3zeTSiZoPRbBRpyli5YdAT", "Deep Inside").
+track("4sqfZMFTXNGWdHbkETHv9q", "ithe mask").
+track("6qgpBezjMvybos30jStS2Z", "i am above").
+track("66zA4LSREJbXpSJEeouZZ3", "(this is our) house").
+track("0zXtZg37QETziZTUt1ZUNQ", "in this life").
+track("3zeTSiZoPRbBRpyli5YdAT", "deep inside").
 track("6oGNF814di55oXOKO5ipez", "ドレインド").
 track("5rajZ39GdGELKPjDNOTLu2", "ジ・エンド").
 track("2DhAIhKsJixvGKOovWcr7R", "ライク・サンド").
@@ -17966,7 +17966,7 @@ track("7GWBzvlGf9IWknWx5xIlxC", "just walk on in").
 track("4YZ1sbAyVhsh0BvkuYlQb3", "it's a jungle out there").
 track("6pGX8RCH6oLfyPgyT2OHQe", "living in paradise").
 track("2nuSayytYbmiblOq05eP4M", "touch somebody").
-track("524b4kWdOvESXK5iK5jnyN", "man's world").
+track("524b4kWdOvESXK5iK5jnyN", "this is a man'sman'sman's world").
 track("08z0WdFf7UucIz93Av1wT4", "jesus is the rock of my salvation").
 track("28SP1wghqHGiwqUGqBCXe8", "mr. troublemaker").
 track("4ygdv4I3Gz9kmNGeATpwk0", "blame it on the sun").
@@ -18171,7 +18171,7 @@ track("3LFQXLAGJUvj9eCXzGNK7W", "por ti").
 track("1BF38J222wnJFMQUC2uD38", "cómo pude estar tan ciego").
 track("2hyJa0X0r10qOWt7QOX881", "amor ranchero").
 track("7418J8swdrMtMFiOxWO4bH", "necesito verte").
-track("3cSHXGPPnah0wJdSAqtisF", "sube").
+track("3cSHXGPPnah0wJdSAqtisF", "subesubesube").
 track("0XLnChuU99iTDN2TER1g0p", "nada ni nadie").
 track("2It3qNoBEF37jab9C66zmM", "no puedo estar sin tu amor").
 track("76xCPqXnTedkboNuNx7N1U", "triste recuerdo").
@@ -18231,7 +18231,7 @@ track("41fTjB5NjnnNnAb2iifEs8", "amar por los dos").
 track("2EalBCDZMRvKsqNCYaYlJX", "por siempre tu día").
 track("5ZSAI8iB2DBI344J8v6rHO", "cuando seas grande").
 track("4cTUiqgxWqDfPBqwbFXm70", "vuelve").
-track("1Qh8BKx1iPu3Pq8vnU548p", "soñador").
+track("1Qh8BKx1iPu3Pq8vnU548p", "soñadorsoñador").
 track("2pQigKyl07wWtEWL3HtHcT", "13 aprile 2001").
 track("1E9JmWw5IxxTFMmF5bMF0K", "ali d'argento").
 track("4O5UKEegC3cFZS1KeWM9uK", "baby").
@@ -18273,7 +18273,7 @@ track("6XDqg2enqH3J9MISpaioa1", "mangler ingenting").
 track("0ZODSpYdTpPg2sglE9Ynz0", "gud er min bestevenn").
 track("7aEJTWtVsJiuhFapUgIg8A", "tenker på").
 track("18g1PWdnerMWZqXkoRDNrJ", "him'len").
-track("3cxETXTUGWJeqGP9z1Fbic", "jeg vet").
+track("3cxETXTUGWJeqGP9z1Fbic", "jajeg vet").
 track("6MmaJ4zZnDiA9PAWCLXGoi", "syng i kor").
 track("3Hbmkpb27jRbmP9Z9joJYF", "min helt").
 track("30ev7QNvp05b05s6INgecQ", "hjelpe deg").
@@ -18283,8 +18283,8 @@ track("1VXp3EGuOsmmhu8nLekL1T", "peace signs (feat. nick savage)").
 track("230PMC7vWKeqnUXjtFpA8d", "sol claps").
 track("12etEiQleJ8cfb9GkwLg5J", "daly city train").
 track("6LyUALdgIJmyxdHPXR1tMB", "the dark arts").
-track("6Uq8pVtChYQwCU8nsKdbeX", "nato caliph & black patrick)").
-track("5igf1Tgf1XqtHDd3FSUryj", "tef poe & nick savage)").
+track("6Uq8pVtChYQwCU8nsKdbeX", "beer summers (feat. kamanato caliph & black patrick)").
+track("5igf1Tgf1XqtHDd3FSUryj", "ode to ra (feat. krukidtef poe & nick savage)").
 track("6teai9aPqKroCTWhccbqgS", "science fiction (feat. ms. vizion)").
 track("4chVGRSusBMqD0smsCvNqJ", "let's do what we do (feat. j-toth & nick savage)").
 track("2Syi8IeQpWGGoo7g5tiI69", "all you can eat (feat. ms. vizion)").
@@ -18339,11 +18339,11 @@ track("6GGCpv4hryWD9A8FlsmJ32", "the eleventh hour - remixed").
 track("0n2HgGK7fXmAdAXeFQk52z", "the balance - remixed").
 track("2WKNboHDR2kN5OMccJDksh", "black sheep - remixed").
 track("68MkYYwETryKcd4guWWi0J", "an american dream - remixed").
-track("7L7y9XWnPOw07qmAtaSi9P", "Martyr").
-track("6yz9TRNVqizCUsREyH00sG", "Separating the Seas").
-track("3YZJrzlh6kW0pCfGQuVPtv", "Everlasting Ending").
-track("7vfoj6mbNGMbn8NOuxXBMy", "Blackwood").
-track("7DJhrutc1yBG8rHB4TVxkD", "The Wake - Commentary").
+track("7L7y9XWnPOw07qmAtaSi9P", "martyr").
+track("6yz9TRNVqizCUsREyH00sG", "separating the seas").
+track("3YZJrzlh6kW0pCfGQuVPtv", "everlasting ending").
+track("7vfoj6mbNGMbn8NOuxXBMy", "blackwood").
+track("7DJhrutc1yBG8rHB4TVxkD", "the wake - commentary").
 track("5Om5UY7Xd9mQghCtmkiNBL", "martyr - commentary").
 track("2bxlfgIjZsZIyRU56njMr5", "identity - commentary").
 track("6dJIYUEXOYOkk7Xk4qZ2QS", "separating the seas - commentary").
@@ -18352,7 +18352,7 @@ track("5XuYRSf449s1qIgHI76xGQ", "everlasting ending - commentary").
 track("17nOWLlQ0JpvzsQIzamfJE", "broken promises - commentary").
 track("5ip6mDcb5ggKgpvWHQLkrC", "blackwood - commentary").
 track("27y71fACTIFjviUslaBAoO", "twenty-one grams - commentary").
-track("0UWkqvjlP8D27qyMxys0LU", "The Wake").
+track("0UWkqvjlP8D27qyMxys0LU", "the wake").
 track("3JI1unnnayxEwIuTw2awX2", "martyr").
 track("5c9NqjBoT6aQvYsyVGkkbG", "identity").
 track("7IwsgWznvXR7LnNArFHYEN", "separating the seas").
@@ -18562,7 +18562,7 @@ track("35JrGAREpEnHiA58KwytRU", "chandelier").
 track("1sW5jF7sKYQIJJ2kMyT5oK", "es ist an der zeit").
 track("13P8zTySAjUGxTxGx4zG9u", "from russia with love").
 track("3XELRN0CdNLaJ2OMRWzeBy", "narben - live").
-track("0dVNG3pCtr1CeVnXC6F770", "kannst du mich abholen i - live").
+track("0dVNG3pCtr1CeVnXC6F770", "mamakannst du mich abholen i - live").
 track("2zDVACL2MUQmXOJw3Ip1EU", "lass liegen - live").
 track("2xzOlGIaFPrz5gYfDznGZs", "vor gericht - live").
 track("4b7umGl0GsMUKge3r80DTW", "gute bekannte - live").
@@ -18594,11 +18594,11 @@ track("6hskkl1oiyxgLpAXvDeLPj", "denk an die kinder").
 track("30WDR3niNiW4a6mG9kMs64", "vor gericht").
 track("7klmc0PWfPlMJgpiHklzT2", "lass liegen").
 track("684HCrLovUHyRCwi6P2sXO", "teamgeist").
-track("6LurpAKcV0mdmkxa3HBTNC", "kannst du mich abholen i").
+track("6LurpAKcV0mdmkxa3HBTNC", "mamakannst du mich abholen i").
 track("3vSLMn8uNwyK0VIQIIlfrU", "hab ich recht").
 track("0KBc7CHGezgnWj6fWxwKqR", "gute bekannte").
-track("2XFYpF6BWm74tEFYrNvwAh", "kannst du mich abholen ii").
-track("7HwuQmtBW9UY9EdfBRBtDu", "hört - intro").
+track("2XFYpF6BWm74tEFYrNvwAh", "mamakannst du mich abholen ii").
+track("7HwuQmtBW9UY9EdfBRBtDu", "hörthört - intro").
 track("7eYIvyMrHIK814AJ3s7Jrk", "wer weiß").
 track("0viuKbkRLz7yfsRlXWuc0l", "narben").
 track("6uU2vnOPD80ctbECXeDcYD", "münchhausen i").
@@ -18607,7 +18607,7 @@ track("0bVtnNhxaqhTx56y4kPotO", "fick ihn doch").
 track("3JEOmxzs8YtL0n4BkAjdH1", "amnesie").
 track("2bD5suuqrCtxvXeB4mdivx", "münchhausen ii").
 track("0oPjCNlSfdMGj4VCKumIiT", "prostitution").
-track("71d9IRKbI7rJ6VmxIt6wbh", "hört - intro").
+track("71d9IRKbI7rJ6VmxIt6wbh", "hörthört - intro").
 track("5Po9fLPx9WQIbK4H12Uz9I", "wer weiß").
 track("2kqjHVnRBuOEjcU1vwnWKb", "narben").
 track("6PQodZyKKSrmm2OXaNZL8E", "münchhausen i").
@@ -18887,7 +18887,7 @@ track("7c3GnJoriaSP3Xi1wJ5gMb", "dark paradise").
 track("04cYZCH74znS6dgdryrWLx", "radio").
 track("0SG3beN2W0xyWqtyrDJiNB", "carmen").
 track("2uJ3Vh0EKPCHSDd9rb5v49", "million dollar man").
-track("06EAtSDu3KSoi4fbA3ZjoB", "life").
+track("06EAtSDu3KSoi4fbA3ZjoB", "crazyclassiclife").
 track("5Fw17rh1qEC6YoT32BijNI", "take a byte").
 track("0GJZUWxQrzAOvFzqyxK9ng", "jane's dream").
 track("56RfNBJGUgL1ZFCB1KEJrQ", "django jane").
@@ -18907,7 +18907,7 @@ track("4cIPmkCCWZcryHE1hq8nJ6", "locked inside").
 track("1IrclkofamQgtDxX6LZIQe", "sir greendown").
 track("0kKbY5TbMxd4YtkuIxOWhF", "cold war").
 track("27jQdGzlxBwmB2pRV1iMyv", "neon gumbo").
-track("6Gi2mnrPZbUcT6SYUrGNMC", "maker").
+track("6Gi2mnrPZbUcT6SYUrGNMC", "ohmaker").
 track("2arfwzTZmyhIJqcqeQAQvp", "come alive (war of the roses)").
 track("4J4doCpLNS2wBif1EHSu0L", "suite ii overture").
 track("4t18Py5qQvK6DriDoPkPrO", "dance or die (feat. saul williams)").
@@ -18916,13 +18916,13 @@ track("5zdljOuxFgbkVgVgOXbSIE", "locked inside").
 track("2XlP76bUQxMHlfMlH6sRRT", "sir greendown").
 track("5al9is1AQnaI3lTi20DUG6", "cold war").
 track("1Wv14r1lFyrCJVhe36iHWq", "neon gumbo").
-track("5eKwaeINlNEX3aMlfpmUtw", "maker").
+track("5eKwaeINlNEX3aMlfpmUtw", "ohmaker").
 track("4197HGpsH7jGRz5gInEkfC", "come alive (war of the roses)").
 track("1TKk3nK6cs7T9Vtg9nLH6C", "march of the wolfmasters - ep version").
 track("4F1ODe06Zg6i276BkNtkGg", "violet stars happy hunting! (feat. the skunks) - ep version").
 track("4WehxcnPTxouLdfQhqANb3", "many moons - ep version").
 track("6hHDO5Pk0Dh8k3U0F7bdXG", "cybertronic purgatory - ep version").
-track("06I6iDFVtZDGcRu9BgHraA", "jane - ep version").
+track("06I6iDFVtZDGcRu9BgHraA", "sincerelyjane - ep version").
 track("0DgOmXeyDY7mMqcjelEqse", "mr. president - ep version").
 track("5oE58M5Yvljoz1zUtQf1XX", "smile - ep version").
 track("707SgUwa7Dk4r1PvMUVki4", "amours").
@@ -18968,11 +18968,11 @@ track("03bVEN4p7Z46yUnkf0RgkU", "depuis toujours").
 track("5rbX9uPuEmEv5MjFbhhwlk", "la traversée du désert").
 track("7gTxa6aU7rVDPGGHAvrP46", "revolver").
 track("3qY6iBlToh07wzkqMbprRZ", "shibuya station").
-track("2V6zODjf8uMJEju9CWUmnG", "mitchum").
+track("2V6zODjf8uMJEju9CWUmnG", "sean pennmitchum").
 track("3fTT0SKO8s8IHyTK0je2ef", "si l'on marchait jusqu'à demain").
 track("16cdQ14eqNdZxVokpWol3T", "salomé").
 track("33Kb9ZFcwtWqyoCYSNRnLL", "si c'était hier").
-track("7twpXiilsObszDJH8uI9V4", "non").
+track("7twpXiilsObszDJH8uI9V4", "ouinon").
 track("1anRNkb0Uspn1hIdUKMpfR", "nos sourires").
 track("1rtbJgtxsZ3t8FysQHow6G", "depuis toujours").
 track("5QFZlqrGuJ8atWOnv33Fsx", "qu'est ce qui nous tente").
@@ -19008,7 +19008,7 @@ track("67PTXBYwOVOLUtHWNf8jjn", "intro (my thought)").
 track("3p24fteaLspXfVzC0Ofslq", "on my way (feat. vlad)").
 track("2Bp14P5BTBpYmmEg2Tipzw", "every now & then (feat. vessel)").
 track("1NPVH57aMxIefQuS5jn6W1", "no where (feat. vlad)").
-track("0fihkJoanj331hWinQewxz", "vessel & nadya)").
+track("0fihkJoanj331hWinQewxz", "the best (feat. vladtj bristolvessel & nadya)").
 track("0cucjpdyb7jOZRrnOoXUBV", "ion know").
 track("68GLvVZKyHvsLWzzOXLXI3", "outa my mind").
 track("78Ki398CmFSRJQSlDXJ5g9", "jesus swagg").
@@ -19132,7 +19132,7 @@ track("0urwqPRizoQyttINGf0yiL", "no one is higher").
 track("3HZqGn6B4lsKeRRj89ramh", "stay with me").
 track("4ZQsuqxPOt4VlZ5AqTzPFU", "mile in my shoe").
 track("2cz8HMhBPtB1Vxqu7vtTGm", "to get by").
-track("5MwKKA7tOOMHV0p21LNpJv", "rock").
+track("5MwKKA7tOOMHV0p21LNpJv", "rockrockrock").
 track("3xHDdcABrvKheEcTTRR5rJ", "creator").
 track("02MciF9tdEvgiRH2TJsrt9", "piece of the pie").
 track("6XfAextUok2ZB6T7jnLDEw", "working hard").
@@ -19357,7 +19357,7 @@ track("3fbrLC1OjCVGA1ZDmZFF3o", "trav'lin' light").
 track("02DsHeHMFM751TNH6ul1CS", "i want a little sugar in my bowl").
 track("4KSjJX21hy8FLETutSacMQ", "i'm not in love").
 track("40IkkUJjlnaLQN1CMPmvXG", "what love has joined together").
-track("6n0tdAZCyW1rh686Cy17RM", "get lost").
+track("6n0tdAZCyW1rh686Cy17RM", "babyget lost").
 track("0GKqwZnNZjk3zVvmOtmIF2", "i put a spell on you").
 track("0il1z8mIVMKPcTsDfKPWCK", "simply beautiful").
 track("06COET46JXdXgs458EhzFh", "the same love that made me laugh").
@@ -19365,7 +19365,7 @@ track("2GsXal1ubaMIkudvQpWlHU", "moody's mood for love").
 track("3YhK1krfbSY1iQrR60ghyB", "close your eyes").
 track("34FgiDJjlA4GyrjyBVN5J9", "california dreamin'").
 track("0H7ChsnLbz0VfOkCwyeUoj", "hard times").
-track("0I96dBY4BHfIENoilKp5eo", "mercy").
+track("0I96dBY4BHfIENoilKp5eo", "mercymercymercy").
 track("6hcbPmmDs7fHuyVoZVi9A4", "hello stranger").
 track("2BHIHD0dstnaBLuAZAXrDX", "court is in session").
 track("3YTzwz41BRTQ5hOrRp1UaB", "no yes (skit) - dialogue-explicit version").
@@ -19428,7 +19428,7 @@ track("35DCK3VWJZ2QejqsHarUPa", "coisas que não voltam mais - ao vivo").
 track("3VuqOF8H1JgpYNJfIgTMz8", "tinha que acontecer (cigana)").
 track("7MPMgR7o0ryrkQYScQAyPk", "champagne").
 track("0szV0hmlhmkbsNqCNZHMCc", "bom dia tristeza").
-track("3vTT5E4NYhXX5mUAGNzfuj", "às vezes eu").
+track("3vTT5E4NYhXX5mUAGNzfuj", "às vezes túàs vezes eu").
 track("4oiMer7wGrIUmezwAopDPv", "rosas").
 track("47MMqU3ydNuFNqKwY8tLo7", "vida").
 track("3s6gVkcLEdWrpQQ1kcLUvF", "que vá a luta").
@@ -19437,7 +19437,7 @@ track("7JtNR7Rb9kv3xzZ1hkk7HL", "tudo acabado").
 track("2AdUeJFs1nJCKp3LiK8LUG", "filha do chão").
 track("0fW9Usz4swTonrkQqqkeRa", "se é pra brincar de amor").
 track("544naoQydP1rPybD5vkezN", "amanhã (mañana)").
-track("2uOckH0pSFAUuSid1aHH8G", "na cabeça o ciúme").
+track("2uOckH0pSFAUuSid1aHH8G", "no coração a paixãona cabeça o ciúme").
 track("3OGZPhDwK0DGGfoqXnvw6d", "voz de deus").
 track("1f9vSwzyNiBFQKGZtdk3KO", "eu quero confessar (hoy quiero confesame)").
 track("3EDSaeOu0R7owDHDEWpNod", "quero você pra mim").
@@ -19451,7 +19451,7 @@ track("3j4JGVfVdyMb2SIhJzp1V8", "vida que te quero vida").
 track("7tE7yONj0MFjIz4BbQq7Md", "vida dividida").
 track("66zp0V4yMWR811QhXbXAdx", "o amor que chega (es el amor quién llega)").
 track("2uYPYU8O2XmqSNc3CpSiov", "de tanto amor").
-track("5ptn9fwSxdtm82wnWLf6RO", "o sabiá").
+track("5ptn9fwSxdtm82wnWLf6RO", "majestadeo sabiá").
 track("3MN3MmuIp2s63fuRglq5Qe", "colo das manhãs").
 track("0GHdZVQoALH1AlqzeQ2rLm", "se chama amor").
 track("4jTSgHK1CdgEGsu96WAqZC", "deus como te amo (dio come ti amo)").
@@ -19470,7 +19470,7 @@ track("4ebaltiYuDouMbnqNe3skg", "que amor é esse").
 track("5uMsBRCaDL0Fdc6EqvxBhu", "velhos tempos").
 track("4WPHjTCSf2Ujv1NX9LGRf8", "amor platónico").
 track("56Zz1z12jCpjoqwZjUPHLy", "conflitos").
-track("3d960sMWxvbnDBZdRZlY9Y", "não").
+track("3d960sMWxvbnDBZdRZlY9Y", "não se avexenão").
 track("7BEwMfPJsyoiLIp8ujqd3D", "dói").
 track("5aQEG4O9COn9KC4fLLdsVg", "meu amor").
 track("2mPFQTSbzOtsy7ACVP0L9y", "estou aqui").
@@ -19488,7 +19488,7 @@ track("61lDmHKyuZsBBXLs6pLhaP", "anseios").
 track("0OCTbAvyMETOHcW93tl0XO", "tinha que acontecer").
 track("4863Plkes0vBBju8svciW9", "champagne").
 track("1vT27YUKpGNK3yB6TxW6h4", "bom dia tristeza").
-track("1ykF1Z7EzCK1sno12wJr3e", "às vezes eu").
+track("1ykF1Z7EzCK1sno12wJr3e", "às vezes tuàs vezes eu").
 track("70xlM4CNsdxy46tFVrmoSv", "rosas").
 track("4mzWuwIFWlaVAjcfoKmoHU", "vida").
 track("4LhJkQSoBNpPTxNZJOYYho", "que vá à luta").
@@ -19592,7 +19592,7 @@ track("5eKzvPjtvxdCg01wh5Ed7d", "twins").
 track("3foydcgRi3LwDaQNHgq6bE", "kid you'll move mountains").
 track("1HDTexshzNfuhsnwJqDUeT", "crayon").
 track("0ScpGv5vumZVl8UCaR6AgO", "every time she turns round it's her birthday").
-track("5ukOOdPNDYtVBwPQPmic23", "ontario").
+track("5ukOOdPNDYtVBwPQPmic23", "dundasontario").
 track("5zU4Vfu0sXK0qNO9A5fc0C", "people eating fruit").
 track("7b8AuRKNYaIggDP0wA7QbP", "mammals vs. reptiles").
 track("5yApJk3EHGtzF9eZJxenq5", "brandon").
@@ -19668,25 +19668,25 @@ track("0BDTWTAR0DH4XWiUQ7yBWW", "dead end alley").
 track("1e1Gyulo3vXJXL6cZaP6i4", "waves against the shore").
 track("574miozPVTTE7yklsK3MgC", "alright").
 track("4BoaOP7Z25uA3ZsnfDOB8q", "verdade chinesa").
-track("4AQ0z8PtUeTgjNFak0MvvY", "brasil").
+track("4AQ0z8PtUeTgjNFak0MvvY", "pot-pourri: aquarela do brasil byebyebrasil").
 track("1KOGk7YrIIYM6dWTDYatrO", "flamboyant").
 track("2RmoVglCRkcYsD9E3U0Dim", "saigon").
 track("09FqbkrAVBW4sLjzCFRj8t", "pot-pourri: este seu olhar se queres saber alguém como tu").
 track("4JKNlZ3wJOXWJjAyfk8kOB", "pot-pourri: o mundo é um moinho a flor e o espinho").
 track("2ITVncxQtrOfmWYFdAUc4C", "pot-pourri: na cadência do samba (que bonito é) é luxo só").
 track("0V67xVShCR0eO637cIe9SY", "sonhar não custa nada! ou quase nada...").
-track("6GhdtxFzy13bH8493F2PoE", "didi um poeta").
+track("6GhdtxFzy13bH8493F2PoE", "pot-pourri: chuêchuá... as águas vão rolar! de bar em bardidi um poeta").
 track("0AiCIcKOP4kzlQMBzP24fk", "pot-pourri: mentiras se").
 track("4ZgwNkDXe5JRQXharPeQgp", "pot-pourri: mania de você lança perfume").
 track("4A4CMJTz5dS0S6L9uA7ucH", "pot-pourri: anos dourados eu sei que vou te amar").
 track("3RXHzq0EM4X5355kqvk4W5", "pot-pourri: não tem solução nem eu marina").
 track("5uwdAZgjHwjCCt9RiblHeO", "pot-pourri: pedacinhos (bye bye so long) coisas do brasil").
 track("4ovIzV4mMT9od80j2WEt3K", "pot-pourri: não quero mais amar a ninguém peito vazio acontece").
-track("6UfMnp6tgadCQaiacYzEQc", "o que é? é").
+track("6UfMnp6tgadCQaiacYzEQc", "pot-pourri: isto aquio que é? é").
 track("2DNPcrFDRf9VQlAREviyfm", "pot-pourri: chove lá fora cansei de ilusões").
 track("12iVgxrERujDtaIIo7a0C2", "tropeços naturais").
 track("0j97ywT29BGwt0LjlVcF8n", "pot-pourri: nua idéia (leila xii) lua dourada leila xi").
-track("6zjfTIbFJQQMDYDr980Csf", "os sonhos do vice-rei").
+track("6zjfTIbFJQQMDYDr980Csf", "pot-pourri: kizombaa festa da raça 100 anos de liberdaderealidade ou ilusão lenda cariocaos sonhos do vice-rei").
 track("2xcjEgMz9DO5aSIR3i04T6", "pot-pourri: pérola negra bem que se quis").
 track("54bgSnY8T4xFd9c35wlZjq", "pot-pourri: deslizes oceano").
 track("3FwRKZLYgBZtWs7Ec5P9Oc", "pot-pourri: deixa ficar andança").
@@ -19706,11 +19706,11 @@ track("4uELXm8yZGqo904AQQAPQh", "pot-pourri: retrato em branco e preto o que ser
 track("5XePb5DyVzaYZPm7kDNtKD", "pot-pourri: o bem e o mal vida real").
 track("3d0WJAAZpLg9dDKfHdAw2z", "pot-pourri: chão de estrelas carinhoso").
 track("7invbchnPFZi6272mKrYcP", "tá tudo errado").
-track("0liDwJDKukpCk7qlV9xsra", "quero ver voar rio de lá pra cá atrás da verde e rosa só não vai quem já morreu").
+track("0liDwJDKukpCk7qlV9xsra", "pot-pourri: passarinhopassarolaquero ver voar rio de lá pra cá atrás da verde e rosa só não vai quem já morreu").
 track("2IK0s2joJ2YnZCtBuZrymk", "nega").
 track("1I5ICn3aXVgqLM6FDuJwYR", "minha esquina").
 track("0C0LlCDMRkQ9s2PRDci61R", "no balanco do trem").
-track("2sWkciN4s8M5D299OOMRWT", "rapaz").
+track("2sWkciN4s8M5D299OOMRWT", "te cuidarapaz").
 track("3ztRh4YnciCxox4eFn3F5W", "dança").
 track("46hy7Nq9q9Tyj2vxJttLsU", "comigo é assim").
 track("47V2LOISwciCJwi81IuoNy", "descarrego").
@@ -19727,10 +19727,10 @@ track("4WN7IzMovEtwgOPPVKix2P", "razão de viver").
 track("7gFMpdKLHLzfKs6Hs6tUt3", "pot-pourri: desde que o samba é samba  folhas secas").
 track("7cdBY3METQHR7QoIyS22dS", "pot-pourri: lembranças  meu nome é ninguém").
 track("4h93LeivxZacngdQZzXedc", "tropeços naturais").
-track("5viMK4LQPMJD89EsOedN2e", "os sonhos do vice-rei").
+track("5viMK4LQPMJD89EsOedN2e", "pot-pourri: kizombaa festa da raça  100 anos de liberdade: realidade ou ilusão?  lenda cariocaos sonhos do vice-rei").
 track("2a5yAk3cLrjpYKfmJqzkPh", "pot-pourri: você é linda  coisas do coração").
 track("7rxqk3RW4pzfDVL71LT89S", "pot-pourri: anos dourados  eu sei que vou te amar").
-track("4cDa0tPsLDiDMTTNLymiSX", "brasil").
+track("4cDa0tPsLDiDMTTNLymiSX", "pot-pourri: aquarela do brasil  byebyebrasil").
 track("7v0l6RdbAYH6SiOkRo3eyZ", "pot-pourri: minha rainha  retalhos de cetim  sufoco  alvorecer").
 track("1xxrfBqacE9jtultsdXiaj", "pot-pourri: nada por mim  fullgás").
 track("0UCVdxe8aOdqtCK3uZA8FG", "pot-pourri:eu e a brisa  pra você").
@@ -19748,11 +19748,11 @@ track("7yx4OoWeCSl6ZQjeayp8Mp", "pot-pourri: mania de você  lança perfume").
 track("2PpeXun1BL1TjjzbYdgK1m", "pot-pourri: mocinho bonito  a banca do distinto  não vou pra brasília").
 track("7BuxRSKVtfKDFiDNmW6Z0G", "verdade chinesa").
 track("72O4pz2yrCUeiUxp34tOgr", "pot-pourri: deslizes  oceano").
-track("6IPwEsz3yrqaj4qibbpwkg", "mas vai mesmo  leva meu samba (mensageiro)").
+track("6IPwEsz3yrqaj4qibbpwkg", "pot-pourri: pois é  vaimas vai mesmo  leva meu samba (mensageiro)").
 track("0sO5hLrg9E5qzzdpCaM2qL", "pot-pourri: a saudade mata a gente  no rancho fundo").
 track("4HHl2hHMWUa8YyJ1u5yHKS", "pot-pourri: nua idéia  lua dourada").
 track("3452pnP7zgEuZUeypmIHLO", "pot-pourri: de tanto amor  falando sério  café da manhã").
-track("2DMNPx9PpGq3s5ZpvnX0oU", "a mocidade chegou  e o samba sambou  e deu a louca no barroco  os heróis da resistência  todo mundo nasceu nu  sou amigo do rei").
+track("2DMNPx9PpGq3s5ZpvnX0oU", "pot-pourri: viraviroua mocidade chegou  e o samba sambou  e deu a louca no barroco  os heróis da resistência  todo mundo nasceu nu  sou amigo do rei").
 track("0P2dQCb5bqguTnIjRHto4J", "dias de luta").
 track("4TEDpdM0Stw2ALsY8p5mNQ", "pot-pourri: não quero mais amar a ninguém  peito vazio  acontece").
 track("5VpNzLAYgvmL4g7983Mvfq", "pot-pourri: nervos de aço  nunca").
@@ -19931,7 +19931,7 @@ track("5K7pttEqkZNGu1Or9ng5No", "my heart is").
 track("1Rt7aBxIkMiO2WiaiUIVfC", "never been better").
 track("0rMahQUAzD26GrAXLD7QPb", "so alive").
 track("6TW4vng5shtVsU6iERBe6L", "never lover boy").
-track("0DmivKubhrB8KtThstyJ0A", "irresistible").
+track("0DmivKubhrB8KtThstyJ0A", "flirtatiousirresistible").
 track("1bPzugceUh2iOdpU9KI0gH", "the reason is you").
 track("45PUszv4QbVHdZYJjZgm18", "unforgettable").
 track("3orGZeRBVV3aIynbkQJdRo", "baby i love you").
@@ -19972,9 +19972,9 @@ track("11zd87mDRByfk2h2qGLRa6", "what could have been love").
 track("3ee69OYGeoAL3ggnNEKIaa", "street jesus").
 track("4kaajsjqLA4zZsHAW4W2S1", "lover alot").
 track("25hIhax7UlzBCssVEWFPQn", "road runner").
-track("3z57pZTmJLZf8hCSsFzfZK", "shame").
+track("3z57pZTmJLZf8hCSsFzfZK", "shameshameshame").
 track("5TXwMZ77f36nIWTFVbSQgW", "eyesight to the blind").
-track("0bEhSzN9gh2YAtE83RyD2F", "please don't go").
+track("0bEhSzN9gh2YAtE83RyD2F", "babyplease don't go").
 track("26ebZiJPxEinFk1V86BbzW", "never loved a girl").
 track("1jkohnKYWis6VC37HQArZ1", "back back train").
 track("0p9c2BTNIM86owukLH0tue", "you gotta move").
@@ -20028,17 +20028,17 @@ track("7HWwpbHbMRrCyqOyrRfExZ", "monkey on my back").
 track("5XPDEg7yZT893Ocru6IEph", "water songjanie's got a gun").
 track("2pg89WdhaUgJzVX3YobOht", "dulcimer stomp the other side").
 track("0e1rSCRVwy2mIEkrr6Vcx1", "my girl").
-track("5l9fBktQtZywlRCaIduinV", "get even").
+track("5l9fBktQtZywlRCaIduinV", "don't get madget even").
 track("1h9iizZcbPbQJPdwfqpyFR", "hoodoo voodoo medicine man").
 track("2rVeiO8AI1ZDSv4wjS46OX", "what it takes").
-track("70v9T0jWrn53KCTqjyEMxk", "ma - dec. 1984").
-track("4q2RvHvLMk1k7DYEr8FpOV", "ma - dec. 1984").
-track("21HJIk2SneRO0L2giZINIX", "ma - dec. 1984").
-track("6na7Dlfac13cAPIIE8Gvtz", "ca - march 1978").
-track("2BPtqgqzvoZjnCH60pqYF4", "ma - dec. 1984").
-track("1IwE2jUnqvr55WugizS5iW", "ma - dec. 1984").
-track("0hwnglhe5p039jzGSThr23", "ma - march 1986").
-track("7idnhIFXNrUYDor5dkq7Nu", "ma - dec. 1984").
+track("70v9T0jWrn53KCTqjyEMxk", "back in the saddle - live at the orpheum theatrebostonma - dec. 1984").
+track("4q2RvHvLMk1k7DYEr8FpOV", "walk this way - live at the orpheum theatrebostonma - dec. 1984").
+track("21HJIk2SneRO0L2giZINIX", "movin' out - live at the orpheum theatrebostonma - dec. 1984").
+track("6na7Dlfac13cAPIIE8Gvtz", "draw the line - live at the california jamontarioca - march 1978").
+track("2BPtqgqzvoZjnCH60pqYF4", "same old song and dance - live at the orpheum theatrebostonma - dec. 1984").
+track("1IwE2jUnqvr55WugizS5iW", "last child - live at the orpheum theatrebostonma - dec. 1984").
+track("0hwnglhe5p039jzGSThr23", "let the music do the talking - live at worcester centrumworcesterma - march 1986").
+track("7idnhIFXNrUYDor5dkq7Nu", "toys in the attic - live at the orpheum theatrebostonma - dec. 1984").
 track("0PToMUugHr0Jg6wfzthu0D", "heart's done time").
 track("64NAa5oN0vI72Cyv7zvc4M", "magic touch").
 track("0kEeaTZeSDn2UdD7EExiKE", "rag doll").
@@ -20179,7 +20179,7 @@ track("1KGN0iY2lecsYAgrkQyguf", "in the fadefeel good hit of the summer (reprise
 track("3KCltJc9tEqgvWn4HIkSU3", "tension head").
 track("7pPcfbjOXTEt8i0ez7Al28", "lightning song").
 track("23GhH0GUzYH7YpkTYUYkO4", "turnin on the screw").
-track("1wk0GNRiJvOxGBuaioZWtT", "sick").
+track("1wk0GNRiJvOxGBuaioZWtT", "sicksicksick").
 track("1UI5UDKc6MblDLA0EcRhm1", "i'm designer").
 track("0wmxZ6PCHtC6ucTwmIrapy", "into the hollow").
 track("3vy2KiEQU5MyJS73VBh4QH", "misfit love").
@@ -20189,7 +20189,7 @@ track("44JEbGi3NxptsEuxDNGiAR", "3's & 7's").
 track("5VsNcaLhuKmIlXV0Axnys1", "suture up your future").
 track("3VpcVZvCHQjU3APkGOeFyZ", "river in the road").
 track("2BGGBr1ndYte5HTMTCg3VJ", "turnin on the screw").
-track("3k1MgcAgQBEgpDpm1mBnbY", "sick").
+track("3k1MgcAgQBEgpDpm1mBnbY", "sicksicksick").
 track("6su3Cq5DlFXRt9miWJiQPn", "i'm designer").
 track("2h4S33kW7vTCtrrd3bZzaq", "into the hollow").
 track("25SQpIg4IPPXok34xvw5Ta", "misfit love").
@@ -20203,7 +20203,7 @@ track("5MVCEqtIKXhhsyYXAYqozS", "regular john - live at brixton academy  2005").
 track("7Jn9ILNyWjilX7zj1BSi22", "monsters in the parasol - live at brixton academy  2005").
 track("3Ap5a66m03XsWp2e2MuPrv", "tangled up in plaid - live at brixton academy  2005").
 track("4XMLB3u6Mhb3gDrIVTMscP", "little sister - live at brixton academy  2005").
-track("7ay4an7ptc6R9QKA0U07am", "baby - live at brixton academy  2005").
+track("7ay4an7ptc6R9QKA0U07am", "you can't quit mebaby - live at brixton academy  2005").
 track("2Kxe8BLU9n7yULCuRBwjX6", "i wanna make it wit chu - live at brixton academy  2005").
 track("0VQf0IkmimNyaep7LELa9w", "leg of lamb - live at brixton academy  2005").
 track("5JwiYvJ1ylOSUEBBghcoeJ", "i think i lost my headache - live at brixton academy  2005").
@@ -20218,7 +20218,7 @@ track("6Td8HRLhdV39kKdOQpfQum", "little sister").
 track("5GayzAdj3qbFpO0otdLLvc", "i never came").
 track("5k4HVmPOE3GusKQO8IcH7s", "someone's in the wolf").
 track("56lC3RvLQqqnPIjlFfeoLS", "the blood is love").
-track("48OJGqiTSwiUmDwLpAlGZ6", "but i feel like a millionaire - album version (with interlude)").
+track("48OJGqiTSwiUmDwLpAlGZ6", "you think i ain't worth a dollarbut i feel like a millionaire - album version (with interlude)").
 track("6y20BV5L33R8YXM0YuI38N", "no one knows").
 track("0UEMTz9APWfoJHdlXDeIzm", "first it giveth").
 track("37gG4GPeTRPKKdXYx3zTRC", "song for the dead").
@@ -20229,7 +20229,7 @@ track("0wzRcekWyVCSyPtlPOeJau", "go with the flow").
 track("70cpuGFNENOHuqNhtLVFJY", "gonna leave you").
 track("5o3KGmXAREYplnzG421nsE", "do it again").
 track("3HDo2i2QCFYh7gzC91XmDU", "the real song for the deaf").
-track("5xKuIYaw6oVHD1DihDDTBm", "but i feel like a millionaire - album version (with interlude)").
+track("5xKuIYaw6oVHD1DihDDTBm", "you think i ain't worth a dollarbut i feel like a millionaire - album version (with interlude)").
 track("5F3pIxHCqStKwp4vqcgPSX", "no one knows").
 track("1gjAUwsFY221OP5oBG3qqy", "first it giveth").
 track("52Cxq33KwdRCfGzUvXPHTe", "song for the dead").
@@ -20288,7 +20288,7 @@ track("1BgDUGZBKYL3pJTFQkgwtP", "bal dans ma rue - 2012 remastered").
 track("1ooL2aIdFjsScWB85A9YQ1", "il fait bon t'aimer - 2012 remastered").
 track("45BSQm7lSGxUnmd81NvlsD", "la p'tite marie - 2012 remastered").
 track("66pD9FfJ2SAZNFFYrcHTMp", "le ciel est fermé - 2012 remastered").
-track("5C9mLQMmkz1V7NqwcKzfgb", "je ne regrette rien").
+track("5C9mLQMmkz1V7NqwcKzfgb", "nonje ne regrette rien").
 track("1zUaIHkh13VlIIvUsCIelJ", "hymne à l'amour").
 track("1p11ncxFQmLmm4TcBkZHJX", "la vie en rose").
 track("4cg3WJEKeNPIBxLv0R1hU5", "la foule").
@@ -20306,7 +20306,7 @@ track("4tpM2gwEJEAOFITlXBlNjJ", "les hiboux").
 track("0B5Aay8WcN9krfBaTfFY9s", "j'suis mordue").
 track("7j2zd0Q6W3DYVr8q3SmR7S", "la julie jolie").
 track("4lZYHeLIGx0J7rSqlkUEmg", "va danser").
-track("77xShFXq7IqzKP8tuhse0w", "je ne regrette rien").
+track("77xShFXq7IqzKP8tuhse0w", "nonje ne regrette rien").
 track("4Xee8nOzPhD5Jjbvzt80Yd", "padam padam").
 track("6U0RNWmL2G90s05xjwJPAe", "sous le ciel de paris").
 track("7Fh8A9cwVvBiovW3CkYuX3", "la vie en rose").
@@ -20382,7 +20382,7 @@ track("0nOQZ6bYR8fcdb42m9Z90l", "moi j'm'en fous").
 track("52XPkUx2w6D1suY73ZvG0Y", "ella a").
 track("6au7tEEtFLIszQEEqBtQwf", "battling joe").
 track("7cCoGtjhIe5crSFTFz2tbT", "la grande cité").
-track("0ePLADFfHu6RHzjpSlpJQX", "rien dans les poches").
+track("0ePLADFfHu6RHzjpSlpJQX", "rien dans les mainsrien dans les poches").
 track("26T5Sb2XLvy3IZpZdqlwwD", "il chantait").
 track("2MNPEqXBRpoyaI3KuEAG3M", "le chat de la voisine - live").
 track("4CLMtSr3XBERkbzTworx2W", "luna park - live").
@@ -20499,7 +20499,7 @@ track("4iAs2QORspxnjOocbxJ25X", "meu nome é favela").
 track("6iByyLGlVa8OG1nRaviBua", "o bem").
 track("51VK6yPLX2nSzbtu9CdGzs", "cantando eu aprendi").
 track("1Wd4WCdvUmVcpFZYBuSQlM", "mãe").
-track("472nkMq4xMeN4tJEYGVpFN", "nem tanto o mar").
+track("472nkMq4xMeN4tJEYGVpFN", "nem tanto a terranem tanto o mar").
 track("74pNkQ47bhbhBfbTMBzMyO", "oferendas  pra gente se amar").
 track("3LDKVSn04AFmRNd9BWaCvO", "o show tem que continuar - ao vivo").
 track("17zYYHdsOE7Z9XVQJEiaHd", "a pureza da flor - ao vivo").
@@ -20554,13 +20554,13 @@ track("3iQx0P7lcK8B8NNo9wC32w", "tudo que ela gosta de escutar").
 track("68uBfK67y4ZKD45qHJYaw7", "confisco").
 track("5nnwtxX8rzN54j6Z7Uhr9c", "não deixe o mar te engolir").
 track("2VoAE0zhXuNdPbHQ7dJNMw", "te levar daqui").
-track("77QHWCGbM0LEtr6X3gGHBX", "o dono do mundo").
+track("77QHWCGbM0LEtr6X3gGHBX", "rubãoo dono do mundo").
 track("1LQbFNBd3y03RsPKR9U8vE", "lugar ao sol").
 track("7vM3wi9leaynP5Bmi93VDh", "um dia a gente se encontra").
 track("1JeoJ8W7adEJOc1mkTq2qp", "fina arte").
 track("3eA1BJs00KXOcOLNoMZ4Pu", "cheia de vida").
 track("0LDT8QEHbPA0aawzm9CWP7", "meu novo mundo").
-track("0jVdF2QoGRXcsUSdGePlrD", "do jeito que eu quero").
+track("0jVdF2QoGRXcsUSdGePlrD", "do jeito que eu gostodo jeito que eu quero").
 track("7pwUaV6Ygczf3y4rYDweUw", "rock star").
 track("0DZy6nJdqvHSeobBaOBJI6", "vem ser minha").
 track("0vgmsxgWglYs52xNkW5Tkh", "hoje sou eu que não mais te quero").
@@ -20573,7 +20573,7 @@ track("7wM7u6FdwNBFHfMDFT2ZYA", "tudo que ela gosta de escutar - ao vivo").
 track("79xcEtkx5k3bQqhIQ0PLaC", "me encontra - ao vivo").
 track("5BYm8p2eWn3zH7OfC03fVS", "pontes indestrutíveis - ao vivo").
 track("6yfiOwRrxZbTOWCkEuWaGS", "te levar daqui - ao vivo").
-track("0IRYGzxNqKpF1FuwqKFHj2", "dias de glória - ao vivo").
+track("0IRYGzxNqKpF1FuwqKFHj2", "dias de lutadias de glória - ao vivo").
 track("3bnEUsuDzHSQlXtEwIEHYa", "descubra o que há de errado com você - ao vivo").
 track("41z2fW8YIzWjwNChMaDnT9", "céu azul - ao vivo").
 track("2z6UBaiYSLtYRwhjED9pWx", "pipeline - ao vivo").
@@ -20592,14 +20592,14 @@ track("1EyllMss4HIwebAqSia1HI", "tudo que ela gosta de escutar (ao vivo)").
 track("4xTXvDVSn9fixWGiwcfJk6", "me encontra (ao vivo)").
 track("4llGP0cJLpjErWPu0WP973", "pontes indestrutíveis (ao vivo)").
 track("4ErBtW0hpPjHRuvwcdRwRE", "te levar daqui (ao vivo)").
-track("2PvXGz2duen02oSphO65K2", "dias de glória (ao vivo)").
+track("2PvXGz2duen02oSphO65K2", "dias de lutadias de glória (ao vivo)").
 track("2UaKTLat4TYWghVyKkFdAh", "descubra o que há de errado com você (ao vivo)").
 track("7oiqzVwyrRUueE6EqPpmzG", "papo reto (prazer é sexo o resto é negócio)").
 track("3fUpBONB8CBnyydSYjpVU0", "zóio de lula").
 track("1IjlAQxCX3mgpddbBqrETB", "proibida pra mim (grazon)").
 track("2sN8JwoV6cl3d0680XBuSc", "lutar pelo que e meu").
 track("11dNqg79zzeVunfwBi2T2a", "não viva em vão").
-track("55ZYyFiPyLSN5krv7Wun8X", "o dono do mundo").
+track("55ZYyFiPyLSN5krv7Wun8X", "rubãoo dono do mundo").
 track("0l6aEz9G2gp4kO72bKx9L1", "ela vai voltar (todos os defeitos de uma mulher perfeita)").
 track("5cV5u1YVOCY3bEClhDGU4x", "te levar daqui").
 track("0rGMMye3rd7zAilUKzYY31", "uma criança com seu olhar").
@@ -20610,9 +20610,9 @@ track("24miLxqEchxqXnm528AI2H", "inabalavelmente").
 track("3J59I82oH62DfYPylH4qAK", "só existe o agora").
 track("3M6auAoAoVyPGxNxe1jcXw", "só pra vadiar").
 track("2QIwuG4S7XCp5R0a8F8jvz", "puro sangue").
-track("4kqszTtqgCTZ6OI93qwwcM", "a inteligência e a voz").
+track("4kqszTtqgCTZ6OI93qwwcM", "o doma inteligência e a voz").
 track("1hGQVoFCYk9jf89O6rQxvE", "os cortes").
-track("0bark9ggXjhaH9iy7RqwpR", "tenho sede nela eu vou").
+track("0bark9ggXjhaH9iy7RqwpR", "uma só vida pra vivertenho sede nela eu vou").
 track("0IpAXyRFx0STjiDbclEjeT", "pipeline - ao vivo").
 track("5gyEUbFMBxHRCo9LWWiNg0", "ninguém entende você - ao vivo").
 track("6SnoBV6aGgMNY1ah1eN4Xd", "não viva em vão - ao vivo").
@@ -20697,7 +20697,7 @@ track("3SImA59msymRqgmer1E5Lk", "die and get the fuck out of the way").
 track("18IlVvsuR09ghogCVR4Ig0", "insipid conversations").
 track("6g0vgJp8bDPc93rigmgMie", "vexed").
 track("4xK7XUfZBEk7lGxTMpJWRF", "circus mutt (three ring inferno)").
-track("3KFzHV1XENRCkGVwkZoLID", "wisconsin").
+track("3KFzHV1XENRCkGVwkZoLID", "green baywisconsin").
 track("57vL24peZXDTr0fEkCenUL", "the constant").
 track("3bylr7iU0HQcaC5jAm1WBy", "wonderful day for the race").
 track("77jYxJgVXL4O3n2OnJki4y", "unified").
@@ -20856,7 +20856,7 @@ track("3s9TmbmbPExW5WLveOJ9eb", "光男カメラ").
 track("2e0d752LDbkbykAeQsLtpq", "サマタイム・キル").
 track("3pxJ9L09DmOM3gY0WaZcD8", "つきぬけて - album ver.").
 track("1L0ByZaYYwN1W8jGMsoFwD", "mic discovery").
-track("4Vy9umYY7iEUIZpdfNPIEC", "baby blue").
+track("4Vy9umYY7iEUIZpdfNPIEC", "rose gardenbaby blue").
 track("3051yTNv6jEabNEW04FQXG", "スピカ").
 track("0qTsT9MTRIynJ2tlIRO3Qj", "光のたてがみ - album ver.").
 track("4FCk8VS2EQ9zmw43w6aeoR", "日向の国のユカ").
@@ -21002,7 +21002,7 @@ track("2Q62UWhaQzmrh7ptHWO9lX", "love like crazy").
 track("7lYLpPXrhaTA2Mpj6qoE2k", "this christmas").
 track("2Cv5JBxPxJ86McvJa4UyqD", "teach me").
 track("0FDLoskdIcIrfNujgDRfIT", "snap").
-track("4Ym9mcAM76wbfhwNpiFKD5", "never").
+track("4Ym9mcAM76wbfhwNpiFKD5", "nonever").
 track("7m9talOzhR7KvEVQcoNYTJ", "this is me").
 track("1xZW7AF5tHHtJ1hkJLp4NP", "church nite").
 track("2dc3f9srVqYCpOYXExQrcj", "hear this").
@@ -21096,9 +21096,9 @@ track("4n0hZGTiObGQPJqSwohUtm", "miss missing you").
 track("74ScawROQiUZjgB2GVlUVy", "death valley").
 track("5MgktpwpskFX2sWDcjUA6N", "young volcanoes").
 track("3HIN2WMbQf8Hcd8uWnch9O", "thriller - live in tokyo  2013").
-track("0oIxIt90cmzBF6pakFw080", "it's an arms race - live in tokyo  2013").
+track("0oIxIt90cmzBF6pakFw080", "this ain't a sceneit's an arms race - live in tokyo  2013").
 track("7j8fe5k3EX1wtMIKNwgFtm", "grand theft autumn  where is your boy - live in tokyo  2013").
-track("30ZZfEiIkoMzVq79Z1JHZM", "dance - live in tokyo  2013").
+track("30ZZfEiIkoMzVq79Z1JHZM", "dancedance - live in tokyo  2013").
 track("5AQBzO2tW7GgVfla5pzeMX", "i don't care - live in tokyo  2013").
 track("5aNzfZYnQCAEtRg3fg3uJT", "my songs know what you did in the dark (light em up) - live in tokyo  2013").
 track("4ED9SzwEi3Ch4mHLC1ZawM", "beat it - live in tokyo  2013").
@@ -21114,22 +21114,22 @@ track("2G11MU4SMMHlA8rme5N7kd", "young volcanoes - commentary").
 track("1hm9XkSg41mkHRwXqQkPT5", "rat a tat - commentary").
 track("525Wc5pBnvEZmfr1mXWv4R", "thriller - live at the cricket pavillion 2007").
 track("5obII1Sa9rPpPGXkYT53RO", "grand theft autumn  where is your boy - live at the cricket pavillion 2007").
-track("3af8j4E9x409xk2flBoHqD", "we're goin down - live at the cricket pavillion 2007").
+track("3af8j4E9x409xk2flBoHqD", "sugarwe're goin down - live at the cricket pavillion 2007").
 track("30hgb9AYMMhf8STOa7kD3G", "our lawyer made us change the name of this song so we wouldn't get sued - live at the cricket pavillion 2007").
 track("1Pd7INu4sAq2IPCojKaQax", "hum hallelujah - live at the cricket pavillion 2007").
 track("4bpEHkJuadYSKCOBxEYww2", "tell that mick he just made my list of things to do today - live at the cricket pavillion 2007").
 track("1V8I9lCbXUkmhQqrZlt0VR", "i'm like a lawyer with the way i'm always trying to get you off (me & you) - live at the cricket pavillion 2007").
-track("2hA6TtD1CAVPKY09dbOmPH", "a little more touch me - live at the cricket pavillion 2007").
+track("2hA6TtD1CAVPKY09dbOmPH", "a little less sixteen candlesa little more touch me - live at the cricket pavillion 2007").
 track("4BzJMmoljvNE16i9NN8nO1", "beat it - live at the cricket pavillion 2007").
 track("4io27hPj3XwN0GAI2d7YlN", "golden - live at the cricket pavillion 2007").
 track("79EH9bYjaTvmsE1H2TFIcL", "thriller").
 track("3FMS3X91AaCFUyUQCnAdZ6", "grand theft autumn  where is your boy").
-track("7GpFvT1qi8mkwdIjSbfiSh", "we're goin down").
+track("7GpFvT1qi8mkwdIjSbfiSh", "sugarwe're goin down").
 track("2Yy62OMoHAb5cfpmCO3Zxg", "our lawyer made us change the name of this song so we wouldn't get sued").
 track("4oLUW3uOjddpd974j1RKWr", "hum hallelujah").
 track("0x5iCDgFVaVgCnHgDU0LSP", "tell that mick he just made my list of things to do today").
 track("4vK8RqyxPfPNTmBaNcIPIx", "i'm like a lawyer with the way i'm always trying to get you off (me & you)").
-track("6G88rdUvEwydWU0xnILXBh", "a little more touch me").
+track("6G88rdUvEwydWU0xnILXBh", "a little less sixteen candlesa little more touch me").
 track("76HLlU4iPwsTz4hj54a7AY", "golden").
 track("31wZkGGMaagKKmekkNmYI2", "disloyal order of water buffaloes").
 track("5gbnsMZKQE3W0B80qJ9kJY", "i don't care").
@@ -21138,7 +21138,7 @@ track("3A0l54lo6iCdOokmnppRkp", "america's suitehearts").
 track("7CAzK5N3n69UymsxpgSlt0", "headfirst slide into cooperstown on a bad bet").
 track("37sNp5j4fHPA0uD5WrxcJw", "the (shipped) gold standard").
 track("2FVOiuDxeN4CPjYuJ0ZsiG", "(coffee's for closers)").
-track("5kTsREMyZ4pGHLLeQMdahN", "donnie").
+track("5kTsREMyZ4pGHLLeQMdahN", "what a catchdonnie").
 track("00O7ESPwJ4p4zndehVsoXI", "27").
 track("74JqiNBTYsWAoRZKRgZh7F", "tiffany blews").
 track("1KmC98aJc3U0oTBRQGqMPP", "infinity burning - medley  live").
@@ -21422,15 +21422,15 @@ track("5bYp4YHoIUADQbA4ukoaao", "crossing over - satoru remix").
 track("6pg1DSBjReor1j5G0Z7ozK", "trillogy").
 track("4VBfM56ew4itOpLJCOj1E9", "colours (feat. stephane vera)").
 track("2wEUmVCuw8BEHDzrGz4tuS", "collateral damage").
-track("7K1ha4sXBAY0seGfwCch5M", "will travel").
+track("7K1ha4sXBAY0seGfwCch5M", "have dreadloxwill travel").
 track("7mOA6HYQRtP51PgdrFLPe1", "the skizza").
 track("1HYkK098LWnaUbWWkMIumM", "scratchdisc").
 track("2fsHDieixOFqLg1BzpPYbj", "prickles n goo").
-track("62P605ziBx3iLEMrhOiYDx", "Bek").
-track("1NiDHKoEihT6WgspA6u3kq", "Face to Face").
-track("6Dy5AqkWytIBIG9h5Nxlqk", "Lucifer").
-track("4bw4rJVMi27vpNWODKQdqb", "FreeStyle").
-track("0yZpMYvpqopK9adJrDT3S9", "Die Today").
+track("62P605ziBx3iLEMrhOiYDx", "bek").
+track("1NiDHKoEihT6WgspA6u3kq", "face to face").
+track("6Dy5AqkWytIBIG9h5Nxlqk", "lucifer").
+track("4bw4rJVMi27vpNWODKQdqb", "freestyle").
+track("0yZpMYvpqopK9adJrDT3S9", "die today").
 track("43YQDj1KOPMFAUcTEPKy4p", "millions").
 track("5OC4vQl6XKvsCzgrPwzY1q", "just how it is").
 track("2G1O1E91aRpIX5r6ngW51V", "light it up").
@@ -21463,22 +21463,22 @@ track("1vbUiccx25u2ncTe4RujS2", "tattoos").
 track("1o5jdqnWybW9Mau4GDWPMa", "problem").
 track("6uJmfWyFMLGCjvvRF5mpG9", "king troup").
 track("5MD2QLnFM2ChpKAh33z0zr", "hercules").
-track("0H3rsC0Zf5soOTFzRxu7N3", "1972").
-track("0opLuunA7suPfc6y4BNcfe", "1972").
-track("1j9IbtSrhhID9P9VXp93UH", "1972").
-track("4GULkV1CIBDNu0Ln3846EA", "1972").
-track("44v7ClPRAeYnmBPqwQchZw", "1972").
-track("6i3IjXdQ8Z8WdGsyXugO4I", "1972").
-track("64J1woxUMA6e3duNzdv1iO", "1972").
-track("5WC9HQS62GZbvWPjn1C9cE", "1972").
-track("1M7yY44VpWYj5VbslPbsQF", "1972").
-track("3vCAPCwtvPrqqED71GEyWo", "1972").
+track("0H3rsC0Zf5soOTFzRxu7N3", "sixties medley - live at the kennedy center auditoriumwashingtond.c.1972").
+track("0opLuunA7suPfc6y4BNcfe", "right on - live at the kennedy center auditoriumwashingtond.c.1972").
+track("1j9IbtSrhhID9P9VXp93UH", "wholy holy - live at the kennedy center auditoriumwashingtond.c.1972").
+track("4GULkV1CIBDNu0Ln3846EA", "inner city blues (make me wanna holler) - live at the kennedy center auditoriumwashingtond.c.1972").
+track("44v7ClPRAeYnmBPqwQchZw", "what's going on - live at the kennedy center auditoriumwashingtond.c.1972").
+track("6i3IjXdQ8Z8WdGsyXugO4I", "what's happening brother - live at the kennedy center auditoriumwashingtond.c.1972").
+track("64J1woxUMA6e3duNzdv1iO", "flyin' high (in the friendly sky) - live at the kennedy center auditoriumwashingtond.c.1972").
+track("5WC9HQS62GZbvWPjn1C9cE", "save the children - live at the kennedy center auditoriumwashingtond.c.1972").
+track("1M7yY44VpWYj5VbslPbsQF", "god is love - live at the kennedy center auditoriumwashingtond.c.1972").
+track("3vCAPCwtvPrqqED71GEyWo", "stage dialogue - live at the kennedy center auditoriumwashingtond.c.1972").
 track("5ca5Np4RYoWkqJtSLc1uKA", "you're the man - pts. i & ii  single version").
 track("6BMexkfurRnh61m0klutax", "the world is rated x - alternate mix").
 track("689yCTyPxrBGW3p5GNMdBj", "piece of clay").
 track("4GXZMcTdcPVULca9yGDib5", "where are we going? - alternate mix 2").
 track("0HNdFpa0DwDeDspNufOGAb", "i'm gonna give you respect").
-track("2oiEgfVDOSEWS5z4ocmfyz", "you'll like it").
+track("2oiEgfVDOSEWS5z4ocmfyz", "try ityou'll like it").
 track("29yTu9iU0xUBvKgOIzjd8c", "you are that special one").
 track("3zHF3gNHmY6T9NvEUwDm1W", "we can make it baby").
 track("7laA5mV50YvKTNHQ1PdAFO", "main theme from trouble man - 2").
@@ -21501,14 +21501,14 @@ track("7g8ebe5Ffp90jLc5Pm6obk", "the song is you - live").
 track("3wH9uDCfQT39biZzBQCO7Y", "ain't that peculiar - live").
 track("0GhUoBK00tfTqBqJkqtIa0", "every once in a while - live").
 track("5OvNek152O5FCeau3GCQd7", "the shadow of your smile - live").
-track("13Kl9oZmf46uaONesLnsua", "Got To Give It Up - Live").
-track("0hQVYtwkUsTpWo0xDndCsE", "After The Dance (Hellos) - Live").
-track("3cadyXRj4iai6F2szzqOi8", "Let’s Get It On - Live").
-track("3pJCfPBrgU8nq8d2k6aKyK", "If This World Were Mine  Ain't Nothing Like The Real Thing  Ain't No Mountain High Enough - Live").
-track("381wcolcCbllDRTh4yRSv3", "Ain’t That Peculiar - Live").
+track("13Kl9oZmf46uaONesLnsua", "got to give it up - live").
+track("0hQVYtwkUsTpWo0xDndCsE", "after the dance (hellos) - live").
+track("3cadyXRj4iai6F2szzqOi8", "let’s get it on - live").
+track("3pJCfPBrgU8nq8d2k6aKyK", "if this world were mine  ain't nothing like the real thing  ain't no mountain high enough - live").
+track("381wcolcCbllDRTh4yRSv3", "ain’t that peculiar - live").
 track("4f4aW3jJuvWGw8HSJaANko", "why did i choose you - 1995 the master version").
 track("35ntAtdvK9V3xJI98umZMK", "she needs me").
-track("2s1NzGUoHu5IIbO5RVDcg4", "not much").
+track("2s1NzGUoHu5IIbO5RVDcg4", "funnynot much").
 track("48wITUwGAEiEiM93KC0ts5", "this will make you laugh").
 track("1RsuK4UfclpnGVualHjTue", "the shadow of your smile").
 track("6Fsj6JgcsZY2mYtMJfBdMg", "i wish i didn't love you so").
@@ -21574,21 +21574,21 @@ track("7KCvyzT5jtlJwoyUN8Uw0A", "for sale? - interlude").
 track("2bwC0ggz9qwYcCIpM1fBzK", "momma").
 track("0lGb6cqAouFJqlNT0HJEcV", "hood politics").
 track("68bPCu5uDE8bwwKMBiBUii", "sherane a.k.a master splinter’s daughter").
-track("77tV1XfYBdhIkeInvsy0DC", "don’t kill my vibe").
+track("77tV1XfYBdhIkeInvsy0DC", "bitchdon’t kill my vibe").
 track("3wtzWrddgtWoq7TYWMKwkD", "backseat freestyle").
 track("5JbemHJ9qUWPKNjqdEftrC", "the art of peer pressure").
 track("2Y1grgwNCnGjbNbpUqtjGe", "poetic justice").
 track("6ziDhQlFDOoMtXfni7xSIz", "good kid").
 track("4uzJYGILj6t9KfnK5vIWvI", "swimming pools (drank) - extended version").
-track("2sJ67fJpYyhtqRmuoklgR3", "i'm dying of thirst").
+track("2sJ67fJpYyhtqRmuoklgR3", "sing about mei'm dying of thirst").
 track("41yVyNb4HAPvbnFUn4qR12", "sherane a.k.a master splinter’s daughter").
-track("0sBYyYkGwAsJzeXVx04Smz", "don’t kill my vibe").
+track("0sBYyYkGwAsJzeXVx04Smz", "bitchdon’t kill my vibe").
 track("2jUuNTSaOtIoid65YIHqEd", "backseat freestyle").
 track("0wlKrJ1FBLybjLg6JGyzWb", "the art of peer pressure").
 track("1sE0KN7oFW4GuiAypOyeFY", "poetic justice").
 track("3pssIBkIjNPcPzmr4zkJ9G", "good kid").
 track("6LkSOtI6UDmwYAF5I7RTqc", "swimming pools (drank) - extended version").
-track("7lxnUYfxMKXtPWBe8THldB", "i'm dying of thirst").
+track("7lxnUYfxMKXtPWBe8THldB", "sing about mei'm dying of thirst").
 track("1gXH8hT9dxsBqbRy7h2iC8", "f*ck your ethnicity").
 track("6cfVDaIdvDtYH91RqC6Wox", "hol' up").
 track("2Fw5S2gaOSZzdN5dFoC2dj", "a.d.h.d").
@@ -21616,7 +21616,7 @@ track("7z8ZCE2VoMVIl38E5Wkqd1", "i almost lost my mind - live").
 track("6mDzzYf55XYiVMLQGlYqOy", "friendly persuasion - live").
 track("7kuQa5X8i72mHEZLV8RRpV", "why baby why - live").
 track("38G7gRzqtlmWLjWviuOS0b", "love letters in the sand - live").
-track("4EWDa9vC3egKF7pYhPMkJq", "remember you're mine - live").
+track("4EWDa9vC3egKF7pYhPMkJq", "tenderlyremember you're mine - live").
 track("0Cn6Ojq5pEzIxMHFC7zN1q", "bernardine - live").
 track("7jxKkwHY63olZBPxN3Izvl", "there's a gold mine in the sky - live").
 track("2TZ7yObIUTw9Ogg6byJoqi", "april love - live").
@@ -21705,7 +21705,7 @@ track("131THbrdlsrXK36NPoX6PX", "victory").
 track("1zTnOrTYLWmsUtZqIJ5LS8", "mighty one").
 track("7CQ92oaMBkyCmy2qiVgtOT", "great & mighty").
 track("3GIvoZb9cqkp0vDrKjx9P2", "good anyhow intro (pastor charles jenkins)").
-track("7qH0n8xFGutFKxBo621hvG", "my strength").
+track("7qH0n8xFGutFKxBo621hvG", "my refugemy strength").
 track("4N4yUAylXs332pN9UVjN1r", "you").
 track("6I1BQwYTx9skRFqZ8alNyG", "throne").
 track("0j7NzeiNUJfpqTdE2P3lcX", "the presence of the lord is here").
@@ -21825,11 +21825,11 @@ track("1u1UGPK1PvidjZ3bckZ67M", "gotta have it - sliced and diced mix").
 track("2luLHqCkx1qB6ScOwVvpTY", "tarot - alternate mix 5").
 track("5ELdKDpjjiO4unfBfHfTp4", "tarot - pod dub mix").
 track("37ybY3rm9vzNlC0LjkdX7B", "voices in my head - mrs fiend's instrumental mix").
-track("4I0P5eUZo0DIDJ3BEZmS7e", "pt. 2 mix").
+track("4I0P5eUZo0DIDJ3BEZmS7e", "evolution - back from the dreadpt. 2 mix").
 track("1SAHx7Udd7xAaz26LmxuHc", "baby - demo").
 track("7mi8WIuJL7AXCE0IXc36YI", "information overload - revamp mix").
 track("0uJzH7BIYfUWoiD6nxDjgN", "on a mission - hellfire dub").
-track("29JJu2uEN5m9GbMVRqnn4y", "1997").
+track("29JJu2uEN5m9GbMVRqnn4y", "on a mission - live at dracfestwhitby1997").
 track("3YaBqnuaMMq8izzJKQH0my", "garbage - live").
 track("1mMJWM6M2E6IYJKXGhnLoV", "r.i.p.").
 track("2IRHmrFqteNIImjbwZ7Ecd", "e.s.t.").
@@ -21851,13 +21851,13 @@ track("4b71cpBiUEINaQMMk71fxk", "i'm doing time in a maximum securiy twilight ho
 track("24FWi1cNRIZETjWrtZdoPN", "i walk the line").
 track("0JtaLlAcPZrXHw3Enx4XkM", "smells like").
 track("66M1JIHzTnc2KogqrabJUJ", "hurricane fighter plane").
-track("4ojiTC0T8QZbJPQNKZ2Ir6", "pt. 1 mix").
-track("6RtrUi8x7TIm8TWQcgiMpL", "pt. 2 mix").
+track("4ojiTC0T8QZbJPQNKZ2Ir6", "evolution - back from the dreadpt. 1 mix").
+track("6RtrUi8x7TIm8TWQcgiMpL", "evolution - back from the dreadpt. 2 mix").
 track("7ay7tHnPNM38q72D1Yv4HI", "on a mission").
 track("50PhLwlc8cE3ZErlqMEMTc", "warp out").
 track("3DO7himjY45tkQYbO8qsZI", "big blue moon").
 track("0f8l2DuDhJGkapZgve1kWF", "room 101").
-track("5nnpfRsy9YWzFtMp8CMmzs", "mate").
+track("5nnpfRsy9YWzFtMp8CMmzs", "soaking wetmate").
 track("2Jcs4YWIKgL96UQoqlZY5C", "garbage").
 track("5r93o0PpQtX5K9yk5ajKsn", "tarot").
 track("5OzWUWT8UOUN9fwWZSL9gS", "sticky").
@@ -21998,16 +21998,16 @@ track("4WfYhCC455XNEDAtaOyLZZ", "dust").
 track("517TBg5eczrfZI9eG9rL8u", "leave it alone").
 track("0CrkaiBEC3c9nABFoHRql0", "mandrake handshake").
 track("1ky7oRGRG0iffPl7ahmbve", "here comes the waiting for the sun").
-track("4niY1fi3SB2w1AaO6IPhwY", "Philadelphie Story").
-track("5NoPHKU320GrQOn4n5nH9e", "L'Enfer").
-track("0mdHZMTQDiwkFGn6LD7kKH", "Le cadeau").
-track("7r2jTtVZm0pLqcoar4WUrA", "Le souvenir").
-track("4UaqdXqGeEC38t9i5QeXtH", "Bonbon").
-track("6nlolyzlvJvRUBndk83PnB", "Vad Hände Med Dem?").
+track("4niY1fi3SB2w1AaO6IPhwY", "philadelphie story").
+track("5NoPHKU320GrQOn4n5nH9e", "l'enfer").
+track("0mdHZMTQDiwkFGn6LD7kKH", "le cadeau").
+track("7r2jTtVZm0pLqcoar4WUrA", "le souvenir").
+track("4UaqdXqGeEC38t9i5QeXtH", "bonbon").
+track("6nlolyzlvJvRUBndk83PnB", "vad hände med dem?").
 track("7yorR8rlFEvX7LABfdvuIq", "what you isn't").
 track("6Ay7FBjzu1P3NfzFxqKJPH", "unknown").
 track("5Ai2OJVnZug6xkcU9x54l2", "memory camp").
-track("2b78vpuX7MGrW3FR3tGEXw", "weeks and moths").
+track("2b78vpuX7MGrW3FR3tGEXw", "daysweeks and moths").
 track("17Gumrls4am9HTUzvl7MC1", "duck and cover").
 track("2xQYCvc6b52aRCVW79ESc3", "food for clouds").
 track("5atJd5pZZm9B3bb3QpzbKL", "second sighting").
@@ -22101,7 +22101,7 @@ track("6ikyULQMS2e7evmj9QZS0I", "siddle's saloon").
 track("5CUN1e1LuTzuNF8BhWzZVE", "school").
 track("0TEV1TPWQ8IX9YTZZMdNZv", "just long enough").
 track("5Ru7gOIF4HI6rrvHCkJld4", "rather make a living (live acoustic)").
-track("3AwMEQazPEbG0KYmcqWM27", "do i think about you (live acoustic)").
+track("3AwMEQazPEbG0KYmcqWM27", "damndo i think about you (live acoustic)").
 track("1GCXs053T0BvxAz1xX6Qc5", "play you down").
 track("5RJyQxklQUaQu7Rz3YcUcE", "riser").
 track("3XXDVQXFa5hZKLTwY6j3IU", "best thing").
@@ -22111,7 +22111,7 @@ track("1CjJo5SQt5gXQeRP8TArpY", "all the faint lights").
 track("04MVX7d1uGx4aWwqAdWAYe", "beginning of the end").
 track("7xBjesHQ4lTe1en2Zsl0lP", "lifetime").
 track("3gDvbM8AtpWQ3Rl0U8xSGu", "rather make a living").
-track("0kCDk9KkzXKFFlSpKegIdl", "do i think about you").
+track("0kCDk9KkzXKFFlSpKegIdl", "damndo i think about you").
 track("0YKP0zPoiPdqaawCDCVutE", "crooked heart").
 track("0vyZLFfPzURDk5qN1cccQR", "humble operations").
 track("5pW21jhamQqCrkk8VJAQvu", "i've got you to love").
@@ -22387,21 +22387,21 @@ track("0ibhj8hBWssvnWLGsTHuvU", "follow the leader").
 track("7HCFXAg1mlzvOoMLqADY61", "una bendición (spotlight)").
 track("4yoWDtUWxF3c2LX7UJ35Zb", "rumba").
 track("6UwqUC7JCV2P39ToBSGaMP", "perdón").
-track("4WfixjOkauRGb4qLRKkwLJ", "puerto rico2010").
-track("7I7SHfMNIK1uZhwOQAKN1j", "puerto rico2010").
-track("3ZQoh3pt2XueRK1hWixvlF", "puerto rico2010").
-track("5qg3YyPK4NVsIaGcugJxIH", "puerto rico2010").
-track("4MaMcprk5VXShkKAAryqvj", "puerto rico2010").
-track("3UKfYr2qkBgL7HB12FUbEF", "puerto rico2010").
-track("6gvmFy22y04NmdDLHZ1Rbq", "puerto rico2010").
-track("1adJFDXWCTzHzVNfCeFgC1", "puerto rico2010").
-track("74Rj0CRTpwmr1n1HTjj3ly", "puerto rico2010").
-track("7iVcCcgS3SlfPvOgyg9ANf", "puerto rico2010").
-track("53OSUfl6ug5nR2NS9O6vTe", "puerto rico2010").
-track("2WhOfYMchcsq3MFDtkgtXP", "puerto rico2010").
-track("3ZnbHiwgyMhR380y8aoYfd", "puerto rico2010").
-track("77ZF6sBGdTCZy4YNaP5onR", "puerto rico2010").
-track("31RgE3vneNhuAbUxD3aljQ", "puerto rico2010").
+track("4WfixjOkauRGb4qLRKkwLJ", "la revolución - live at coliseo jose miguel agrelotpuerto rico2010").
+track("7I7SHfMNIK1uZhwOQAKN1j", "pam pam - live at coliseo jose miguel agrelotpuerto rico2010").
+track("3ZQoh3pt2XueRK1hWixvlF", "ahora es - live at coliseo jose miguel agrelotpuerto rico2010").
+track("5qg3YyPK4NVsIaGcugJxIH", "lloro por ti - live at coliseo jose miguel agrelotpuerto rico2010").
+track("4MaMcprk5VXShkKAAryqvj", "besos mojados - live at coliseo jose miguel agrelotpuerto rico2010").
+track("3UKfYr2qkBgL7HB12FUbEF", "me estas tentando - live at coliseo jose miguel agrelotpuerto rico2010").
+track("6gvmFy22y04NmdDLHZ1Rbq", "abusadora - live at coliseo jose miguel agrelotpuerto rico2010").
+track("1adJFDXWCTzHzVNfCeFgC1", "encendio - live at coliseo jose miguel agrelotpuerto rico2010").
+track("74Rj0CRTpwmr1n1HTjj3ly", "la revolución - live at coliseo jose miguel agrelotpuerto rico2010").
+track("7iVcCcgS3SlfPvOgyg9ANf", "pam pam - live at coliseo jose miguel agrelotpuerto rico2010").
+track("53OSUfl6ug5nR2NS9O6vTe", "ahora es - live at coliseo jose miguel agrelotpuerto rico2010").
+track("2WhOfYMchcsq3MFDtkgtXP", "lloro por ti - live at coliseo jose miguel agrelotpuerto rico2010").
+track("3ZnbHiwgyMhR380y8aoYfd", "besos mojados - live at coliseo jose miguel agrelotpuerto rico2010").
+track("77ZF6sBGdTCZy4YNaP5onR", "me estas tentando - live at coliseo jose miguel agrelotpuerto rico2010").
+track("31RgE3vneNhuAbUxD3aljQ", "abusadora - live at coliseo jose miguel agrelotpuerto rico2010").
 track("4a2R6mtUL40rCSbQlUOYfe", "estoy enamorado").
 track("3UMR29XaFn38nmI5jQwspc", "guns and horses").
 track("4G7ZxJ3cXvKdQt9Bd389db", "starry eyed").
@@ -22509,15 +22509,15 @@ track("3OuuN6rBb03hJvBQ5QD7SW", "old dad").
 track("00hVcKODz4Ch9gj0zWEz6M", "elementary school").
 track("2Hd6kA7SexFQdPFCt36dZw", "alarm clock").
 track("25zhlCRwVcdjmkdTECQ25E", "mom speedometer").
-track("6ALwweNzPa5WCsd1BAkts7", "the pill").
+track("6ALwweNzPa5WCsd1BAkts7", "candle snufferthe pill").
 track("5uMHE4Z7dvyNFT55PqsZ54", "sports").
 track("2W09zN42xFapdvD1YS9FjY", "prison").
 track("3VuhOkDurfeqZg4fBKg2S7", "walrus").
 track("3Crd4UB11uRkySGdq1uUqU", "blockbuster vs. netflix").
 track("1y7R719tdghroMNa89xFP3", "karate kid (can defend)").
-track("5STbGPXBsVwRbGXvq1Kqod", "pt. 1").
-track("4N3Yn381SfZVzTlSVo21M8", "pt. 2").
-track("7hginSqqUE6K4UFDBLnW9K", "pt. 3").
+track("5STbGPXBsVwRbGXvq1Kqod", "on billionaires (bill gates)pt. 1").
+track("4N3Yn381SfZVzTlSVo21M8", "on billionaires (bill gates)pt. 2").
+track("7hginSqqUE6K4UFDBLnW9K", "on billionaires (bill gates)pt. 3").
 track("0Vfw7pcbcDWGvXN5G5VAVZ", "discman").
 track("65WLKBTAAmC3rjhtcGlKy9", "greece is bankrupt").
 track("0QtgreaibusmcIHbgZZOOA", "things remembered").
@@ -22562,7 +22562,7 @@ track("17hmN6DK7WDu5pioBsnJPA", "let's get abducted").
 track("7cLQGGUPS1kpUOXvkfKJvn", "legend").
 track("6J65ooSFbgKjyeVmFXsVm2", "queen").
 track("4Z5cyRrHADQrybYnAdkskW", "all hail rock and roll").
-track("4pjlcyGDfhIGpz4BrdPUxX", "and trolls").
+track("4pjlcyGDfhIGpz4BrdPUxX", "pizzasexand trolls").
 track("24T4UOnMdWu1x2RgySPBrS", "hate me").
 track("5RuymiuyaBjVSNd6OFigc4", "rebel").
 track("2b30ZQz3tjdusY5m4ybt8H", "guilty pleasure").
@@ -22589,7 +22589,7 @@ track("4NbGNOqmtnK29Lta9JBzrD", "another round").
 track("1YZyjnxq9M2iF7CCm6qsOM", "nasty mouth").
 track("43DorY3Au6Z524pKD1dW6F", "smokeout").
 track("1AJCoFzotWNyCPWZs5zdPM", "holler at ya boy").
-track("7lKDBHxsA2DchXI4K3s2bh", "& violence").
+track("7lKDBHxsA2DchXI4K3s2bh", "sexdrugs& violence").
 track("4VURXLqHvCkFmu8X6AMbtZ", "white lightning").
 track("76jYOn0L0GFAzo1VaJiAPC", "payback").
 track("6an1VRNmmm57YK1Vd5ZrGK", "the end").
@@ -22680,7 +22680,7 @@ track("2oM1VpqmnAespoFoZdEJxN", "rickover’s dream - studio session wcbn miami 
 track("15B7hha1BecaAPB1fRAXzx", "eleven small roaches - studio session wcbn miami 1985").
 track("65FgZLrVsEuQwsYEPLnqpG", "ragamuffin - studio session wcbn miami 1985").
 track("5XEw1Z8jVeTDt2JPCdHJHb", "ariel boundaries - studio session wcbn miami 1985").
-track("5JivScmg6C2njilBiE1YEY", "minnesota 1st feb 1986").
+track("5JivScmg6C2njilBiE1YEY", "all along the watchtower - bonus track: live - ordway theaterst. paulminnesota 1st feb 1986").
 track("3dZa4cqfnAOm154H601RbY", "aerial boundaries").
 track("1FbB5j6dgu2hgbXaM3lu4S", "bensusan").
 track("3rbanyAxECNBbFFi2IM0S2", "rickover's dream").
@@ -22751,28 +22751,28 @@ track("68A5jxOT3LAMgJpIRt94rW", "hungover").
 track("3ZMYiiZU9jaADQXSVc6Zrg", "party at a rich dude's house").
 track("4GRFzKI7jTZ3kbMfouc7bn", "backstabber").
 track("3mLh9nWNU7GJhAFFyi5IFn", "blind").
-track("0tyY6srqSqstQSCQHNRvVm", "producer and manager of ritchie valens.").
+track("0tyY6srqSqstQSCQHNRvVm", "narration of ritchie valens' story as told by bob keaneproducer and manager of ritchie valens.").
 track("37enBhe7VhFmm7qnBOKzE3", "boney maronie").
-track("2euWSShMwB1aM2Rtih8MWG", "let's go - demo").
-track("1XJ4l8UpL7YvTwW0i6zUWA", "let's go - single version").
+track("2euWSShMwB1aM2Rtih8MWG", "come onlet's go - demo").
+track("1XJ4l8UpL7YvTwW0i6zUWA", "come onlet's go - single version").
 track("46JlIFN1Sq3z7p1xprgR8N", "that's my little suzie - demo").
 track("04cfVbfkvYcCJTnigQ6CB6", "rock little darlin' - demo").
 track("1Hbdh3FSRpyx7r5b33lC6G", "bluebirds over the mountain - demo").
 track("4TYcQdkOt8Zz96azyOnrQA", "la bamba - gold star recording session").
 track("4tBJ0bI3E7fPd22wLqX5sO", "let's rock & roll - demo").
 track("1WRqa8kOFTmgpHQUy1BwMR", "donna - demo").
-track("3b6iydRFap71jcFYOPohbW", "side 1").
-track("26Kh6wufaisE1roSCUyaB6", "let's go - live version").
+track("3b6iydRFap71jcFYOPohbW", "bob keane intro - liveside 1").
+track("26Kh6wufaisE1roSCUyaB6", "come onlet's go - live version").
 track("0pzI6JG4Bxd8CXXThzXzuq", "donna - live version").
 track("5eFK5oTsYPhqvjH6V8QvpQ", "summertime blues - live in concert at pacoima jr. high").
 track("5lFy8WZp2t59QHxtHalz1X", "from beyond - live version").
-track("7fAk5YCn5Oc5Xt67uuxnvp", "traditional adapt. by valens").
-track("2oYEMlUqn7QvNofkffAtyK", "side 2").
+track("7fAk5YCn5Oc5Xt67uuxnvp", "la bamba - livetraditional adapt. by valens").
+track("2oYEMlUqn7QvNofkffAtyK", "bob keane intro - liveside 2").
 track("7filXQ8dNrBKfMerHacy70", "rhythm song - live version").
 track("0RWY6Xzl0m83DYYCPEICma", "guitar instrumental - live version").
 track("5ZRN9rJ37jBfaqE0OgzI6x", "malaguena - live version").
 track("7zoSpb1iJ0C39KFgwt9dT2", "stay beside me - single version").
-track("2mkkfindqnoQRPFyp1bzbl", "cry").
+track("2mkkfindqnoQRPFyp1bzbl", "crycrycry").
 track("4Zahp9Tbv9Cl9y37laY50x", "big baby blues - single version").
 track("4zQ98OJVnyOkrxQHO2dHZ0", "paddiwack song").
 track("2QjIEZJDtWVUx1X0dpjuJu", "my darling is gone").
@@ -22783,7 +22783,7 @@ track("1RyfeZbewsZt9VnPZc3w4X", "fast freight").
 track("6BViS3eeR97pIN7CJpBz0G", "ritchie's blues").
 track("7AxreGYDIophORotoTRTX6", "that's my little suzie").
 track("3ras0Bvzn8F5WL1G9d5cdb", "in a turkish town").
-track("4cRfSR0QxDlXRHTKyEOu93", "let's go").
+track("4cRfSR0QxDlXRHTKyEOu93", "come onlet's go").
 track("0VE4ayVlGs5DBoqOdgJ0Zv", "donna - single version").
 track("3IOkxDFEZH7UOxBsjkObb0", "boney maronie").
 track("4nBQ2ZR8gDolVPfo3DhYM7", "ooh! my head").
@@ -22812,7 +22812,7 @@ track("0tJ4cjL6nnkybYtBmrX19k", "you've gotta way - original mix").
 track("27bJueHIFr1Hs61HAdKzrS", "beat girl - original mix").
 track("0U5MrzzxWbWk60P3HtmIcW", "rockin' already - original mix").
 track("2ZPKN0Tra2S4PTzky9M6tg", "never let go - original mix").
-track("6U4wEDVwNefzx9YTqIRpuZ", "bangles & beads - original mix").
+track("6U4wEDVwNefzx9YTqIRpuZ", "baublesbangles & beads - original mix").
 track("5jOTLCfckIzJ7jwnC4Rcrx", "dark rider - original mix").
 track("2sTaSWp9mrmXpXfeNCWKEa", "mab mab - original mix").
 track("5xGmu7wlMzQ17OD496Jt5N", "walkabout").
@@ -22987,7 +22987,7 @@ track("7FBifiAOAEpC9or2ZEndbS", "indigo prod by ramza").
 track("2uaazViWRDaFSiUKB9off5", "birds prod by free babyronia").
 track("70HoyPC0OOWtKaCFuU79Ha", "killeme prod by free babyronia").
 track("68qkj1FGMX9FZLCeA1T82f", "black suede prod by free babyronia").
-track("4koOmZ4DqbRv9UjGhAUX3W", "break prod by ramza").
+track("4koOmZ4DqbRv9UjGhAUX3W", "relaxbreak prod by ramza").
 track("1E7MU2lyXZeZwyhqqDUNxH", "little boy blues prod by ramza").
 track("6EW8alar37owkI73K0fMBU", "nine stories prod by ramza").
 track("0RSEiXRiJtf2IIONmLNhJr", "for the jaf").
@@ -23061,7 +23061,7 @@ track("3sVxCn0k9HxkrIIshO9sIf", "down for a min").
 track("37U49XC2vMfku1qlC2Dx2Y", "pure luxury").
 track("2puwwwfaPhDtwQksyhFOkK", "wham").
 track("6d6JiSto1oMh5zLipzUypy", "hollywood niggaz").
-track("1RlQI7so5gEu5Ic3auEj38", "o que é - ao vivo").
+track("1RlQI7so5gEu5Ic3auEj38", "o que éo que é - ao vivo").
 track("5nv0NKSXmWUh6ZwfW5pWei", "tá tudo mudando - ao vivo").
 track("1BAllevQe8kWcfT6Y2m9Zb", "kryptônia - ao vivo").
 track("7swrzMxl2Oib2YKY0RxvkI", "beira-mar - ao vivo").
@@ -23190,7 +23190,7 @@ track("0fAJdqM8bidZt6ErSaFww7", "jahanbini").
 track("7M4QtjonjON4MV8D9QCBXM", "sedam kardi").
 track("1PROhDty9oVrLCbEeRUDrM", "vaghti to nisiti").
 track("5cM5hzifqSwuJu2geh9Hsg", "hanaa khanoom").
-track("38H1dRnp6B1RTYkQyYzMd0", "begoo na").
+track("38H1dRnp6B1RTYkQyYzMd0", "begoo aarebegoo na").
 track("2kPWt16vladz3uhcpZAjKW", "parvaanehi dar mosht").
 track("0BtcZB49wu63aMFimYmw2F", "baanooye khaavari").
 track("3FdpQpdLwt9UyJwMwJtqIk", "harighe sabz").
@@ -23256,11 +23256,11 @@ track("3rrssLvpXHaKRXiezKPVzZ", "blueprint - extended mix").
 track("7INEgl1cAxsLPbtS9tVNaj", "a world beyond - extended mix").
 track("4uaf0EQVp8h5anGfoJqaCM", "trust - extended mix").
 track("5RVBi8P6YJjgWN9V5Etd5j", "lonely inside - ferry fix").
-track("6LjJj59v1m1LKbpSJiVV7A", "By your side").
-track("7e3p79kxWHJ9osZRvDIMrF", "OverDrive").
-track("6VNMXmfrHy56G9065wn21c", "Let Me Love You").
-track("7vEsgJeBFXM3FdXjncCJaz", "WE ARE!").
-track("06nwyTbISWnLYpYadeijHY", "Get you!!").
+track("6LjJj59v1m1LKbpSJiVV7A", "by your side").
+track("7e3p79kxWHJ9osZRvDIMrF", "overdrive").
+track("6VNMXmfrHy56G9065wn21c", "let me love you").
+track("7vEsgJeBFXM3FdXjncCJaz", "we are!").
+track("06nwyTbISWnLYpYadeijHY", "get you!!").
 track("13nio6101Dm2389AMp4C8T", "let's get together").
 track("3CnHC7wCJ3KeP6e1WBNVog", "イケナイ太陽").
 track("4gCGrQbr3vRJTXeTfSyw4n", "afterrain").
@@ -23335,26 +23335,26 @@ track("7sJMOWLKDQUHmtZ6A5PSeo", "from bath with love").
 track("0NWYUVm2Cy9cm4dHTnwSYK", "supersized").
 track("2Fx0gOku4lG9KGed920Cc5", "feet won't touch the ground").
 track("0UMyTj22IG5dxGAtZKHZjj", "labyrinth").
-track("3cClZLOM7hI85vz4Qzn55V", "2018").
-track("7DgWnccOmJEfXpu4wEfBQG", "2018").
-track("1iUz7E7KEGvrZ7mhtL3074", "2018").
-track("4eTf0Acq0vEUwLeitqgObO", "2018").
-track("1SVdXyFLE2TCYEPv9zqep7", "2018").
-track("7eqcrdEjPosFJlvCQVsvRm", "2018").
-track("7Lq6wrFU9TAI2h3gToWJaQ", "2018").
-track("1keZmoNHCOnq9n9Mk8xcwe", "2018").
-track("5KM5wMhod0y9Aap9tKTgJ9", "2018").
-track("0UftwdAYF6ROINuusizVWT", "2018").
-track("2AcKy1BQI9I3ApTH42hiJ3", "2018)").
-track("2NekeB2yqC2ZibAYNdncbz", "2018)").
-track("6obwpZZlFVablrXylXiZ8O", "2018)").
-track("3JfhXW83sC2StLrHME2gmP", "2018)").
-track("6fItNaeAd5FAF6kvdA9oQd", "2018)").
-track("7dlzncZrDLdeP2U7aWfKj5", "2018)").
-track("2YYPHHUzqXJYdmVzwvRzv4", "2018)").
-track("1vggFRUI00PuzvqjMtXXLX", "2018)").
-track("3zPcw0j0aSbO2Sf75Mafwm", "2018)").
-track("1lsH8yRds1QXWp9cGIRtWb", "2018)").
+track("3cClZLOM7hI85vz4Qzn55V", "disposable heroes - live at the masonicsan franciscoca - november 3rd2018").
+track("7DgWnccOmJEfXpu4wEfBQG", "when a blind man cries - live at the masonicsan franciscoca - november 3rd2018").
+track("1iUz7E7KEGvrZ7mhtL3074", "the unforgiven - live at the masonicsan franciscoca - november 3rd2018").
+track("4eTf0Acq0vEUwLeitqgObO", "please don't judas me - live at the masonicsan franciscoca - november 3rd2018").
+track("1SVdXyFLE2TCYEPv9zqep7", "turn the page - live at the masonicsan franciscoca - november 3rd2018").
+track("7eqcrdEjPosFJlvCQVsvRm", "bleeding me - live at the masonicsan franciscoca - november 3rd2018").
+track("7Lq6wrFU9TAI2h3gToWJaQ", "veteran of the psychic wars - live at the masonicsan franciscoca - november 3rd2018").
+track("1keZmoNHCOnq9n9Mk8xcwe", "nothing else matters - live at the masonicsan franciscoca - november 3rd2018").
+track("5KM5wMhod0y9Aap9tKTgJ9", "all within my hands - live at the masonicsan franciscoca - november 3rd2018").
+track("0UftwdAYF6ROINuusizVWT", "enter sandman - live at the masonicsan franciscoca - november 3rd2018").
+track("2AcKy1BQI9I3ApTH42hiJ3", "disposable heroes (live at the masonicsan franciscoca - november 3rd2018)").
+track("2NekeB2yqC2ZibAYNdncbz", "when a blind man cries (live at the masonicsan franciscoca - november 3rd2018)").
+track("6obwpZZlFVablrXylXiZ8O", "the unforgiven (live at the masonicsan franciscoca - november 3rd2018)").
+track("3JfhXW83sC2StLrHME2gmP", "please don't judas me (live at the masonicsan franciscoca - november 3rd2018)").
+track("6fItNaeAd5FAF6kvdA9oQd", "turn the page (live at the masonicsan franciscoca - november 3rd2018)").
+track("7dlzncZrDLdeP2U7aWfKj5", "bleeding me (live at the masonicsan franciscoca - november 3rd2018)").
+track("2YYPHHUzqXJYdmVzwvRzv4", "veteran of the psychic wars (live at the masonicsan franciscoca - november 3rd2018)").
+track("1vggFRUI00PuzvqjMtXXLX", "nothing else matters (live at the masonicsan franciscoca - november 3rd2018)").
+track("3zPcw0j0aSbO2Sf75Mafwm", "all within my hands (live at the masonicsan franciscoca - november 3rd2018)").
+track("1lsH8yRds1QXWp9cGIRtWb", "enter sandman (live at the masonicsan franciscoca - november 3rd2018)").
 track("7E6BDl00HMsqixvFAzIbI5", "ブラッケンド (live at リユニオン・アリーナ、ダラス、1989) remastered").
 track("0VTPBHsP2JPmEjnPwmmY76", "フォー・フーム・ザ・ベル・トールズ (live at リユニオン・アリーナ、ダラス、1989) remastered").
 track("2vh3FlBGCBFQPE6VLZ82WU", "ウェルカム・ホーム (サニタリウム) live at リユニオン・アリーナ、ダラス、1989 remastered").
@@ -23366,7 +23366,7 @@ track("2IocnuvFZ7tKuo41hArNMj", "トゥ・リヴ・イズ・トゥ・ダイ live
 track("5dAIvYLrJypQkjUjSb2zOw", "メタル・マスター (live at リユニオン・アリーナ、ダラス、1989) remastered").
 track("3KEoOo8WeUatxQadZqEVw7", "ワン (live at リユニオン・アリーナ、ダラス、1989) remastered").
 track("0QV3swr7L8MZr72lL2izV1", "hardwired").
-track("31AstxMAthaDAbOuYC5gTn", "rise!").
+track("31AstxMAthaDAbOuYC5gTn", "atlasrise!").
 track("7jsz8rEceVcQmv7v49ETAG", "now that we’re dead").
 track("6F5RvdxWcLOJW7LAGuc24r", "moth into flame").
 track("2COf35miqW9pzhojhEPnxK", "dream no more").
@@ -23376,7 +23376,7 @@ track("3oraMeC7Iq2zSilhbl9bLG", "manunkind").
 track("0b2zOvsFwVCsEq2AOc2U91", "here comes revenge").
 track("51Q0yYVCa4VyXmFdBuFKVs", "am i savage?").
 track("10qHfyQqzsbBDwob8nk8Ol", "hardwired").
-track("6fjer7Ed6ZUna1EMbwbDrN", "rise!").
+track("6fjer7Ed6ZUna1EMbwbDrN", "atlasrise!").
 track("2NBvvx52QAjipBnXvAekfs", "now that we’re dead").
 track("3JjZq20Kv6UphyyirAaY9A", "moth into flame").
 track("1dzmb0UZZatm5VCD8fI8UF", "dream no more").
@@ -23386,13 +23386,13 @@ track("4IuzY8RNrCGPIchltRMWzz", "manunkind").
 track("4Ixe61Sv0WlxBhDjRtEgH3", "here comes revenge").
 track("5EA75qDylWv25sjzyM1BOa", "am i savage?").
 track("6Cg2DwlVvb4xxrSEE35k37", "the ecstasy of gold").
-track("0bp3MablDhBWiBZbIcp3AY", "For Whom The Bell Tolls - Live").
-track("4jxrkR3VtHzjH1RVdvvRn2", "Ride The Lightning - Live").
-track("0a6H4khB7nEbTH91L0Tpdk", "The Memory Remains - Live").
-track("4hy9NhrFfpIXGUzD9XxXDd", "Cyanide - Live").
-track("2otSugsyrMFRi7ohdeB635", "That Was Just Your Life").
+track("0bp3MablDhBWiBZbIcp3AY", "for whom the bell tolls - live").
+track("4jxrkR3VtHzjH1RVdvvRn2", "ride the lightning - live").
+track("0a6H4khB7nEbTH91L0Tpdk", "the memory remains - live").
+track("4hy9NhrFfpIXGUzD9XxXDd", "cyanide - live").
+track("2otSugsyrMFRi7ohdeB635", "that was just your life").
 track("3KFtAMirz8dF1gApXdWMRf", "the end of the line").
-track("5xABQiiRBuVWsL9zamoj1G", "beat & scarred").
+track("5xABQiiRBuVWsL9zamoj1G", "brokenbeat & scarred").
 track("2gqzkEF88vMclfRZEIOnQO", "the day that never comes").
 track("5w3TTTAo6DIEjQYO3vKZq0", "all nightmare long").
 track("2LfonCFEOzFedikP12rTeo", "cyanide").
@@ -23402,7 +23402,7 @@ track("0rd4qVsMPD8YtAZEpsalT6", "suicide & redemption").
 track("6qIleHbUTXcGfBfQ8h0R2n", "my apocalypse").
 track("6ji9oUOQtCWGLra4XoY5dQ", "some kind of monster").
 track("6rwAQ8iEabmTCgjEJsDbPw", "the four horsemen - live").
-track("1lRDIwSH5N1h3UwTGG2yyu", "inc. - live").
+track("1lRDIwSH5N1h3UwTGG2yyu", "damageinc. - live").
 track("5wxO3w2Jh1QyxwDogm5aWE", "leper messiah - live").
 track("5xST97rDkmTG1kErXfvkl6", "motorbreath - live").
 track("4eTsF6IJzeuBoIlRVXQsm7", "ride the lightning - live").
@@ -23417,7 +23417,7 @@ track("4UL9jAZ1JUJLKCahQeZMCW", "the man that got away").
 track("7wuwUN5NbeFvVOM2qQGylm", "will you love me tomorrow").
 track("6vjiTwzoTvdULtuIR4d7EY", "someone to watch over me").
 track("6YCIFKFWx0pxMEUl8Vko6l", "let’s fall in love").
-track("6s3M5o92LNB2cEApT6uyq7", "bothered and bewildered").
+track("6s3M5o92LNB2cEApT6uyq7", "bewitchedbothered and bewildered").
 track("2GtsQwa03Y4666WryuJL4i", "zing! went the strings of my heart").
 track("6b2KjcKMIHXQWqh1rbsje7", "they can’t take that away from me").
 track("3iG7ldddtaKeYMWUAhb4WQ", "a house is not a home").
@@ -23443,10 +23443,10 @@ track("0O1acKEBEy9D6j7itYsuo1", "what more do you want").
 track("7fdyO2uOxnVTF9tvJMxRfC", "wreck you").
 track("4zOaMgnHnhSup6LdSoSOXr", "i didn't").
 track("4uaQpLvejMjjW5ve8JbAXl", "borrowed angels").
-track("4tbmWd9ZS0Ck3v582jw7Ny", "Christmas Island").
-track("52pgqIMcKjtxmQKBvmPJtf", "Do You Hear What I Hear?").
-track("7qIQqEei7WPhclqW92kykJ", "Silver Bells").
-track("6cw8LYB3Iruo3HVmdWi2hw", "What Child Is This?").
+track("4tbmWd9ZS0Ck3v582jw7Ny", "christmas island").
+track("52pgqIMcKjtxmQKBvmPJtf", "do you hear what i hear?").
+track("7qIQqEei7WPhclqW92kykJ", "silver bells").
+track("6cw8LYB3Iruo3HVmdWi2hw", "what child is this?").
 track("1egVLpTrGvaWtUcR2xDoaN", "gosh").
 track("3pvMAdmkEnMjhxY6lFkawT", "sleep sound").
 track("7pojepYF3lsbETtEfxaVbX", "seesaw (feat. romy)").
@@ -23551,9 +23551,9 @@ track("2Z3Q83IsQUEh2MpWZ8ZWBU", "new york").
 track("5OhwhuE6yFD7utChtMfb0R", "ramblin' (wo)man").
 track("3wDe2tM7PKXL5BZDPSQwH3", "metal heart").
 track("6CaTjhVNZDfTiIIL2V1bDS", "silver stallion").
-track("6XIHNbVTdP2cJdXfppi8T8", "sing one for me").
+track("6XIHNbVTdP2cJdXfppi8T8", "arethasing one for me").
 track("5kI9NSGckVxF9qeDTgs3dk", "lost someone").
-track("1KW4NI0EyqbY9QY8pwvFgF", "help the poor & needy").
+track("1KW4NI0EyqbY9QY8pwvFgF", "lordhelp the poor & needy").
 track("7GCIzPlZgyPwIZf1MwcAuw", "i believe in you").
 track("3eg4pfG4fZCs2loyINEBQt", "song to bobby").
 track("5ODDlyW4QwSS8T3Kix9Lyz", "don't explain").
@@ -23561,9 +23561,9 @@ track("5Qe5REnlxvjLNvY7LF0TWU", "new york").
 track("2O1UJtB52hfjGWQlZZ7atr", "ramblin' (wo)man").
 track("0CgNaqSuBTeqCZ33N171l2", "metal heart").
 track("5ZnnxFgkyVsww1nBafUJBR", "silver stallion").
-track("3WjtrAW4H9m3KVIwUfUHPy", "sing one for me").
+track("3WjtrAW4H9m3KVIwUfUHPy", "arethasing one for me").
 track("0iOBvz1ciZwLdcK1VjbEnJ", "lost someone").
-track("5VAuk1T90cE6spsYTJzZNk", "help the poor & needy").
+track("5VAuk1T90cE6spsYTJzZNk", "lordhelp the poor & needy").
 track("49r6f6v1OT1MOmh4BM8orL", "i believe in you").
 track("4o6iPoT6PI0QtaJ7p7APbR", "song to bobby").
 track("7aOO6EB3kVwmtFinCXNebQ", "don't explain").
@@ -23571,9 +23571,9 @@ track("3wMAPssB0CSOaHMqYTWeBA", "new york").
 track("3CNLRFN8Z6yMn5sxzIPE4V", "ramblin' (wo)man").
 track("4i9FUNliymlNGvGsvTZU44", "metal heart").
 track("6poyfuyOzFxkwvAhuzkesa", "silver stallion").
-track("75urQ6wpxC3FSedjVOv02V", "sing one for me").
+track("75urQ6wpxC3FSedjVOv02V", "arethasing one for me").
 track("5wO43apHXWFLeWID8B4DfV", "lost someone").
-track("4W6FPMXmiM47tJZ7mlOiXB", "help the poor & needy").
+track("4W6FPMXmiM47tJZ7mlOiXB", "lordhelp the poor & needy").
 track("6oEI7ZPeb1tjUdvaRUaVq2", "i believe in you").
 track("13blwSPFQowWAn01a1Ytj6", "song to bobby").
 track("7tGaT78CDmzyy7uEl7XMQA", "don't explain").
@@ -23581,9 +23581,9 @@ track("5nYM5blJK7zc6TkuXXSM5j", "new york").
 track("00sggOL7Toui9AE4qTSq9o", "ramblin' (wo)man").
 track("77HyS1Sit61qHRrv2G8Hiz", "metal heart").
 track("6eVRFrgn78VJ81pUqAdxVh", "silver stallion").
-track("4AZKnFIntJuxD2NMf1NmOg", "sing one for me").
+track("4AZKnFIntJuxD2NMf1NmOg", "arethasing one for me").
 track("05YWk4m4WMvn1o5YOuCNAw", "lost someone").
-track("4gvy9xYPILmg5vrcuNK1Sq", "help the poor & needy").
+track("4gvy9xYPILmg5vrcuNK1Sq", "lordhelp the poor & needy").
 track("32uoqpypL2AWQ8xhUR9iHv", "i believe in you").
 track("1Af1zjZbqPUhc9eCVs0VAP", "song to bobby").
 track("1XhITZht0QorJxEJXUaJ4L", "don't explain").
@@ -23591,9 +23591,9 @@ track("4dksbqpghucfzyXY19ggG3", "new york").
 track("1eWVXsQ8q6YXYLm7pkGGXa", "ramblin' (wo)man").
 track("3s7TWCSXuMYvKE4I1yTgCG", "metal heart").
 track("3vGIj2scREkIhlvVWZqPYA", "silver stallion").
-track("0zK2MvS37oQiwPdVCuifmb", "sing one for me").
+track("0zK2MvS37oQiwPdVCuifmb", "arethasing one for me").
 track("197lrrGkfGDMSUNaNEDqyh", "lost someone").
-track("2NDcROUgPqVhzZnjfGMtes", "help the poor & needy").
+track("2NDcROUgPqVhzZnjfGMtes", "lordhelp the poor & needy").
 track("1lrt8Kne5ybThKRtS1Emtb", "i believe in you").
 track("5GigZCznfVgKqOahLparoU", "song to bobby").
 track("4zjTQF8RBPVIgRNy3qFBFd", "don't explain").
@@ -23653,7 +23653,7 @@ track("4RdYKmZMIJAg2j4UQQ3QGt", "el ultimo bolero").
 track("2t1IE5yeXixDI1JYAozn3E", "como hay gente en la calle").
 track("4Y6HWGbqRqJqqN9JrIwDwy", "si yo fuera tú").
 track("6FPuOI4vv4dzsPeObIyaoZ", "amores del pasado").
-track("4MYn9hFxuijUDgDhKPdF1N", "te vas").
+track("4MYn9hFxuijUDgDhKPdF1N", "si te vaste vas").
 track("6edTuxn99MeYL8MiXJJOQ9", "cuando a ti te de la gana").
 track("1tJGXVkKGniRa73sP2m8kE", "tiemblas").
 track("33KS4qTvzK0mJf705AUwDb", "que alguien me diga - balada").
@@ -23677,8 +23677,8 @@ track("1oJDi7Bil1egZRdsMdoQdk", "quién lo diría - live version").
 track("79mr4SK8sOcMrBVIZE2IpZ", "me volvieron a hablar de ella").
 track("5nKeQDq1UOCkCPCjHl968w", "vivir sin ti").
 track("0ib3xSqHNzHqGuIAwsT50v", "la ventana").
-track("5E0TBex2IKREJoDsjGW8xa", "por qué no llama").
-track("52qBQjrctT9mYRjknEdEk9", "truene o ventee)").
+track("5E0TBex2IKREJoDsjGW8xa", "por qué no vienepor qué no llama").
+track("52qBQjrctT9mYRjknEdEk9", "aunque llueva (lluevatruene o ventee)").
 track("4ELYLciI9ryX4rqFeVZKKo", "vodka con limón").
 track("6QhNqzWx1iXZoKB8Ww2wEy", "me gustan las navidades").
 track("1I4ZrpkU4ji5pxqYzaxc0n", "arbolito").
@@ -23711,7 +23711,7 @@ track("5y6uolO1yJ665XIhAEYFGr", "i still believe in santa claus - north pole mix
 track("3bJjZY1NRgrXrZtM9fJsuT", "white christmas").
 track("3gn8cmtFZqQhchXGGS949u", "christmas jam on snow - medley").
 track("4PCxNjd7tP3w7Bl9DzeXuQ", "joy - the jolly remix").
-track("3SM8ls6TgoPgqDDaqdtj3S", "eve - suite").
+track("3SM8ls6TgoPgqDDaqdtj3S", "it's christmaseve - suite").
 track("5Pf10SmG2sd8DIHwwq2SeJ", "the story").
 track("4KlP09WDPxsGiTfXa8w8yr", "love line").
 track("1nBqtnKGJfeFyvMZY22o28", "outrageous love").
@@ -23885,7 +23885,7 @@ track("5S42qkxKKYiEBQ0gxEt4uV", "maioridade").
 track("7iv0444aCtg2BAaxJwDOc8", "me pega ou me larga").
 track("42tiu0U0PNwogfepapBzy6", "eu vou pegar").
 track("3SPODV1XRoVA3qdkW8v8PQ", "tudo de mim").
-track("1Qqx3AWCBkUbOA04KrUgUa", "é jeito").
+track("1Qqx3AWCBkUbOA04KrUgUa", "não é forçaé jeito").
 track("2kDR2KddffWrD7YHuFcUaG", "não vou entrar no jogo").
 track("5zKqUd0ABOq21F7ItayNBi", "fazer amor contigo").
 track("3I6ErD40IrZRHclICDJf3Q", "e aí irmão").
@@ -24025,7 +24025,7 @@ track("2rNdokgvZAx0Gf56tbq7bW", "garden grove").
 track("5nkYHBWXu7KCgcdwP6jcB1", "what i got").
 track("5cPfmNMC3AENizySC5oPu2", "wrong way").
 track("4B6dMwXS6q8pw1HBWV8Cc8", "same in the end").
-track("6TiUowwluPjwIusdZthgYv", "1992 (miami)").
+track("6TiUowwluPjwIusdZthgYv", "april 291992 (miami)").
 track("2Z2vOukzwOgqR4dkymRSWd", "santeria").
 track("6vGz9D15KduwX4W2f7KX9j", "seed").
 track("6s4dya6PLrPVTYkfTmzZ47", "jailhouse").
@@ -24037,7 +24037,7 @@ track("0kFpb2zqfMCwD1upw0kHw3", "wrong way").
 track("0bmhIgMDXOwudE22YgYxOJ", "paddle out").
 track("1Ut0PcWguWEdmYuMmurqfw", "what i got").
 track("2QJQKCJLs2GRCZvNAwL4SM", "pawn shop").
-track("0VZ6N5xd8OchXM96mYLxNW", "1992 (miami)").
+track("0VZ6N5xd8OchXM96mYLxNW", "april 291992 (miami)").
 track("4720MO7CO5DVMAryRJRh29", "santeria").
 track("6QaJ98BmiX9KAayja1sauv", "seed").
 track("6UncHVmTQ1s87PItlra9EJ", "jailhouse").
@@ -24129,7 +24129,7 @@ track("48wkwejc9OdGI1JGzKEyq6", "jingle bells").
 track("2XNv1TlzLWTUlnBJWvnVfH", "gettin' in the mood (for christmas) (rap by kevin norton)").
 track("0fj0rSFAvkAsPPfmC65UvI", "boogie woogie santa claus").
 track("3oMT2HpJqoAGkUbHanYVrf", "the nutcracker suite").
-track("2by4VfjJLT9XRonBfbZSgg", "mr.grinch").
+track("2by4VfjJLT9XRonBfbZSgg", "you're a mean onemr.grinch").
 track("3km83OgoHK8ZTBvA8aFNCA", "dig that crazy santa claus").
 track("5xP2eJhQuGLg6kDqGLEAcv", "winter wonderland").
 track("2NV8DtZXobtEOZQf8rQwbP", "(everybody's waitin' for) the man with the bag").
@@ -24418,11 +24418,11 @@ track("7Fxa7BwaqY8CPmdQ4Fl2G1", "negue (avec chucho valdes)").
 track("5hEBEUlxyemaWZv8P2Cigk", "regresso (avec caetano veloso)").
 track("06jRWeNwNpgRVigV3kN7SP", "é doce morrer no mar").
 track("399odkMh8Nvm0l2sjtBESz", "africa nossa").
-track("3CnCGKMz7GgcccYQk14vuN", "Verde Cabo di Nhas Odjos").
-track("6JpNNwVjF9W89buukOOUiq", "Lingereza").
-track("0um0T01IbgOqruIhWvnAFV", "Fatalidade").
-track("0PQMg1PqygtNsNKM6Zy5qa", "Sentimento").
-track("1PfGHB4FLh0PX6Vhc3Y4UV", "Cize").
+track("3CnCGKMz7GgcccYQk14vuN", "verde cabo di nhas odjos").
+track("6JpNNwVjF9W89buukOOUiq", "lingereza").
+track("0um0T01IbgOqruIhWvnAFV", "fatalidade").
+track("0PQMg1PqygtNsNKM6Zy5qa", "sentimento").
+track("1PfGHB4FLh0PX6Vhc3Y4UV", "cize").
 track("4LWIF8gAKtGD9jp7xBgZaZ", "oriundina").
 track("1LQtmrwPYJpv1hJwaZbZTW", "pe di boi").
 track("705U5u3qnWC3TpAaSAECYo", "nutridinha").
@@ -24456,15 +24456,15 @@ track("67T58XZZvKtjfzUd8rvedH", "s3ns").
 track("4LGbwMJHkCOpvSfi8aZ1yj", "all i can't say").
 track("10oOLyvadBIZnDwvs683RF", "radio magallanes").
 track("0NMJDEHRgchNimY3SmAqPn", "le grand paris").
-track("2QTrRcCxetSwh042xAUVbt", "pt. 1").
+track("2QTrRcCxetSwh042xAUVbt", "jusqu'ici tout va bienpt. 1").
 track("4U5mcnl8lwrVObjGNHfBGV", "retour vers paris").
-track("0OYmwtzPCyYiB5U0ap32UC", "pt. 1").
+track("0OYmwtzPCyYiB5U0ap32UC", "au suivantpt. 1").
 track("227JqqTPGcB14KBoH808eo", "le nouveau biz").
 track("3yAYb1uyVC5dccSTRrJGoS", "gangster").
 track("34lFJ1OETORWjAPIw7ZIUK", "nouveau départ").
 track("5PP99ycGjTGpQqtTXsrtfI", "entrepôt").
-track("0eAgRmsuSaDzuGxbZbIo4m", "pt. 2").
-track("62vkdxWw8rpz8IezTeGNDJ", "pt. 2").
+track("0eAgRmsuSaDzuGxbZbIo4m", "jusqu'ici tout va bienpt. 2").
+track("62vkdxWw8rpz8IezTeGNDJ", "au suivantpt. 2").
 track("6knsyo8dOT4voKjApWyqAw", "celle que vous croyez").
 track("65U0nTvI2u8vEUZC5W3Tn0", "une autre vie").
 track("5SO72oQpG0RYZl4JXg84i6", "claire & clara").
@@ -24479,7 +24479,7 @@ track("372bbqn4VKoFDULbyRvSa2", "rails and roads").
 track("2OKrZcdPV9pGviNin0i9wf", "empty spaces").
 track("7ttyPICs8EROucCmsawtRv", "route 66").
 track("0ZSiK6ZQZXKG41imng6Fbh", "lost dreams").
-track("203FUGRFM4nSDjieJzVUnh", "arizona").
+track("203FUGRFM4nSDjieJzVUnh", "seligmanarizona").
 track("0D0cPuJH8fbpl097DGBGzV", "i cried").
 track("4lgjNCXmmMcTLBSTYRuXsK", "night train").
 track("1pa6WQ4lA0zTYRJIihNXCB", "election night").
@@ -24511,7 +24511,7 @@ track("0LGkVSxdaEDDuZZRukQ9a2", "movement iv").
 track("1Aj7LkEEi81KY40tfKVNUH", "movement v").
 track("7eDyEhJquWC7wac09sC8XP", "il venait d'avoir 18 ans - instrumental").
 track("2AUB8R8GUVjAdkAp1uQpnu", "red & black light - live at zénith nantes métropole  2016").
-track("2pIJqVGvcWgu6zLKEZS3gI", "istanbul  2013").
+track("2pIJqVGvcWgu6zLKEZS3gI", "will soon be a woman - live at babylonistanbul  2013").
 track("0m2M68CjzrkSsZWZeWZeeq", "nomade slang - live at zénith nantes métropole  2016").
 track("7zDJGIK2Y5Aom5ldFZsnaF", "true sorry (intro) - live at l'olympia  2014").
 track("0bC0G97qUkUAc1CK40jvNU", "true sorry - live at l'olympia  2014").
@@ -24682,16 +24682,16 @@ track("05zTgxzOtcd7XEQRdMjuRf", "about red").
 track("388IzkzGugc9nZ5cZXW6HF", "about many the miles").
 track("31tsTKYvc1nLHc5u1gxkQ8", "about brave").
 track("5G54tuEOktx5gEIfx1UvNk", "about she used to be mine").
-track("7927pw63iXj0l0pqpelLdH", "ga - may 2013").
-track("53MZrdKCHBE352jroOqXvd", "ga - may 2013").
-track("60b7AN3Z4q2eYaAGO5XtOg", "ga - may 2013").
-track("1LVNaMECODd1N411U1ELZl", "ga - may 2013").
-track("6eLqXmFq7EgBXxSmvhm6WJ", "ga - may 2013").
-track("1ldR7YtEVRslhMBWjbJMFd", "ga - may 2013").
-track("228D5H3pvraPBbFgACLOhu", "ga - may 2013").
-track("3om5Qj3voDYrrpsV2bPhcF", "ga - may 2013").
-track("0FrQGO0XHpuZkpPCvISpB7", "ga - may 2013").
-track("3ej8BbkP9LoTcFar44OFvi", "ga - may 2013").
+track("7927pw63iXj0l0pqpelLdH", "love on the rocks  bennie and the jets - live at the variety playhouseatlantaga - may 2013").
+track("53MZrdKCHBE352jroOqXvd", "uncharted - live at the variety playhouseatlantaga - may 2013").
+track("60b7AN3Z4q2eYaAGO5XtOg", "love song - live at the variety playhouseatlantaga - may 2013").
+track("1LVNaMECODd1N411U1ELZl", "(sittin' on) the dock of the bay - live at the variety playhouseatlantaga - may 2013").
+track("6eLqXmFq7EgBXxSmvhm6WJ", "manhattan - live at the variety playhouseatlantaga - may 2013").
+track("1ldR7YtEVRslhMBWjbJMFd", "let the rain - live at the variety playhouseatlantaga - may 2013").
+track("228D5H3pvraPBbFgACLOhu", "i just want you - live at the variety playhouseatlantaga - may 2013").
+track("3om5Qj3voDYrrpsV2bPhcF", "come round soon - live at the variety playhouseatlantaga - may 2013").
+track("0FrQGO0XHpuZkpPCvISpB7", "once upon another time - live at the variety playhouseatlantaga - may 2013").
+track("3ej8BbkP9LoTcFar44OFvi", "brave - live at the variety playhouseatlantaga - may 2013").
 track("6Uy6K3KdmUdAfelUp0SeXn", "brave").
 track("6lzlRAp5VqLLF78PwnfHjq", "chasing the sun").
 track("1Ng4tk8lYfiwXbw4t8gdA2", "hercules").
@@ -24712,16 +24712,16 @@ track("54byd42gABS9onpYHipyoP", "the light").
 track("7AXUdQmZMA5u221iv6gB0m", "basket case").
 track("4J6hxKlPDsfIonA9pILsLJ", "let the rain").
 track("2ZfnsQ81jNuY4MHAshnxyp", "machine gun").
-track("2A13Z8Bz2jNbIoUicOiO5F", "ca - july 2008").
-track("0jfhlOiFomO2aI5ouuLfJM", "ca - july 2008").
-track("0U00QOgVC2O6mTWFgpxoit", "ca - july 2008").
-track("4zVCixop8AJ0nuMTPFmbns", "ca - july 2008").
-track("6wdxReg4lYcvBomgGGJOvM", "ca - july 2008").
-track("5uk5GTPJmkIKGPMMqSuIBw", "ca - july 2008").
-track("39iJYIUNP2vc6gxyquXUdb", "ca - july 2008").
-track("1rjlMnFWM10ZZeLf66d1kB", "ca - july 2008").
-track("604JCJVmT3AjkxNivxs6B4", "ca - july 2008").
-track("5myin4AmKkkY3tGaC98okQ", "ca - july 2008").
+track("2A13Z8Bz2jNbIoUicOiO5F", "bottle it up - live at the fillmoresan franciscoca - july 2008").
+track("0jfhlOiFomO2aI5ouuLfJM", "vegas - live at the fillmoresan franciscoca - july 2008").
+track("0U00QOgVC2O6mTWFgpxoit", "morningside - live at the fillmoresan franciscoca - july 2008").
+track("4zVCixop8AJ0nuMTPFmbns", "love on the rocks - live at the fillmoresan franciscoca - july 2008").
+track("6wdxReg4lYcvBomgGGJOvM", "between the lines - live at the fillmoresan franciscoca - july 2008").
+track("5uk5GTPJmkIKGPMMqSuIBw", "fairytale - live at the fillmoresan franciscoca - july 2008").
+track("39iJYIUNP2vc6gxyquXUdb", "august moon - live at the fillmoresan franciscoca - july 2008").
+track("1rjlMnFWM10ZZeLf66d1kB", "city - live at the fillmoresan franciscoca - july 2008").
+track("604JCJVmT3AjkxNivxs6B4", "love song - live at the fillmoresan franciscoca - july 2008").
+track("5myin4AmKkkY3tGaC98okQ", "many the miles - live at the fillmoresan franciscoca - july 2008").
 track("4E6cwWJWZw2zWf7VFbH7wf", "love song").
 track("1NcGrbn2dbx6VQOPQeKhjl", "vegas").
 track("3kfHdr2sYF2EeWEmBHquVj", "bottle it up").
@@ -24820,7 +24820,7 @@ track("3lcuERI7leyYwfFGv1ZP5e", "gold dust").
 track("1PBk2knn4anq0vaS5KGDG2", "in my head").
 track("46lFttIf5hnUZMGvjK0Wxo", "runaway (u & i)").
 track("2g21fJjuuz1mFQP4IBAtJH", "dancin' to the sound of a broken heart").
-track("3lUmaVqVvSGXahObJ85qWc", "better").
+track("3lUmaVqVvSGXahObJ85qWc", "louderharderbetter").
 track("5s0qEUhgu2o6b8HNTuICwc", "kill 'em with the love").
 track("6TBSEJyK3DvAtR3l0aLeCY", "call if you need me").
 track("3aIhJDHxr1kgTSnutJxPTH", "peanut butter jelly").
@@ -25190,13 +25190,13 @@ track("4515GeRUJtM5C8eFj4DKh0", "wood and wire").
 track("0SmmihcxopCtaiNT9iDYdp", "talking through glass  we move like swing sets").
 track("6RmJxyRE7Ecsc9ngsHlXWL", "the great exchange").
 track("3gwof3mvAk055S4qpbkagp", "beggars").
-track("22zJLvR0IYo8zhLE3DDDh7", "The Messenger - Live").
-track("4OO7IvjnjcnOFVjC7rGKAS", "Flags of Dawn - Live").
-track("2aOGw318Q9v68QMBDBrgFA", "The Earth Isn't Humming - Live").
-track("10WFIqaquHuBJ5hSG4mbo2", "The Lion & The Wolf (Live)").
-track("0sBjFRoh7awIZywwZLebWk", "Of Dust and Nations (Live)").
-track("0zgLW7Kpe72eGLGxxg2C97", "Burn the Fleet (Live)").
-track("3QXyQnxIPuo063FQiZoQHk", "The Artist in the Ambulance (Live)").
+track("22zJLvR0IYo8zhLE3DDDh7", "the messenger - live").
+track("4OO7IvjnjcnOFVjC7rGKAS", "flags of dawn - live").
+track("2aOGw318Q9v68QMBDBrgFA", "the earth isn't humming - live").
+track("10WFIqaquHuBJ5hSG4mbo2", "the lion & the wolf (live)").
+track("0sBjFRoh7awIZywwZLebWk", "of dust and nations (live)").
+track("0zgLW7Kpe72eGLGxxg2C97", "burn the fleet (live)").
+track("3QXyQnxIPuo063FQiZoQHk", "the artist in the ambulance (live)").
 track("3s2mcDRtcJeExldxPD6JC2", "lessons").
 track("7jDxpHGftSOg0cKAbcuCqQ", "the workers of art").
 track("4s1YqVlJhVpKClZHsdQOqg", "the king's magician").
@@ -25204,9 +25204,9 @@ track("5bH79DlrqPshiR1CnwhBp0", "necrology").
 track("0LCbpzGcYqESyefDPakcNv", "entr'acte").
 track("4OTfznS9lM8waUJXKpWRJ6", "manhatta").
 track("4n47lWyFqhk5oxcukWgrXG", "restaurant").
-track("6uTvrRMsH3qg42GDIKbUY5", "Flite").
-track("7BTBa4jqq1O1rqlg3UM9ZR", "Breathe").
-track("4KbNjU82q7fX494OGIPg3Z", "Familiar Ground").
+track("6uTvrRMsH3qg42GDIKbUY5", "flite").
+track("7BTBa4jqq1O1rqlg3UM9ZR", "breathe").
+track("4KbNjU82q7fX494OGIPg3Z", "familiar ground").
 track("1rtnrxJ8RL1ua1de63MzS5", "ma fleur").
 track("6LVg0JrvZlu2qNRNMO8o3g", "music box").
 track("6qqNMdHr1hcyF4amMDP5Sf", "time and space").
@@ -25412,11 +25412,11 @@ track("6ibZXyBDdozPtgmqM0mPvm", "batman evolution").
 track("1mdUTN1RtD2oOUIusIhium", "home").
 track("1paWB93HOc8W9RAZRooFg4", "the mission  how great thou art").
 track("2S96r2pepRxVn0bw74dcZn", "angels we have heard on high").
-track("0YwlC9RkXUNATmbP4N6hsb", "emmanuel").
+track("0YwlC9RkXUNATmbP4N6hsb", "o comeo comeemmanuel").
 track("7bhwnZvz6oDszzeGAFG6kn", "good king wenceslas").
 track("7r6am67jCRvroqkkE2TS8y", "carol of the bells  god rest ye merry gentlemen").
 track("7h8WFgo7wjWVlEA3PxaFa5", "let it snow  winter wonderland").
-track("73jJWaNrhk8zS0fY8gPesD", "still").
+track("73jJWaNrhk8zS0fY8gPesD", "stillstillstill").
 track("4xwQXoPQP2RJ6j98vgJgVV", "we three kings").
 track("4AdyjF5Db6nVtSkHSQVe7m", "away in a manger").
 track("5fcRaiktOXuGauXlTfumSY", "christmas morning").
@@ -25560,9 +25560,9 @@ track("1TRNOCy3m0si1SJgZaSxPS", "evolution is here").
 track("6suKICdV0RD1GnGdtcTPK9", "never alone").
 track("2vWUWkrncGGsTTIxvsJNb7", "dedicated to the core (defqon.1 australia anthem 2018)").
 track("4q7NRYgOTVN0ZOPrbqEAk7", "d.w.x. (10 years dirty workz mix)").
-track("7jZGq57NZeTLVIg3LoapZL", "gifted & proud (the qontinent anthem 2017)").
+track("7jZGq57NZeTLVIg3LoapZL", "younggifted & proud (the qontinent anthem 2017)").
 track("2qtzcl7vPhyb1wsL3DRQwM", "rise of the celestials (qlimax anthem 2016)").
-track("6BVenvZdKqJNzE9BZXGBvE", "Black Submarine").
+track("6BVenvZdKqJNzE9BZXGBvE", "black submarine").
 track("46570qluOPNkEnDEyhh0Va", "intro - this is coone (2014 - 2015)").
 track("5PilDLWETLYRxaANIQtJlP", "love for the game - radio version").
 track("2iWS5CG8nUxQgxRApOv4jL", "universal language (cyber remix) - radio version").
@@ -25696,7 +25696,7 @@ track("4xRBX03MyVlHFDXpkP31rM", "começar de novo").
 track("2G0ZwnThBXReYrXmiQE4vh", "bandeira do divino").
 track("5ALYK5lmWZyfLR9Zcuy1qa", "depende de nós").
 track("2IGNzNgmrR6U6lZsMxRshD", "mãos de afeto").
-track("1gKpcRSdtPB7e1cVG6owGh", "dinorah").
+track("1gKpcRSdtPB7e1cVG6owGh", "dinorahdinorah").
 track("6onXlkc0wKyQZirw6x4Wsa", "depende de nós").
 track("3SL0mcgFvPDYkfjnBOQEr5", "mãos de afeto").
 track("6i8HtjM7lgrtZcV92JFd1o", "somos todos iguais nesta noite").
@@ -25776,7 +25776,7 @@ track("3JVHKGwHYacmvmGiXxgoFt", "i'm in love with someone - remastered").
 track("2q6o1fMXf7h18nKwyIpD2c", "am a dreaming - remastered").
 track("60iiFNkoQwBGQwBWkd2oqJ", "on the sunny side of the street - remastered").
 track("5acjkX82ogJNs6cLRqCbum", "we'll git it - remastered").
-track("6sNDCoHmQGmfA06Va5V2pA", "herbert - remastered").
+track("6sNDCoHmQGmfA06Va5V2pA", "shoot the sherbert to meherbert - remastered").
 track("5V7eTBaEA0urlw7fObRg4H", "i'm getting sentimental over you - remastered").
 track("69k9h1DSJYEt51b9F24NvY", "how about you - remastered").
 track("22I120w9WMzaoaKLya6BJr", "on the sunny side of the street - remastered").
@@ -25807,7 +25807,7 @@ track("4xCS0QKZTYxz6P9va5nEne", "the tunnel").
 track("0dpyhAE9Ova8VbOlHuq3iK", "harting").
 track("34iYSRhsbYtB56wX4OT7r7", "rst").
 track("7cjekqLp8n2iyc2XHkSl2i", "barris mission").
-track("6bYe6dvRmaFilTDwsctEBg", "pt. 1").
+track("6bYe6dvRmaFilTDwsctEBg", "hostagept. 1").
 track("6qjAMCynGlUDAdeSrbiOaN", "will & sarah").
 track("2XhD40oLgLg1XXtUXTxLoW", "welcome to heaven").
 track("0sqcNKgR5qqIDNhusAnU8v", "botha").
@@ -25850,7 +25850,7 @@ track("4GHu8Pi1O5krG21G00XQh5", "casey jones").
 track("2rOTuO9U2CJq66fCpyaBw3", "i curse you with life").
 track("61VIqYBsc9h1BNHEfQ8Zik", "three is trouble").
 track("2QaBBnhENWmT89pf1UzZvB", "judgement").
-track("3wwlnO37OvtF6MWX0FcvbA", "witch hunter").
+track("3wwlnO37OvtF6MWX0FcvbA", "well hellowitch hunter").
 track("5lXhWSIiSv9oDcqHv56pbV", "lights out").
 track("5aHSGuQP0gn3Lk2yj7S8Wq", "the witch queen").
 track("09xJQZODg4N7A0xisNwNdl", "i must remember").
@@ -25860,7 +25860,7 @@ track("5lARhSuyJxSrS2KURUD1Z4", "this isn't real").
 track("7uubyG3P2RfEloHQL9rd6O", "i curse you with life").
 track("45EAx7UQD7VYJeDFjGN2w8", "three is trouble").
 track("4dixOhq5Ss9JlCsrJhuhQl", "judgement").
-track("3HkfafRRMWXH92lWqhHXDW", "witch hunter").
+track("3HkfafRRMWXH92lWqhHXDW", "well hellowitch hunter").
 track("25pNolIwQx1Zc6g99NLZmw", "lights out").
 track("6aJaSW5vOpQvdcAOzzjICk", "the witch queen").
 track("3Z5hVleWJZSeZCqV20Gbip", "i must remember").
@@ -25870,7 +25870,7 @@ track("2hfTkUxX2Ijg6C57lmCGLz", "this isn't real").
 track("0FIbyQdxZEDDaj1u4cdFFK", "i curse you with life").
 track("0z7oGiS8N60JHwZpfvUXJu", "three is trouble").
 track("6LsH3szO6dOvABMiQE1Lml", "judgement").
-track("3HKoOp4KrAYM2DHprMekwl", "witch hunter").
+track("3HKoOp4KrAYM2DHprMekwl", "well hellowitch hunter").
 track("4QruILjciBGpIoPW5Iclj1", "lights out").
 track("5wXvaUpvxtP0JV8Gq8HXNT", "the witch queen").
 track("2iVKgL7FFDnFhPTzNilomy", "i must remember").
@@ -25890,7 +25890,7 @@ track("1om5SLZiUA9DVEnjcZBBzA", "valerie - '68 version").
 track("7F5rIyOI88zk36AiBXC8xq", "the girl from ipanema").
 track("4d0dY3ZeMdoYrD5YmdFvWZ", "half time").
 track("2G4rsUWjuBb6vPrUm01etb", "wake up alone - original recording").
-track("7BizTaPDXSWVi8vdGeFg0W", "right?").
+track("7BizTaPDXSWVi8vdGeFg0W", "best friendsright?").
 track("5BiNpQIL6ou34rspuOWjcQ", "intro  stronger than me").
 track("6er2NooPYkjTO3vXp9QAz6", "you sent me flying  cherry").
 track("2JfSrM1z0qhUTHo2DntKIH", "know you now").
@@ -25901,7 +25901,7 @@ track("4IMewqxxzXfyG7GVT1nEZp", "(there is) no greater love").
 track("5ZOPgLCpknkFg2dRm7YrSW", "in my bed").
 track("2STxDsUYe164MepMhTc0eV", "take the box").
 track("4fR7KDVELb9rpN6YnDanwu", "october song").
-track("6CQaVuICm1WVXyy3SZ5jEI", "london  2007").
+track("6CQaVuICm1WVXyy3SZ5jEI", "valerie - live at bbc radio 1 live loungelondon  2007").
 track("1QBtU3Y9mWE35FdBMxPSV6", "cupid - deluxe edition version").
 track("1yyvHI3VetdomvG1gX8nQN", "monkey man").
 track("7oDjZOjxkmTaA7h5dMudk7", "some unholy war - down tempo").
@@ -26001,13 +26001,13 @@ track("4uQY80TKE1u4ZQZQKHzVEi", "the one that got away").
 track("50r1EUDpmSZRPo5aIZpmWi", "e.t.").
 track("7IxiJEqnqql7SXFukFvCnO", "who am i living for?").
 track("3ztuZHBzHoqv3NeaxnSvxP", "pearl").
-track("7IdznjcKCOWhydUH02Istz", "ny2009").
-track("68QGxyVl0E9XaI54jO9nzP", "ny2009").
-track("5c9pa7wTZsRU3Mycb0daM6", "ny2009").
-track("7c9qf9V6PapwNsAHTjzVI9", "ny2009").
-track("73CbwVzYNTEkfLOCC2mkC3", "ny2009").
-track("532jcgk0ZQgRze05omDsqo", "ny2009").
-track("6Hup9P0Ggb3ff5tneUdWeM", "ny2009").
+track("7IdznjcKCOWhydUH02Istz", "i kissed a girl - live at mtv unpluggednew yorkny2009").
+track("68QGxyVl0E9XaI54jO9nzP", "ur so gay - live at mtv unpluggednew yorkny2009").
+track("5c9pa7wTZsRU3Mycb0daM6", "hackensack - live at mtv unpluggednew yorkny2009").
+track("7c9qf9V6PapwNsAHTjzVI9", "thinking of you - live at mtv unpluggednew yorkny2009").
+track("73CbwVzYNTEkfLOCC2mkC3", "lost - live at mtv unpluggednew yorkny2009").
+track("532jcgk0ZQgRze05omDsqo", "waking up in vegas - live at mtv unpluggednew yorkny2009").
+track("6Hup9P0Ggb3ff5tneUdWeM", "brick by brick - live at mtv unpluggednew yorkny2009").
 track("3kO99S0ge1y7zZYkVdX35j", "one of the boys").
 track("1SUFuCjinEHelZ0rmnVMx4", "i kissed a girl").
 track("0Swu0ns3eq7mFvVidrOPPD", "waking up in vegas").
@@ -26025,7 +26025,7 @@ track("4Mt2QziS4oZCP1r0pVSAnJ", "like that").
 track("5P6UFYrUOzYsfT02z3O5br", "girlfriend").
 track("1AbZPODPDImsdoJy9NkaJC", "midnight fantasy").
 track("22qjdig0fYS2miuq3GnN5h", "i.o.u").
-track("2nRnUkz6LYBMWjlgEwJRhl", "no games").
+track("2nRnUkz6LYBMWjlgEwJRhl", "no trixno games").
 track("6qDtt5C55ZcGLqiaQBeUN7", "i wish").
 track("5VI7ndXxnP5sJadj1kVLMS", "watcha talkin' bout").
 track("2zb0TZbEprJhFjrbW74cWt", "motion sickness").
@@ -26054,7 +26054,7 @@ track("40BqY3LoW5pTnVTmj6n9Ih", "what did you expect?").
 track("7tmPNDrMFKSLCwiRvqmIH0", "over and over").
 track("006hfStQk9L7MVT9RcDeva", "a part of me (feat. laura whiteside)").
 track("4EBpoGemwNuwgHqlegUe2v", "i couldn't wait to leave 6 months ago").
-track("4WEjA5qk4rYVWVpVBMa5xP", "no heart").
+track("4WEjA5qk4rYVWVpVBMa5xP", "all hypeno heart").
 track("0DnZ5OXHUHzYTwYKy7ET1d", "up in smoke").
 track("5gyJU4ckfprlaEVIBQJI2p", "tables turned").
 track("3PhDq7u2YZ7bcPRA7Bnpqy", "head to the ground").
@@ -26074,7 +26074,7 @@ track("64fmY5mDJIO0jsB9lc2h8o", "what did you expect?").
 track("2mxeCd5wxGoDEQJ6vfSDi5", "over and over").
 track("6pXzsEKNyvBWFR7xgErNQw", "a part of me (feat. laura whiteside)").
 track("6PsRJvO6mMXihk0DQL7Ccm", "i couldn't wait to leave 6 months ago").
-track("0EUsREhw5Hbii7tu0J8sfm", "no heart").
+track("0EUsREhw5Hbii7tu0J8sfm", "all hypeno heart").
 track("5KmJMi7MiBJtCeJ08lmKzo", "marilyn monroe").
 track("6xATKzdUO89mZvStODhUSR", "hunter").
 track("0Aj49rBA0sepKeOpxE4Rdz", "gush").
@@ -26250,7 +26250,7 @@ track("0J4PkwTNkprBEHWVbxZdSb", "rock n roll").
 track("4mDjhqWVQYYvXE4S5hli1O", "cas-ta-spellome").
 track("4ym2xt2KAgupdG9dkjPreh", "make me feel good").
 track("2KDaPgurTBEqaVnxMtB32C", "ja ready to rock").
-track("6p1Qx7OCBdZ2HRJr0PXDpM", "pt. ii)").
+track("6p1Qx7OCBdZ2HRJr0PXDpM", "heartbreaker (pt. ipt. ii)").
 track("6LfMbKp9siHjBD4JbvvX61", "i can make you dance - pt. i").
 track("6jwFk7dgJ375boghxrX0qt", "play some blues").
 track("1AAQ5zCDT9tWVmWlC1mhYs", "spend my whole life").
@@ -26262,18 +26262,18 @@ track("2hIxI5hkYpUaOX7OB51Q2O", "playin' kinda ruff").
 track("6LnFAJNFCNgXxHN4u19TVq", "doo wa ditty - blow that thing").
 track("6AYt5MCuz9qWLNyV8pCKJC", "do you really want an answer?").
 track("4lzHWf6lYl2qjyqFL6HwxE", "come on").
-track("2vuei0LuERQt2s36EiwaCp", "pt. ii)").
+track("2vuei0LuERQt2s36EiwaCp", "a touch of jazz (playin' kinda ruffpt. ii)").
 track("1LiwqqaafXkNQuWGW3HeId", "more bounce to the ounce").
 track("1XhHTpNzp4Ckmz9HqAUtoO", "freedom").
 track("2c3c3ciMJObHKzQ496NahH", "brand new player").
 track("6igEKMvGsJuAWiIeFgFg7x", "funky bounce").
 track("3PZpMF3RebeBEkQ6OicLpz", "be alright").
 track("301sd7XOQrrv86cb0Q91x3", "coming home").
-track("0Sm7vdkV3oH2LGrTRt6bcg", "Winter Wonderland").
-track("3dFYVJswSeLccgVeSfH4xp", "This Christmas").
-track("3fuJSX0kWxRfgEcDjs9guX", "Christmas Just Ain't Christmas").
-track("0FonRIDXYnaQ9bYr2JpqXm", "Deck The Halls").
-track("3T0L1XXJ1i52E1l7VGmJpU", "Amen").
+track("0Sm7vdkV3oH2LGrTRt6bcg", "winter wonderland").
+track("3dFYVJswSeLccgVeSfH4xp", "this christmas").
+track("3fuJSX0kWxRfgEcDjs9guX", "christmas just ain't christmas").
+track("0FonRIDXYnaQ9bYr2JpqXm", "deck the halls").
+track("3T0L1XXJ1i52E1l7VGmJpU", "amen").
 track("2OqO0WYPex8PUrfbv45QIO", "i’m coming home (for christmas)").
 track("6cY9FirM5nlfUaAFnQckiK", "winter wonderland").
 track("7uVtjMwqf8GXuUIQ50G4PC", "god rest ye merry gentlemen").
@@ -26296,7 +26296,7 @@ track("3KY1OERC4lhCk3yWek7vME", "meeting over yonder").
 track("33yvLCfzPD3k9mlOiuHlT0", "amen").
 track("7wsGbsaGfJR0XPm8OmsJCW", "hasta manana").
 track("4SW7C3JGxDxfr5gVKKImoa", "he is your brother").
-track("4FUYLEI5S3mMLgaEQ5Vw3k", "honey").
+track("4FUYLEI5S3mMLgaEQ5Vw3k", "honeyhoney").
 track("1YI4FrJedKg4VhTRIlmkmn", "dance (while the music still goes on)").
 track("7qHsiUT3fvh9RAtvPdctgI", "drive safely darlin'").
 track("70YqfYbZ2tP96qGauGuELV", "lyin' eyes").
@@ -26306,7 +26306,7 @@ track("7lDQdUPViCmvm5rl0ZiijF", "i honestly love you").
 track("0tEJbI4S42Ekaa0mgwLKVr", "annie's song").
 track("39IJhxNTVDDbfmt0CWrWRT", "you've come home").
 track("3jDiIT4GpDKcAcwAx9smj6", "it's all right").
-track("2BuwpQjAXt9jpQXuUJouD5", "sad girl and boy").
+track("2BuwpQjAXt9jpQXuUJouD5", "sadsad girl and boy").
 track("1PG1nFFudEPbv19AuyVmlX", "minstrel and queen").
 track("1QbJdEckhwHY3wiSmEj6bG", "never let me go").
 track("1BDxR7JbkuPMIThJD2B84z", "as long as you love me").
@@ -26418,7 +26418,7 @@ track("46I9j20GGIbAvFjT8hUsC6", "see that my grave is kept clean").
 track("6QHBgtXhjw5d10O2HQ2LEk", "goin' back to florida").
 track("2o3cVXJPxmU6ieZjCDmTUj", "reminiscences of blind lemon").
 track("5OeJAfVtWbtUNRRRTPQJky", "fan it").
-track("3VhQEyunpt0uq0n6OVuuLy", "baby").
+track("3VhQEyunpt0uq0n6OVuuLy", "tell mebaby").
 track("3JTYLnEL52DtPyyza1FCqo", "she's mine").
 track("1ozBEVBdLwiIIzNohYzZ0e", "trouble in mind (live) - remastered").
 track("02YYP0LnZlYdtnTZfhAP4r", "mercy (live) - remastered").
@@ -26459,7 +26459,7 @@ track("1poSbxh0xOD9ZRhsnyekBW", "where can i find my baby?").
 track("7L8GqOae6jZMyMcsMvQPzW", "baby please don't go").
 track("3oFIecPhEPbKadH2eIVPPI", "mojo hand").
 track("0eRDWo7SN19C5kV4dBsacQ", "trouble in mind").
-track("3POSkiEQqP59dBL718gGqz", "she's taken my appetite").
+track("3POSkiEQqP59dBL718gGqz", "the woman i'm lovingshe's taken my appetite").
 track("2HDAI2ZX2RRDAWbq4QQGps", "come on baby").
 track("5nFpi5DQyHjce5LrcHDiuB", "cotton patch blues").
 track("3PYYUDRxXuz1GLa6ycjAsz", "instrumental").
@@ -26532,7 +26532,7 @@ track("6Xwbr1T2wx07ed26nOKXNl", "a dor e o poeta").
 track("1twXjlkOdRYawNAAbXT2C1", "no ipod do meu coração").
 track("3C6zAEhg9NHuJXwilXqhaK", "meu coração tá bombando").
 track("2xPY8vy1JQHMpGfXGxN6uL", "sintonia").
-track("4vp5tHL6bMqKdRsSadFq5e", "parou por que?").
+track("4vp5tHL6bMqKdRsSadFq5e", "por que parouparou por que?").
 track("05CUagLllEksCzcOz2SET1", "lá vem o brasil descendo a ladeira - ao vivo").
 track("7IEquxTtA705es5bnTqXyC", "eu sou o carnaval").
 track("2ulTZz6EUZsxp7vDGhzj4Y", "meninas do brasil - ao vivo").
@@ -26554,7 +26554,7 @@ track("5p1XGBEt3SiQsnbOK4baqR", "me azara meu amor").
 track("06lZ8pHLtcOwzIiNtKT9p1", "baião d2").
 track("7d4PPU1MsOStZSNL7qAiC4", "palavra de poeta").
 track("0P4XW7ahTztExjDug76jb4", "na glória do samba").
-track("6z8lBpWPBRmlRzjNTUxqcl", "não rola").
+track("6z8lBpWPBRmlRzjNTUxqcl", "se não rálanão rola").
 track("75jALignIRUsLMyMlmn6RZ", "povo brasileiro").
 track("68G4zR4SyncEOIjQorfhtc", "rap da república").
 track("6qGw0En3eaXooyZnC6ucDU", "pra vida inteira").
@@ -26610,7 +26610,7 @@ track("6MgvcueuzU2QuCxBzbQfA3", "de vez en cuando la vida - directo méxico").
 track("49qerf6NDbnwL5KDah6V3F", "muñeca rusa - directo méxico").
 track("7sxD0EyqE1PKx11uzoocZK", "benito - directo méxico").
 track("6oP9jNWlvdcvz8BPDteGHj", "penélope - directo méxico").
-track("54ZgeihrOd7JirTEEMkUHB", "mañana por mi - directo méxico").
+track("54ZgeihrOd7JirTEEMkUHB", "hoy por timañana por mi - directo méxico").
 track("7chkFYuZmeQNwh1CXShvwh", "romance de curro el palmo - directo méxico").
 track("2fPlp8ZUuVPGVffw8Yfpky", "pare - directo méxico").
 track("1gdHEDQ9vofwXrE8YdkbkZ", "algo personal - directo méxico").
@@ -26635,7 +26635,7 @@ track("20W4u8wpqjyGn5rFU2LxYZ", "el mundo de los demas").
 track("6RzgXK7R8UKSR9nGKsBq2L", "cerca del agua").
 track("5mb58ilG70EySN2pwq36rw", "el hambre").
 track("79NeameyNkni3KFa3IhTRJ", "tus cartas son un vino").
-track("01H0UHf9FuP43liGIMAN4p", "bueno").
+track("01H0UHf9FuP43liGIMAN4p", "si me matanbueno").
 track("1pzqyP49q4JVhG1G1wp4tE", "mo").
 track("56SdwKWAAk1Pgg5g3Hh4fp", "el teu angel de la guarda").
 track("2Ue1K88kkxQh3y1WNNgh65", "perdut en la ciutat").
@@ -26728,13 +26728,13 @@ track("5U1u3EtJ6QZl64N6LuzHnL", "don't go").
 track("2W0ExLWFnx4SlTcfIk9IRl", "sino ba ako sa 'yo").
 track("2kymi3GoTYCNpf6NiOWuoE", "beautiful baby").
 track("0EFOnhjqpFl1WoTVCvTB11", "takbo ng mundo").
-track("3DNEUXAZM31OLyRyyuRWjE", "sana na nga").
+track("3DNEUXAZM31OLyRyyuRWjE", "sana namansana na nga").
 track("5lEAiK7TJKKq20bwxltaIY", "sino ba ako sa 'yo").
 track("4BF1519bbLo5sBMU9TCYOf", "beautiful baby").
 track("4lw61omjUnMiW7iOsRuQh6", "takbo ng mundo").
 track("5wnlIbYPsKmmKwnL9uXHWr", "sana ikaw naman").
 track("4HXivyzDWHJVhFDIP4UWKv", "narito ako").
-track("1aiuDgzGwIpfARuPbgcIDy", "sana na nga").
+track("1aiuDgzGwIpfARuPbgcIDy", "sana namansana na nga").
 track("6yanrtcTNhSgUyjZtzH4OB", "where do broken hearts go").
 track("6d8qftKrJYhyKAg8GGUzhU", "kulang ako kung wala ka").
 track("0Ptpz8f96yaEkKvTc9RzET", "kailan ka magiging akin").
@@ -26884,7 +26884,7 @@ track("1MdjZzEInrmDBXf8zs0nKS", "dan...").
 track("5XtKnrjAymjDZ4Sq52Fugw", "terlintas 2 kata").
 track("1I0iayXwcT0exhnvqgFwfV", "berai").
 track("1OFdkVo3bZyi9vhT1vKQtA", "bobrok").
-track("1mUtIaPB7G7fEq5vyVloMk", "rani!").
+track("1mUtIaPB7G7fEq5vyVloMk", "perhatikanrani!").
 track("55X0NwuKXDkk9kA9nPmo3U", "always the last to know - live 2014").
 track("70FcecMyvpakrcRujDwbsR", "kiss this thing goodbye - live 2014").
 track("1jiSezEbr0CU0CgDrYR5C8", "the ones that you love lead you nowhere - live 2014").
@@ -26940,7 +26940,7 @@ track("1WVQD0U3jJE5vyXQldfm3x", "cash and prizes").
 track("4OqqxP6YLd7VCws75SCMdO", "drunk in a band").
 track("4Ix0CO3l82zjnQ0qan0rPL", "one more last hurrah").
 track("7mHQxEgaUoRA8DdLWWNiBi", "buttons on my clothes").
-track("04KLswwJmSmQy4nQSIyVuV", "it's me").
+track("04KLswwJmSmQy4nQSIyVuV", "babyit's me").
 track("6HDSb79NwdOZGH9YImAY4k", "wash her away").
 track("03BN0OWAv5DdjmiB036UAH", "last cheap shot at the dream").
 track("3OaQw5r62quWSDMOhjBeIu", "out falls the past").
@@ -27023,7 +27023,7 @@ track("47mCEgPF5wlyCHJtdIC9Qz", "hardest man in town").
 track("58N4zsAfFiHL3hhl8HtArd", "intro to g-funk (comm. 1)").
 track("5m03gxmifyUbYu4emkZRJJ", "g-funk").
 track("2ghvUNpWPcLHUAnd5Po3mX", "my world").
-track("1FpbuFxJkSeQajfWPrDfcR", "dangerous").
+track("1FpbuFxJkSeQajfWPrDfcR", "crazydangerous").
 track("1N5OaxNFhzFco0N1VoTVcm", "never too late").
 track("4SZQ6MQGI1z2Qa0kvBtgD6", "stone cold").
 track("1culh2irgzbxZ5ZBNHZABB", "who's playin' games").
@@ -27063,7 +27063,7 @@ track("6B5AS5p8IJ87B51r3ANQ28", "ge tillbaks det du tagit").
 track("3fbFchYmuXpVHxHLcpvTmJ", "welcome to the show").
 track("2YTCLIK4GO5zRX1BMAMrLN", "work").
 track("3WSIJYIDZzIOAt0cOrwNKP", "move on").
-track("0d6pzYLRnZiF75SDVktuYi", "wag more").
+track("0d6pzYLRnZiF75SDVktuYi", "bark lesswag more").
 track("36CcV8HVCKXPvCzJj0LzP2", "let it fall").
 track("2iWWbZUbLw42TpkEoz634B", "stars align - radio edit").
 track("20TcTO21y6Tk2jGX4S6W3q", "speaking of truth").
@@ -27120,7 +27120,7 @@ track("6O02FBjFJF8SKx8fQZ77Zc", "body muzik - extended mixx").
 track("0sOVvzpGMYVRYu0AdoL6G2", "coal mine - extended mixx").
 track("7ussTxYlgzs2FURsOuyDu1", "let's go! - extended mixx").
 track("0EaeV2aDXeYqvUVEa0kSIL", "modulation - extended mixx").
-track("6AJacIrnxCWjxLbpzjiFUN", "work it - extended mixx").
+track("6AJacIrnxCWjxLbpzjiFUN", "move itwork it - extended mixx").
 track("7y5fGBTBoH5UlPN9ncZhn0", "the frontier (9-1-1) - extended vokal mixx").
 track("0FgNSsaSZTvbLXUumSO8LQ", "star treatment").
 track("2AKwcNHeGAqCpD6etK425X", "one point perspective").
@@ -27170,7 +27170,7 @@ track("7e8utCy2JlSB8dRHKi49xM", "fluorescent adolescent").
 track("7ABWRukVQcXrIrDKDx5Gek", "only ones who know").
 track("13NCxLOlvQ4Tnexgfp03Gs", "do me a favour").
 track("7gPd55hW5pVjTm3H9S1Wbv", "this house is a circus").
-track("0ZUXj43fteJjwvGoLMntte", "beware").
+track("0ZUXj43fteJjwvGoLMntte", "if you were therebeware").
 track("48ucaKjccruxDbi3Au5ZaH", "the bad thing").
 track("7f9I5WdyXm5q1XqnSYgQZb", "brianstorm").
 track("5kxVyCgEUND7E2QKG7JmoF", "teddy picker").
@@ -27180,7 +27180,7 @@ track("2x8evxqUlF0eRabbW2JBJd", "fluorescent adolescent").
 track("71ytDkCnYc11VRiRCrhDHX", "only ones who know").
 track("2BqfIlpahcebJPeu1IUTEo", "do me a favour").
 track("0DKvcH4SCRdhVYTxStKx9h", "this house is a circus").
-track("0idZZsnM7nuSYanlpKTuwV", "beware").
+track("0idZZsnM7nuSYanlpKTuwV", "if you were therebeware").
 track("4N2yjWLIxZjOXDrCu2VlJe", "the bad thing").
 track("4wSWZjWH7a5eVxskGxO13w", "the view from the afternoon").
 track("29EkMZmUNz1WsuzaMtVo1i", "i bet you look good on the dancefloor").
@@ -27193,7 +27193,7 @@ track("1TYRcvY3JTYoLVhADPpDH5", "red light indicates doors are secured").
 track("3geFzA6VBSNZUTmV3bCry6", "mardy bum").
 track("2vVHf43MQ8V3gDbo8HRlnJ", "perhaps vampires is a bit strong but…").
 track("16uYwYMAdtOVekIaC0joNG", "both sides now").
-track("2d8vYpKs0fxzyOEJj5bye0", "the latte boy").
+track("2d8vYpKs0fxzyOEJj5bye0", "taylorthe latte boy").
 track("64ZT2WPsLdvB49GAEAG1C7", "oh very young").
 track("48cFtcpRYETdUcZArwMyOc", "someone to lay down beside me").
 track("5Ql4A8hZnxEK5B8nmAnt4H", "french waltz").
@@ -27201,7 +27201,7 @@ track("4QItPSlel4w6Lh6WSP0MjC", "across 9th avenue").
 track("59SUbDFuDU0eVKy5kmNlT7", "where in the world is my prince?").
 track("0nRAM1RbOUZEYNlRvysrsy", "i can't believe my heart").
 track("2gfWQaXhaM8aSkcabgb81g", "roses").
-track("2PAOdKN2CgXqH4lyo3coIi", "how i loved you").
+track("2PAOdKN2CgXqH4lyo3coIi", "ohhow i loved you").
 track("2tmYXRwC5FGRpTTF9yYFqG", "the me of the moment").
 track("1TTRXB5m5oV8hGGB4idxyp", "a musical apology").
 track("3I4DGpC4mYRndF1v1kV4ZT", "the secret of happiness").
@@ -27215,7 +27215,7 @@ track("6457ZLcig9HCSDW90qXyDu", "nocturnes").
 track("3Zn5XFjuFZXjXPZMbxgcW2", "think of me").
 track("2yq47erOW6pYmP3fJxQJJY", "embraceable you  'til there was you").
 track("3fbTQsrC14jHM38pSwKgBy", "love to me").
-track("3an1mZh7QQVH7cg47Sbt1k", "bothered and bewildered").
+track("3an1mZh7QQVH7cg47Sbt1k", "bewitchedbothered and bewildered").
 track("7CzucD8UlZzOoWmOD2pllp", "anyone can whistle  not while i'm around").
 track("3NNfoCeXGXAfoYh2AdrK34", "make believe").
 track("3UA010TIWDJyNjKgnIz6Zh", "lay down your head").
@@ -27499,7 +27499,7 @@ track("2whlRQIh2Y4h3vLeok57Js", "o come all ye faithful").
 track("2WHs44OU12pa3ehBRqyf3g", "o christmas tree").
 track("1xEQHN6fCn2rKs1iUOahcX", "away in a manger").
 track("14UxvcvBLUhnIuNMJNI0fd", "o little town of bethlehem").
-track("7cklASz61XV1hQ6mUVmKzz", "gentlemen").
+track("7cklASz61XV1hQ6mUVmKzz", "god rest ye merrygentlemen").
 track("4dLI4gZsGzkh8HV8pWKrPp", "silent night").
 track("5FCIA9efPNrbw7e2nh4fK3", "the first noel").
 track("2xcv3O2GchmUlCRznnw0cI", "gustavo (live)").
@@ -27571,11 +27571,11 @@ track("6SMRngbJK8GbtIPMeNn97j", "far side of nowhere").
 track("248E1o5kg2xHoh4isopGg0", "alone and forsaken").
 track("0jXiYCjuZi1z5oQaV4Ba8T", "writing on the wall").
 track("1jXoAl1K05balD0e4CH1XI", "can't take it with you").
-track("7GaCL87xi6T65YGMJMMHp8", "Highway 101").
-track("3tcOyhZ6uzTctOFgeZOlks", "Footprints On My Ceiling").
-track("0o2r61Cn5HfjlKUJk7BHeo", "I Wasn't Born To Follow").
-track("5VLGDtyhQJ6e0PsqPmV62U", "Faithless").
-track("054XPvO2cS1R3v6MdK0UnA", "Angel's Wings").
+track("7GaCL87xi6T65YGMJMMHp8", "highway 101").
+track("3tcOyhZ6uzTctOFgeZOlks", "footprints on my ceiling").
+track("0o2r61Cn5HfjlKUJk7BHeo", "i wasn't born to follow").
+track("5VLGDtyhQJ6e0PsqPmV62U", "faithless").
+track("054XPvO2cS1R3v6MdK0UnA", "angel's wings").
 track("4S6HKcGcM0AvI47Wfd3iwV", "story of my life").
 track("1HrN1mOM16BQxTQaZ3V960", "bad luck").
 track("2sYQgnf2Ed2coeSp2FldMO", "under my thumb").
@@ -27585,7 +27585,7 @@ track("4hUllGMCyo0hSZ6E1qfeIT", "mass hysteria").
 track("0Xi3ptLC9oZ6mnM9sC32ke", "the creeps").
 track("3EwbXngmZmpLsl2oE5dunj", "another state of mind").
 track("10jXRIhu6VubCOk8bttoNO", "let it be me").
-track("6rkxLN11R63q5OAJRpv6Ox", "no gain").
+track("6rkxLN11R63q5OAJRpv6Ox", "no painno gain").
 track("7ueNGMnYBXIuuglH1A1wND", "dear lover").
 track("7tZ1sF5HLhqtRO0bITs4lV", "don't drag me down").
 track("1OrGbwskgHvNCEbWCVd8cn", "untitled").
@@ -27823,7 +27823,7 @@ track("3Q6DA3In23GczdMEFHmTeb", "bring me down").
 track("4IOVThlzDO4CphzbVIGd5U", "me and charlie talking").
 track("6pfJAhSUJ5CuWOL6kKR07s", "i wanna die").
 track("3IyptlFwHkM4pN04mDS42s", "love is looking for you").
-track("4VMW0owhGhG8W69xK72DOR", "i'm alright").
+track("4VMW0owhGhG8W69xK72DOR", "mamai'm alright").
 track("7ociEwUziErzRtYfZSlyb0", "drugstore rock 'n' roll").
 track("6G4NW6bCM3GmF4DpqQkrix", "my boy elvis").
 track("2PEVkExYT1sZ1kk00pKFVJ", "billy boy billy boy").
@@ -27872,19 +27872,19 @@ track("4IW6YtFc43oz1H56ZPIBZi", "i'll never be free").
 track("6UHs7yJ81aixKZ2dEVJiaB", "cracker jack").
 track("7y7s0oyJx5hu3dpC98wVnH", "good love").
 track("5x0t6OleuQYCh91IUIE0sy", "bang bang").
-track("4bDi9rJ6NhSVxDJ0M557yi", "my billy boy").
+track("4bDi9rJ6NhSVxDJ0M557yi", "billy boymy billy boy").
 track("410Hajhh33aeRtR4KyvnKR", "all right").
 track("0n2pHNOnYrmaKBRm3E6rUq", "will you willyum").
 track("1hXeGqQ4G6Svws634SKbWO", "bang bang").
 track("3W8tGjbMbAqWDpODFnL2Ru", "my boy elvis").
-track("5TU1taZ8aCeLGPpIKyLLMd", "baby").
+track("5TU1taZ8aCeLGPpIKyLLMd", "all rightbaby").
 track("1YBtj5FOEIYQXpD3Xkm941", "just squeeze me").
 track("1oRjYoo2bco3jbUTZLqX2W", "teen street").
 track("7A6bc8lgIyVn0bigTGyWwq", "ooby dooby").
 track("4XlbG33aUHJeTn4yzHflKq", "love and kisses").
 track("4lA88wtO2gLr1yLdL5ThBp", "i'll never be free").
 track("48BS85q01wXwbEf6ybaWQL", "love me love").
-track("101iAKn60WP86t5Y1azmT9", "willyum").
+track("101iAKn60WP86t5Y1azmT9", "will youwillyum").
 track("6y62AUf7VgYMAssHyMHAoM", "drugstore rock 'n' roll").
 track("3flVRN43p7cuKTXTIY3qNw", "ooby dooby").
 track("7ftB61Z7vBOtfrxiaVrR49", "one more year to go").
@@ -27915,7 +27915,7 @@ track("0Pnxnk7PLbnLoghbZv1F3d", "barefoot baby").
 track("61AQmEddFArLfFZsFbzVmN", "good love").
 track("6dWtl9uT7isntjMgNRnYkK", "little bit").
 track("7DILI8q10BDf05YAnfMgQW", "let the music guide you (asot 950 anthem)").
-track("1caBzkN4Adlyb1sFvXnXWK", "netherlands) mixed - intro").
+track("1caBzkN4Adlyb1sFvXnXWK", "live at asot 950 (utrechtnetherlands) mixed - intro").
 track("1D20Pj7zleRPfqLfzRa8hR", "the stench of burning death").
 track("08qZ5wpleg8LoUkw8f0CQG", "eaten alive").
 track("6MaUvf5bKxvq4W8AIykDOr", "acid bath").
@@ -28050,7 +28050,7 @@ track("04ltzXxHUg0ccQKX741lFD", "yulquen").
 track("1uVGrSONttgpP3vQUg5A6G", "what's going on").
 track("5ZuKLBRW15j9NzuXgyHXEW", "the winter hymn (ambient version)").
 track("2mnUigTicnSzD6aiujRAM3", "you what? euphoria! (ambient version)").
-track("26XTuHdyElwQAhPbAuTBUN", "sterne laufen (ambient version)").
+track("26XTuHdyElwQAhPbAuTBUN", "frau im mondsterne laufen (ambient version)").
 track("20bWMudmLLjtwLCnjoXPH0", "in an open space (ambient version instrumental)").
 track("0xvvg5LRhtDkBUoNY9Sie6", "dream yourself awake (ambient version instrumental)").
 track("6tMNDMD06C0BaMYehL4Vwd", "lichterschmaus (ambient version)").
@@ -28063,11 +28063,11 @@ track("37yMOdyGZhS62I6nZtg92V", "islands in the sky (recondite remix)").
 track("0SfYqfigeongi1MrdfGFVB", "dream yourself awake (solomun remix)").
 track("4mqVcAYXQIgDMCn31uVuvY", "islands in the sky (efdemin dub remix)").
 track("5odbFRrG398Hd1Dsgwh5HD", "dream yourself awake (shinedoe remix)").
-track("5PexAuo8wwpFqN4ofMLYNl", "sterne laufen (alva noto remix)").
+track("5PexAuo8wwpFqN4ofMLYNl", "frau im mondsterne laufen (alva noto remix)").
 track("6IaZVSm7pavwnRuhABYy1D", "dream yourself awake (solomun dream version remix)").
-track("4qvZM7yb5PEMK5nOLdtuRi", "sterne laufen (ambarchi & sprenger remix)").
+track("4qvZM7yb5PEMK5nOLdtuRi", "frau im mondsterne laufen (ambarchi & sprenger remix)").
 track("7pV0cLAQXsXvRBBuR9puwK", "you what? euphoria!").
-track("1p410pdjZ3lIqmeA8Iq4Ys", "sterne laufen").
+track("1p410pdjZ3lIqmeA8Iq4Ys", "frau im mondsterne laufen").
 track("23qMAdrLng1iZAdJgn7AOZ", "lichterschmaus").
 track("0RraghHwkQQwFuu4lLt8Lk", "dream yourself awake").
 track("1qjqIL9rgMGl0BR4ZZ3JZR", "suzan - original mix").
@@ -28103,10 +28103,10 @@ track("6fzofnbrO7V8q9Iqkvwa2H", "im bann").
 track("6dfePSn2iCz6QauSJN7lWR", "oíche chiúin (silent night)").
 track("3JGKPrdhp60lxXYQoUInsr", "we wish you a merry christmas").
 track("3Mm5hw4tjiBF9JbDSJ21XV", "white is in the winter night").
-track("7M4T8IOi8hhOWHXYYJT2pu", "fideles").
+track("7M4T8IOi8hhOWHXYYJT2pu", "adestefideles").
 track("6AcZ5qG5kagFwJApBh8Ap6", "christmas secret").
 track("0XhdyJPJFgm1agc4DaZlmf", "journey of the angels").
-track("5F5hDTSWayscmTOdR7ON4g", "emmanuel").
+track("5F5hDTSWayscmTOdR7ON4g", "o comeo comeemmanuel").
 track("4rn9GrZE50nll1a31MMZBA", "amid the falling snow").
 track("2GxvzCis9zb9FfMNlGavVP", "the magic of the night").
 track("1l3HcnvQkj5wkNG3nXMIRl", "the spirit of christmas past").
@@ -28133,7 +28133,7 @@ track("3K2ZbkmBBGOZVv7DdOMmnp", "the loxian gate").
 track("1t05EZXOBxX0ZGuSByg1Qx", "and winter came...").
 track("4haQCk2UZgkYPkFXAmWih4", "journey of the angels").
 track("1e4cRfBIblF8j0jdQMJ5mH", "white is in the winter night").
-track("3nGImQxJJs14Nxc676viw6", "emmanuel").
+track("3nGImQxJJs14Nxc676viw6", "o comeo comeemmanuel").
 track("3wwJ8kIRlMaxJbcJiQBpoV", "trains and winter rains").
 track("7qVhhJB0Idou29OewxKB8C", "dreams are more precious").
 track("54CvR5GsD1t5KxpXLF2tNP", "last time by moonlight").
@@ -28300,7 +28300,7 @@ track("3CFAoz3mlSIdZOIZPzcFaw", "twoface").
 track("2AJhcbM0e0ZXzloeL2o1ah", "for ロンリー with 阿部真央").
 track("0VHW9EilHsDa4HOyJoYfLP", "カタオモイ").
 track("6GBLlXiFRUx8p8E2ZHSfdm", "声色").
-track("1TM3QQmyf7Lbrje1Vb5J2w", "Dareka Umiwo").
+track("1TM3QQmyf7Lbrje1Vb5J2w", "dareka umiwo").
 track("0pGGtCsHHnDUWxwtpSA1nf", "hakuchumu").
 track("31WQOg0wveo9LcW31DRVTR", "dareka umiwo - tv size").
 track("7qNAMtN5S8TZZwufyhp95f", "hakuchumu - tv edit").
@@ -28382,7 +28382,7 @@ track("1jpAMwdyZJ1lUzypmKplHQ", "love looks so well on you").
 track("0232TyVstS0QYV9dJ6dT7U", "sleep warm").
 track("69jIg8wAYkvS50VM1kVOZ1", "what are you doing the rest of your life?").
 track("0j4YolVWkLWMpZUKkhrpkI", "the summer knows").
-track("5QtiXJLpOZuAw7wmZruH3N", "winter me").
+track("5QtiXJLpOZuAw7wmZruH3N", "summer mewinter me").
 track("20WO94LqANfYuVP42nMeSg", "you make me feel so young - 2007 - remaster").
 track("7Bpka63AaAzLzE1OKWcvt2", "it happened in monterey - 2007 - remaster").
 track("29ZwYoIgUgVNgJUdw9NH3O", "my funny valentine - 2007 - remaster").
@@ -28393,26 +28393,26 @@ track("5qArBVd5MJ8ScsBHiOT4EH", "what is this thing called love - 2007 - remaste
 track("4Hdz0zZvKR3M9GQ494kBxU", "i get a kick out of you - 2007 - remaster").
 track("6gIMJUVN8GTEsOyXGAKnaQ", "taking a chance on love - 2007 - remaster").
 track("5xoDHRJCtiBvXjj763D60d", "a foggy day - 2007 - remaster").
-track("0frcoBMFQPHrWP1vQoQaZW", "tokyo  1985").
-track("00jYdvMLtIFKRtdwsrljzH", "tokyo  1985").
-track("7qB2144hiwazdBj9yNT8a9", "tokyo  1985").
-track("6GogOGbr562Clh82sXSnyP", "tokyo  1985").
-track("37303R7WqNb57nDKRJwAI1", "tokyo  1985").
-track("5AJhy5uneJMOfEOVsB9hSG", "tokyo  1985").
-track("7d2ZQhRkCdhfhhHQ90S3Ds", "tokyo  1985").
-track("2OrQuVkmdCFdMvwzpstjyO", "tokyo  1985").
-track("1CZzkgffNtpvZXCyHukNj9", "tokyo  1985").
-track("4ViROIEgnYSrtVMAi2PjoR", "tokyo  1985").
-track("0i3Hm7P3jRoMXrWTRXZUEx", "las vegas1966  show 2").
-track("2ygLFSmNtLpca2rGYUjJ7L", "las vegas1966  show 2").
-track("2DiKZXh31aHrOUTfNjVXpJ", "las vegas1966  show 2").
-track("1hx7X9cMXHWJjknb9O6Ava", "las vegas1966  show 2").
-track("2yEAgy6z42Z7S8maISJlpL", "las vegas1966  show 2").
-track("0w1nJ6CzBPxDr8aZDAOXhJ", "las vegas1966  show 2").
-track("4JPyYYEGcC00DzL5jKLzrH", "las vegas1966  show 2").
-track("6V1s68TaosTkXIkXsDv1Fk", "las vegas1966  show 2").
-track("2MFRcd0bZVwACFi4VtAm4y", "las vegas1966  show 2").
-track("4DkWwsxmyi9Es0EVkytkWZ", "las vegas1966  show 2").
+track("0frcoBMFQPHrWP1vQoQaZW", "overture - live at the budokan halltokyo  1985").
+track("00jYdvMLtIFKRtdwsrljzH", "where or when - live at the budokan halltokyo  1985").
+track("7qB2144hiwazdBj9yNT8a9", "fly me to the moon - live at the budokan halltokyo  1985").
+track("6GogOGbr562Clh82sXSnyP", "autumn leaves - live at the budokan halltokyo  1985").
+track("37303R7WqNb57nDKRJwAI1", "the lady is a tramp - live at the budokan halltokyo  1985").
+track("5AJhy5uneJMOfEOVsB9hSG", "my way - live at the budokan halltokyo  1985").
+track("7d2ZQhRkCdhfhhHQ90S3Ds", "i've got you under my skin - live at the budokan halltokyo  1985").
+track("2OrQuVkmdCFdMvwzpstjyO", "something - live at the budokan halltokyo  1985").
+track("1CZzkgffNtpvZXCyHukNj9", "i get a kick out of you - live at the budokan halltokyo  1985").
+track("4ViROIEgnYSrtVMAi2PjoR", "this is all i ask - live at the budokan halltokyo  1985").
+track("0i3Hm7P3jRoMXrWTRXZUEx", "come fly with me - live at the sands hotel and casinolas vegas1966  show 2").
+track("2ygLFSmNtLpca2rGYUjJ7L", "i've got a crush on you - live at the sands hotel and casinolas vegas1966  show 2").
+track("2DiKZXh31aHrOUTfNjVXpJ", "i've got you under my skin - live at the sands hotel and casinolas vegas1966  show 2").
+track("1hx7X9cMXHWJjknb9O6Ava", "the september of my years - live at the sands hotel and casinolas vegas1966  show 2").
+track("2yEAgy6z42Z7S8maISJlpL", "street of dreams - live at the sands hotel and casinolas vegas1966  show 2").
+track("0w1nJ6CzBPxDr8aZDAOXhJ", "angel eyes - live at the sands hotel and casinolas vegas1966  show 2").
+track("4JPyYYEGcC00DzL5jKLzrH", "fly me to the moon - live at the sands hotel and casinolas vegas1966  show 2").
+track("6V1s68TaosTkXIkXsDv1Fk", "the tea break monologue - live at the sands hotel and casinolas vegas1966  show 2").
+track("2MFRcd0bZVwACFi4VtAm4y", "you make me feel so young - live at the sands hotel and casinolas vegas1966  show 2").
+track("4DkWwsxmyi9Es0EVkytkWZ", "the shadow of your smile - live at the sands hotel and casinolas vegas1966  show 2").
 track("14QJl6TD0xnKl26NkTVez2", "white christmas").
 track("33Us40eo8EQFa2VmdbLMxe", "the christmas waltz").
 track("55YzKJipEDxzduTSrAWtMj", "it came upon a midnight clear").
@@ -28423,7 +28423,7 @@ track("4izvFmYCvwcOV8fT4tnkl4", "the christmas song (merry christmas to you)").
 track("6U3qWV8btMu6cv9mSpFQen", "i'll be home for christmas (if only in my dreams)").
 track("6syO6UTl8QiiWADJy3Uy2d", "santa claus is coming to town").
 track("4zjrdI0IuLwjvdYM4TUlxe", "have yourself a merry little christmas").
-track("5CicxugWsHMtmyOwXi9N5B", "that’s my baby").
+track("5CicxugWsHMtmyOwXi9N5B", "yes sirthat’s my baby").
 track("0sWL3LP3i23g7F72Gn2xH0", "ain't she sweet").
 track("6mDFj7jzdPeYAlPfTAzF8h", "it's a wonderful world").
 track("6srOAN75JSRr1Cx2RVPSwK", "isn't she lovely").
@@ -28433,15 +28433,15 @@ track("73JhknugFZXNGuocZxWHfN", "i believe - remastered").
 track("5jEr0S89rZr7NTc0Q77PqO", "it's only a paper moon").
 track("68sTztCNUapkQL0nEKfrM5", "high hopes - remastered").
 track("4aGCw7uoF0Carv6VceYUts", "jeepers creepers").
-track("69E3yGCasTKep1g3EzUTGx", "monte carlo1958").
-track("4ofdK1DnJMVs9t7OMBedgP", "monte carlo1958").
-track("3b3cIJOxdljXrfz3a3ffgK", "monte carlo1958").
-track("0ehhyqDaVB3AUjhov0QRxv", "monte carlo1958").
-track("1zSny5YDlkjsvQWLbgwFoe", "monte carlo1958").
-track("6PvXXPqnPWA3FCOumYMC9i", "monte carlo1958").
-track("7crZFi6Q3mEFW4V9qRrBpJ", "monte carlo1958").
-track("2nF0sqX7P9HzPMDGYEYGHi", "monte carlo1958").
-track("6pyJdu1NNeQz5Sp1ZPsaU4", "monte carlo1958").
+track("69E3yGCasTKep1g3EzUTGx", "play on: clarke street - live at the sporting clubmonte carlo1958").
+track("4ofdK1DnJMVs9t7OMBedgP", "come fly with me - live at the sporting clubmonte carlo1958").
+track("3b3cIJOxdljXrfz3a3ffgK", "i get a kick out of you - live at the sporting clubmonte carlo1958").
+track("0ehhyqDaVB3AUjhov0QRxv", "i've got you under my skin - live at the sporting clubmonte carlo1958").
+track("1zSny5YDlkjsvQWLbgwFoe", "where or when - live at the sporting clubmonte carlo1958").
+track("6PvXXPqnPWA3FCOumYMC9i", "moonlight in vermont - live at the sporting clubmonte carlo1958").
+track("7crZFi6Q3mEFW4V9qRrBpJ", "on the road to mandalay - live at the sporting clubmonte carlo1958").
+track("2nF0sqX7P9HzPMDGYEYGHi", "when your lover has gone - live at the sporting clubmonte carlo1958").
+track("6pyJdu1NNeQz5Sp1ZPsaU4", "april in paris - live at the sporting clubmonte carlo1958").
 track("1XIPf6j2zWwIcpYNm8n9tn", "all or nothing at all - 78rpm version").
 track("62zWbVxRXQC1nRrssqvrbx", "i'll never smile again").
 track("5RN03tIMAqO0KwfRKDjeRy", "saturday night (is the lonliest night of the week) - 78rpm version").
@@ -28462,7 +28462,7 @@ track("6vHF334ABiCnZn5gPhGvyy", "it happened in monterey").
 track("4hWdxsxJ7PzRmtmNUWxil4", "you brought a new kind of love to me").
 track("313LqdafU7W96AKVp25L7w", "jeepers creepers").
 track("3Rp1EF7yPJnS9Zf9exOetL", "we kiss in a shadow").
-track("3DNzAChX6gaCtudMIOfUr8", "let's go").
+track("3DNzAChX6gaCtudMIOfUr8", "stomp offlet's go").
 track("1wsb3ttC6b3SrPa5r6Od2O", "good night angel").
 track("6tB8yljsRKGg4OMpFL242p", "redheaded woman").
 track("14LZQliM6YPOa4avOaB8fq", "melancholy").
@@ -28479,16 +28479,16 @@ track("10OgyAykSLXWNBw3AKVId3", "hello dolly!").
 track("5OVHFUOio2cOeOJb8EiBFu", "honeysuckle rose").
 track("6rLeyMYnCwCKhv47LiA8z1", "i ain't got nobody").
 track("35r4wqshxShBGEUkSz9QSz", "i got rhythm").
-track("6hTpFtXMZq25RysQamTqpu", "2231948").
-track("1jj5Rwu3MglOw7L7csx5Ct", "2231948").
-track("5jia1ZXxWUGfyQFxnkUet0", "2231948").
-track("5sSGojhymsHA5cB36bK27y", "2231948").
-track("63m4dAvrMiCKdWeyzToeWj", "2231948").
-track("5heG5K0QD5592fYBVN21Vw", "2231948").
-track("5Z2bARy93qqW41FSdBV33D", "2231948").
-track("6ycg8i7j114G2wLMYiaTap", "2231948").
-track("47i4kgqfBfg72nM0E4yiaf", "2231948").
-track("79MWszyIJTnD1A50yIXxTK", "10121952").
+track("6hTpFtXMZq25RysQamTqpu", "muskrat ramble - live at “constellation 48” jazz festivalopera de nicenicefrance2231948").
+track("1jj5Rwu3MglOw7L7csx5Ct", "rockin' chair - live at “constellation 48” jazz festivalopera de nicenicefrance2231948").
+track("5jia1ZXxWUGfyQFxnkUet0", "rose room - live at “constellation 48” jazz festivalopera de nicenicefrance2231948").
+track("5sSGojhymsHA5cB36bK27y", "royal garden blues - live at “constellation 48” jazz festivalopera de nicenicefrance2231948").
+track("63m4dAvrMiCKdWeyzToeWj", "panama - live at “constellation 48” jazz festivalopera de nicenicefrance2231948").
+track("5heG5K0QD5592fYBVN21Vw", "on the sunny side of the street - live at “constellation 48” jazz festivalopera de nicenicefrance2231948").
+track("5Z2bARy93qqW41FSdBV33D", "mahogany hall - live at “constellation 48” jazz festivalopera de nicenicefrance2231948").
+track("6ycg8i7j114G2wLMYiaTap", "black and blue - live at “constellation 48” jazz festivalopera de nicenicefrance2231948").
+track("47i4kgqfBfg72nM0E4yiaf", "them there eyes - live at “constellation 48” jazz festivalopera de nicenicefrance2231948").
+track("79MWszyIJTnD1A50yIXxTK", "the bucket's got a hole in it - live at titania palastberlingermany10121952").
 track("7fgS7qYV5010ysmL2adigZ", "west end blues - 2000 - remaster").
 track("1ielCYEuJOY43dKGwTiZwk", "a monday date - 2000 - remaster").
 track("5hBDjB8eiAHOgwy6E1fZ1B", "basin street blues - 2000 - remaster").
@@ -28593,11 +28593,11 @@ track("39YprVmeS1ShJOBDCj2qY7", "burn to a cinder").
 track("0QZ9l0S8xGFnAiDNHpbNEl", "tides of time").
 track("1lOz1iWS0SBJ0Rx2tPnbb3", "deconstruct").
 track("0CPYoFrrgjnHNikiQ6TwGe", "samadhi - prelude").
-track("4f1mHyP6mbCwvFtp9jrMuQ", "pt. 4").
+track("4f1mHyP6mbCwvFtp9jrMuQ", "resign to surrender - a new age dawnspt. 4").
 track("5czjjGQs9sb68kPTqJLihW", "unleashed").
 track("2pVMyma1cLZL88ndXekJZF", "martyr of the free word").
 track("0Umih4I7bo4JR6QOlL5TRO", "our destiny").
-track("6VEHQz8vFOtm9cNM0BWwwy", "pt. 5").
+track("6VEHQz8vFOtm9cNM0BWwwy", "kingdom of heaven - a new age dawnspt. 5").
 track("6hFxmjaYW1UZpUFtd4brjm", "the price of freedom - interlude").
 track("0vNDEjxp64RsCgjSel2m2m", "burn to a cinder").
 track("5oTUbOYnZ6midukYsaQq8T", "tides of time").
@@ -28712,7 +28712,7 @@ track("3M9x1yk65hYIszVWUBjl7k", "jessica on the move").
 track("7drVZwMjU1tzXX0v1ldifT", "24 symphonic suite").
 track("49f4wzvSluNx03uho6zXJn", "storming the cargo ship").
 track("0x1Nnk1P02g4BW50PhDBhR", "sean is shot").
-track("4LWwSrhfGZImwUxk50namj", "pt. 2").
+track("4LWwSrhfGZImwUxk50namj", "jack at the basept. 2").
 track("7INi911shBhhq4XbPPRnQZ", "kim surrenders").
 track("3Aa7A8drgSQ6BE5b5mecEb", "the ship is taken").
 track("0KVvCgL1ya6dKqXDqHwGw0", "ctu takeover").
@@ -28862,7 +28862,7 @@ track("7KpN6UVOwbR7VUdston9yr", "you know i'm the one").
 track("31cV9xytaelM3uwz5BYgEE", "never let another").
 track("4LsNZ8It0KWaoJpTvyuv2e", "i can do anything").
 track("3h3xKFFSAcRLkFGPpkShWm", "eternally").
-track("2qgMt1Nx6xM6tBFOA6kBWm", "alright").
+track("2qgMt1Nx6xM6tBFOA6kBWm", "all nightalright").
 track("5GJ1AILwhQuHxWCWEF182b", "love lies").
 track("0UlJqjv6foDIOACKmyWL0n", "now that i know").
 track("0TbJfngupaAhcNcFhPL5e8", "there'll never be another moment").
@@ -28878,7 +28878,7 @@ track("2eBLSi3lxme4eab35951j0", "i should be dancing").
 track("4FdTk6U1sJc140BDHQKGlC", "where is your love").
 track("6nSeWBxfI31XsrN2sLgQpN", "the movie").
 track("0DQMlWxTgKTyfYwKkLRHuq", "layed back").
-track("6dC2JPBCavYRRmXscFt3ww", "i am").
+track("6dC2JPBCavYRRmXscFt3ww", "yesi am").
 track("0pyENub73iAdrjlOqfLC6h", "my baby dance").
 track("70tszwsxjk40Z68FtXiCiI", "smile").
 track("415TZPTRoMpFVPvayvluZu", "love is right on").
@@ -29109,7 +29109,7 @@ track("135FvhxXG0DjQu9Yge4lU8", "mula ngayon").
 track("40Stiq1yY2rbfxgWHG0VcY", "sbn").
 track("5UwEOdcJfbATw8iNU3JVMu", "sana ikaw").
 track("5TrNQ6vHsEydfxziphpuwY", "irena").
-track("66M6WXHdsOrhx153FDvCng", "kailan ka magigising?").
+track("66M6WXHdsOrhx153FDvCng", "pilipinaskailan ka magigising?").
 track("6t8bSjlAsF1CEh3JJjFNB1", "malayang magmahal").
 track("3Oa7CrUWuSdgf8YtMp8gqQ", "tayo lang dalawa").
 track("7ooWQR9GEgB6VnnhEy9eVB", "magic wand").
@@ -29131,7 +29131,7 @@ track("0J0fgLAao2CmAoQLvciWhT", "ilog").
 track("367odAl5aMgDMO3faMvYb2", "isang bandila").
 track("6Y654lejhtbKsPL7Ue0Sio", "golden boy").
 track("3rHrC6nvMdoOFBHpE7qWHE", "alab ng puso").
-track("1YzeGfwvYK90DT0qNpffJ7", "umuulan").
+track("1YzeGfwvYK90DT0qNpffJ7", "umaarawumuulan").
 track("0wAd41HIFn768kK4xsyJNj", "romantic kill").
 track("06rZNbT6IsyRLVpjbSljEY", "a love to share").
 track("6wte4sqvmavEpVXS8qIxM3", "liwanag sa dilim").
@@ -29168,7 +29168,7 @@ track("28EwwITI2ji105IiSUPFXH", "things within").
 track("1p9fj0UbPGTdq7uvR20SUf", "healing").
 track("2zF0ZClLeMYWnFbZwLww9Q", "romantic kill").
 track("1qj055I5C9MQFGefgtjEZ1", "never the bright lights").
-track("2YawJCpeZkMCErndxqWDhr", "umuulan").
+track("2YawJCpeZkMCErndxqWDhr", "umaarawumuulan").
 track("5zvQswim8MnRG2kmCkgLKY", "posible").
 track("72TEe208LGshxy2CSHTar4", "alab ng puso").
 track("5AcFcXGDO8DV36CrRqpOR4", "faithless").
@@ -29183,7 +29183,7 @@ track("3jhkffgsodKVq4Bno0PniO", "imposible").
 track("7auaraWcGo6yKb049yDmLo", "basketbol").
 track("1P5KdfJh8gv6NcxdxhzxwX", "kagat ng lamok").
 track("3adpPyfenRo6pdTA8gqnga", "bagong liwanag").
-track("0OUkcGdLQ7wbmfB7M5po7L", "umuulan").
+track("0OUkcGdLQ7wbmfB7M5po7L", "umaarawumuulan").
 track("4fsicRV3YwQ7RyrQ7CiMg0", "karayom").
 track("3mc05IaZ8YyZLNwevh2w1e", "bochog").
 track("6xZSB9AmcN1H21m3dguSaO", "age doesn't matter anymore").
@@ -29219,7 +29219,7 @@ track("40cFVbVkotaStBPwDgZtPc", "back to black - ao vivo").
 track("1Kp91ofCmohc05NHRSiaKk", "mais perfumado - ao vivo").
 track("4M2IpyAshgzUFl71OaNiRC", "eu vivo a sorrir - ao vivo").
 track("6qQTitfdGGTZVKCAPbTtE8", "aquele plano para me esquecer - ao vivo").
-track("0zSp142WUAkWRnLALRnpQH", "das canções - ao vivo").
+track("0zSp142WUAkWRnLALRnpQH", "dos prazeresdas canções - ao vivo").
 track("6tLN6JE1rr4MiTuAOOENwT", "mais perfumado - ao vivo").
 track("7a0V94PJpckWa3BV11KTDq", "vai saber? - ao vivo").
 track("66lAs8OGOrBukrURWxPuqf", "já reparô? - ao vivo").
@@ -29236,7 +29236,7 @@ track("11eNBnheuUoPrkWbcWniuW", "já reparô?").
 track("0Tys2Xz1d6GH4hSOdnYy68", "vai saber?").
 track("2EaZeBJBRfJRxR6PTU2g58", "vem ver").
 track("3aqbARcsPeirjcCmvK9s0y", "tão chic").
-track("09RwWvBRSgn9aiXU2qDtK1", "gueixa").
+track("09RwWvBRSgn9aiXU2qDtK1", "deixagueixa").
 track("4AugFl3WRWhFEhbOrQWdkC", "eu vivo a sorrir").
 track("4z0tpbIaQGyvsHU2glVhcK", "aquele plano para me esquecer").
 track("3f9zXfoitwMccRBGUHQBLL", "pode se remoer").
@@ -29246,7 +29246,7 @@ track("1aFLiKUpuDjJeLYD0FmiYx", "já reparô?").
 track("1dtRFKGG563ST7k1hWvfSR", "vai saber?").
 track("5XEsHe4oFySSSphv62G6pA", "vem ver").
 track("5brEwyUXPJ3rtg45YYssUY", "tão chic").
-track("3uRPAWf2c5BfjK6cUluB0w", "gueixa").
+track("3uRPAWf2c5BfjK6cUluB0w", "deixagueixa").
 track("1CL0zcgonJj82nm0P7YBRa", "canção de novela").
 track("5WhiD7gAVJH2DZbZuydeCK", "três").
 track("1LsWIr5shqXwEmuMUatPeJ", "cariocas").
@@ -29285,11 +29285,11 @@ track("1bs4rlWnikQ4xJDyjdQATp", "...of the dark light").
 track("5vVk7enDzpeBfjjMacJeCs", "some things should be left alone").
 track("5h23jPSshO3t8mI5qtMPo8", "caught between two worlds").
 track("7IgIoszAxXnCPQn1qucLEn", "epitaph of the credulous").
-track("4jlH4Bfm1BOLgZJAAIzVxI", "Purgatorial Punishment").
-track("2lsuqXKxio1vJTfTfcWxd2", "As Grace Descends").
-track("6FSB3iDvmE9ZeiBH7tc9Op", "Pinnacle of Bedlam").
-track("2lj3nQ46rUSmLxwGEiAWSa", "Inversion").
-track("38KDrL7PFJcCS6W4LrniNJ", "Beginning Of Sorrow").
+track("4jlH4Bfm1BOLgZJAAIzVxI", "purgatorial punishment").
+track("2lsuqXKxio1vJTfTfcWxd2", "as grace descends").
+track("6FSB3iDvmE9ZeiBH7tc9Op", "pinnacle of bedlam").
+track("2lj3nQ46rUSmLxwGEiAWSa", "inversion").
+track("38KDrL7PFJcCS6W4LrniNJ", "beginning of sorrow").
 track("1Ud0ff5Z4LOogefg6WVnYH", "infecting the crypts").
 track("0yj1HNKc1T1vJ9ZhuwriOE", "thrones of blood").
 track("4V6iTFfnvZE243DlpbimzU", "surgery of impalement").
@@ -29424,7 +29424,7 @@ track("5DOkntrZuStOOdsxv1fYtq", "when i was a freeport and you were the main dra
 track("1PLDouNp9YFQAigj7AT2uZ", "captain st. lucifer - live").
 track("4gpFhpXGUjdb8cnh9kzTDu", "smile - live").
 track("0HCOXuc7hQuigHuD0qO9Br", "mars - live").
-track("2KUFGVdJpPLgsFmbEECPbC", "maybe baby - live").
+track("2KUFGVdJpPLgsFmbEECPbC", "oh yeahmaybe baby - live").
 track("6tOBxIHMfwMCgoRTDAwxvf", "dedicated to the one i love - live").
 track("1VukHQuIFck0ggx6oYiyFJ", "wind - live").
 track("09bIvb7vLMTr3PzwYlJQwk", "lite a flame (the animal rights song) - live").
@@ -29443,12 +29443,12 @@ track("5fOrtT6CrzqjSbKjoOjaRw", "serious playground").
 track("3cNTGb1K0Hz4i6DkIykaEt", "be aware").
 track("0HoufDEgrucOT9Z2L5T2Lr", "let it be me").
 track("04CTmyHEoFIgKVvWjB91uk", "gardenia talk").
-track("1RynMUpLjRi22RCLQWdNrI", "baby").
-track("4IxH6W4S1rFsLlwru4i5wH", "My Innocence - Live").
-track("64n9JJyLO7D6UUlPgBYyzH", "And When I Die - Live").
-track("72yoztQoj94ReUUUXXSqRS", "Roll of the Ocean - Live").
-track("4q2E2M1StnU38TkIvwJweq", "Emmie - Live").
-track("1GoRF9LF15gPeJ3XnLHRkM", "I'm So Proud  Dedicated to the One I Love - Live").
+track("1RynMUpLjRi22RCLQWdNrI", "ooh babybaby").
+track("4IxH6W4S1rFsLlwru4i5wH", "my innocence - live").
+track("64n9JJyLO7D6UUlPgBYyzH", "and when i die - live").
+track("72yoztQoj94ReUUUXXSqRS", "roll of the ocean - live").
+track("4q2E2M1StnU38TkIvwJweq", "emmie - live").
+track("1GoRF9LF15gPeJ3XnLHRkM", "i'm so proud  dedicated to the one i love - live").
 track("3995PLNuJl1kIOXRG0A9Wb", "genesis - prelude").
 track("5wcHrYVB9WiuwSiX3EfOzd", "i want u").
 track("1l08EpbTHHp4jiA9fBa04c", "10 million stars").
@@ -29489,7 +29489,7 @@ track("4srumOV4eKrhQl9DyndCJG", "loving u from a distance").
 track("3u9NcbjNTUTYp6GSmRw9ja", "enough").
 track("1IAGyzyaNaWpIqEcWbxHO4", "find myself in you - live").
 track("4IegtEpsj2MUv61QmDa9hd", "used to be my girl - live").
-track("0gzMDOSTugyTyKyRqmbSZx", "coulda - live").
+track("0gzMDOSTugyTyKyRqmbSZx", "shouldawouldacoulda - live").
 track("1S9KQRM0h8Zj7pgclVHXWg", "the only one for me - live").
 track("7oebumprLA14Wj3tiPZZpz", "my kind of girl - live").
 track("2wvZheFRpNrKdgpi3jZ747", "crazy love - live").
@@ -29499,7 +29499,7 @@ track("6QOfya0yGQuU0Fm26Ed10i", "the rest of my life - live").
 track("7HCukHstLeVq9kL6GLzM77", "one last cry - live").
 track("0yi35qc9RX08rk0govfFMg", "find myself in you").
 track("0hH0d79NmNTTfgHZw1W3oi", "used to be my girl").
-track("3ABmWThTo9iOq27QkeGgWX", "coulda").
+track("3ABmWThTo9iOq27QkeGgWX", "shouldawouldacoulda").
 track("191OAJCr4b0EmvKEEtG0yu", "the only one for me").
 track("6DlPMzaZO8hFl6Ly7G6gyi", "my kind of girl").
 track("26A87jzWISAnj2I3R7yMlI", "crazy love").
@@ -29755,7 +29755,7 @@ track("3KNoA86NDtfzeD0zMcx7iN", "prova de carinho").
 track("2QiuOHhE7o5NHdcPL00ceS", "as mariposas").
 track("7wHFekNtLwtuIPNUV7CBos", "ói nóis aqui tráveis").
 track("602aMau6I8ZzmhfkoySulH", "vila esperança").
-track("5pvVjCExoP0eJJq5WdvvHr", "patrão e cachaça").
+track("5pvVjCExoP0eJJq5WdvvHr", "mulherpatrão e cachaça").
 track("35fztXVVEUFsZf4gFKx5x5", "no morro da casa verde").
 track("18WOhMeqOBjJXG9JE0PSVv", "um samba diferente").
 track("2LTZLlxGGzrjEcM5DYsFHD", "ferdinando").
@@ -29811,7 +29811,7 @@ track("3OhBErIrszJkThxXg4tzrV", "vila esperança").
 track("2zxrHQZn0zccquRBIYLd7Z", "ói nóis aqui tráveis").
 track("0aaBbZtGaAh8TtkCbzrfdr", "time perna de pau").
 track("1VwCiUm9IfiWBpAZacxqTr", "estou ficando louco").
-track("2HDd9fATLZVxHYi7ZVc7WL", "patrão e cachaça").
+track("2HDd9fATLZVxHYi7ZVc7WL", "mulherpatrão e cachaça").
 track("4uZZjvCFYTQoipY0cBD4ZV", "conselho de mulher").
 track("2sS7CKPxqod4JJ3eWNl3Fh", "samba italiano").
 track("5ijmdi98qNpxHiLDu4XMM5", "se todos fossem iguais à você - ao vivo").
@@ -29983,32 +29983,32 @@ track("5FFpQpar1j5Lq7FvPl1qpV", "gli amanti").
 track("7iPer1xCcaQUeBDbZSHqSj", "posso salire").
 track("2HykDg6RSWepy9wXeWNnFQ", "la casa che abitavi tu").
 track("1QE8xgmWGuw0AUTPOKgb6g", "come quando fuori piove - unplugged").
-track("6QAk87IPu1n6DW6uW42vO8", "si - unplugged").
+track("6QAk87IPu1n6DW6uW42vO8", "ierisi - unplugged").
 track("67lOdKMMmIUAECWXWHxAcT", "tu - unplugged").
 track("2HhOl31rYF5Nood4DHlQJb", "di vaniglia e di fior - unplugged").
-track("6G5Cy1QhDxeYVr3vKk1wgi", "terra e mare - unplugged").
+track("6G5Cy1QhDxeYVr3vKk1wgi", "ariaterra e mare - unplugged").
 track("3uTd4ub0n5WekcAk1zQtcR", "gli innamorati e la marina - unplugged").
 track("5ZBSoGRc7F3t7AyG8i67D3", "al museo d’orsay - unplugged").
 track("41oAJrOhKtPSaEmMPRHqMd", "balancer - unplugged").
 track("4m4D7PfZQGAAORzQFhK3E8", "géo").
 track("0heDrEN6o6lKUGtN9uKctM", "scaricabarile - unplugged").
-track("389ebK7f08eJ6ml2fLj7mJ", "C'est La Belle Vie").
-track("27BipIc8FBCuBl63YZGWKF", "La Banda").
-track("41Vh827JM9yhCt6FYqdyOC", "Il Veglione Del '99").
-track("6Acc83Xzwv1RK6UT462gx4", "Lei").
-track("4At0DdiRgNEeozKOTTh0pP", "Habanera Rendez-Vous").
+track("389ebK7f08eJ6ml2fLj7mJ", "c'est la belle vie").
+track("27BipIc8FBCuBl63YZGWKF", "la banda").
+track("41Vh827JM9yhCt6FYqdyOC", "il veglione del '99").
+track("6Acc83Xzwv1RK6UT462gx4", "lei").
+track("4At0DdiRgNEeozKOTTh0pP", "habanera rendez-vous").
 track("5zGfU9GiNiN1KDqGrMSKMs", "sultan").
 track("6bIeNQ8W63mfVRpAu6rRt0", "habitude").
 track("4vj84sfOiuS5idHx3l5SCx", "cannelloni").
 track("5CGcSpj5woauykebIewYkO", "te lo farei notare").
-track("3FCTJK6qs7IsUpi0jqGzpp", "terra e mare").
+track("3FCTJK6qs7IsUpi0jqGzpp", "ariaterra e mare").
 track("1NVs1LyKxfkYLPwdDTx3Y5", "gnè gnè").
 track("1PrxpiUIBgnYphdrqyFXHy", "l'angiulillo").
 track("0pA9pQzEzfSUdnXjD0DjtF", "una giornata al mare").
 track("1Y7BWh3F3meJG0k5uzuv0Z", "j.m.").
 track("41U63Zn8w1Wx6juWRyhSMs", "l'erba di san pietro").
 track("6JWNwq5gza2DWt9eyrogx3", "cannelloni").
-track("0uk5fPe0jKtNG19YRydTyA", "gnè").
+track("0uk5fPe0jKtNG19YRydTyA", "gnègnè").
 track("7KAM6kG9H4kKn7QIgGiC3T", "a innamorarsi...").
 track("6q4nYSNXjKEhivQXGIKLxV", "jean loup et la belle claire").
 track("7oWncbfN7Gne1PyezHhkI9", "l'angiulillo").
@@ -30068,10 +30068,10 @@ track("4keXIA0VySoDVrppddJHkX", "put you on").
 track("1FIyzn9LE16ye5nO4rNdK1", "dogtown").
 track("1g5Um9k4zG9bLvSbPYdonF", "i miss that whip").
 track("4gUwWH7Nlx69by0bQ2PyC0", "get em up").
-track("4UxYzsmPu7HZ791dBjefLc", "d.125: i. largo — allegro vivace").
-track("7mZF9qhs0vknUB02lu31Fc", "d.125: ii. andante").
-track("3ejla0xTLAa5YsxSCNXt0K", "d.125: iii. menuetto: allegro vivace — trio").
-track("7fZ30hl4DKly2QGP1KpEmy", "d.125: iv. presto vivace").
+track("4UxYzsmPu7HZ791dBjefLc", "symphony no. 2 in b-flat majord.125: i. largo — allegro vivace").
+track("7mZF9qhs0vknUB02lu31Fc", "symphony no. 2 in b-flat majord.125: ii. andante").
+track("3ejla0xTLAa5YsxSCNXt0K", "symphony no. 2 in b-flat majord.125: iii. menuetto: allegro vivace — trio").
+track("7fZ30hl4DKly2QGP1KpEmy", "symphony no. 2 in b-flat majord.125: iv. presto vivace").
 track("5jvt7DoGgHULWqQMlIOfLz", "lotus").
 track("5fTkzB6Z7WGvhX8gK3tTgo", "ポラリス").
 track("5MERhib49jXwSeo9c52S6U", "let us go").
@@ -30241,7 +30241,7 @@ track("5cvPnVdXapURtg3AQI0BjW", "complicated").
 track("2ylM6rISI2l8NTDETNzZue", "fingerprint").
 track("3tDg1sJWq9cgH2b7ELXzAc", "dreams").
 track("34tD1Uz10wO2yIIj6S3L6A", "honestly").
-track("57hvv0kcLSfhNVRlIXac6u", "sharp curves").
+track("57hvv0kcLSfhNVRlIXac6u", "steep gradesharp curves").
 track("5M6sRlolYI4rThvoaSAmgQ", "isolate").
 track("2kKCSjav7biTiHG6jaQp34", "in the seam").
 track("28A5820LoVAq6N1OIUVQhE", "belle parker").
@@ -30276,7 +30276,7 @@ track("4qROJfDdYpUFzXYRFB8X6s", "bloody mary morning").
 track("0UEJupA7IfrjCCUSwmaEhG", "coo coo's nest").
 track("0Lq7KV1nifwkcY7m7QPnoK", "town").
 track("1gnC0XPv2f9dIUBIuDNqRy", "if there's still a ramblin' in the rambler").
-track("6BxKiIIsxnOOfhPDpdS4tb", "sharp curves  ramblin' reprise").
+track("6BxKiIIsxnOOfhPDpdS4tb", "steep gradesharp curves  ramblin' reprise").
 track("20wC30hv1vPJmHz8kefDsa", "traffic jam").
 track("0r7Tvaw1hw3u4fjAfyreZp", "years with rose").
 track("1pRTD5eEI8U5nUJLkd2zYb", "winds o' wyoming").
@@ -30314,7 +30314,7 @@ track("6XlT5MDhLwNVAgVyNpCEDA", "good morning").
 track("7f6rdylkaW1ki9gA0LfFON", "the fisherman's song (we all need love)").
 track("3v3CjSfM9VQ4cDHDFuO2tp", "the house that fire built").
 track("4kkG9ZyeX5bEPFOP7vcwD8", "boomerang").
-track("1dPSTGI3hpjcXawsdbHPRq", "the memory").
+track("1dPSTGI3hpjcXawsdbHPRq", "a melodythe memory").
 track("1lBRAQSzmRKvadVrk0Pft1", "nightday").
 track("06fXWkzM0fOS5qBuSzqXRx", "over & over").
 track("0cbrglsqGecFQTFwhZSwYg", "the fight song (crash & burn)").
@@ -30349,7 +30349,7 @@ track("2ngZ7JfXq1p6ZQ9dg0ZYHh", "futuro (live)").
 track("6XhYRUcCdYfLFrkFuvhMRH", "sun (live)").
 track("1uGTtn1UAxwgkAU5lMoaVE", "this time is the last time (live)").
 track("1bXXBGmVlro2fH6uK0G85L", "giving it away (acoustic)").
-track("2YbvXg2X57AqPDRt8yo4TB", "goodnight (s.m. remix)").
+track("2YbvXg2X57AqPDRt8yo4TB", "goodbyegoodnight (s.m. remix)").
 track("1UEQUcL0XEpX3WLNFvv4uM", "embers and envelopes").
 track("10zb046JklrdrB9ftWOb8i", "this time is the last time").
 track("7Hs39LOJyhAGWLhmjYjGrK", "all deliberate speed").
@@ -30379,7 +30379,7 @@ track("1Vhi1e5l2NNM1AXEcHiZ1h", "tickled pink").
 track("1BS9LnYm4lLT92rdUhCLos", "hanky panky").
 track("4TAS7ygV7ONl6LNV2QXiIa", "there you go").
 track("4cdmr1D39yWUKInfd7CMu8", "busy being blue").
-track("0i3vK8CD3B8Npa1dAj2Xvr", "look and listen").
+track("0i3vK8CD3B8Npa1dAj2Xvr", "stoplook and listen").
 track("7C7kJ9HdJnqWlcLSILjbwz", "friday dance promenade").
 track("4oII5falstDF70dfZkMwPm", "damned old dog").
 track("4DZCAKaGzbVTcfHG1ZKdY3", "bopalena").
@@ -30389,7 +30389,7 @@ track("63M7TTrTuHFrSvdx3UaqLX", "tickled pink").
 track("17sMt5emCzrIpM4mZqJ7ug", "hanky panky").
 track("0ezuEmd3B2J4VmwfHPqP4M", "there you go").
 track("0FfdWI9ZlJnnr30Hjw0EqC", "busy being blue").
-track("0QXXADXhDptpPVakdEXAwD", "look and listen").
+track("0QXXADXhDptpPVakdEXAwD", "stoplook and listen").
 track("5uXr1LUq8fSaz1AN0x293X", "trail of broken hearts - remastered").
 track("0wCrg1LhgPcGMw51qqpI6k", "constant craving").
 track("60d9qOhFfsoWA9mq7MdALx", "the air that i breathe - remastered").
@@ -30450,11 +30450,11 @@ track("38B8qiuzW6mbwld74YiN21", "black box - live version").
 track("39LgvXIB6MPXIFc19G5Vcf", "u make me wanna - live version").
 track("5X7Et0B4igUnS4bH4SRYMk", "sing for me - live version").
 track("7F8EK8xHAbAO8Lnw5yCdDj", "paradise - live version").
-track("3HzlNJSl7ngKwdGKKOiRWU", "You're the Only One").
-track("12ZvcKSjLiIiGbC2k2i9J4", "If You Don't Know Me by Now").
-track("0AYBrmdKn2ePouT2AoGGRS", "Flashback").
-track("2LEvNgkXKSO1c3ISgNKAoP", "Special").
-track("4Huy5IrmggLvTCzBxDfPzX", "Endless Love").
+track("3HzlNJSl7ngKwdGKKOiRWU", "you're the only one").
+track("12ZvcKSjLiIiGbC2k2i9J4", "if you don't know me by now").
+track("0AYBrmdKn2ePouT2AoGGRS", "flashback").
+track("2LEvNgkXKSO1c3ISgNKAoP", "special").
+track("4Huy5IrmggLvTCzBxDfPzX", "endless love").
 track("16A2iwthELVoaCeSyI6FOh", "hurt lovers").
 track("5FOcW2WrTOqVoaFZFvlhnw", "without you").
 track("5WlYlSW8pq4p3TmkCmHQ9A", "break my heart").
@@ -30588,35 +30588,35 @@ track("764Gkn1tK9Shf1JvrafBlW", "part vii - live").
 track("2scjHc10OhUi9KxVys7Ofm", "part viii - live").
 track("6I8acgu6r0n9a5S96uYrin", "part ix - live").
 track("31kphpIOqFjF6rFWSMkeOb", "part x - live").
-track("5O2gNKjGzcsvMGdfBQA83b", "venice  2006").
-track("3MZkX26MKiHK0pC158RZfo", "venice  2006").
-track("1k27gqgJ1IhTRETQz7krcC", "venice  2006").
-track("2IKfQqKABLEb1jg0x7cXV5", "venice  2006").
-track("0q0qHhU4DhWxWqpHOTOZGN", "venice  2006").
-track("5DmwuIHumA0mR5eFTWVzEz", "venice  2006").
-track("45mYeezZMViYZ11qkViGFX", "venice  2006").
-track("6WBAr3Pp1barPvDE9BsPKU", "venice  2006").
-track("4paHEntwelH4lEt34lbUGI", "venice  2006").
-track("0qMM4fxZnj2mhVxsxAujOL", "venice  2006").
-track("1BdUtaLFSTCIqkUgLAYw0f", "modena  1996").
-track("0ljaAXp8kofRIT9kzzVS5j", "modena  1996").
-track("0mFyrbzEdx8WisCpoObUcc", "modena  1996").
-track("6hm5AHVv3feXr5OmgDLtD6", "ferrara  1996").
-track("5SHPswtz5RJ4LdpppsdZsY", "ferrara  1996").
-track("4g5ZMScUrdHXpnMy1oX3vB", "ferrara  1996").
-track("5rdwaYwLbVuJwYx9dqHbBI", "torino  1996").
-track("4KKmDCtb14g9bexDuAU9Dj", "torino  1996").
-track("5Jfd3vPOdYnjCRJCtHe3oK", "genova  1996").
-track("5eFVJY1lVTdTfGHMMqGHEI", "genova  1996").
-track("1SgLrPYIoUvIaPlCdIL1TZ", "toronto  2014").
-track("1FU7Uqz648tFYqLPPGPhpm", "tokyo  2014").
-track("0hxlyV7ykc5DNAOF3qj1mq", "paris  2014").
-track("4Y910UVLVU1bRUFPTRGypS", "rome  2014").
-track("4b2boL2uW8f7LalOTvHRH5", "tokyo  2014").
-track("0SYeUL7VQHf5L0qOATfEYN", "tokyo  2014").
-track("62mdSCrjHIcNGh2eUsVty4", "rome  2014").
-track("4KoVEW3ZVdmLCgdJiOkcBH", "rome  2014").
-track("4yEeMQiX2tAPmquUIx6E0n", "tokyo  2014").
+track("5O2gNKjGzcsvMGdfBQA83b", "part i - live at teatro la fenicevenice  2006").
+track("3MZkX26MKiHK0pC158RZfo", "part ii - live at teatro la fenicevenice  2006").
+track("1k27gqgJ1IhTRETQz7krcC", "part iii - live at teatro la fenicevenice  2006").
+track("2IKfQqKABLEb1jg0x7cXV5", "part iv - live at teatro la fenicevenice  2006").
+track("0q0qHhU4DhWxWqpHOTOZGN", "part v - live at teatro la fenicevenice  2006").
+track("5DmwuIHumA0mR5eFTWVzEz", "part vi - live at teatro la fenicevenice  2006").
+track("45mYeezZMViYZ11qkViGFX", "the sun whose rays - live at teatro la fenicevenice  2006").
+track("6WBAr3Pp1barPvDE9BsPKU", "part vii - live at teatro la fenicevenice  2006").
+track("4paHEntwelH4lEt34lbUGI", "part viii - live at teatro la fenicevenice  2006").
+track("0qMM4fxZnj2mhVxsxAujOL", "my wild irish rose - live at teatro la fenicevenice  2006").
+track("1BdUtaLFSTCIqkUgLAYw0f", "part i - live at teatro comunalemodena  1996").
+track("0ljaAXp8kofRIT9kzzVS5j", "part ii - live at teatro comunalemodena  1996").
+track("0mFyrbzEdx8WisCpoObUcc", "danny boy - live at teatro comunalemodena  1996").
+track("6hm5AHVv3feXr5OmgDLtD6", "part i - live at teatro comunaleferrara  1996").
+track("5SHPswtz5RJ4LdpppsdZsY", "part ii - live at teatro comunaleferrara  1996").
+track("4g5ZMScUrdHXpnMy1oX3vB", "encore - live at teatro comunaleferrara  1996").
+track("5rdwaYwLbVuJwYx9dqHbBI", "part i - live at teatro regiotorino  1996").
+track("4KKmDCtb14g9bexDuAU9Dj", "part ii - live at teatro regiotorino  1996").
+track("5Jfd3vPOdYnjCRJCtHe3oK", "part i - live at teatro carlo felicegenova  1996").
+track("5eFVJY1lVTdTfGHMMqGHEI", "part ii - live at teatro carlo felicegenova  1996").
+track("1SgLrPYIoUvIaPlCdIL1TZ", "pt. i - live at roy thomson halltoronto  2014").
+track("1FU7Uqz648tFYqLPPGPhpm", "pt. ii - live at kioi halltokyo  2014").
+track("0hxlyV7ykc5DNAOF3qj1mq", "pt. iii - live at salle pleyelparis  2014").
+track("4Y910UVLVU1bRUFPTRGypS", "pt. iv - live at auditorium parco della musicarome  2014").
+track("4b2boL2uW8f7LalOTvHRH5", "pt. v - live at kioi halltokyo  2014").
+track("0SYeUL7VQHf5L0qOATfEYN", "pt. vi - live at orchard halltokyo  2014").
+track("62mdSCrjHIcNGh2eUsVty4", "pt. vii - live at auditorium parco della musicarome  2014").
+track("4KoVEW3ZVdmLCgdJiOkcBH", "pt. viii - live at auditorium parco della musicarome  2014").
+track("4yEeMQiX2tAPmquUIx6E0n", "pt. ix - live at orchard halltokyo  2014").
 track("2AgY1qhoypIs4LCYMj1UHJ", "i").
 track("2KyVAqXJQzmyEqNUY7ek2n", "ii").
 track("6v6Qdi5ra22ncHwHhdxQoa", "iii").
@@ -30639,7 +30639,7 @@ track("0yZcjdT4KwNiWrjOAHLHtS", "might as well dance").
 track("6tfr6QF7ALjl7wRNCzNvJr", "love is still the answer").
 track("33PdpAvnOMhA5HooKuFgbo", "rise").
 track("7mQruvaJWb7U18LX7p3m5r", "love someone").
-track("79KppDJFeZ8M4zKWnOM2qo", "you beautiful thing").
+track("79KppDJFeZ8M4zKWnOM2qo", "helloyou beautiful thing").
 track("4RS2eW7bOE52pRqigLh0ds", "long drive").
 track("6daX5ssjG4bGJz6T2NDDbp", "everywhere").
 track("5cWJjvOnzLrUa9vxRUnfM7", "best friend").
@@ -30651,8 +30651,8 @@ track("4kpN3IVVc9rtwJjdc6O6BC", "rise - commentary").
 track("3jQ2Hc26sMhKS8Out9UELG", "rise").
 track("4vn6yU8VRGWbTY1O1Dl7kz", "love someone - commentary").
 track("1qvToOLpOdxoxmEyebs0Wi", "love someone").
-track("2dXJEVKs2AXvboc1eLwlww", "you beautiful thing - commentary").
-track("5fnWnyeHlKJKIn4nzv9QTv", "you beautiful thing").
+track("2dXJEVKs2AXvboc1eLwlww", "helloyou beautiful thing - commentary").
+track("5fnWnyeHlKJKIn4nzv9QTv", "helloyou beautiful thing").
 track("7l004MS1l8ldTEewSGv80G", "long drive - commentary").
 track("6keUc6LHhh1HkJfE87bnG9", "long drive").
 track("0fQciRJgEMzTNiMai3EtlC", "everywhere - commentary").
@@ -30687,16 +30687,16 @@ track("38jy6kRlPt8z1GUS9WXeNh", "93 million miles").
 track("1UJhSw5n44zThKBgWr7Es4", "frank d. fixer").
 track("10MItfqc2XgpchP0plPxOl", "who's thinking about you now?").
 track("4eJg7tx4azOyQsSWCtkKB6", "in your hands").
-track("6SDyzx5Jh8uMc8yTJ4DwSf", "8132009").
-track("3OMt2ZECjauMe89NqByK8H", "8132009").
-track("43yC2ACkinYwJUVAhtfjdK", "8132009").
-track("1PJQS0VTLUdTlxNqGajqGM", "8132009").
-track("3dNwY3KkwKnSeDvXnn4ySv", "8132009").
-track("1osY5Deh06ujI0oUNC0qjQ", "8132009").
-track("7cw2GaSOEg1VCwHlo6CYzk", "8132009").
-track("6nRoGs2NWVeYO1pGSxoDLY", "8132009").
-track("1mqYfgGCRADYVJ7YzTKi8t", "8132009").
-track("5RFwH3iyUQKFWn6qF8kk5a", "8132009").
+track("6SDyzx5Jh8uMc8yTJ4DwSf", "intro - live at the charter one pavilionchicagoil8132009").
+track("3OMt2ZECjauMe89NqByK8H", "sunshine song - live at the charter one pavilionchicagoil8132009").
+track("43yC2ACkinYwJUVAhtfjdK", "traveler  make it mine - live at the charter one pavilionchicagoil8132009").
+track("1PJQS0VTLUdTlxNqGajqGM", "anything you want - live at the charter one pavilionchicagoil8132009").
+track("3dNwY3KkwKnSeDvXnn4ySv", "coyotes - live at the charter one pavilionchicagoil8132009").
+track("1osY5Deh06ujI0oUNC0qjQ", "live high - live at the charter one pavilionchicagoil8132009").
+track("7cw2GaSOEg1VCwHlo6CYzk", "only human - live at the charter one pavilionchicagoil8132009").
+track("6nRoGs2NWVeYO1pGSxoDLY", "the remedy (i won't worry) - live at the charter one pavilionchicagoil8132009").
+track("1mqYfgGCRADYVJ7YzTKi8t", "the dynamo of volition - live at the charter one pavilionchicagoil8132009").
+track("5RFwH3iyUQKFWn6qF8kk5a", "a beautiful mess - live at the charter one pavilionchicagoil8132009").
 track("0myvLBMkESZxuxkZ4mNdIk", "make it mine").
 track("36j4mlX0IWUtWlWqiwvWXI", "i'm yours").
 track("4BpgBAucDfJt2v4STL8jRh", "butterfly").
@@ -30780,21 +30780,21 @@ track("5dDKivAvLCGyJwNQbpfoKS", "summer fog").
 track("1HlWJqtWXW09HY5hTSfb1f", "until the last").
 track("1ZcPYfOJn8TTyR9UOGeZvH", "we are").
 track("6vD83k02eqic7b546lieK6", "almost there").
-track("4QCWM5jWm72zTjh3NRHCCs", "Thule").
-track("31ztjH2kVpH0s7lUdnb0IW", "Twentytwofourteen").
-track("4333L6jEDAar8SVWLJ78F1", "Over The Pond").
-track("532tiHI4KEz95EKSMInTjg", "Streamside").
-track("7ux8tYRO1gM7tdrdjtrmfD", "Moss Mountain Town").
-track("0KWR6ezhPRbOBeyGjZlyCI", "Always for You").
-track("2OadWzcg4jNjL5h6rXVG6j", "Writings on the Wall").
-track("33oOwqJc8E921H5vDw5zie", "See in You").
-track("58RGZ1mAOqg65v1aTTTfQM", "Wherever I Go").
-track("2HHBVDKcyR7A9cLx49vFLt", "Broken Arrow").
-track("5HnWBaNZXZh2YQbpVoarcj", "Thule").
-track("6kr0Uq4fXRhyq1b5l3Ss9f", "Twentytwofourteen").
-track("0ucGdsNgZpEg4dMe5VB3AB", "Over The Pond").
-track("7KuhGwSfXPNUkBjucx9WBD", "Streamside").
-track("1pn0UdpTJF7kctYSz0nglC", "Moss Mountain Town").
+track("4QCWM5jWm72zTjh3NRHCCs", "thule").
+track("31ztjH2kVpH0s7lUdnb0IW", "twentytwofourteen").
+track("4333L6jEDAar8SVWLJ78F1", "over the pond").
+track("532tiHI4KEz95EKSMInTjg", "streamside").
+track("7ux8tYRO1gM7tdrdjtrmfD", "moss mountain town").
+track("0KWR6ezhPRbOBeyGjZlyCI", "always for you").
+track("2OadWzcg4jNjL5h6rXVG6j", "writings on the wall").
+track("33oOwqJc8E921H5vDw5zie", "see in you").
+track("58RGZ1mAOqg65v1aTTTfQM", "wherever i go").
+track("2HHBVDKcyR7A9cLx49vFLt", "broken arrow").
+track("5HnWBaNZXZh2YQbpVoarcj", "thule").
+track("6kr0Uq4fXRhyq1b5l3Ss9f", "twentytwofourteen").
+track("0ucGdsNgZpEg4dMe5VB3AB", "over the pond").
+track("7KuhGwSfXPNUkBjucx9WBD", "streamside").
+track("1pn0UdpTJF7kctYSz0nglC", "moss mountain town").
 track("0sr2wxbOujmICxxOfQrrPv", "black death 1349").
 track("0gGWhp0f3Xj8eabyXSCQDr", "my grandma was pearl hall").
 track("6TKojO7c7psQMaYBEdwySv", "as i go to see janey").
@@ -30808,7 +30808,7 @@ track("54SRyfqPxRAO1oCGg1KnCy", "dan's silverleaf").
 track("5QKVfh5tTrEcCGzprHMxHU", "orchestral medley - intro").
 track("03WHmpUsCd5e4kYOxDnsq4", "christmas medley").
 track("69okqp0oO3ttBbID8t9moh", "o holy night").
-track("7lqzbhd52iuNDWUlEtyY7E", "signore").
+track("7lqzbhd52iuNDWUlEtyY7E", "pietàsignore").
 track("12TlVulu6ri7Wr0x7tX28A", "gloria in excelsis deo - choir").
 track("4RP3RNFcxLffi4MLFIabBJ", "stille nacht - choir").
 track("6EZtuEwiWDJIbZAW4WE7vd", "ave maria").
@@ -30875,7 +30875,7 @@ track("2PUBXnn7B4PMq3rxnKkO6G", "afternoon high - 2019 remaster").
 track("3VLlqJSnUsZu7HncLRuUhJ", "oranges on appletrees - 2019 remaster").
 track("28P8yS8oYjn5aZxcEhOaFT", "a little bit - 2019 remaster").
 track("6rgTQObQxfLI7K7f0peuU8", "less than pure - 2019 remaster").
-track("6jDkE28VvLfXxhMEuAHnwv", "major sky - 2019 remaster").
+track("6jDkE28VvLfXxhMEuAHnwv", "minor earthmajor sky - 2019 remaster").
 track("4tkgf8mSS51G52h8FNuUfy", "little black heart - 2019 remaster").
 track("6vWioQ4bEH6xL3jOnMTZOA", "velvet - 2019 remaster").
 track("6QIKgqQKr3W7zsJEClQOCJ", "summer moved on - 2019 remaster").
@@ -30966,7 +30966,7 @@ track("56tE3X9cnP5Wq9WYIzMj3W", "less than pure").
 track("1DBgT56G3YxkdRD2UTm4Ha", "everybody's got to learn sometime").
 track("5WhOoKx9CwGU11wIIafNC5", "stay (i missed you)").
 track("2cYBlx7oKaBCE9s80DeNVw", "maniac").
-track("15S4YOSWK3SyGRbxX5Ygwy", "you'll be a woman soon").
+track("15S4YOSWK3SyGRbxX5Ygwy", "girlyou'll be a woman soon").
 track("7nsdHRh4epG2C1hS1y0Bm0", "take my breath away").
 track("3XKVXOQzNyqO6BGMi2AWGi", "kiss from a rose").
 track("2VVaKznmnrWcYIm7WPDTgY", "the sound of silence").
@@ -31010,7 +31010,7 @@ track("5o6P3Zvw9mOJDFVOdCUgu6", "drop the hate").
 track("4tjv9BIke9CgY5vq1ptOKK", "demons - extended").
 track("4Uemv4q8gwD7QQ3lx9ClF9", "magalenha (dj fresh vs. fatboy slim)").
 track("5oUUupWfx8UKtrWXtps1Z8", "everybody loves a carnival").
-track("4uUkyRXLHVnYNSEXoyRWVJ", "right now").
+track("4uUkyRXLHVnYNSEXoyRWVJ", "right hereright now").
 track("33nZ62Enk51V20f5PDUJ3t", "praise you").
 track("1cgV9xFpuDDdEOO5QKib8l", "f*****g in heaven").
 track("5zu6oXrTa2z4mmIEDQNXfg", "right here right now").
@@ -31057,7 +31057,7 @@ track("6Wcx2hf7vCYLYdmoo7aVtf", "da style deh").
 track("5FXOxYdbHbkcr24JvIL8dY", "sweet love night shift").
 track("58snh6GiLdHSkE8SKBueBE", "unknown number").
 track("2WwCLlUD7XCJ7pQ8yxvzBp", "step out").
-track("0blhB26VHd9Z5i0NZxeupj", "fast").
+track("0blhB26VHd9Z5i0NZxeupj", "fastfastfastfast").
 track("3KHL70NN2F9FRsokyJuXT1", "peace reign").
 track("5N1PAKu9LlCZNziqKVRU4F", "how u bad so").
 track("3SwgHcaLPu8Ng5RVL81LNS", "picante").
@@ -31073,7 +31073,7 @@ track("0uNcZXvvEY6Ms1xwp3cfgN", "people so evil").
 track("6HxVM2s6ukO9kUdVbetVQm", "jail").
 track("5EKArrxujzwI86DGxN39DZ", "tic toc").
 track("2nDStKSqTRrWF7vyrvvodA", "wine pon di edge").
-track("3xLKWEYkMO9l30LGPJ59uZ", "fast").
+track("3xLKWEYkMO9l30LGPJ59uZ", "fastfastfastfast").
 track("5YzMaRvc2LXcqBDyeLKqCT", "hey girl").
 track("1cAFDCGAqqzJCxmgto5qxF", "unknown number").
 track("1E4i96fwbah3uNcWN0NAlF", "these are the days").
@@ -31364,7 +31364,7 @@ track("2tgEoETSuNcYF2QMEflefQ", "the sun has turned to black").
 track("0EDt3FqYoDnVD78zGntY1x", "saturn's children").
 track("5TZcvrfx5dbGivBEOaWkXj", "the living dead at manchester morgue").
 track("0lWmTedyEaUWgPPdrwaDLe", "...a chosen few").
-track("0yCdyUkwjDzMeRhprCcZEd", "the undead").
+track("0yCdyUkwjDzMeRhprCcZEd", "wethe undead").
 track("4l2rg6rb9SmFR58JFyToJG", "master of alchemy i. house of whipcord  ii.the black drug").
 track("3Jyr3IHzcdVkKWc81unI0q", "the outsider").
 track("4RaTqhhky7FupKIuwoiuqH", "night of the shape").
@@ -31374,7 +31374,7 @@ track("3d1uPNDeeceYhoNNo4pnv8", "vinum sabbathi").
 track("6DU1WKdUnR7OZkw7BZl9P0", "funeralopolis").
 track("5H9QqlrGVKfimfG2Foq3px", "weird tales  electric frost  golgotha  altar of melektaus").
 track("31M6kB16yl4F2Y82M7HrWa", "barbarian").
-track("5Kryuu17dbt8kVN6vE61YT", "the witchfinder").
+track("5Kryuu17dbt8kVN6vE61YT", "ithe witchfinder").
 track("2Q21yFRtD36STs8mWlpAYI", "the hills have eyes").
 track("1RrgPMuFinnePF4P7ynAfh", "we hate you").
 track("6rbtbfELvUHsOjgYyz52lT", "dopethrone").
@@ -31504,7 +31504,7 @@ track("53qRbGU51JPsd2EtWs2W6A", "addicted").
 track("1VG7hlZpY73n8h8NgidVTh", "carnaval").
 track("4vQH6TCMMWk7lO3kPFDZZf", "me gustas tanto").
 track("4YAwwUM8AvDkl99Dy7uWLw", "climax").
-track("21T2lj8UhAbXhYPXKRCjKo", "magia").
+track("21T2lj8UhAbXhYPXKRCjKo", "intromagia").
 track("2FCK2nyKq0QXzIuWC88hVj", "pasarla bien").
 track("4HTzn2qQZ7UqHtw1OsB8wc", "obsesión").
 track("47ZFYpPEJhR9J7VXvzTcEn", "primer amor").
@@ -31548,11 +31548,11 @@ track("4OP9JDGaNEIq4fKUcLAXnK", "mi primer kilo").
 track("7tyiY4BGTNJMucmV99mknh", "los 3").
 track("7qGlmtbPmILIzNIrzwabQw", "me gusta").
 track("7CvDGxMqOjJOrFtLmPA53H", "en su boca").
-track("0a6ogDrZBvYgDjILgsQVaJ", "Hace Mucho Tiempo").
-track("2ZPkYb979i0u23UJjLRsRe", "Ire a Buscarte").
-track("5x7mTHBiZY9BnUo5SKKMvB", "Cuando Tu No Estas").
-track("70LQFfKt0fSlvNXncgP9XL", "Pakas De 100 (feat. Daddy Yankee)").
-track("4niy5OxGUVEVLxKLO6P7Np", "Ahí Eh").
+track("0a6ogDrZBvYgDjILgsQVaJ", "hace mucho tiempo").
+track("2ZPkYb979i0u23UJjLRsRe", "ire a buscarte").
+track("5x7mTHBiZY9BnUo5SKKMvB", "cuando tu no estas").
+track("70LQFfKt0fSlvNXncgP9XL", "pakas de 100 (feat. daddy yankee)").
+track("4niy5OxGUVEVLxKLO6P7Np", "ahí eh").
 track("2BrfJdTXohQRtWBKsBTIp0", "por amar a ciegas").
 track("6WpzXjdGVrAhRMO5F0yBD8", "él no se va a entrar").
 track("5ivkNtGbW1FEwN1JY7GPzR", "pienso en ti").
@@ -31672,7 +31672,7 @@ track("08QdwuyOTRaLXLl1H7HXZT", "republica argentina - original mix").
 track("3vY2jc6jgXUTa9KKA7HwX5", "imperial - original mix").
 track("7mQJpxsswpM9kuY8wOxWTC", "quejas de bandoneon - original mix").
 track("4K8Ob5eA5nuOTpV5aubjPz", "negracha - original mix").
-track("2DH7sfxs7FykjrdSUGuNOQ", "nada mas - original mix").
+track("2DH7sfxs7FykjrdSUGuNOQ", "sombrasnada mas - original mix").
 track("4PlvMIw8hYBNo5HkGYF7fE", "picasso - original mix").
 track("4nX57vDLUR1zYHUbvsFDlT", "de mi bandoneon - original mix").
 track("4rtNNmYAcEeFsi8PMEiAit", "todo corazon - original mix").
@@ -31693,7 +31693,7 @@ track("2PysjIYh5NcSJs945VZ0WL", "tapera").
 track("1zzUTT4TjWwggngA5l6si3", "el milagro").
 track("5SInOml9gsRKNgFljU8wlr", "el pillete").
 track("53I41kZmCJkBhFHGRGzMYN", "ojos tristes").
-track("1hRqL7ThnqNQRkFCyfnxU0", "marinero").
+track("1hRqL7ThnqNQRkFCyfnxU0", "adiósmarinero").
 track("34hpF9K4lc0fbY0OdSu0ax", "como abrazado a un rencor").
 track("1mjz6qsDBHVF2FMupzYHXE", "el rápido").
 track("7yMs2XPAPs1U0JKqcY3KbJ", "de mi bandoneón").
@@ -31712,7 +31712,7 @@ track("4Hwnwb7A8iH0chg2eoablg", "ways to be wicked - 2015 remaster").
 track("0EYZSJxJZuEfldnMriQ2Yu", "can't get her out - 2015 remaster").
 track("0lBy4mnED2JLmdSxMyG37f", "waiting for tonight - 2015 remaster").
 track("1dDAOZnIi0W3BR3inOgqgw", "travelin' - 2015 remaster").
-track("1d59GbdhXTYbHEKYkEEPy4", "let's play house - 2015 remaster").
+track("1d59GbdhXTYbHEKYkEEPy4", "babylet's play house - 2015 remaster").
 track("58ahUnsoJHF2fc2c0nHQS2", "wooden heart - 2015 remaster").
 track("5epRftjGwgaOqg8HH2NhRD", "god's gift to man - 2015 remaster").
 track("4wy0S3YDpCu96a4xZDtTB9", "you get me high - 2015 remaster").
@@ -31967,7 +31967,7 @@ track("1YAjMIhDOXjEPexM1uJPRo", "respeite a maré").
 track("40ZJY7WWhwnrLgCfAy9UoK", "vamos até a lua").
 track("3gE5OQ8D8Az3MKRQ7wrYEE", "seja o que deus quiser").
 track("15V7dHAKVx2R1S7rvl03EY", "todo dia é seu dia de sorte").
-track("55vbRfvfHtr2Mv9307dSmu", "já era").
+track("55vbRfvfHtr2Mv9307dSmu", "já foijá era").
 track("0SupKH7lyVMHF0QIjyr5Rc", "figa").
 track("1W5zLy6uGkQUrgELJGMOsL", "um novo dia").
 track("2AW1lzHTtf1lEbAalkaGXI", "amigo velho").
@@ -32225,12 +32225,12 @@ track("23vPlaR9ZoKTFDkIQypdoC", "the lake").
 track("5UURihnmPGs4dyrpZPx8NW", "black hole").
 track("0m5Jz8N97KX5YgWSqH2856", "outside").
 track("0W3gfoygsyTqsjQkQiY1a3", "garden of love").
-track("17RhzX6IBjIwnuhpkwfwdb", "london").
+track("17RhzX6IBjIwnuhpkwfwdb", "strange & beautiful (i'll put a spell on you) - live at shepherd's bush empirelondon").
 track("0XlO2MrcvaTjQScTeLlH1A", "7 keys").
 track("1eTlqU2BjwOsbzsCORM61e", "just for a moment").
 track("1OsyQC0yd3RhjBUZgvUkAt", "can't get you out of my mind").
 track("3oENM3ErCQ4UPMYuxLNEio", "halfway to the bottom").
-track("1JVXqHHBkhpiILHIpvkaIs", "london").
+track("1JVXqHHBkhpiILHIpvkaIs", "if i fall - live at shepherd's bush empirelondon").
 track("2f9VEEmi8ZtPfwPdCa2mFb", "can't knock the hustle").
 track("4a92XwkRTBH2oOCbrfPWXK", "zombie bastards").
 track("4GgCug01dRWB6G6HCaNGtL", "high as a kite").
@@ -32613,7 +32613,7 @@ track("6ck6grQGiPLIaGAdPjH9fm", "loving you is a dirty job").
 track("3J9nSAqcoKQHbqFz7IcyZT", "scratch that itch").
 track("27F0Id12GnwEMwUXqupiaP", "one step away").
 track("1RsONWFkqQt5bQVLH9tJOW", "hard time").
-track("3xMNWQR9DJPblCL8i0FtOP", "tails you loose").
+track("3xMNWQR9DJPblCL8i0FtOP", "head i wintails you loose").
 track("4XpDiYhdibNvUcpw2EFOfi", "all or nothing").
 track("0NjncTebUpYE78iHuq1QGO", "can't wait on love").
 track("066s12j61ZlXnMDtnUiDbP", "givin' yourself away").
@@ -32670,7 +32670,7 @@ track("4P3nl71dzClAsPCxjtfLv9", "just to be close to you").
 track("6sy1sSxrL1VEXwBaGAM8CX", "easy").
 track("0MOyr7UAtLr9lHvtLUuV5e", "three times a lady").
 track("5367DhF3JFn3GkOr8Z7UOf", "say yeah").
-track("6gA6hztNIUAqTw00Mpf5mQ", "i think the world about you").
+track("6gA6hztNIUAqTw00Mpf5mQ", "girli think the world about you").
 track("5wCqkLYh1pdvhMFVO18sbz", "lay back").
 track("7yMlFPgcNDyVZ8TmpwsVHB", "high on sunshine").
 track("3MPsk89PU261hBn8HIfVwM", "are you happy").
@@ -32722,7 +32722,7 @@ track("1CSocEEVAlazl1yDN2uJJN", "nothing like a woman").
 track("2VQUHLxOXOcwOqb4lRuTGC", "captured").
 track("1nCWHZhiMrrbmbaWAhLseP", "touchdown").
 track("40BYPHZyrBlVZROOP1M74Q", "welcome home").
-track("0emKaOloY3w9XDSum1ACOG", "woman you").
+track("0emKaOloY3w9XDSum1ACOG", "ooowoman you").
 track("0YdJ3yAYvRaply6HihA4TE", "only you").
 track("5XAjsbPK9A8PRsEHEASo6g", "rise up").
 track("4TnQ7etIDdizOGYQUPhRkE", "cowboys to girls").
@@ -32854,7 +32854,7 @@ track("4PksCkYy5uf870Ktmn520Q", "encuentro sabroso").
 track("7ynOeHZtbvUqC4EpUPTYKT", "genio y figura").
 track("7MeAJyWfhToj9D0LGfs14q", "vete con él").
 track("01wY6zKX817ziJK4Xahkpp", "una emisora en el cielo").
-track("28x9N0mNkoxk1y6ucR0g96", "chemen").
+track("28x9N0mNkoxk1y6ucR0g96", "chemenchemen").
 track("7xJHr0UwgZdOfl6sGyenkP", "el benjamín").
 track("0REBI6Dks4OSjpmWrQIbT6", "carolina").
 track("4LHfyZBjt6q4o7j4lN5AkA", "cantante errante").
@@ -32890,7 +32890,7 @@ track("28uC3JDFpW3Y18EPU5hGAF", "gimmie my respect - intro").
 track("5OqDJGoh8DpiN0Y1CgNVgr", "riley from the boondocks").
 track("58QBeBFcCbjVUCLgiUmeW7", "i'm the mac").
 track("3xakCupROVjegfmbsi2HoW", "worth it").
-track("0EDM6J5Z4au6l7e4LUJ3Zb", "everything right").
+track("0EDM6J5Z4au6l7e4LUJ3Zb", "everything goodeverything right").
 track("3Uvi9diL18dYSUc3vcKk0n", "self made").
 track("2xEvCnhZMxvvRwaF4le8UV", "count me in").
 track("2WX8QMtZVO20ywltD9BoeM", "love me forever").
@@ -32917,7 +32917,7 @@ track("0cNeU9auCEdXxF3YaugknR", "bitter sweet").
 track("15H4DMWIb2TbIRrwnY0K7f", "they lookin").
 track("144rELiPYXIWyfMpaCxp8z", "free k$upreme freestyle").
 track("4V0vU4GQ7M9oAilipnDoMv", "put em out").
-track("4tLekr04fIOThlrScr0Qxh", "pt. 2").
+track("4tLekr04fIOThlrScr0Qxh", "feelin youpt. 2").
 track("6md5g3gdmM7aTvQuVC5QT7", "ain't no way").
 track("1q8AROoTWbU3UnxUlG6mln", "dance with you").
 track("1VHRoNFMGBRoA4yzQydCp1", "get together").
@@ -32926,7 +32926,7 @@ track("53dUr9frwWYsNMgW0hcIx8", "true love").
 track("6pZx5KK45ZQi6PtgcgYw32", "so be it").
 track("3Yq2BmnHFq1RBONHKefCpY", "feel good song").
 track("7cA0W4B12i7Ja24XBa688j", "wonderland").
-track("6fYRADvGAnCGXpaUqgWCRn", "pt. 1").
+track("6fYRADvGAnCGXpaUqgWCRn", "feelin youpt. 1").
 track("0jF4xsiVd8AQoIEUmn7KLt", "things i imagined").
 track("6vOnTS8EhcUqvaRwsV2Dfn", "s mcgregor (interlude)").
 track("3803fF96TYnzkSMA0M0L5H", "down with the clique").
@@ -32956,7 +32956,7 @@ track("4dyRxaqi1yS5zJaWY8mEv1", "white picket dreams").
 track("6GI2PcrptZqGDOVrqjsec0", "t.o.n.y.").
 track("1dtAI0OlFbNoGWxHD5HPJB", "dancing in the dark").
 track("3j5LgEdhTHpw12pSHPMGij", "would've been the one").
-track("5x9a0HprRP6RDfVxTs0dxf", "part 1").
+track("5x9a0HprRP6RDfVxTs0dxf", "i decidedpart 1").
 track("5l6gnRbbjB5lCOzzYQz15q", "valentine's day").
 track("07WjuUWvaY7vKCRgmx7MDn", "the thrill is gone").
 track("7MDfk7PG8IVuaPmwAl5lyd", "6 o'clock blues").
@@ -32965,7 +32965,7 @@ track("4Wn4pHNdDcvIP6MOlYsgdK", "t.o.n.y. - instrumental").
 track("549qmHeq8gRHtD4yEcOeVc", "dancing in the dark - instrumental").
 track("6cxkWP5opzAiosCUAFAPo7", "would've been the one - instrumental").
 track("1WBfYJBUnWUqQXDEXRjC6r", "sandcastle disco - instrumental").
-track("0fZrPVxHdR9Yz8lUOOQOJm", "pt. 1 - instrumental").
+track("0fZrPVxHdR9Yz8lUOOQOJm", "i decidedpt. 1 - instrumental").
 track("6W1Ni34gU4V10Mj9QLIRxD", "valentine's day - instrumental").
 track("3WpGlAoKcJ7AEqB8R0sIgR", "6 o'clock blues - instrumental").
 track("1a5bDCSlxoxH5Ru1vuvivO", "ode to marvin - instrumental").
@@ -33048,7 +33048,7 @@ track("3fyZjqIX98PwVy4jR0ekZU", "vem tirar a solidão").
 track("2A2CL9z0iaLXp9U2gcxyFx", "como te esquecer").
 track("7JXtNHDhX69spyFpWvm1ic", "chove").
 track("1FrOUo3Z3jkapJpL7u1RoN", "de cara cheia").
-track("7CLGRhJcG2lhXzK8tzFnbT", "vira  citação: a marcha do caneco - ao vivo em são paulo  2011").
+track("7CLGRhJcG2lhXzK8tzFnbT", "viravira  citação: a marcha do caneco - ao vivo em são paulo  2011").
 track("3B2dT7Jj0AJBJ3wxkrqzXu", "vida sem qualidade - ao vivo em são paulo  2011").
 track("1CwQQr9DEtobJPGl0svUJO", "volta pra gente - ao vivo em são paulo  2011").
 track("65KCmyx88QBM8KPWfmtRS7", "por do sol - ao vivo em são paulo  2011").
@@ -33088,10 +33088,10 @@ track("6bYyEqckb3APQKDx97fZQM", "fim de semana").
 track("3i19XghXh5HUOY3tzxrwPl", "no mesmo lugar (coisa estranha)").
 track("56OJxWw2kbq6SRoeCF73xt", "nem com reza").
 track("1hYlSeybYLwt8Q2MdfbuJ1", "dois").
-track("1GAyYW4dmGT13xjNmmB1bX", "sacudiu").
+track("1GAyYW4dmGT13xjNmmB1bX", "balançousacudiu").
 track("1Yrc3b3848jwyxPGtvAqpY", "clube do batidão").
 track("3W3wHa8jBGuTgIm7wS3XlF", "ajeita o trem aí").
-track("4PSROZiGWfqHT56IzpZkBu", "comida").
+track("4PSROZiGWfqHT56IzpZkBu", "casacomida").
 track("1EWCRlhptUByE5JyNIYNKf", "sozinho outra vez").
 track("0jyFOJfNAfsxOtyh6vRNtJ", "ela foi embora").
 track("6muJCywIX3bAXJ0xhl1eQQ", "festa de peão").
@@ -33186,7 +33186,7 @@ track("2muJzxNCRL7M2QeCmjPubU", "in degrees").
 track("3HteidpVk31b0a3Swfw0Oe", "syrups").
 track("0Sfj5fPqZzCq9o3f1NNphz", "on the luna").
 track("4dWITy5mDS1zVOSDqOt8v5", "cafe d'athens").
-track("0YSZTYQzqPrnsudN5qP5GR", "pt. 1").
+track("0YSZTYQzqPrnsudN5qP5GR", "surfpt. 1").
 track("4Wt0oSeCIfNSuzXXgi4eXC", "sunday").
 track("06aX9B7cYMOpPFkTUfgqj1", "i'm done with the world (& it's done with me)").
 track("5h27GYpKZWWhFov8fOunF6", "what went down").
@@ -33227,7 +33227,7 @@ track("6pmuO3RhB3NYsIDygS6luC", "olympic airways").
 track("0HbAXpVohy6KzkeT1GvVxx", "electric bloom").
 track("6EZ1WBE8nYZSsrlnk5UQo5", "balloons").
 track("7d4LmTA45smj4xznhyhIDv", "heavy water").
-track("4DAGomwFz8AEEnIyALucd4", "twice").
+track("4DAGomwFz8AEEnIyALucd4", "two stepstwice").
 track("3T3ywM3H50hpyahoIDyUfu", "big big love (fig. 2)").
 track("1PlljUq4eqzeif771UVt9H", "like swimming").
 track("2Wp0nrqiSElaXIamg6leyk", "the french open").
@@ -33237,7 +33237,7 @@ track("4cwYjRj6H0mXLF80qkEnCI", "olympic airways").
 track("6nDIiUVFhsWhL2IjDUSfIR", "electric bloom").
 track("33Nx4bPkuCfNNx6fc6uiJa", "balloons").
 track("7tXdb7w2Wm8fTOouMtoKoX", "heavy water").
-track("4PTp7wY0rRKYjiq2P12bsb", "twice").
+track("4PTp7wY0rRKYjiq2P12bsb", "two stepstwice").
 track("36IIkCtIJrATNZ9xF2TqKe", "big big love (fig .2)").
 track("7fGuHcqKg5dQ5LXJGKbwxQ", "like swimming").
 track("3iIDONxT40QGqhXqR3PXSh", "ebony man").
@@ -33295,11 +33295,11 @@ track("38sjsb82Fz6jJE5Kj3GQb9", "blackout").
 track("0BZcexHuOrvKpqo0MJ9kUu", "deep circus").
 track("7hpB8USlxqzuZmzBn4EZLQ", "deja-vu").
 track("6Z8VgGsleTr8h05d1Eh2HV", "forever").
-track("4MmoQsRPajmIwm72MfT1Zl", "Ventilaor R-80 - Makala Remix").
-track("6RWbUU6ScFU3UXafMlkh2P", "Ventilaor R-80 - Copia Doble Systema Remix").
-track("3fnitGC13YgtDDlsGQFsku", "Sultanas de merkaillo - Farrapo Remix").
-track("56fzJ6wHY7AZOEtHfhuPwe", "Una verdad incómoda - LoveAvalanche Remix").
-track("4PwZM0IYzKIcSl9FpLjWG3", "Ventilaor R-80 - Suonho Remix").
+track("4MmoQsRPajmIwm72MfT1Zl", "ventilaor r-80 - makala remix").
+track("6RWbUU6ScFU3UXafMlkh2P", "ventilaor r-80 - copia doble systema remix").
+track("3fnitGC13YgtDDlsGQFsku", "sultanas de merkaillo - farrapo remix").
+track("56fzJ6wHY7AZOEtHfhuPwe", "una verdad incómoda - loveavalanche remix").
+track("4PwZM0IYzKIcSl9FpLjWG3", "ventilaor r-80 - suonho remix").
 track("1l5mHXkPGqJZopWHJSFe3Q", "color").
 track("7rs4AG5Rj9mmoJgqIRQTQx", "sultanas de merkaillo").
 track("5WEZoxQwWQrEaKB4Hi5uVG", "todo tiende").
@@ -33318,7 +33318,7 @@ track("40wfV677fHbtEb4EqwI169", "corre lola (feat. amaral)").
 track("0PuzB5H5iZFL0TyRLYrJzx", "lluvia (feat. najwa nimri)").
 track("6359r28JYKTEaE608yWjqI", "baraka (feat. manolo garcía)").
 track("4jnVqfJwISZ94xIS3aHSr8", "sultanas de merkaillo (feat. miguel campello de elbicho)").
-track("7tMh2xGjcdpCcnM6A4LNWJ", "stand up").
+track("7tMh2xGjcdpCcnM6A4LNWJ", "get upstand up").
 track("63ZZGDzng7SRvnSdmvGm0C", "na en la nevera (feat. estopa)").
 track("6VJD3rHUolxmkOOPM9bLv0", "corriente vital - feat. chicuelo - radio edit").
 track("61iIQMgwkRxQTnMnaR4iDE", "todos mortales (feat. roldán de orishas)").
@@ -33338,7 +33338,7 @@ track("2wdRjAJckmC0IRQR6JdzFv", "corre lola (feat. amaral)").
 track("4NfWeqmzxI5Ts5mCZCpYOZ", "lluvia (feat. najwa nimri)").
 track("6aa6ijudpSexxoyN7LRiJ9", "baraka (feat. manolo garcía)").
 track("1xbc8uC3M9TeOc0lLs8K9A", "sultanas de merkaillo (feat. miguel campello de elbicho)").
-track("1ArouVuTsNyHqfLeDGTYmC", "stand up").
+track("1ArouVuTsNyHqfLeDGTYmC", "get upstand up").
 track("7J4rAUPBogCghcAT91YVkQ", "na en la nevera (feat. estopa)").
 track("23MaoDTmsx2YbHyzoi6wtu", "intro").
 track("2vg3Mz5XPRmo6VCNOvzVLL", "tiempo de solea").
@@ -33369,7 +33369,7 @@ track("7ixpavvHdPX6uVP430BET6", "una verdad incómoda - con komar").
 track("0itoXRXVtIORgAWXQRYfP8", "baraka").
 track("2AVJT4DbANYjgBFY1oHBqY", "tócale ya").
 track("2zmhEuU2MoUo8II9giMUVv", "busca lo bueno - con los van van y roberto carcasses").
-track("6QP4L69yKW2QdPG95fe7Vq", "ramamani y duquende").
+track("6QP4L69yKW2QdPG95fe7Vq", "tantas flores - con kcpramamani y duquende").
 track("6meJQXuWii1cwBkzSP7dwt", "todos mortales").
 track("1u9KvfoyDEjeB2Efgk6s2k", "nueva vida").
 track("0WUnqBpqbEt5VqIVRKK4BW", "dónde te has metío - con tote king").
@@ -33379,13 +33379,13 @@ track("3PSGautMxAWA6yvIUEMa2w", "una verdad incómoda - con komar").
 track("1oIrqjmEuHRzBdKXXJLMn7", "baraka").
 track("55OqlKcxmsJN8L0aL4XAin", "tócale ya").
 track("09H5bBQKmCNwgAiFwJx0yx", "busca lo bueno - con los van van y roberto carcasses").
-track("4Eyqs016Vtdxnq2RIthusY", "ramamani y duquende").
+track("4Eyqs016Vtdxnq2RIthusY", "tantas flores - con kcpramamani y duquende").
 track("2XIbUrEujxcBZJd2oLRa0Q", "在你遙遠的附近").
 track("1kKSlVEZTF9KanIYrNkbR0", "大細心").
 track("2uycFxwbmigjeOFchMJpM1", "皇后").
 track("16hs7xbMSBQ8FZD8RKd67p", "親近對. 親熱錯").
 track("41C3MOLG3viEqnaXGC7KHH", "壞的好情人").
-track("2rN69aNys88cepsCPwxiEi", "鄧健泓 & 李彩樺)").
+track("2rN69aNys88cepsCPwxiEi", "有無 (feat. cookies鄧健泓 & 李彩樺)").
 track("5LkK9wjwByTTsj2KGCTdLi", "方圓").
 track("4g3L34o6aYSO6neXAcdJp4", "脆弱的石頭").
 track("0kT39wM7WBOE5UZGhVi3iS", "匆匆").
@@ -33488,7 +33488,7 @@ track("6iK34fEGqfepDNfvPOlfea", "i promise to remember").
 track("2iul96sNuVrnRcvt4qyH61", "who can explain").
 track("1ncA4neozNDnvP1zIs2hlr", "the abc's of love").
 track("33iwX98uC2Ci5HIbpgunG1", "share").
-track("5wgHjqawAGbee1Kgo8zuKc", "rock'").
+track("5wgHjqawAGbee1Kgo8zuKc", "i'm not a juvenile delinquent 'rockrockrock'").
 track("4HXfVSSoXto4plqtHOeZPG", "baby baby (rock rock rock)").
 track("4UWRYT7JqzmeEWYvrQ6zIy", "teenage love").
 track("2QEjC670wRUC9OE9kOnPB3", "a minute (intro)").
@@ -33613,7 +33613,7 @@ track("795JnCqVwUVCJVFTmcCBoT", "the chosen one").
 track("2CK59EbkR0ryn2e9hd5m3C", "presidential rush").
 track("6Ug919HCKcdbQNYopb0dLF", "mitzy").
 track("7gjVnAObWnW9kGW7qxbSTa", "rodeo time").
-track("6H9df5J6OjY13QIyqDJ7Kj", "naughty!").
+track("6H9df5J6OjY13QIyqDJ7Kj", "naughtynaughty!").
 track("0rcHx892Qz72CEdx4nk2We", "the great escapade").
 track("2treOD3BJyuFy0qW659kk1", "street jungle").
 track("3cqbyaJ9sJ1pse5mMx4LYS", "st james park").
@@ -33628,7 +33628,7 @@ track("0l1yrAWnbH0LsTy2qnnmxI", "the battle of winterfell").
 track("0kOJS4FWxVMT1i3CKFUZee", "the dead are already here").
 track("3DNXVnQRr4HCCuTyTj0vJa", "battle for the skies").
 track("5dSzw9oowzITMNOVfzeQ0u", "main title (extended)").
-track("3UT15LNXO1mmQNeF8HGo41", "analyst").
+track("3UT15LNXO1mmQNeF8HGo41", "jack ryananalyst").
 track("5PljnjZ0qlxGY7u1PNaxbU", "bekaa brothers").
 track("1X3ys0187GYYQSEji8ZYJQ", "cobalt cowboy").
 track("1ZRrzgN0530V0SBqcx5vJR", "the price of freedom").
@@ -33665,8 +33665,8 @@ track("2ZBuYbOfsnJph89Y3s0qDv", "a game i like to play").
 track("0nJyLljXoIHoIZwdBdiVQh", "i am the storm").
 track("1GxuGIDdnPKjf9EG32KqSF", "the gift").
 track("1ilH7ekEx3QPmcBgTv7ULC", "dragonglass").
-track("07OCvp44fIyFjp7IJBVnQD", "pt. 1").
-track("4F5JPGYxiVopS6D2UO7ICQ", "pt. 2").
+track("07OCvp44fIyFjp7IJBVnQD", "spoils of warpt. 1").
+track("4F5JPGYxiVopS6D2UO7ICQ", "spoils of warpt. 2").
 track("4U7GymzLoGIRSwLuIx4CtK", "nameless order").
 track("4ajxoDRFHCTE6f18aDnUAj", "prologue").
 track("647z6viFCwcDajSyr2GkbU", "what a wall").
@@ -33675,7 +33675,7 @@ track("38ZNK3dDXDWBsGyyZejSr0", "first battle").
 track("40s2Bjh25pMbjmlWop4FTR", "captive heroes").
 track("2shypNq6ThZpWVNEDKvuCm", "a clean start").
 track("4J4BPxRqxbu8SssxKLw5Yj", "we are not the same").
-track("4nSPR7sklmauswFt5A4XOY", "general").
+track("4nSPR7sklmauswFt5A4XOY", "xiao longgeneral").
 track("67Gy4zadxP1s1vZqKaKAwY", "let's hurt tonight").
 track("1qaN8ITLg9quCqMTKhM1oL", "future looks good").
 track("5AoZWVVSbmg2SkaCiqCWWC", "wherever i go").
@@ -33766,7 +33766,7 @@ track("078HzFqPH3jEz9oxeDiswD", "say (all i need)").
 track("79Sb0phmxVj1yyZeXqHJeS", "mercy").
 track("4FOPZ2Gqlc5SfpRzDVHWby", "stop and stare").
 track("45EcHn5mLcQk963JhfX89K", "apologize").
-track("47QnNbbu9LPIN00W6fPO6l", "apathy").
+track("47QnNbbu9LPIN00W6fPO6l", "goodbyeapathy").
 track("2RcCmXf6FVjQYodJjPU26Z", "all fall down").
 track("3iMkX38lGaH4aVCG9vzZWR", "tyrant").
 track("3gw2yRkdZ5dOHq5W4hJjvm", "prodigal").
@@ -33780,7 +33780,7 @@ track("1Gey0RLD0tYYewldVi4frP", "as the kingdom drowns").
 track("5zxmIqWFSPMyUOpx78zG9G", "beyond the black").
 track("7qhje0rn1ncPKtnnA1YbdY", "upon these stones").
 track("6W7Ll9VZeB989XWZgwV4mW", "momentum of the void").
-track("7zbRV5NORyhgSp6XsjEZ19", "below").
+track("7zbRV5NORyhgSp6XsjEZ19", "you belong herebelow").
 track("3Mz2ewqSRmIYLoWiyfcJDb", "echoes to come").
 track("0UunjCWy3UmGmVQ3DT59lO", "ending").
 track("3xwapqMlzIbHjvpoyoOhYH", "a soul once lost").
@@ -33799,10 +33799,10 @@ track("040WycfHUKt0Yk7AjJSnpH", "become the cult").
 track("7HSWS9oTvz81PR91ZyNFzp", "from scribe to ashes").
 track("6ot71GyR0lF038bWKaiSrc", "deprivation").
 track("2MtpzIAxzdyWk9HG6h64Ma", "the sleepers have awoken").
-track("2bPWMazIDsIIuyGOJqoQfg", "A Calculated Effort").
-track("61tE7flmzI3bgzHlDLPokg", "The Shifting Equilibrium").
-track("1CnjAldxwfmEdowajP6TO3", "Horde in Devolution").
-track("39S3oDJ0QMqI1H2QsYPsO4", "Immortal Army of One").
+track("2bPWMazIDsIIuyGOJqoQfg", "a calculated effort").
+track("61tE7flmzI3bgzHlDLPokg", "the shifting equilibrium").
+track("1CnjAldxwfmEdowajP6TO3", "horde in devolution").
+track("39S3oDJ0QMqI1H2QsYPsO4", "immortal army of one").
 track("0THVReVT3EtIUucYKEqkD9", "the alpha breed").
 track("08KE1287TIcRzYuoTxfQqo", "missionaries of a future to come").
 track("5zIfd8f9J6bzgWbXieJZpL", "merchants of deceit").
@@ -33944,7 +33944,7 @@ track("1kC9jJHgeuB2uekIsvW8Ct", "medley: morning in the rainforestdiego theme").
 track("4zFqdkHIbo4b5lT2yw8pun", "chief of carnaval").
 track("29jpJAQEXITVzWHmofzuwD", "i'm so happy").
 track("38bInrxf1i3nGiKrXXhSyh", "click!").
-track("0Ng9DUNEljXBf39xeTybAD", "amigos!").
+track("0Ng9DUNEljXBf39xeTybAD", "al rescateamigos!").
 track("4P1pXwJBv5exXJkqxuuxWQ", "cha cha trees").
 track("3vwqJQHxinMvUe0mg39Vtu", "conga!").
 track("0EHqLTl7XcZDy7BkNO2LTV", "merengue!").
@@ -34034,7 +34034,7 @@ track("0Ml1iAtkXlDrpcexc6fUX6", "in the hood").
 track("0950a4XLMqZfKFhja6cOri", "color line - alternate version").
 track("1Pl641Wv0HgDoIbPfVS8hP", "second thoughts").
 track("5hMM1E3lliDgMEcDaZGP7g", "crabs in a barrel").
-track("22ulXuQxz5xaI2JjliHAFO", "friend").
+track("22ulXuQxz5xaI2JjliHAFO", "womanloverfriend").
 track("5Defu3tPQ3deBZICfjV5AB", "game of love").
 track("5PgMyHVzayeDXGlZ4ta4io", "90's news").
 track("1fJFqF0dfhZTcu4CnUXfHe", "life in the 90's").
@@ -34098,7 +34098,7 @@ track("1YZQJtgBAsuyak40ws761h", "silver lining - 2020 remaster").
 track("44Byv0vre1beDD9cJnwnZL", "white ladder - 2020 remaster").
 track("2raGOq0p2PXrWJnWXSBFaC", "this year's love - 2020 remaster").
 track("1kUeF2E7IcLVZr4nXM8kCu", "sail away - 2020 remaster").
-track("6ktqj8uGKj5DFr8Eu9c3T0", "wave goodbye - 2020 remaster").
+track("6ktqj8uGKj5DFr8Eu9c3T0", "say hellowave goodbye - 2020 remaster").
 track("20Oak3FvTZ8dUiQPvBgDk5", "the sapling").
 track("2RrQ2I0dyswL8BQYZto0GK", "gold in a brass age").
 track("0usC5hLn2FXNxkzqyOSqnU", "furthering").
@@ -34159,11 +34159,11 @@ track("3Xw6f5kjrGBhOHocRA4G0S", "harder").
 track("2JFvMfnk0R8FD9A4dZ1YHx", "transformation").
 track("0XTSndt66zDkX6VW3oivlO", "stella the artist").
 track("7HFkI7p2OOCN8u40jRffxu", "breathe").
-track("56hgsEnLoWPYRxDM2Oeyei", "Draw The Line").
-track("3E6nPtzp6cLqGgnp0Jm3tf", "Jackdaw").
-track("4dAnaLR8GFxPrO9vxRFbsb", "First Chance").
-track("2MCoiJWPtZfRvuwSRaC3fU", "Transformation").
-track("7nbyM09s8qoFilkoZXFZeU", "Breathe").
+track("56hgsEnLoWPYRxDM2Oeyei", "draw the line").
+track("3E6nPtzp6cLqGgnp0Jm3tf", "jackdaw").
+track("4dAnaLR8GFxPrO9vxRFbsb", "first chance").
+track("2MCoiJWPtZfRvuwSRaC3fU", "transformation").
+track("7nbyM09s8qoFilkoZXFZeU", "breathe").
 track("4CrnCM84wibqs74ICV778n", "fugitive").
 track("60nu3QJNTBibPyTiD5CKSR", "draw the line").
 track("4ZrOo1rbXVpgNgGeho6PJ1", "nemesis").
@@ -34209,10 +34209,10 @@ track("41w5sHrpJDl0IZN3ZhkL6r", "organised green - 7th gate remix").
 track("52uP69GlTdoOslgZhcFHAg", "organised green - fabrice lig's live version").
 track("6vAJdJQVhCTCSA7yFIzX8l", "sunriser - publicmind remix").
 track("49gAwiJ38PrabeGykNiKQI", "mars buggies - ken ishii's mangue seco beats").
-track("2jVx3VGzvXbo09fURRBO1x", "Mars Buggies").
-track("4YHFGFyYmxqcwUSmY1bjj4", "Beam Skywards").
-track("45U9tu0fYZ5PsTGK9eVZth", "Free Energy").
-track("0ALJQbpoHtaBJ4b7uYWxzy", "Future Is What We Are (Ken Ishii's Deadly Striker Mix)").
+track("2jVx3VGzvXbo09fURRBO1x", "mars buggies").
+track("4YHFGFyYmxqcwUSmY1bjj4", "beam skywards").
+track("45U9tu0fYZ5PsTGK9eVZth", "free energy").
+track("0ALJQbpoHtaBJ4b7uYWxzy", "future is what we are (ken ishii's deadly striker mix)").
 track("4y21SN6weWsQMrlMlc0oSc", "auburnia - valentino kanzyani remix").
 track("5aaL2yXwoEIRtHMw6lt5qk", "awakening - christian smith & john selway remix").
 track("6FoSnrNO8ulU0CEvsysm00", "awakening - jimpster remix").
@@ -34256,7 +34256,7 @@ track("3YSrv1CEhQE6MubugVoAyn", "rompe saraguey").
 track("47cbAq5oiMozLygR2ha40x", "plato de segunda mesa").
 track("42mvgUAlmn0gl3Q2DDrh59", "la murga").
 track("18wvo7TCyLZFOcnL96Cgas", "juanito alimana").
-track("1bnwjL7xoYmCn3Zd10y6QX", "cuando").
+track("1bnwjL7xoYmCn3Zd10y6QX", "cuandocuandocuando").
 track("7Et8pVzfUm9pWi1jgSdrCq", "el rey de la puntualidad").
 track("6oDokYjFCbxcVuE0yXLcxb", "el cantante").
 track("2UC5zliDGdrcDACBcGTpA2", "el todopoderoso").
@@ -34321,7 +34321,7 @@ track("1BU9CgvdBkBkL9MaeJaTRA", "disque tchan - ao vivo").
 track("22pWNxhbIqLiHzRMuYwiBa", "paquerei - ao vivo").
 track("2xADvm9BISuGMDtVcoPrs0", "beco do siri - ao vivo").
 track("7qtEBgIiEVUa4ROcOexLQX", "cadê se me dão - ao vivo").
-track("61aS02Aaj9tmUPjbDEVVPF", "mainha - ao vivo").
+track("61aS02Aaj9tmUPjbDEVVPF", "mexe mexemainha - ao vivo").
 track("6ZuOZdto6fwbkhnlJ7fCXV", "dança do põe põe - ao vivo").
 track("2vRv6Hdr8xWPGuwAJW4rqY", "pega no bumbum - ao vivo").
 track("2OvsBkerOZ07Iv1WUn3nty", "a nova loira do tchan").
@@ -34369,7 +34369,7 @@ track("4iUJPuhKr7wjr0ah8Os4iw", "bate tchan  incidental: batman theme").
 track("1Y0SpUMhulXxbgp5ZVN6pF", "reggae tchan").
 track("5vcMDUBeClnJVzGVs4RR6C", "a múmia").
 track("7b3nhVXe2SQxDDTVjMnd4r", "aeróbica do tchan").
-track("5Pvh8AgurLQMEbNwifTDjM", "dá licença").
+track("5Pvh8AgurLQMEbNwifTDjM", "meu cumpadedá licença").
 track("4HEb8WssfdEYoKwXyzH1VT", "auê do tchan").
 track("2xnYo1dM1sW51uEAAahh6X", "tchan.com.br").
 track("1fO8L6RxMOfKMrZ2XzBDCl", "ôba").
@@ -34404,11 +34404,11 @@ track("7wJGfP24fPBaaD5VoomNuQ", "danca do poe poe").
 track("2aRHTNUq9C6HEmymEj09xf", "disque tchan (alo e tchan)").
 track("1zldVlW3R6pOkQLNqus1zl", "sambas da bahia").
 track("2IAK9k3WfUxvV9llPOAbKY", "i love you").
-track("2CNziO6kk9oYgVaQvIX24U", "One For The Pain").
-track("7LvrzFCaeYYDelmN3TEzfL", "Runaways").
-track("3dXqv93E81LjJPTFnxBJOP", "Wish").
-track("3t8HRAK5nAqR8RLgCAJsOM", "Alien").
-track("3UXw6faoZX6W5bRHM0Xcot", "Hurt This Way").
+track("2CNziO6kk9oYgVaQvIX24U", "one for the pain").
+track("7LvrzFCaeYYDelmN3TEzfL", "runaways").
+track("3dXqv93E81LjJPTFnxBJOP", "wish").
+track("3t8HRAK5nAqR8RLgCAJsOM", "alien").
+track("3UXw6faoZX6W5bRHM0Xcot", "hurt this way").
 track("5n6lKp39Pvqpic867rNMw7", "gotta be tonight").
 track("7DCWDI6jh39n2e6btxcdx1", "nobody listen").
 track("20E7I1loufo99r47GR54TR", "moveonday").
@@ -34534,7 +34534,7 @@ track("2I8OSnbWSkg0ntiU5cXp0G", "from the clouds").
 track("1XJzh4SIjOl6UNUVi1Ovuj", "my little girl").
 track("1Y6FAF1B5pptmo8rJW9DOJ", "turn your love").
 track("3RsRVNrgy6j1eilPdxRDkR", "the upsetter").
-track("1j6BWaluOo6Wml4ddOhzP4", "mythology").
+track("1j6BWaluOo6Wml4ddOhzP4", "red winemistakesmythology").
 track("1P5NOoKBNBT7VDg0fwGhdR", "you and your heart").
 track("5R6dgBQoCvkWk8lr6jFThD", "to the sea").
 track("1Qv6h3XsjhRfnFJzw6xAWc", "no good with faces").
@@ -34544,7 +34544,7 @@ track("7HWKIcFwQlwgkHvdkoPNbg", "from the clouds").
 track("1c6s4ZGHDHvXrQi4CNNS7Z", "my little girl").
 track("0zbsjUMoHs4PbcveIwwptD", "turn your love").
 track("54lsYlgihYa8cse5It6Sbg", "the upsetter").
-track("5JnlZtjw7GRZFRbdX2gmKp", "mythology").
+track("5JnlZtjw7GRZFRbdX2gmKp", "red winemistakesmythology").
 track("1Pka3t45cCYe3Xxwq54Xrt", "you and your heart").
 track("7jXX6m7GH7b1hZPkR66QF4", "to the sea").
 track("6X8tAzHjcebu1UlBwT9q2V", "no good with faces").
@@ -34554,16 +34554,16 @@ track("0iP5CYKYxgurQLlQ1uBPoo", "from the clouds").
 track("5ohYFz6oAmjUBr6NgRHMh8", "my little girl").
 track("6WUpCeaJlPaQNeYMuQCj1B", "turn your love").
 track("1zythX88S0jUsNxHSirXvY", "the upsetter").
-track("62PdyKnFPneeW1SzavURnD", "mythology").
-track("4DedZEOIzHXHylmKIHHy3s", "france2008").
-track("1qaejOXKnTsve4zEzR6Tuv", "hawaii2008").
-track("38RLlORqcXKRLCrHoUg3Ai", "california2008").
-track("7dlVIp0e9AKQ05yc6HZkbH", "france2008").
-track("4FA5qZXkSzUNfzhgb6m8Yt", "california2008").
-track("4rnevngbGeIJPPdP4nABzH", "california2008").
-track("0u8auNsDcCCKhFrtlP9SuN", "washington2008").
-track("7Frm7Ixn7WvN0I9lLp9Bly", "hawaii2008").
-track("48vpurz6mcbf7CwLxa7u8X", "california2008").
+track("62PdyKnFPneeW1SzavURnD", "red winemistakesmythology").
+track("4DedZEOIzHXHylmKIHHy3s", "belle  banana pancakes - live in parisfrance2008").
+track("1qaejOXKnTsve4zEzR6Tuv", "if i had eyes - live at the kōkua festivalhonoluluhawaii2008").
+track("38RLlORqcXKRLCrHoUg3Ai", "do you remember  remember - live in santa barbaracalifornia2008").
+track("7dlVIp0e9AKQ05yc6HZkbH", "sleep through the static - live in parisfrance2008").
+track("4FA5qZXkSzUNfzhgb6m8Yt", "flake - live at outside landssan franciscocalifornia2008").
+track("4rnevngbGeIJPPdP4nABzH", "bubble toes  express yourself - live at outside landssan franciscocalifornia2008").
+track("0u8auNsDcCCKhFrtlP9SuN", "wasting time - live in georgewashington2008").
+track("7Frm7Ixn7WvN0I9lLp9Bly", "what you thought you need - live at kōkua festivalhonoluluhawaii2008").
+track("48vpurz6mcbf7CwLxa7u8X", "staple it together - live in san diegocalifornia2008").
 track("4rc3d9qaS1ae7BclC0Okog", "if i had eyes - culver city dub collective remix").
 track("7p3eluZv7dxIArpFUTBkia", "all at once").
 track("6YXPye0mFJBNov8pmihMAP", "sleep through the static").
@@ -34577,7 +34577,7 @@ track("2CjUSmHm2d76VoWRgpQ6mO", "adrift").
 track("6RD1Xy5c5xEhFeqat974kK", "go on").
 track("5ZUDNzInCUKQt9r4i7Uhgu", "apples and bananas").
 track("0ecLVUdcVvUMJHFzz5jqP0", "the wheels on the bus").
-track("0u3dA8TxF87PRY31vYZOct", "porridge hot").
+track("0u3dA8TxF87PRY31vYZOct", "peasporridge hot").
 track("2UgJcESmDJzyJP4n5v2373", "the more we get together").
 track("1b18Q6xfsyXr0XUeqwew1A", "shortnin' bread").
 track("3iKBnyBn0VTgQDMGEjarEq", "if you're happy and you know it").
@@ -34602,7 +34602,7 @@ track("54aHN3o5gYUyMTekNIsMrn", "happy birthday to you!").
 track("1ctgdCpqYTM4BSDQzAcjOU", "this little pig").
 track("6Q4TWwMJOONFuf2BupEoxh", "mary had a little lamb").
 track("0ePepDCoiB8DvGT6Y7bz8L", "the more we get together").
-track("4VQvbJhLYtrJpA1dlNEGAQ", "2 buckle my shoe").
+track("4VQvbJhLYtrJpA1dlNEGAQ", "12 buckle my shoe").
 track("3VlmUfrMtFVq1dHshfnWVe", "this old man").
 track("6heKG7z0LnRzXwttF3WLnn", "frere jacques").
 track("0nVx2dShf5tkPaKyUalrgR", "the wheels on the bus").
@@ -34613,14 +34613,14 @@ track("53OYgMtgEF7pOHGtSkG8ex", "frere jacques").
 track("3C97OfFZPogjLIeQuKopeF", "monkeys on the bed").
 track("3DswrKiLgpgMrt9UtUAuBm", "engine number nine").
 track("5yhLFECNfSTcme4IWXSOyr", "down by the station  little red caboose medley").
-track("4NmjZmQdeU8vouSm89mMhP", "porridge hot").
+track("4NmjZmQdeU8vouSm89mMhP", "peasporridge hot").
 track("768TQ00gLVLh75lRLquOmx", "happy birthday to you!").
 track("4Z8IOgEefUbFma9EC1pDbc", "five little ducks").
 track("5HVpi7RfOT3DN6EeDPL0sB", "a sailor went to sea").
 track("7a06rGO47gvEgfJbz6j81x", "be kind to your web-footed friends").
-track("0x6WKcoLDSlQUIAmTtrFZe", "knees and toes").
+track("0x6WKcoLDSlQUIAmTtrFZe", "headshouldersknees and toes").
 track("6ZAgAhgO1pA88pzuPF9tyz", "loop de loop").
-track("3MPZTbh3sXsbI9Tr8qbqUS", "2 buckle my shoe").
+track("3MPZTbh3sXsbI9Tr8qbqUS", "12 buckle my shoe").
 track("3OQ43EewyTmrxydYa6zBEA", "pick a bale o' cotton").
 track("35ySSQEN22ZHJAFfLfVAsy", "this little piggy").
 track("7L1ehlKkg11pSkh6uSo7qr", "the hokey pokey").
@@ -34628,7 +34628,7 @@ track("3V9kbqIzsjJZOnMgAAHKV6", "it's raining - medley").
 track("34DTjm8YIiNv6S5Pm2DqAK", "five little ducks").
 track("09XSCeJA1olFqUtIJEJZoF", "be kind to your web-footed friends").
 track("5RZQGMU6xKpcXod5TfuRxA", "bingo").
-track("2BQ8GDhK1mDn8AljUst80f", "oh where").
+track("2BQ8GDhK1mDn8AljUst80f", "oh whereoh where").
 track("3UlYNE8BddJBvIL0rjDlQ2", "pop! goes the weasel").
 track("5wIK2sDaqjd2WugazAk7og", "old macdonald had a farm").
 track("6RkyILiRhCUOQGCDGT01Up", "this little piggy").
@@ -34639,7 +34639,7 @@ track("05DsfsdY49WEm804fE0CAX", "help").
 track("1A7BHE3tpNdq2YVnWn9Avq", "can't buy me love").
 track("3DVGgr2lBX9flRj895xSMp", "you won't see me").
 track("0OMsDL8mi7l0qnWSVjk3PG", "we can work it out").
-track("5kOPcjb7PYhgE9yxZLiABE", "ob la da").
+track("5kOPcjb7PYhgE9yxZLiABE", "ob la diob la da").
 track("1McosaEa0lEI0ysftTvuKJ", "from me to you").
 track("3JpsXwvLfqUmRZuB9IBzF8", "ticket to ride").
 track("04zrT9H423Y0QPCz8usIjC", "i'm happy just to dance with you").
@@ -34647,8 +34647,8 @@ track("6sGtGG2SJUVI8GkAcLcM8R", "she came in through the bathroom window").
 track("14nCtc4g3hazJSrJxD1d8X", "i saw him standing there").
 track("6GgoPzhbqhHIrodsrhnmES", "here we go 'round the mulberry bush").
 track("1RLLaIhasEqXLquPyXzfKJ", "polly put the kettle on").
-track("28O86q8SwlxwPXnc7PUCwi", "2 buckle my shoe").
-track("0iIrXyZxP4vvH5AMdaYI02", "knees and toes").
+track("28O86q8SwlxwPXnc7PUCwi", "12 buckle my shoe").
+track("0iIrXyZxP4vvH5AMdaYI02", "headshouldersknees and toes").
 track("0SkSjF3nYDnM0X0VVT3uXQ", "hot cross buns").
 track("4ZDQENWG5zJtJLLMeEOWBp", "farmer in the dell").
 track("4XoSJwqkzAVkShGOpa0daN", "london bridge is falling down").
@@ -34664,10 +34664,10 @@ track("18G5uisiDv8qtYHkeLCwE8", "down by the bay").
 track("6HngiO7gyZlQW8ptz7SJEw", "i've been working on the railroad").
 track("5sFA6mJBV92sqxl2DDoEaB", "bingo").
 track("0LTX31MY9f2IC9mIcasrQV", "shortnin' bread").
-track("5NmXDUKe0blOp2culPijj7", "row your boat").
+track("5NmXDUKe0blOp2culPijj7", "rowrowrow your boat").
 track("1x0YixR4aQ16mB2IcBLiVQ", "hound dog").
-track("5D4SaK16aYFNouiIC5zXhT", "let's play house").
-track("3BMBRPFiyMcLBu5ZREPRc2", "rattle and roll").
+track("5D4SaK16aYFNouiIC5zXhT", "babylet's play house").
+track("3BMBRPFiyMcLBu5ZREPRc2", "shakerattle and roll").
 track("5YHXtmHxh16eI4AfbZuqTA", "heartbreak hotel").
 track("12l2nULD2T1uK8qH8T7l3t", "blue suede shoes").
 track("7HrpBbeAnEunhzztExLiLV", "all shook up").
@@ -34754,7 +34754,7 @@ track("3K6sv6A1yp4XFZRgE4Qmix", "stand the pain").
 track("4dTFQU2LVSqy3OOFW2lnWV", "sugar pie honey bunch").
 track("5mDHBZzRuHF9kxewlbyFSB", "grandpa's jam").
 track("0bj0hCTYXv02xeSHyRXuYT", "first kiss").
-track("3PzByIQAYi0uvfbdM0brMn", "cheap wine").
+track("3PzByIQAYi0uvfbdM0brMn", "good timescheap wine").
 track("0sxjKt8SWwl1svkyYxfszu", "johnny cash").
 track("2L7FAR1uDhWFYaHCbP7vtg", "ain't enough whiskey").
 track("4wIAgnLFHgdLo3Kt1e51W2", "drinking beer with dad").
@@ -34766,7 +34766,7 @@ track("3sGrbkiTAkGY58342xOBNs", "foad - bonus track version").
 track("0ndsTigCLM7zWf1RKNyOIg", "chickens in the pen").
 track("0xSCHp70fv4L3BWk9r9EDP", "let's ride").
 track("5icgvu8PXsWskzH0MtRljX", "3 catt boogie").
-track("2T5wFN8jPmuP0uG9gsTghJ", "michigan").
+track("2T5wFN8jPmuP0uG9gsTghJ", "detroitmichigan").
 track("3kGFZc8HP2pw2WAurIaWrN", "rebel soul").
 track("6DrRpTWiVhwv45diPV7KJZ", "god save rock n roll").
 track("3bTJW0ugLRxMHw0cgHQLIR", "happy new year").
@@ -34802,7 +34802,7 @@ track("7KKxBgVdNtjOM8Bc2fbHeL", "early mornin' stoned pimp - live").
 track("71v7UbYEKbWNGqyegelyNp", "rock n' roll pain train").
 track("3UDJuVVlNoeG0gSpsZZg4D", "feel like makin' love").
 track("7vCftgsPYPsRbhTFaXi21Z", "black bob").
-track("4SXMRJugy8ifYJdoS9cXGg", "mississippi").
+track("4SXMRJugy8ifYJdoS9cXGg", "jacksonmississippi").
 track("4g5w0s5b1DuvhjZrd6ca2I", "cold and empty").
 track("7Mm4CrNdFlfnDxudAKBTos", "intro").
 track("53bntgWaTQiB2EMkomwnnr", "rock n roll").
@@ -34813,7 +34813,7 @@ track("4IF0TpPhXpd76YCi2b7ZLY", "forever").
 track("1tl9EbiStnEiv9Rgqh8o7k", "lay it on me").
 track("6h2t5HKOpHjpou4cHA5OER", "cocky").
 track("4tslkjUCCD0LQG1GBcfxHp", "what i learned out on the road").
-track("2Pl3fIK1vz6yqzyto6viBE", "but you ain't right").
+track("2Pl3fIK1vz6yqzyto6viBE", "i'm wrongbut you ain't right").
 track("3HkBKk880ppo4f2wYlRaie", "lonely road of faith").
 track("4Tzyn0neFbPDkk88ObJmTu", "you never met a motherfucker quite like me").
 track("69j0KoPJuwpnbGWrfn7Yll", "picture (feat. sheryl crow)").
@@ -35272,7 +35272,7 @@ track("6wNqYCipN7NuyeWyYh4GSU", "the lone man").
 track("41F1tnJbxdqQbnJIRLndXH", "3 circles").
 track("3cUo0g5yuTGEyAOF60D6DB", "farewell").
 track("17C1AVZVh5jhJU4eAcovpl", "father of all...").
-track("2ixD4Uu8tv5i4aiB16aamk", "aim").
+track("2ixD4Uu8tv5i4aiB16aamk", "firereadyaim").
 track("1VsFIGQytB26cDHViCLjQi", "oh yeah!").
 track("3YCUPKddcFr4s6iL4mj6Xy", "meet me on the roof").
 track("1joLi42twnPqACG3pfcHMM", "i was a teenage teenager").
@@ -35296,7 +35296,7 @@ track("1zBuUQPTvn6dFgqHhfQVIq", "angel blue - demo").
 track("3esJTwCVpkMWaoxPgpxLTJ", "carpe diem - demo").
 track("55UMp5DaAVclInmN1dZDtE", "state of shock - demo").
 track("5WX61BvCKJmkkpmRLipPaW", "let yourself go - demo").
-track("2msKk0WhzOI93Hd1iFlnWv", "drugs & violence - demo").
+track("2msKk0WhzOI93Hd1iFlnWv", "sexdrugs & violence - demo").
 track("2Ofc2EGiR6K8IsWjC7GP9P", "ashley - demo").
 track("5g9UM9MOSZ0a9RgKdJl5TP", "fell for you - demo").
 track("5m4nrEnrCDtRqtPsGVWYDp", "stay the night - demo").
@@ -35306,7 +35306,7 @@ track("1sy2KQjFHkPO5O4dLYAoIX", "missing you").
 track("6k0EBmrgzvpyigEHGYtQiK", "8th avenue serenade").
 track("01u7qKInOoy8IFudrraGOy", "drama queen").
 track("5i559orX0oL7i4AuZGKott", "x-kid").
-track("1osH4kjtpHSWSkVhqCUMMF", "drugs & violence").
+track("1osH4kjtpHSWSkVhqCUMMF", "sexdrugs & violence").
 track("0IlkpNeg56nHNYXry3fiUr", "a little boy named train").
 track("2UzfHTlaqddnFOiPTLsxKm", "amanda").
 track("7w7aC5H2idbRj4ugvBca2C", "walk away").
@@ -35351,13 +35351,13 @@ track("1q4hlg5qcDqyPpvRRxpU0g", "last night on earth").
 track("1moiQEVWaYSv2NNtg1hlWJ", "east jesus nowhere").
 track("1ZL1h0kXofUzLl0pN4hIBW", "peacemaker").
 track("443YpSEz7lR4pijkhbKtbx", "last of the american girls").
-track("1APTm5jwRsLDcnmVo21SdE", "52809").
-track("3Dogfv2ZWlYe1arm2lbeoK", "52809").
-track("6lJMn7ntRxretsgRiWvXpt", "52809").
-track("3IUJgy8MiWqHtl9UsEE4YB", "52809").
-track("5F23cO0eQiO75Gzcs0pZIr", "52809").
-track("6xjS7Q6DQYjF5GqU7UO6v3", "52809").
-track("3MKD0DnloNkwVcMj95obh5", "52809").
+track("1APTm5jwRsLDcnmVo21SdE", "21st century breakdown - live at akasaka blitztokyojapan52809").
+track("3Dogfv2ZWlYe1arm2lbeoK", "know your enemy - live at akasaka blitztokyojapan52809").
+track("6lJMn7ntRxretsgRiWvXpt", "last of the american girls - live at akasaka blitztokyojapan52809").
+track("3IUJgy8MiWqHtl9UsEE4YB", "21 guns - live at akasaka blitztokyojapan52809").
+track("5F23cO0eQiO75Gzcs0pZIr", "american eulogy: mass hysteria  modern world - live at akasaka blitztokyojapan52809").
+track("6xjS7Q6DQYjF5GqU7UO6v3", "basket case - live at akasaka blitztokyojapan52809").
+track("3MKD0DnloNkwVcMj95obh5", "geek stink breath - live at akasaka blitztokyojapan52809").
 track("45zvStEMsXp8z45OQRhWFJ", "american idiot").
 track("10lT3pp9QERGOWiIzLx4We", "jesus of suburbia").
 track("0HJRAM7Gt9jXskuXjZeFX3", "holiday  boulevard of broken dreams").
@@ -35415,10 +35415,10 @@ track("0nA8i580N4fFd0BCxmvsDL", "crashing down").
 track("54KCrUQoifgnVEGEktg7Tj", "lonely days (miles away)").
 track("5lzIPGWTSQFLdHvigWVtOd", "together").
 track("0ci627PtGyLcPSr1LfatDF", "burning up").
-track("1VEPdIf680YeMLqoBMk5tr", "Are You Still Having Fun?").
-track("205dMVumEJVkAEqbgRBzKV", "Promises Made").
-track("26hO13e4DvOkT0AbS3Z1Qv", "Together").
-track("25wF3dBVDSIwugI2kxzBEg", "First to Fall").
+track("1VEPdIf680YeMLqoBMk5tr", "are you still having fun?").
+track("205dMVumEJVkAEqbgRBzKV", "promises made").
+track("26hO13e4DvOkT0AbS3Z1Qv", "together").
+track("25wF3dBVDSIwugI2kxzBEg", "first to fall").
 track("1t2Hq2WIBcZINOEnK6mdJG", "save tonight").
 track("50Iz9MiHnaJ2fIdzhOpwaD", "indecision").
 track("6UJHVaUBzJzcZ3C0T17bhR", "comatose (in the arms of slumber)").
@@ -35517,20 +35517,20 @@ track("5t142J9jQl1aaajsbxGjwg", "erasereplace").
 track("0bORa4VpL8NzyMXEI6UFGK", "long road to ruin").
 track("4P4s2KHOw0uISbLI3zkHtD", "come alive").
 track("7zaZlzl0XhthNwH3GQcyZ0", "stranger things have happened").
-track("5w4s2ccJcpiNlajHVGtHDg", "boys (your make up is running)").
+track("5w4s2ccJcpiNlajHVGtHDg", "cheer upboys (your make up is running)").
 track("0cA5yQFQAfKjf64QHbPqss", "summer's end").
 track("0CJuzA63oAQb8dJDY5IKhZ", "ballad of the beaconsfield miners").
 track("2OSFREMR9mE2kiByPL3g71", "statues").
-track("6BDF9S8M9qU4jOd5IjxoFo", "ca - august 2006").
-track("47j1q4BTpQghINXlf5gTDH", "ca - august 2006").
-track("4VdSBrdM55T8QXdjrOAXvD", "ca - august 2006").
-track("3ev3JkW4mCru1pwO3g4N8d", "ca - august 2006").
-track("0GE8sVpRYoMamNcfLGObxY", "ca - august 2006").
-track("1Kr0tmA5iWITCQljsOT32t", "ca - august 2006").
-track("35ZHzUnfmKA01F2GmEx6T5", "ca - august 2006").
-track("1yYYdQ94FEyWAt1XtldifW", "ca - august 2006").
-track("4uTi7sKEUmvVhSAqXJC5Kg", "ca - august 2006").
-track("6klzQUk22YkppyrWlf5NIt", "ca - august 2006").
+track("6BDF9S8M9qU4jOd5IjxoFo", "razor - live at the pantages theatrelos angelesca - august 2006").
+track("47j1q4BTpQghINXlf5gTDH", "over and out - live at the pantages theatrelos angelesca - august 2006").
+track("4VdSBrdM55T8QXdjrOAXvD", "walking after you - live at the pantages theatrelos angelesca - august 2006").
+track("3ev3JkW4mCru1pwO3g4N8d", "marigold - live at the pantages theatrelos angelesca - august 2006").
+track("0GE8sVpRYoMamNcfLGObxY", "my hero - live at the pantages theatrelos angelesca - august 2006").
+track("1Kr0tmA5iWITCQljsOT32t", "next year - live at the pantages theatrelos angelesca - august 2006").
+track("35ZHzUnfmKA01F2GmEx6T5", "another round - live at the pantages theatrelos angelesca - august 2006").
+track("1yYYdQ94FEyWAt1XtldifW", "big me - live at the pantages theatrelos angelesca - august 2006").
+track("4uTi7sKEUmvVhSAqXJC5Kg", "cold day in the sun - live at the pantages theatrelos angelesca - august 2006").
+track("6klzQUk22YkppyrWlf5NIt", "skin and bones - live at the pantages theatrelos angelesca - august 2006").
 track("06LzBUkKZpPAWiEwB6iVri", "in your honor").
 track("2MKEQhvPb2VaJXjx5X8Yg6", "no way back").
 track("5FZxsHWIvUsmSK1IAvm2pp", "best of you").
@@ -35563,7 +35563,7 @@ track("4yFrDbYg7uxKKn31CojuxG", "headwires").
 track("2ifYUfvMNbXQDPJEyk68rP", "ain't it the life").
 track("2KvhVhBR7MIMZUQNRBiY2k", "doll").
 track("44wXefe8WB9Fd6xwtmAwbR", "monkey wrench").
-track("0M5xRyxGpFFDfzN2x0wdpH", "johnny park!").
+track("0M5xRyxGpFFDfzN2x0wdpH", "heyjohnny park!").
 track("3yIUusX4NApzRSAkxZFrJg", "my poor brain").
 track("56ucsSaTrjiQaokbbDASOR", "wind up").
 track("05TcC5ZN9rp8Glx8A9C2Nd", "up in arms").
@@ -35578,7 +35578,7 @@ track("5XUpAb2zC8G404RPkwb09H", "alone + easy target").
 track("2styBKRBhlZwPl5geag8KJ", "good grief").
 track("5tULmRxZrbnzh32H3ZIghu", "floaty").
 track("5FafTKnxl219ZUWFzaufRQ", "weenie beenie").
-track("1Oy0vCHc4rUCOphROBbPSd", "george").
+track("1Oy0vCHc4rUCOphROBbPSd", "ohgeorge").
 track("6CbeOOrDFQuY1tXYscKqZQ", "for all the cows").
 track("7rKm5BfLqxYko007wiamnm", "x-static").
 track("5IZh2yDgRORnr5PO1O1T3t", "na sahi").
@@ -35637,11 +35637,11 @@ track("2s1T0sXlXSiAmWvDeoS853", "long long time").
 track("5tsDbCk8HrXxFwXkYvFQ7R", "the right time").
 track("2IL43ra7FAc8LtOm7AxS8h", "not today").
 track("0N0rWBvdm7iHGCHAKjAibd", "speakeasy").
-track("4Z4iK5ptohIiXbZym5VOZU", "One Set of Bones").
-track("4NhAWWAHUVxZNhZYxCYBpi", "Winter Sunlight").
-track("7pBRwqOu0WgdPQnRPpdb4B", "Punch a Hole In the Sky").
-track("1mN9qUQnMdZ0LyUODohW0L", "The Right Time").
-track("3Wgi85QUvji6pvK75wFzSY", "Speakeasy").
+track("4Z4iK5ptohIiXbZym5VOZU", "one set of bones").
+track("4NhAWWAHUVxZNhZYxCYBpi", "winter sunlight").
+track("7pBRwqOu0WgdPQnRPpdb4B", "punch a hole in the sky").
+track("1mN9qUQnMdZ0LyUODohW0L", "the right time").
+track("3Wgi85QUvji6pvK75wFzSY", "speakeasy").
 track("2jz45UOWAVQlsgaCe6fzbc", "when the lights come down (live)").
 track("2uFZWMRxaWYwTlU8e2Wcbm", "razamanaz (live)").
 track("17USPMfNsrVZAxkp1mZHks", "miss misery (live)").
@@ -35702,7 +35702,7 @@ track("7jipnuQpKyxNIWbqf77UYs", "bailandoaquatic park").
 track("2WPZBqjn6vWxhZAidkfZRR", "bella").
 track("6tNTnFyFY22ABTJigRV5OB", "i'm gone").
 track("7wDlug2QbDYucsJFE84oow", "trane").
-track("4wfHy1tpF0H8StD0tpHujL", "dig deeper").
+track("4wfHy1tpF0H8StD0tpHujL", "deeperdig deeper").
 track("03etcfDXCDNurVk8SYvzRg", "mingus").
 track("2XFrGuIG2oc3tJlOxruxc4", "now that you know - live").
 track("0SjqSGFDq54WXgxGmyIz6I", "hannibal").
@@ -35783,13 +35783,13 @@ track("4f2P3jtMmhbnqkgdzS86SG", "queen wasp").
 track("12hIjPqYoaMpj3W1pSpslZ", "devilock").
 track("4sS4YKdnhMq1pA0OoMTbTs", "death comes ripping").
 track("78as3aVS0SatFl58MQLx0N", "green hell").
-track("4vzczrJUr7LWVuD8rbIIfY", "can i go out & kill tonight?").
+track("4vzczrJUr7LWVuD8rbIIfY", "mommycan i go out & kill tonight?").
 track("3jxTJC0UV5m49yKUQ6PXF6", "wolfs blood").
 track("0zppH9oaAxoqGRXLV23Wx3", "demonomania").
 track("3zrZZg0BYRG99CuvTp984O", "bloodfeast").
 track("0LCScFFPovdeksTKzpDmjZ", "hellhound").
 track("1mzLymCMPFvejQ5Yk2u9kv", "hollow world").
-track("7iZxbQ5niiSrLXAVIfTsWn", "darker space").
+track("7iZxbQ5niiSrLXAVIfTsWn", "darker timedarker space").
 track("0rWwPuOcfYRzQeIw4DPVcC", "the court and jury").
 track("063p0Rq3jPgaZyXMMrPCuA", "land of dead").
 track("1JuptxqOWVFST02hjJQZCL", "keep the light alive").
@@ -35803,7 +35803,7 @@ track("4ms9izGHgoJ9o1XqzASj0z", "where i'm going").
 track("51JTPCkZg0xRZkHJwvGeG4", "cast the first stone").
 track("2nhcVXyiEHNhLSJLbtXH3A", "photograph").
 track("5uGpipNyeOZAMwV6IE2wEQ", "see the light").
-track("0dxf05sHceeWp9nWcGk0oB", "run").
+track("0dxf05sHceeWp9nWcGk0oB", "runsisterrun").
 track("7zXkqXCpJYwqdHwPpZvA7V", "love is like a spinning wheel").
 track("2ItBfutr9Y0t3ub8B1g1cY", "andromeda").
 track("02JF1dMU8JzVmIrWjhd43P", "silence can say so much").
@@ -35836,7 +35836,7 @@ track("5OnMs7wJRRnW2aRMG0GxhP", "hold onto yr soul").
 track("4iaABjsfEHlhBnuFoXk2IA", "a silent moment").
 track("0ON3HNeoRHsHuR3r0dkqor", "looking thru baby blue").
 track("3sU662XXk5o2piJKZGFUdq", "sally go round the sun").
-track("1pX9aqtjz3khXVnrVYgw5f", "hate the sin").
+track("1pX9aqtjz3khXVnrVYgw5f", "love the sinnerhate the sin").
 track("3r2uPuHhRYBLDqDxDD2Zvh", "the sea of your mind").
 track("7jPBtSZqd9j9VKavJ9PP2U", "the sacred sound").
 track("46ubeSgyX0dN3QumJbBm0Y", "alap").
@@ -35852,7 +35852,7 @@ track("7dvYF1Myt9Z1kziMtdh0UZ", "i am blind").
 track("39pBz4YLNB2kmu7Eqb8RyA", "the seven seas").
 track("3HcPl629KcLcns7SKGg7Wz", "the straight line").
 track("79n8eKLza2FmdJG0rVhtEQ", "blood from a stone").
-track("3XQfeqqqmKdJjTWQv1GqMy", "heartbreaker").
+track("3XQfeqqqmKdJjTWQv1GqMy", "ohheartbreaker").
 track("5q6N8waaSeBa5g0MR0xIyd", "a morning song").
 track("0Wrh2nXlksAa7LtjWYjjBF", "don't you know").
 track("2osu2VrVZzIR09McoYuThF", "quarter past midnight").
@@ -35902,7 +35902,7 @@ track("7eIDpnS0pjkhMhEHYzgoT6", "things we lost in the fire").
 track("10s870UaWrT3p2QBJMMN4S", "bad blood").
 track("7Lg29DurdsChqyOUtAiMxJ", "overjoyed").
 track("2jZX1B8akMyqRyBd4dr7I7", "these streets").
-track("7394gFKuIE3wxqHyiqbT4P", "pt. ii").
+track("7394gFKuIE3wxqHyiqbT4P", "weight of livingpt. ii").
 track("1QBBaDqqQVW9N12mfsdkgu", "icarus").
 track("2UbVIBf5A8I4G5A5Km7kqS", "oblivion").
 track("5jTpr84PdegtI2ylO5wC8v", "flaws").
@@ -35912,7 +35912,7 @@ track("1jW4DExM0pYUdpqVCTTKa4", "things we lost in the fire").
 track("67fUgJnIymRgPA55iAz1qz", "bad blood").
 track("5BIgw8KdnJyfPN8nmEmewA", "overjoyed").
 track("4UzwEfNp0XAV1DrpxZflSx", "these streets").
-track("4Qb1BqUNzwmaVubDsqrWOl", "pt. ii").
+track("4Qb1BqUNzwmaVubDsqrWOl", "weight of livingpt. ii").
 track("1ECZyLRejWwp4c7b1I0JFf", "icarus").
 track("6WvunB09pqAYABvwHpzUDd", "oblivion").
 track("5XOAuIWDHEm22oZKpYREuf", "flaws").
@@ -35923,7 +35923,7 @@ track("2UCTBPzOcYON4QiH4Ri5mL", "things we lost in the fire").
 track("0CxD2SrTatEltmfYgN76kb", "bad blood").
 track("1T4nqBmX29RDmNGAuszogJ", "overjoyed").
 track("3N457gBgtpBfWSbg4UDW9G", "these streets").
-track("5MM9NRbC3Dnj8XNuDThEDo", "pt. ii").
+track("5MM9NRbC3Dnj8XNuDThEDo", "weight of livingpt. ii").
 track("0zHcAr6s7BIvizKcyjBxOh", "icarus").
 track("3Gmk6sqiS1fI3yzb7QmWkJ", "oblivion").
 track("2kSYYGatHYQUQQmWEjX8iN", "flaws").
@@ -35956,7 +35956,7 @@ track("5YhwBwJ0tAYlP8dPXsQ4fS", "a comme amour").
 track("38jEPtK0s178uptEzSHrrS", "murmures").
 track("5gHolyYmdtWi7EfkLDJRJV", "lettre a ma mere").
 track("4cSJ799W6Nn1p6IUzdL1Zj", "chariots of fire").
-track("3f1sboUhaxK5UpqIuUimFm", "mr.lawrence (furyo)").
+track("3f1sboUhaxK5UpqIuUimFm", "merry christmasmr.lawrence (furyo)").
 track("1PYXvPgCzkQGPcUy7nLvak", "west side story medley: maria-tonight-america").
 track("2N2MSRd5JoadT5BQvU3Su0", "the phantom of the opera (from the phantom of the opera)").
 track("1kJoEkKfzufpJgO9R9MwXa", "don't cry for me argentina (from evita)").
@@ -36037,7 +36037,7 @@ track("353hajz2YKX3rwTt5jRuHk", "old fashioned").
 track("3zhE6t5FmR5v7wYmPD1WiA", "when my day comes").
 track("7yXuquZiCxTyLXzPnwlqJv", "born to play guitar").
 track("47WHiyCLg0ZEoPVwxgikcX", "back up mama").
-track("3Ug51eYATZ487NwOaTbpAJ", "beer & wine").
+track("3Ug51eYATZ487NwOaTbpAJ", "whiskeybeer & wine").
 track("2ehbNbw4JFSklaDBcpgXD3", "crying out of one eye").
 track("75doIlY51XyE2CqabWHKYT", "turn me wild").
 track("7AastGe8zSntLVk4VZX7fY", "crazy world").
@@ -36133,7 +36133,7 @@ track("0mGlnUrPsYpfzXejO7Mux7", "on ira - sur la route live 2015").
 track("2rOHc46wEzJJjqlOy58uSr", "le long de la route - sur la route live 2015").
 track("3wEpMqr9SDoVFtE0j7m9X2", "cette journée - sur la route live 2015").
 track("5xfKfnwEHjDowl8DgzAvER", "éblouie par la nuit - sur la route live 2015").
-track("0ZHGdcH4e4YA0upIb79MhC", "comme ça - sur la route live 2015").
+track("0ZHGdcH4e4YA0upIb79MhC", "comme cicomme ça - sur la route live 2015").
 track("70tzFxzVhiaYnVNbcrJISY", "si - sur la route live 2015").
 track("0jI5sAx48cwjDjUn99TGqS", "si je perds - sur la route live 2015").
 track("7xEudIOEaMBk9PJSCdEEXx", "la fée - sur la route live 2015").
@@ -36143,7 +36143,7 @@ track("1fjCQ6VeJ0aazejSaXJXn7", "on ira - sur la route live 2015").
 track("0YW8KU7FtW8bry4csFjG3V", "le long de la route - sur la route live 2015").
 track("1QcSnqUYzA0YAouVATizvb", "cette journée - sur la route live 2015").
 track("1ECQCqwEVJooI5v3jcSAhI", "éblouie par la nuit - sur la route live 2015").
-track("09dGowW1g6n6OCspaBXQPS", "comme ça - sur la route live 2015").
+track("09dGowW1g6n6OCspaBXQPS", "comme cicomme ça - sur la route live 2015").
 track("0iTBOacwMlwbTf91IUxkOa", "si - sur la route live 2015").
 track("4uobQXYEahDbNQzYrXUSyU", "si je perds - sur la route live 2015").
 track("1CvQjvUDUJlB4VqvTWQoJR", "la fée - sur la route live 2015").
@@ -36153,7 +36153,7 @@ track("6XIvWkRuAqChsGLB20GKV3", "on ira - sur la route live 2015").
 track("0XBCHrbweIL6xq8JEpbZzy", "le long de la route - sur la route live 2015").
 track("5K3EezB7du2Ox6YoDOKv5D", "cette journée - sur la route live 2015").
 track("1M1wQbQNlfuTyKfLcv1jpO", "éblouie par la nuit - sur la route live 2015").
-track("1KEvFD5PGFtNPAVLlC15IW", "comme ça - sur la route live 2015").
+track("1KEvFD5PGFtNPAVLlC15IW", "comme cicomme ça - sur la route live 2015").
 track("4yjREv71UFuZJb7Lp5nKsl", "si - sur la route live 2015").
 track("1TWSNK9M0H5iwdpA1U1zGo", "si je perds - sur la route live 2015").
 track("2Ee5on29IkuoY0mP1tvs1s", "la fée - sur la route live 2015").
@@ -36170,7 +36170,7 @@ track("3jcpUvN1XCwQwtl2vS4sLd", "la complainte de la butte").
 track("4i1ANtM2AXLCHb5RGO4W7C", "je veux").
 track("5C7wF2dtsDfJCpTnuSZfxp", "on ira").
 track("1HZUPhTBUV0D8hqb0LTUcH", "les passants").
-track("5E2VYgYJ2K5vG1XoF1WxTI", "comme ça").
+track("5E2VYgYJ2K5vG1XoF1WxTI", "comme cicomme ça").
 track("2PJQgYBbeWsQvEDobmowWN", "la fée").
 track("2A0iXkhr4f7u6xAgFY5lOi", "gamine").
 track("3nzCvtpqvM3V1aIdEBUf45", "le long de la route").
@@ -36178,7 +36178,7 @@ track("0HpKomo6RxOCtt9wRQZtVJ", "toujours").
 track("3Om4bfLwyg9bFuLYE8Ol7u", "eblouie par la nuit").
 track("5wEd1L1H8htLXaz6bI3Sp0", "dans ma rue").
 track("24uBfM8rCgd1VOnJ3hdOv4", "on ira").
-track("4jaDS5L9cSJ5GhO1eJVJzX", "comme ça").
+track("4jaDS5L9cSJ5GhO1eJVJzX", "comme cicomme ça").
 track("7azzmrZSrvpo9JKfuXAMhN", "gamine").
 track("5Gs9GhkGg8IiNaXm88XbaL", "t'attends quoi").
 track("09wWvIouTYWHWXoBqYuALf", "la lessive").
@@ -36187,13 +36187,13 @@ track("4jb1I51FS2xSn7ARvLS8WY", "déterre").
 track("21Hdv98JNAISCPIuVAd6Ns", "toujours").
 track("2mNWlVbDwTXim5ayUJNzZo", "si je perds").
 track("1lqxhpIvyTlfK5HU3pyekN", "si - radio edit").
-track("69iIR2InQseLSqCAyR261w", "comme ça").
-track("1n8XfyE5Cm6L38Z1J37APi", "T'attends quoi").
-track("4buHM8WAMcC8jtPcHWkpHL", "J'ai tant escamoté").
-track("5eGm6T7S83MCBStKRrVJgC", "Toujours").
-track("2ejBDZajtCBYmzqf05dm0B", "Si - Radio Edit").
+track("69iIR2InQseLSqCAyR261w", "comme cicomme ça").
+track("1n8XfyE5Cm6L38Z1J37APi", "t'attends quoi").
+track("4buHM8WAMcC8jtPcHWkpHL", "j'ai tant escamoté").
+track("5eGm6T7S83MCBStKRrVJgC", "toujours").
+track("2ejBDZajtCBYmzqf05dm0B", "si - radio edit").
 track("0O7j6n6xv3XtsqAqZw0nYM", "on ira").
-track("0JxPxl2csUs90QEmldnvl4", "comme ça").
+track("0JxPxl2csUs90QEmldnvl4", "comme cicomme ça").
 track("4O9irCwpYLdO9fPRylIN1R", "gamine").
 track("2dlZfsBwCAtrzN5ETcCOZG", "t'attends quoi").
 track("2SHNgZBd5lfMyUFgco2zR6", "la lessive").
@@ -36253,11 +36253,11 @@ track("79Pvwi9WvBBgxdVtnYCY6P", "lala land").
 track("5XIgEyXBCuHqxxX3lPMBxf", "richies (dat we want)").
 track("78lzY868OLgF1MDbjvHQyS", "want see me fall").
 track("4WWFHkoe2ZhGkUilJXE6Sk", "steppa life").
-track("6DjSMLhSAMZp38tp55BgIm", "4 Di Girls").
-track("1jUQmF3shtik9ajkXXZ1Kx", "Ma Aidonia").
-track("2WYlZ1BAaIEF4fycehg7aI", "Golden Eagle").
-track("4A6NRVuhSu5UQNUf8Hzd2d", "Straight Happiness").
-track("1XmdJmHeTdYCyWiQDRw0NS", "Coração Em Desalinho").
+track("6DjSMLhSAMZp38tp55BgIm", "4 di girls").
+track("1jUQmF3shtik9ajkXXZ1Kx", "ma aidonia").
+track("2WYlZ1BAaIEF4fycehg7aI", "golden eagle").
+track("4A6NRVuhSu5UQNUf8Hzd2d", "straight happiness").
+track("1XmdJmHeTdYCyWiQDRw0NS", "coração em desalinho").
 track("1gezCGbGZPO4TcntOKsdxC", "sorriso aberto").
 track("5ew7hTySO6TwmKdgmYCzcW", "madalena do jucú  ô irene").
 track("75sb8PEMgN4t1dM7pA14z7", "caxambu").
@@ -36417,9 +36417,9 @@ track("1AodvDmzqf67pWdbIJyIO0", "starlight").
 track("70IIrKoDLyQK7vSGqHIHRf", "strangers to ourselves").
 track("5jJ69cMDMC0aeWPjZo6VP2", "lampshades on fire").
 track("6Tg01shiUHr2dAqBpX2fs0", "shit in your cut").
-track("2eg60uMsbVEKug2UFn9AoT", "fl. 1996)").
+track("2eg60uMsbVEKug2UFn9AoT", "pistol (a. cunananmiamifl. 1996)").
 track("5lGmCFgnNcmQJjMdaH0J8M", "ansel").
-track("5o5R70FLhegu7hpsTHAybE", "with time in a box").
+track("5o5R70FLhegu7hpsTHAybE", "the ground walkswith time in a box").
 track("0Cxg39M3SbTeHKtCTWCMTg", "coyotes").
 track("0FPzXjXZo55aGMTaK5Ltgy", "pups to dust").
 track("7yrICac2g1HLXMh4QUOWng", "sugar boats").
@@ -36427,9 +36427,9 @@ track("2KqrlWhsVrSwZpzsUlsf22", "wicked campaign").
 track("60Mx4uMItIhLzyKQu0W7FL", "strangers to ourselves - commentary").
 track("5OU1l88dct2FkKLBdHq8Uq", "lampshades on fire - commentary").
 track("4B8rDmOVdmE3fcHTEh04YD", "shit in your cut - commentary").
-track("76jOW1QV4sDLQSyB2V9yTa", "fl. 1996) - commentary").
+track("76jOW1QV4sDLQSyB2V9yTa", "pistol (a. cunananmiamifl. 1996) - commentary").
 track("5zdaMsImzmZNLDgFoqRkip", "ansel - commentary").
-track("7nJ7nH7xOSEA4xpsF2brYC", "with time in a box - commentary").
+track("7nJ7nH7xOSEA4xpsF2brYC", "the ground walkswith time in a box - commentary").
 track("4nJjaUaW6pIBHvkLxe8ghz", "coyotes - commentary").
 track("2uimyqLeuujVbCJAS0pRmz", "pups to dust - commentary").
 track("5Dh86DEzC53MnFRIW3pfcI", "sugar boats - commentary").
@@ -36444,16 +36444,16 @@ track("1txsP5vvCg4S13iHiOfusf", "we've got everything").
 track("3ydXDfJ7hRPAKePR1l0IGZ", "fly trapped in a jar").
 track("2EXgWG1du5tRQDjybnZZLn", "education").
 track("1UR0lWHLSCx2naiD7bq9FW", "little motel").
-track("2OOPz8wZMeU6LvtkbuUivn", "fl - february 2004").
-track("4cr7fuS36WkfFXb4Lt6DIJ", "fl - february 2004").
-track("0C3j9mSQhiePn9nljEjP1D", "fl - february 2004").
-track("3qGMykHcjGcsIRj35fUoS7", "fl - february 2004").
-track("5JxwsDnBOTlnBvgb7gw98r", "fl - february 2004").
-track("49ObfNOw2LjlW1KeMKa7XQ", "fl - february 2004").
-track("1eyQ58phnlbaoyLSWcma6Q", "fl - february 2004").
-track("04yxmrf87opUJcxXpXpQCQ", "fl - february 2004").
-track("6gy2A4FH3wtv2Pgyc3MdBs", "fl - february 2004").
-track("6K5bFg5C8kasbgUPYgPucG", "fl - february 2004").
+track("2OOPz8wZMeU6LvtkbuUivn", "3rd planet - live at the socialorlandofl - february 2004").
+track("4cr7fuS36WkfFXb4Lt6DIJ", "never ending math equation - live at the socialorlandofl - february 2004").
+track("0C3j9mSQhiePn9nljEjP1D", "wild packs of family dogs - live at the socialorlandofl - february 2004").
+track("3qGMykHcjGcsIRj35fUoS7", "broke - live at the socialorlandofl - february 2004").
+track("5JxwsDnBOTlnBvgb7gw98r", "paper thin walls - live at the socialorlandofl - february 2004").
+track("49ObfNOw2LjlW1KeMKa7XQ", "i came as a rat - live at the socialorlandofl - february 2004").
+track("1eyQ58phnlbaoyLSWcma6Q", "doin' the cockroach - live at the socialorlandofl - february 2004").
+track("04yxmrf87opUJcxXpXpQCQ", "bankrupt on selling - live at the socialorlandofl - february 2004").
+track("6gy2A4FH3wtv2Pgyc3MdBs", "interstate 8 - live at the socialorlandofl - february 2004").
+track("6K5bFg5C8kasbgUPYgPucG", "the good times are killing me - live at the socialorlandofl - february 2004").
 track("5nKe9PgCtEhqdnvXAQIBhF", "horn intro").
 track("5op53ANI4exiWqFHKuwWxd", "the world at large").
 track("2lwwrWVKdf3LR9lbbhnr6R", "float on").
@@ -36484,11 +36484,11 @@ track("3knvtUJiuDs1WZsbrR1puY", "the cold part").
 track("0HgTYw2jY3sz8rYG0RpI3f", "alone down there").
 track("4S6jCIsUpnOu79uWPjvaAf", "the stars are projectors").
 track("20iMumN7WDTDWgY0c3UvCB", "wild packs of family dogs").
-track("1kgR2dIgkqXrWZtzoOFQn2", "Interstate 8").
-track("2QxNbAA2Ivg4W8gLAlqGzn", "Medication").
-track("2ZnzsAZKhVqJh9UUC0xec5", "All Night Diner").
-track("4y62ZA8QlNnDP886w2KD5J", "A Life of Arctic Sounds").
-track("4fcZJvLzJ4Laeu1N6yVHLA", "Grey Ice Water").
+track("1kgR2dIgkqXrWZtzoOFQn2", "interstate 8").
+track("2QxNbAA2Ivg4W8gLAlqGzn", "medication").
+track("2ZnzsAZKhVqJh9UUC0xec5", "all night diner").
+track("4y62ZA8QlNnDP886w2KD5J", "a life of arctic sounds").
+track("4fcZJvLzJ4Laeu1N6yVHLA", "grey ice water").
 track("7B3SneolgQ3weqNDRfsjVo", "teeth like god's shoeshine").
 track("1GuCrT15YP3xwoe9Lq54IJ", "heart cooks brain").
 track("6joLW9CwaDnmrLsdYi5Mwb", "convenient parking").
@@ -36738,7 +36738,7 @@ track("6TdGeb9e2KL6RZG0VxoTMd", "go to sleep").
 track("5X3uhutgZktlUWmzIOE3NG", "where i end and you begin").
 track("53RYTfkLiyZuUZHwJC3Wmm", "we suck young blood").
 track("2q4zYomFf4ZVrEOr1aXj6l", "the gloaming").
-track("77SPrxY5gn6VPrKPGrfLnM", "there").
+track("77SPrxY5gn6VPrKPGrfLnM", "therethere").
 track("28VoI90xDBoKe5sP3sP5jW", "i will").
 track("7he52OqF36BVF6dSVKKQPq", "packt like sardines in a crushed tin box").
 track("3A9vIxzGBjEfqmDK7H9exS", "pyramid song").
@@ -36840,11 +36840,11 @@ track("0HKIQkcjS4BXkNvJ7QLheX", "teima quem quer").
 track("1P20GTK8azR2J1cqzbh4An", "peçonha").
 track("38oZ4gA87jwaFufpGfeJiS", "arco-iris").
 track("0YdJsQRyZnjYXTJr91KexN", "me dá um dó").
-track("43SYGqR0joEGJs27yQ8jcf", "joão").
+track("43SYGqR0joEGJs27yQ8jcf", "éjoão").
 track("5Egb4MrYQ8ApAOZFGHtjvU", "pranto de poeta").
 track("2t7z3kVruGogz8stk4CXKn", "suplica cearense").
 track("2Hjl9DTYXiHMzPRlniN3IU", "já fui uma brasa").
-track("1ZRO4xUKOQcCEFKPlb66sj", "meu preto").
+track("1ZRO4xUKOQcCEFKPlb66sj", "na intimidademeu preto").
 track("1xrmBEn7VoE4mjYf14M0gn", "laranja madura").
 track("6Cy0ulB1LNUwxuXd9VhTLQ", "formiga miúda").
 track("66LwmBIGE5kSshSEmMI2tz", "minha filosofia").
@@ -36879,8 +36879,8 @@ track("5z4G37A29NpXvYVUY8BnZX", "change my love").
 track("3bxT1kgFpCJILVDrt2ezJx", "all we needed").
 track("5iyFbEQEBnv1Du6b99bJm3", "one more time - extended mix").
 track("29Jy695vwEHJvgUFkgSRyc", "one more lie (standing in the shadows)").
-track("5bWOnIbuHb4E4rH6UKgCfT", "delivered (i'm yours)").
-track("4dfb5ZRc93a7kP0PpA1BVu", "listen)").
+track("5bWOnIbuHb4E4rH6UKgCfT", "signedsealeddelivered (i'm yours)").
+track("4dfb5ZRc93a7kP0PpA1BVu", "all alone tonight (stoplooklisten)").
 track("1abLj61S6tWm9uZkf8AH2V", "i heard it through the grapevine").
 track("56nVJg4sxqGmqzD1LJP8Jg", "just my imagination").
 track("5p9gjlQG5tTrHIcZkfRd6a", "for once in my life").
@@ -36936,7 +36936,7 @@ track("717j3IVvwwLAHqbIiDjJbG", "lion king medley: can you feel the love tonight
 track("78QZxC8YzObY68A7MWCpA9", "i know the truth").
 track("3TdU2qMWRQEvkZVivltW1y", "i will go sailing no more").
 track("4dNaPH5rBCA8UGx0YkFtN0", "the very best time of the year  it's the most wonderful time of the year").
-track("4uZFO3f8SAYV315TBZ6Fp8", "peace  silent night").
+track("4uZFO3f8SAYV315TBZ6Fp8", "peacepeace  silent night").
 track("57NbWDg0JYZdrfP9VE3mmm", "mary did you know").
 track("4BjeLmIq2e8mbvGQB3aJ4H", "a strange way to save the world").
 track("6zfIkd0JDbQkUMQq48dX3S", "a journey to bethelem (christmas medley)").
@@ -36958,16 +36958,16 @@ track("2t6Or7XqDKtBv6xqKxNjiJ", "ava maria").
 track("4KzobkIm70I7mcPLaaxt1v", "somewhere in time").
 track("0oeKmKnxXferFxFeecVY2w", "nexus").
 track("3TDfKWZxzDzEtvoiHaoq9z", "efx").
-track("2z2NHNcfJEGwOTuz3n5qxu", "pt. 1").
-track("5MlF4LNaHpAnviwbPWV7jn", "pt. 2").
-track("3h4ucrA6clPGYsMD46cCdh", "pt. 3").
+track("2z2NHNcfJEGwOTuz3n5qxu", "the magic that surrounds youpt. 1").
+track("5MlF4LNaHpAnviwbPWV7jn", "merlin balletpt. 2").
+track("3h4ucrA6clPGYsMD46cCdh", "the magic that surrounds youpt. 3").
 track("3x6UptEiFOahqG9ZUfNCk5", "morgana's arrival").
 track("4Jzn56sFSidS00WSJHApTe", "intergalactic circus of wonders").
 track("645Hy5u4yqylsEubqnIpEI", "the jig").
 track("4FFlGrgmsScnfzkV1BrvGb", "tonight - live").
 track("7BHKxzPbmuNIDoyzwveJde", "somewhere in time").
-track("0fCJGhUrdn1vDJKtDpXn1Q", "pt. 1").
-track("2TIky0eExWY64bB7gY4uhz", "pt. 3").
+track("0fCJGhUrdn1vDJKtDpXn1Q", "the magic that surrounds youpt. 1").
+track("2TIky0eExWY64bB7gY4uhz", "the magic that surrounds youpt. 3").
 track("76OSSeTvVKZ1YcGisHPlKr", "tonight").
 track("2hTJRETVkdZj3WVFWhDKKj", "the power of love").
 track("3P68NVWLajVydgmoiv9Usr", "if you could see me now").
@@ -37135,10 +37135,10 @@ track("0MpIWWP7dch8iCZAsoOQ1m", "one love").
 track("5OHpL5OVemLPzBJZFl1SYe", "invading my mind").
 track("66pEqMkekdcrfuwS5Cb47o", "villain").
 track("3C0nOe05EIt1390bVABLyN", "on the floor").
-track("1PuC9MYD9goa9IaO0QoQCB", "(What Is) LOVE?").
-track("1nAGuIZXz6vb8XW0xiMqic", "Papi").
-track("5iHVVN1pjPiSio7qrpOhpi", "One Love").
-track("0FTvaBDtyB5SbbhVfY1xlY", "Villain").
+track("1PuC9MYD9goa9IaO0QoQCB", "(what is) love?").
+track("1nAGuIZXz6vb8XW0xiMqic", "papi").
+track("5iHVVN1pjPiSio7qrpOhpi", "one love").
+track("0FTvaBDtyB5SbbhVfY1xlY", "villain").
 track("0Kf2zeH0HSDVh7FMvBgXQw", "stay together").
 track("4r5NN7THCPQl9bIoDKQUb7", "forever").
 track("2r80IZs505oFtMyrNkyo30", "hold it don't drop it").
@@ -37166,7 +37166,7 @@ track("6Oeol7bLepu41yOS85juuW", "cherry pie").
 track("5C72ZveMrBp48YJygPA9Dq", "i got u").
 track("6QgjvhAxfjnEh94b7iSYPC", "still around").
 track("0BSFXFUVRbgFvBrHRH3WPe", "ryde or die").
-track("5Ch3XEuqmo7hai80WEyBPx", "love").
+track("5Ch3XEuqmo7hai80WEyBPx", "ilove").
 track("1QAEZhCLX14lkiGgtrBdCX", "he'll be back").
 track("2zfwqlO7iM7kNqxG1E7hE7", "still").
 track("2ICCOls3K7kjiAEv9br3vg", "loving you").
@@ -37202,8 +37202,8 @@ track("1h4LNQLJEZGXG5MdroJnck", "shortnin' bread rock").
 track("6L4T2ofxDWM7IWigusZEK9", "the pick-up").
 track("6EKT5J3S0FiFtXUmMUeiRr", "good lookin'").
 track("6y9IP2HD6VzUo7GQJUKeVd", "the wallflower").
-track("27zxioI0sAA2DgLqV5z5My", "henry").
-track("02vzNi5JQoanlI7wZqv4iC", "baby every night").
+track("27zxioI0sAA2DgLqV5z5My", "dance with mehenry").
+track("02vzNi5JQoanlI7wZqv4iC", "babybaby every night").
 track("78AFCj7reYxcK3Hra5nUlI", "hickory dickory dock").
 track("3CSmPn7Du6PjAzoLh8KOch", "at last").
 track("32jlJK9NnG4oDnuA7bkXVF", "i just want to make love to you").
@@ -37303,16 +37303,16 @@ track("7bFEviUSO4pTMhmCWaHxQx", "that's messed up").
 track("0FaHjFxNHAVJC7wiEN2R2U", "when nothing's going right").
 track("4ftstlyklbK0UKr4jDF6hM", "desperado").
 track("6psOl4RFoH8W5blnv906UB", "mean pickin' mama").
-track("3YzG5xLva19m9b5uIC2sQ6", "august 20th 1983").
-track("3Hi21HVDubw3FXgQGVOQqI", "august 20th 1983").
-track("7z6vdbLwQdzZ1nAgMTuc65", "august 20th 1983").
-track("3KN9Kj8EGXU20K8AfQ6Gom", "august 20th 1983").
-track("7ySA0VXUfUpgKWadRDraGb", "august 20th 1983").
-track("55kfIUfndXNJIeVeL6KPOW", "august 20th 1983").
-track("1KKP0fyQAiBxcXXm1dt8eI", "august 20th 1983").
-track("4PYxVUjIHhAjgzmq2qQNR1", "august 20th 1983").
-track("5ilmxIJKASQ6DcPMkMEB1c", "august 20th 1983").
-track("1G4tQASxFbqewjbZma0sjk", "august 20th 1983").
+track("3YzG5xLva19m9b5uIC2sQ6", "baby blue eyes - live at loreleyaugust 20th 1983").
+track("3Hi21HVDubw3FXgQGVOQqI", "double talkin' baby - live at loreleyaugust 20th 1983").
+track("7z6vdbLwQdzZ1nAgMTuc65", "rumble in brighton - live at loreleyaugust 20th 1983").
+track("3KN9Kj8EGXU20K8AfQ6Gom", "drink that bottle down - live at loreleyaugust 20th 1983").
+track("7ySA0VXUfUpgKWadRDraGb", "something is wrong with my radio - live at loreleyaugust 20th 1983").
+track("55kfIUfndXNJIeVeL6KPOW", "built for speed - live at loreleyaugust 20th 1983").
+track("1KKP0fyQAiBxcXXm1dt8eI", "look at that cadillac - live at loreleyaugust 20th 1983").
+track("4PYxVUjIHhAjgzmq2qQNR1", "runaway boys - live at loreleyaugust 20th 1983").
+track("5ilmxIJKASQ6DcPMkMEB1c", "lonely summer nights - live at loreleyaugust 20th 1983").
+track("1G4tQASxFbqewjbZma0sjk", "too hipgotta go - live at loreleyaugust 20th 1983").
 track("4ASRRUCrWL5zPciPG9YuiA", "double talkin' baby - live version-amsterdam").
 track("7CEc3prXelwYzFweh92Xyy", "something's wrong with my radio - live version-amsterdam").
 track("0bBzHSfCwHWszszQ28xIXo", "ubangi stomp - live version-amsterdam").
@@ -37416,7 +37416,7 @@ track("4lxaurdMyGkt1tOrdwRoVO", "little black dress").
 track("5H18yvCwGWkMGkzHPjIKm6", "live while we're young").
 track("6Gg1jlbpJjONpkx4ArR5Vq", "kiss you").
 track("7CxvrUCaCL6NECeM13kWo2", "little things").
-track("4iBTUjTSsfPvWLXeNu04Zf", "c'mon").
+track("4iBTUjTSsfPvWLXeNu04Zf", "c'monc'mon").
 track("3bOfsWgmXeljRH8O69bvk9", "last first kiss").
 track("7MKSnL6pAz4jc7Q1GKEfth", "heart attack").
 track("4OFqQbVB3IPI9rk7HQa80k", "rock me").
@@ -37426,7 +37426,7 @@ track("0F8NTQjM2HTBb4WQ4TM25Z", "over again").
 track("411ueFnfkhWWl6Sytif6l7", "live while we're young").
 track("4MVJXCsyurOgkiPK5P0xjO", "kiss you").
 track("6yAU1ogScAZyPvy6FmcRRs", "little things").
-track("7fhYws8rjwpSMWNlJB8DB6", "c'mon").
+track("7fhYws8rjwpSMWNlJB8DB6", "c'monc'mon").
 track("2b1UMPGm6SaP6a3YIm2kUs", "last first kiss").
 track("5PSbAdEKE8GNaNwRPvn9HM", "heart attack").
 track("1Ouit4wLFa9EP0IjfQs0YV", "rock me").
@@ -37436,7 +37436,7 @@ track("7GJaMF8JnouCz14Jm4yBEx", "over again").
 track("6aGjEZ7kq3YXgD0EDt80O5", "live while we're young").
 track("0AkQbXGN4KG34TS7xLrM68", "kiss you").
 track("7kSLdGdXLey7pzLsWpdg1h", "little things").
-track("65QVpgBIutEZlpDCi6AH2F", "c'mon").
+track("65QVpgBIutEZlpDCi6AH2F", "c'monc'mon").
 track("4RpsltwxERLiq6AXU39Dhx", "last first kiss").
 track("5zsYl9Nl4kQmPSjwscVASJ", "heart attack").
 track("7MbII8jWqFiTFYU3MPYEfW", "rock me").
@@ -37516,7 +37516,7 @@ track("0zpwifNScjNcCxcpwjQs5N", "agua salada").
 track("1mUfJqQfcRXprpM7YGRHVi", "poquita fe").
 track("0WNLNdDej9AjzTXDeSYNsJ", "ojos tristes").
 track("5ak9FetpKzmJYfYfNJiMpy", "rayito de sol").
-track("5UPxgYKCDnGCiG8Q159unO", "nunca").
+track("5UPxgYKCDnGCiG8Q159unO", "nuncanuncanunca").
 track("1UuRO7NvUcB2bGYsukgebQ", "en la cárcel de tu adiós").
 track("075gDCguBbMhrWVcZpg4r0", "no me sé rajar - en vivo un azteca en el azteca").
 track("4zfI0ue7NWmLTFVprpttiT", "que te vaya bonito - en vivo un azteca en el azteca").
@@ -37953,7 +37953,7 @@ track("5mNm6KyqGBsRKStNUMUjIu", "silent hero").
 track("0sYZJ7HDy17y2UvGzd5cZp", "get a life").
 track("4KxqN1DlIE4E9S03CtQmP3", "i ain't movin' - family stand acoustic mix").
 track("4S2LwqXt8QigpEcOxN9PYv", "innocent & naïve").
-track("43Hd5Nl5N6cLGTQGWcjvnI", "cold heart").
+track("43Hd5Nl5N6cLGTQGWcjvnI", "warm handscold heart").
 track("6l72ckU8mexuHheOgHgCev", "i ain't movin' - live").
 track("4L9y4YyJOMU8qXWdLoW5F7", "little child - live").
 track("0LZlaomMgmxphKQc4MNxkf", "looking philosophical").
@@ -37989,16 +37989,16 @@ track("7K2CRXWZ7pA2qz0Aow15e1", "mind adventures").
 track("0GDSagAkQ7ux4TsuVAmnJm", "laughter").
 track("2gL2gZMeDap2YeLGEAZiZa", "save me").
 track("2UcJhUkdc2KwCY8hVcoOKN", "momma please don't cry").
-track("1xYfu9QQUsNuecJsKzlU3Z", "F.U.B.A.R.").
-track("7v42NN7go1u8renhjwfpws", "Sippin' From the Insanitea").
-track("7waVj2KSQIiij1ikwPiEO1", "Lost My Brain...Once Again").
-track("58NrxlmOuJZlC9LMo3TVpc", "Gonna Be Alright").
-track("77cVwtAzI70Ar2WkLDFKco", "All I Ever Get").
-track("4ap1igLJwFO5e7ZxSTLoTD", "Get United!").
-track("4txuMTCheWpBnkOMrCVtF2", "Ain't Mess'n Around").
-track("0hfqtBUsXDgr0w0EzYIKr5", "I Got a Right").
-track("6VH9EjATs6c4V6bUbUFSAb", "Get Your Bass on!").
-track("0XwzVuVNvm7QIVgevoFpSb", "Get Your Fight on!").
+track("1xYfu9QQUsNuecJsKzlU3Z", "f.u.b.a.r.").
+track("7v42NN7go1u8renhjwfpws", "sippin' from the insanitea").
+track("7waVj2KSQIiij1ikwPiEO1", "lost my brain...once again").
+track("58NrxlmOuJZlC9LMo3TVpc", "gonna be alright").
+track("77cVwtAzI70Ar2WkLDFKco", "all i ever get").
+track("4ap1igLJwFO5e7ZxSTLoTD", "get united!").
+track("4txuMTCheWpBnkOMrCVtF2", "ain't mess'n around").
+track("0hfqtBUsXDgr0w0EzYIKr5", "i got a right").
+track("6VH9EjATs6c4V6bUbUFSAb", "get your bass on!").
+track("0XwzVuVNvm7QIVgevoFpSb", "get your fight on!").
 track("69oGf8RmF7tN4nfY3id1p2", "clap like ozzy").
 track("4Xk6MUzCvJFm7CnAmE3wgi", "the new degeneration").
 track("7mXFIbLiup4Vt2S4aylO9V", "living for life").
@@ -38024,14 +38024,14 @@ track("44FaddxgAG7FIFSyO3zxtM", "possessed to skate").
 track("1Bx1GQ5UFjsRc8C1VrazMC", "the prisoner").
 track("45bIgcytqG2WnAvpDYJDXj", "i feel your pain...and i survive").
 track("4HdgGrIfJVbXaRQtvmeIlD", "join the st army").
-track("2mzlKeCTvtAGq0kJw1Nl77", "no words").
+track("2mzlKeCTvtAGq0kJw1Nl77", "no nameno words").
 track("4206DVfySnU8tZwtrGcdhH", "born to be cyco").
 track("4q9GyLBk2fNMSIbNm6tV4w", "come alive").
 track("7yHcP6nhDjkEEORPijFoSN", "something inside me").
 track("2Jx7cfxZAwPCBmuFwqdOSU", "no mercy fool!").
 track("4v9iYpPAzhZ72onWShj9RP", "self destruct").
 track("4i4P9YxVdJHrArdGzOJryj", "su casa es mi casa").
-track("17uA1PGzHQcanPoTjXmMpj", "no less").
+track("17uA1PGzHQcanPoTjXmMpj", "no moreno less").
 track("4KwTgNjsm94MjexnzBxFwB", "free your soul... and save my mind").
 track("26mthr2UwZHPQe1l5lz95f", "pop songs").
 track("4f71qgzyoaTneHXXnCgHfC", "bullenium").
@@ -38073,11 +38073,11 @@ track("3IzcZDY6S5Zb8c1ovxZpgz", "can i tell you - demo").
 track("1xW2LEfxMle2g4LNzLg41A", "carry on wayward son - remix").
 track("168WgxKoxbvxBF716pKZau", "the wall - remix").
 track("34WmcGztU8EMog38DGBM7x", "perfect lover").
-track("53X2xYByqKXEE3vcuqN7lF", "mo - 1973").
-track("4efiEoP62cnCuKQremsFl4", "oh - 1975").
-track("5dl3ceyNJDVbGjbu8nTaV0", "mo - 1979").
-track("1LYSDp4TIbzoi4ScBtrXNg", "il - october 1980").
-track("1Pcd4ZPfJnYOHHunrZoVxW", "mo - july 1982").
+track("53X2xYByqKXEE3vcuqN7lF", "death of mother nature suite - live at the cowtown ballroomkansas citymo - 1973").
+track("4efiEoP62cnCuKQremsFl4", "incomudro - hymn to the atman - live in clevelandoh - 1975").
+track("5dl3ceyNJDVbGjbu8nTaV0", "on the other side - live in springfieldmo - 1979").
+track("1LYSDp4TIbzoi4ScBtrXNg", "dust in the wind - live at the uptown theatrechicagoil - october 1980").
+track("1Pcd4ZPfJnYOHHunrZoVxW", "play the game tonight - live at kemper arenakansas citymo - july 1982").
 track("1ZTkifCQUk7WiLRPaNepod", "icarus ii - live in us 2017").
 track("4iBKkvQy0tJXlTf60knhyI", "icarus (borne on wings of steel) - live in us 2017").
 track("4JlFRxB2Bsxk6YZ5CTio0M", "point of know return - live in us 2017").
@@ -38195,10 +38195,10 @@ track("2gJvg54mUopXG7mCizmrMk", "fallen").
 track("0qS2gqAOih5GFU6oxjIIOx", "assorted").
 track("1aUT8xkfcs1FIGL5mDuWaN", "this noise - deeper logic mix").
 track("53aHbrvKkVykaPQCZN7aHf", "stereo fidelity - deadmau5 unorganized remix").
-track("3k0v4xBO1lkzK2ii6sfKQv", "Some Chords").
-track("3Gypwxzrov1uVkswB7sSSy", "The Veldt - 8 Minute Edit").
-track("3xUIgEKYLVZNAvT9umSijn", "Aural Psynapse").
-track("3MeeG38qCzp15leTP77ePx", "Sofi Needs A Ladder").
+track("3k0v4xBO1lkzK2ii6sfKQv", "some chords").
+track("3Gypwxzrov1uVkswB7sSSy", "the veldt - 8 minute edit").
+track("3xUIgEKYLVZNAvT9umSijn", "aural psynapse").
+track("3MeeG38qCzp15leTP77ePx", "sofi needs a ladder").
 track("19UGEZoMAqqaTEcEYNvsox", "jägermeister").
 track("75EtbYJpwfNosPGpV1lPnh", "people against porn (10 years mix)").
 track("5M890OggcTPtFrBfc0JbQK", "back and forth").
@@ -38217,7 +38217,7 @@ track("4NbIVvQ4uggxBXY3uTdZN8", "she mine").
 track("55L4Au0G28HAUMfJTJwrH2", "get out the door").
 track("5kwVVnZ8ZjJanBbGmrbHsb", "she builds quick machines").
 track("6DEQ7nhcQXs1rQuWi2DoLJ", "the last fight").
-track("2CiQdWZTDY0lHXnAtmgz3q", "demons & etc.").
+track("2CiQdWZTDY0lHXnAtmgz3q", "pillsdemons & etc.").
 track("36CafXgaveP84VsMirkyQd", "american man").
 track("6cYKLG1FR25PiATHDaxQbZ", "mary mary").
 track("6BfBUfjOgd586Tu31zzqYl", "just sixteen").
@@ -38425,7 +38425,7 @@ track("7vvGT7kpeUFb2Nelb0rCzo", "one step closer").
 track("29T494PTO3aXCGkTKbNRI1", "original of the species").
 track("3JcAhVsDfCJUHzCOy2Nxjy", "you are here").
 track("6GCU9ejFi3ibOGk0RyYlpJ", "shades of blue").
-track("1CvKNlO5DLdXKUKfrV2u6i", "she might").
+track("1CvKNlO5DLdXKUKfrV2u6i", "she mayshe might").
 track("0WAHfqId7rL8Q0VHN4yMeJ", "for you too").
 track("2YmjVaikl30rmZZzlGTwPE", "ashes").
 track("1EU0b8ssjywJMafh85Gl0F", "polynesia #1").
@@ -38483,7 +38483,7 @@ track("4PhLgAx6fX4Sdhj4fk0Wd9", "ashley").
 track("0uVvis2KRXgwQpSLKA2eTn", "meerkat").
 track("7oea1S9vTEn3L0b0bXGreZ", "madeline").
 track("4yhj49K3vDjhhpACCSnswk", "a roomful of ladies - outtake").
-track("3hhiAdn7PWo5qP3ZH7TE09", "i think i’m goodkind").
+track("3hhiAdn7PWo5qP3ZH7TE09", "pass the hatcheti think i’m goodkind").
 track("1fYEuwJev8mly6Uxt0y3pO", "beanbag chair").
 track("6WOLY74q1vXqwDiGxtaFob", "i feel like going home").
 track("29UIxDmQvCERY4Ps2BvzLa", "mr. tough").
@@ -38500,7 +38500,7 @@ track("3iQ8wBj6mVaEFwtrnjLRPE", "sea cruise").
 track("3rcaeynYhsXo35DGI7b9mx", "favorite thing").
 track("3jeMTnp4jSiUsY0MEKiCjk", "baseball altamont").
 track("0dhsfTMIvAyPPMCQTnQ8ZJ", "meet the mets").
-track("4IhyqmgzwtJUN0NA2aridO", "up yours!").
+track("4IhyqmgzwtJUN0NA2aridO", "oh bondageup yours!").
 track("6o4Njcgr8t1beXuHiSwzHx", "ding dang  interplanetary music").
 track("206jDHxvDC88JyYnNWmOh8", "captain lou").
 track("0jxCfOvVbPOUK6NOnLNInQ", "beach party tonight").
@@ -38603,7 +38603,7 @@ track("54Gh9MMeh7NFt3fn8JeGPL", "cut it up").
 track("6gJ3mP1i8yWjYyQeqfZcCT", "great lakes  great escapes").
 track("1enSBQcXUWqle6osD0tje4", "recovering the opposable thumb").
 track("00NY3B1Vo4EVl7T7rAO6g5", "beyond the embarrassing style").
-track("2iR5ItVdY6WTMvPEgNT3ri", "god").
+track("2iR5ItVdY6WTMvPEgNT3ri", "are you there margaret? it's megod").
 track("2JUb4zP2vWGe6t2926lTKM", "jumping the shark").
 track("6SaPRHLcZXTtLrXQnFHp2U", "lose your illusion 1").
 track("7gvN6IXWGONQX3Ys5k20Nx", "requiem revisited").
@@ -38612,7 +38612,7 @@ track("4sGocVfQPZ0gFgUWRxWf39", "instransit").
 track("0lM5emmp8EQfCjYCtrZn9l", "quincentuple your money").
 track("0LGejyhLrXoM7cfb0YQhvP", "100 resolutions").
 track("2TQN4X01dG14ZckGmgcqz7", "there's no place like a stranger's floor").
-track("2vas0jq2W6ABci3BjU0BQe", "what time is pensacola: wings of gold on anyway?").
+track("2vas0jq2W6ABci3BjU0BQe", "heywhat time is pensacola: wings of gold on anyway?").
 track("5sTnepiKZelRpUmjAXNMVE", "presenting: the dancing machine (the robot with the monkey head)").
 track("21zfeyzUJ2ZxYO4BHPmICc", "overheated").
 track("2DTDYCMeJS7hMUNQRUbAY6", "necrotism: decanting the insalubrious (cyborg midnight) party 7").
@@ -38636,7 +38636,7 @@ track("0MHvQ4Afst1nRQzrmlMfqP", "boat less booze cruise party").
 track("1eGAZX0TKa5qCxWsvhf8Th", "brick wall views").
 track("4FfdHkIlvqVfl83rg0zhYG", "the corpses of our motivations").
 track("2HVSkW1wTZ0Og0z2spSFzg", "i'll take what's in the box monty").
-track("4nJI5jO2NFZIoTi9CAHMOM", "pt. 2").
+track("4nJI5jO2NFZIoTi9CAHMOM", "right as rainpt. 2").
 track("5dDwAJYa4yaHtbcImA6gGj", "3am qvc shopping spree hangover").
 track("4QKgj8oukfU90gwcIYEL22", "sixteen hours").
 track("3XDbpJ8fgCdjDK6Fn5TvgJ", "chicago is burning").
@@ -38654,7 +38654,7 @@ track("6FcbLhJuMeQKW23IoadvVt", "kevin costner's casino").
 track("5lB0VPflgfenfldUFNlz04", "a guided tour of chicago").
 track("4NLRBeco5XdkYtunJRyjSA", "take one down and pass it around").
 track("22WswyrSXSSy8VS9PDfviJ", "someday we're all gonna weigh 400 lbs.").
-track("4K6ADsv9ZochCWMjdas0aq", "the l&l and any number of crappy apartments").
+track("4K6ADsv9ZochCWMjdas0aq", "the northsidethe l&l and any number of crappy apartments").
 track("3BGWazHohTt8SBcDPlo5rT", "smokestacks").
 track("7oV733wBRmdtBVZOa5Wy4T", "detention").
 track("0HdOWB81w1rB4gFnzqGp8U", "uptown free radio").
@@ -38685,7 +38685,7 @@ track("10V0LMgGLtbgzdgtZagwFY", "i'm grateful").
 track("48ACJ3Yqabk1txCOsLn4N8", "this is the day").
 track("4PW8cyLlVGJQhw2jaebC3M", "child of the king").
 track("3XwjAd3pdjQjYg23AshZ1U", "if we ever needed the lord").
-track("4GorBN1CtrvPaPz1NYMRow", "i wanna be better").
+track("4GorBN1CtrvPaPz1NYMRow", "push me lordi wanna be better").
 track("6pBcrKS3osJKiiSBFBtj4f", "i know the lord will make a way").
 track("7bHh33m0siVdQuOePGLNdk", "what's going on").
 track("5k3rndZWXObsn9PdN4LYoG", "there is no god like jehovah").
@@ -38700,7 +38700,7 @@ track("5TqDyP2cRWaBMZqeuq1JFD", "john 3:16 (live)").
 track("2iiidnfywqO8HJaTNkpJil", "one touch (live)").
 track("3fJ9fWQi55OpDKlWw7gzPp", "let me touch the hem (live)").
 track("2YyDmJzE9OEX9c3Hmf7y72", "worthy is the lamb (live)").
-track("1TSVDeXdZAvDC7pB399OXp", "more power (live)").
+track("1TSVDeXdZAvDC7pB399OXp", "more lovemore power (live)").
 track("6CuMLoWDUUgc0gmT8Q5blG", "festival of praise").
 track("6ezrh6M0wJjTmrBIUFztX4", "all the way").
 track("69C3om6Lbv6NGS2KnIOfog", "his perfect love").
@@ -38824,7 +38824,7 @@ track("6n3qyFEnwLacZos4sShpsL", "4.a.m. (remastered)").
 track("73PoKrHTzQ9cE9cjc1o3hJ", "the wizard (remastered)").
 track("48K9kzwewOZ30ZpHd0qR3P", "going to the top (remastered)").
 track("033bKvxW5MnMno4xu3uWKi", "elysium (remastered)").
-track("7kPueSPHK6kHT0IRHksUXx", "sunday morning (remastered)").
+track("7kPueSPHK6kHT0IRHksUXx", "saturday nightsunday morning (remastered)").
 track("7zADQQWWzXqr7KVs1kttr3", "if i didn’t care (remastered)").
 track("4Jl4GG3mKLvYaSlv4xUSNb", "one step beyond (2009 - remaster)").
 track("4Rx1hdje6VbD353R4Pgtcg", "my girl (2009 - remaster)").
@@ -38843,7 +38843,7 @@ track("0RBV2xz7FrlZG4UPeAeYJy", "4.a.m. (remastered)").
 track("3x3JqtI32S07gxDrBzOwI4", "the wizard (remastered)").
 track("1DHbQhPIeJWqA2AV6e6Ynm", "going to the top (remastered)").
 track("0u7MTpxBysgKmppXJ3Mzgf", "elysium (remastered)").
-track("0sF643ylSO4N7bAMx6th8G", "sunday morning (remastered)").
+track("0sF643ylSO4N7bAMx6th8G", "saturday nightsunday morning (remastered)").
 track("6UBDiw8lWX3M1TwfXc9WXy", "if i didn’t care (remastered)").
 track("3SoYPEwYczWjFmAV8J4tZs", "hold my hand").
 track("0s9QJl8sH2W2uqqRMPG6gw", "love don't die").
@@ -38903,9 +38903,9 @@ track("6WnM7Vgor1yuUHDerQtHue", "skull 'n' bones").
 track("6KrTtIbVntoSBNB1M8UYqH", "wtf!?").
 track("7p2QoTu5ygImfCcHOuNZcJ", "patient zero").
 track("3zavkK1KMwpg8jjjrcBsq6", "immunity").
-track("0ogN2vzQxn2KP5cS3Rg5Ze", "Ba Man Soot Bezan").
-track("4KHcgEUigRGsseip0dXQgB", "Delhore").
-track("78YR9Qt48ixRlaHXziISzs", "Intro").
+track("0ogN2vzQxn2KP5cS3Rg5Ze", "ba man soot bezan").
+track("4KHcgEUigRGsseip0dXQgB", "delhore").
+track("78YR9Qt48ixRlaHXziISzs", "intro").
 track("3uWRlnlXYjLxigN1cj0pZ2", "temptation - feat. rebecca").
 track("0uf2QTOBJr0LB5lPRFH68I", "tike tike kardi").
 track("6KiK0VbxaQOwcvESr7AGLr", "boroboro - radio edit").
@@ -38964,21 +38964,21 @@ track("7vSLZaZuEH0Gmg2ggcSJIo", "murphy's ridge").
 track("56KTVYhK9alJMt0N8A1jOK", "last known surroundings").
 track("0G8gh2OhVHB5OsJZhiIYEf", "human qualities").
 track("1yHotgKgs0Fhb5aT5DoGnR", "trembling hands").
-track("222UskZazUiVjOowNOaZ4i", "creature").
+track("222UskZazUiVjOowNOaZ4i", "be comfortablecreature").
 track("2h5vYbtbVw2d5Q4wswJgK2", "postcard from 1952").
 track("64JgmNWeHv3X1muopZjf8Z", "let me back in").
 track("4j6gkX2nsosiP4jPCaBbIC", "last known surroundings").
 track("0THsu4U8WWk1dgG0XGlx3V", "human qualities").
 track("2qOO0iWjxqIEUflbObblZ6", "trembling hands").
-track("6zDmG6e7uCjgN8khimTVpL", "creature").
+track("6zDmG6e7uCjgN8khimTVpL", "be comfortablecreature").
 track("5WnSWXPHhRoyCiTdPThllL", "postcard from 1952").
 track("04G4f6XPDUG45RTDWxFi8h", "let me back in").
 track("76vqsMyUnzzEK00HBpVOEU", "the birth and death of the day").
-track("3fMloVDigClO2C0pFVYOOC", "ghosts").
+track("3fMloVDigClO2C0pFVYOOC", "welcomeghosts").
 track("0D5nC0ocA6YQZsxUGxvsjy", "it's natural to be afraid").
 track("0hdgZOMzhsZUuhef4T9Jnh", "what do you go home to?").
 track("7v0p2OIi65J8zYcshvHujw", "catastrophe and the cure").
-track("5xsbumJTPG3ITlnuVkKmaY", "lonesome").
+track("5xsbumJTPG3ITlnuVkKmaY", "so longlonesome").
 track("1oPU5xARVN1Htably1PABF", "walking and whistlin' blues (original mix)").
 track("3HLTTc2nXrpoZvXJbqbKWn", "when you want 'em you can't get 'em (original mix)").
 track("3YKzUf7rhze7L7CMV7EvqG", "wives and lovers (original mix)").
@@ -39085,7 +39085,7 @@ track("6s2cB50QWIrtx650k20yPZ", "abajo a la izquierda").
 track("7bKUbJIfMlQA3Z4JOpMzaB", "dale equilibrio").
 track("3oiDmpuw08Ya0htOHu14iN", "jardin de amapolas").
 track("6qSGKfdQJML797aZBiLZfG", "democracia fecal").
-track("7yady2VByA7TUiDfnMpndv", "ya lo se").
+track("7yady2VByA7TUiDfnMpndv", "siya lo se").
 track("2zxTUl1F3aAf7nkU3WdWK4", "sacude").
 track("5TDZtKubdC0L8fmAAePukS", "payaso de mentiras").
 track("7jljwF9C2hJwv4gf5BOPQA", "control remoto").
@@ -39118,11 +39118,11 @@ track("5bVmWH1zofXFQ5njCUCUzK", "seguir bailando").
 track("30VDFIRz4A8SiLCogjCzCc", "globalizado").
 track("0DOlaVxCIgxFXhq4TFJBmr", "perdón").
 track("0Q7N09nj69fUV8YDmfWjLV", "páralo").
-track("0DlFvoaAU2oZsFRhcTcteF", "Kokoro").
-track("4iET3N5htKQPNRtHMDW55e", "Kanou Dan Yen").
-track("2CHIVbSxayuLjMylRXfdwW", "Negue Negue").
-track("4bPRPtEuYepSs8uidvhet5", "Takamba").
-track("4UzOf1S1ZY4VPytbPD3CAb", "Dibi Bo").
+track("0DlFvoaAU2oZsFRhcTcteF", "kokoro").
+track("4iET3N5htKQPNRtHMDW55e", "kanou dan yen").
+track("2CHIVbSxayuLjMylRXfdwW", "negue negue").
+track("4bPRPtEuYepSs8uidvhet5", "takamba").
+track("4UzOf1S1ZY4VPytbPD3CAb", "dibi bo").
 track("3ucN9Vc0Dx7F7EHXYRdiQN", "nterini").
 track("0dEQI4Rqqg1HDRF8O8tXoP", "kokoro").
 track("6nxB6Pz0DvvEoY9uMcnINt", "ou y´an ye").
@@ -39148,10 +39148,10 @@ track("7qqUtJ3e6gerqui9RBvZgx", "h3y! - acapella").
 track("3fZtOB0LFeh0VWcCqV0HjH", "breaks - in the mix - acapella").
 track("7Cfmjup7etCPoHzOITKYpF", "hoo-ey - acapella").
 track("0aWN7F5RL28HvigbDBcvSr", "one moment - acapella").
-track("208MvsSYlggpH3fZg8dj84", "H3Y! 2014 Album Edit").
-track("27k5UJqQHCtztAj74UIVI9", "Breaks - In The Mix Album Edit").
-track("2RndwrQH3mv8nJQhyaPiKT", "One Moment Bass Modulators Remix Album Edit").
-track("72ya8zIIi0Lj4bbA4MxHA7", "Forget About It - Radio Edit").
+track("208MvsSYlggpH3fZg8dj84", "h3y! 2014 album edit").
+track("27k5UJqQHCtztAj74UIVI9", "breaks - in the mix album edit").
+track("2RndwrQH3mv8nJQhyaPiKT", "one moment bass modulators remix album edit").
+track("72ya8zIIi0Lj4bbA4MxHA7", "forget about it - radio edit").
 track("3ine8Q5EZw5pGDhQkxqqvm", "music made addict - headhunterz & wildstylez remix (radio edit)").
 track("5ErslyeiJ00QCtYiqoPd4k", "window of time - radio edit").
 track("1TS67YqPNy8lV9e5JjK6rT", "really don't care - edit").
@@ -39258,9 +39258,9 @@ track("0W3EyFFswNYjK7S1JASp37", "runaway").
 track("58WvHqeD13zhnDMd2GU3SR", "reactivated").
 track("7sph5UammsiztpCOwpslXX", "cobrastyle - the bloody beetroots remix").
 track("5inTTZbN4THhqU2XLaDx3d", "funk - the bloody beetroots remix").
-track("4x7RPpsLeewKmaomxO5qBm", "House n. 84").
-track("03AadNV9Al7F542Q9GJDr2", "I Love the Bloody Beetroots").
-track("78ufIItpkQcCR7YIpHHK0g", "Storm").
+track("4x7RPpsLeewKmaomxO5qBm", "house n. 84").
+track("03AadNV9Al7F542Q9GJDr2", "i love the bloody beetroots").
+track("78ufIItpkQcCR7YIpHHK0g", "storm").
 track("3zbdEKstaWaNtuWi77Ghd6", "cornelius").
 track("4UtLw3O8BjtdicRhT0fmon", "it’s better a dj on 2 turntables").
 track("3JiyJ0vcbuoKdSiMBiiqFr", "butter").
@@ -39307,7 +39307,7 @@ track("4VOT22gIuzgOlHm5Lp0YzP", "mohe").
 track("3pDykXcmge6cdQMWoBJ2Z8", "mo (child)").
 track("4xSE3Ib6774BVtOCLxTjCi", "wini").
 track("4CmnSlZeGS2hwI45gPg29c", "zimo (to nelson mandela)").
-track("7rWwhU7o62SnTeFz6zzZZu", "defender of african truth)").
+track("7rWwhU7o62SnTeFz6zzZZu", "makassi again (to féladefender of african truth)").
 track("4S4U0RoiblwMmuv1VaPbpD", "bell a hé").
 track("1t0gWlighiqmK4WtLOZcGh", "molega").
 track("5eYoBxVuUbgw49s6L7DVic", "leila").
@@ -39403,11 +39403,11 @@ track("7FmC58d6cKTWyAn1yX6KF2", "regeneration no. 1").
 track("0Csfm1psLNm1VAecrLB7cQ", "big boat").
 track("2vuWZsVCPjjzcLSH3Ht9oi", "paul's song").
 track("0kLqkyFZBEBQMmTCjgGM3f", "radio campaign").
-track("7yYpdBMAFayztRrsZrujIs", "Vincent O'Brien").
-track("0howlKdDZunwZKUHAhONTr", "Undertaker").
-track("2pBEKxyN0AKrGRl0doawiS", "Outta My Head").
-track("1RsLjHQkCjfYjEm7ObYCZX", "Helicopter").
-track("0XRtlc4Rwbh9zmTLfXwAKg", "Fool Says").
+track("7yYpdBMAFayztRrsZrujIs", "vincent o'brien").
+track("0howlKdDZunwZKUHAhONTr", "undertaker").
+track("2pBEKxyN0AKrGRl0doawiS", "outta my head").
+track("1RsLjHQkCjfYjEm7ObYCZX", "helicopter").
+track("0XRtlc4Rwbh9zmTLfXwAKg", "fool says").
 track("5T28cnDBI8IUemzuPVCrZL", "end of amnesia").
 track("1nZSxkZhBldP8YawT1WS3N", "color of water").
 track("5rcYszUKeGznOAz0zn8xFH", "half moon").
@@ -39417,7 +39417,7 @@ track("0i4zBdZBYRSNTbURg9x33r", "archangel tale").
 track("7gtsZ5JEByGJ2KypmUGpNN", "silverline").
 track("3hoMlD8nFlfeDCTzPvCF9O", "flaming heart").
 track("659LZTOI5Euxh5u7HhtCzT", "carolina").
-track("3RZDkw2bMd17KgOOVS2rpE", "1989").
+track("3RZDkw2bMd17KgOOVS2rpE", "from a pirate radio sermon1989").
 track("6GASgjiMahhdARxvD2yQEC", "yours to waste (feat. irwin sparkes)").
 track("43BvUtMBTq385L54K2KGS6", "falling (feat. laura steel)").
 track("2efrFsKq9J3LWy84AA0z89", "who got da buzz (feat. synikall)").
@@ -39565,7 +39565,7 @@ track("01U4sq776mTf1dmaEAVVDy", "row row row your boat").
 track("4SQKgjBj1Cm89nCiRko9vA", "mary had a little lamb").
 track("0iEofvCsMUImIeF7Dh6VNb", "five little ducks").
 track("1oepHY76iLJ5E5y0P0BTJL", "do re mi").
-track("6HNU91jwA3vzRp9psJoOoO", "knees and toes").
+track("6HNU91jwA3vzRp9psJoOoO", "headshouldersknees and toes").
 track("0HqA445MsZyCMm68SpY1eE", "sing a song").
 track("1TNFk8UTDtuayUKKvKLhUF", "擒擒青").
 track("40yO2b3318wQRpR8IDwCZD", "豬豬bb un咕咕").
@@ -39812,16 +39812,16 @@ track("1VzHYblFdt9cTPGuoZX7Ss", "all the young dudes").
 track("664vljq4WxfNLCGRRdsy5j", "for what it's worth").
 track("7cLrKZEhIi6zCZpm9Cx3U5", "good times").
 track("69DIFRHPZBOy7huoxX4t42", "sunshine of your love").
-track("1fV3bdx8doMfHyii415LHa", "japan - february 2002").
-track("7eIovsulMVYPmi2FBHSMss", "japan - february 2002").
-track("2A0PUxDK5xO09ixuwaOCkz", "japan - february 2002").
-track("0dq2xaGmzBrmIbjxiR8bF7", "japan - february 2002").
-track("49r5SslqYrk3cIh79uLJ4J", "japan - february 2002").
-track("1vO9SHwZKnnGugCznu8T6X", "japan - february 2002").
-track("12AzsKC2t5riupnnFgbJoP", "japan - february 2002").
-track("0T4TNp1io5Rv6WJQarv7TN", "japan - february 2002").
-track("1iFa0Obsq33rFfv18ul0GJ", "japan - february 2002").
-track("7chIHC71N4lpBNVt3WIArn", "japan - february 2002").
+track("1fV3bdx8doMfHyii415LHa", "i don't know - live at budokan halltokyojapan - february 2002").
+track("7eIovsulMVYPmi2FBHSMss", "that i never had - live at budokan halltokyojapan - february 2002").
+track("2A0PUxDK5xO09ixuwaOCkz", "believer - live at budokan halltokyojapan - february 2002").
+track("0dq2xaGmzBrmIbjxiR8bF7", "junkie - live at budokan halltokyojapan - february 2002").
+track("49r5SslqYrk3cIh79uLJ4J", "mr. crowley - live at budokan halltokyojapan - february 2002").
+track("1vO9SHwZKnnGugCznu8T6X", "gets me through - live at budokan halltokyojapan - february 2002").
+track("12AzsKC2t5riupnnFgbJoP", "no more tears - live at budokan halltokyojapan - february 2002").
+track("0T4TNp1io5Rv6WJQarv7TN", "i don't want to change the world (live) - live at budokan halltokyojapan - february 2002").
+track("1iFa0Obsq33rFfv18ul0GJ", "road to nowhere - live at budokan halltokyojapan - february 2002").
+track("7chIHC71N4lpBNVt3WIArn", "crazy train - live at budokan halltokyojapan - february 2002").
 track("4MN0ZmFppiiQsPE9HQKKsH", "gets me through").
 track("1zLr6SnnxGIqntjCXvras2", "facing hell").
 track("78PKCefXwDLbl4FVO1Pjzh", "dreamer").
@@ -39896,7 +39896,7 @@ track("1yHoA8flz47GECmRuzsdut", "fury - the origin").
 track("3XSmfpI0sL1loLoaqQ2PCA", "mother vip - vocal mix").
 track("3X2UhQfANyvzBtCsxlhffp", "hyena 1").
 track("4iUxszOwMH0sWXGbZp5yJG", "'kaiser salsek'").
-track("6R71Sy1aRLAI4HGHsftT4p", "seen by blind").
+track("6R71Sy1aRLAI4HGHsftT4p", "judged by colourheard by soundseen by blind").
 track("5JxZwQ5Qy6zlo6nVxDdWMt", "unkle").
 track("5fVABLqa2bXec8SN92Lvot", "what you won't do for love - left hand man mix").
 track("6x9iIjqgfEeIjuZU1mg2rg", "what you won't do for love - belief system mix").
@@ -39943,7 +39943,7 @@ track("2aB8ZGm6qesirNUGznmbC1", "a remark you made - live").
 track("5jywwQr6I3hcHsBnooyaI3", "night passage - live").
 track("0bnIz1lOYFHeWtW6AsEut4", "procession - live").
 track("01okYLfXl8EYJXnOBVH3BG", "carnavalito - live").
-track("37f9pa8XjvQ3kFpTUNmO60", "with love").
+track("37f9pa8XjvQ3kFpTUNmO60", "from viennawith love").
 track("1yqLfB2AAEuHuXIADF3O11", "my one and only love").
 track("3xLg1waLQZaR7MqA3rG4xP", "riverbed").
 track("5FVTsDYZvouveXx48dAkbb", "a concerto retitled").
@@ -39952,8 +39952,8 @@ track("1L2CBbKjuBVzI7whM63KFT", "sharon's waltz").
 track("1X348VoUpJEChLPaeNohcH", "baptismal").
 track("4w8dpPBdY5K9AlAMxtBDG8", "the soul of a village - long version").
 track("7Bs0BYT4s3B6CUBPtXpdgn", "the fifth canto").
-track("1KAUHqI4eKoTxHmj2DUAyX", "with love").
-track("0iN4IjCvBa27Ma1IrScLy5", "lord").
+track("1KAUHqI4eKoTxHmj2DUAyX", "from viennawith love").
+track("0iN4IjCvBa27Ma1IrScLy5", "lordlordlord").
 track("6H4ERg5doK2SR17KBz0y71", "a concerto retitled").
 track("3zOX2bPYp7SOrK4xKx7ppk", "money in the pocket").
 track("5gotMSRpRh4CgP7yyermZg", "if").
@@ -40017,11 +40017,11 @@ track("67nCFCRvKOa2MAOLOyQsHJ", "introduction").
 track("4vVIHxe9kdEsIrrTeHnHyG", "people watching").
 track("22ZuJbySpcQ7SZ23dHqZQp", "names").
 track("4j1Pc3I3CQTg4EAE6kCpNV", "yep").
-track("29l7yYN3U3eUMkcQrh9JSZ", "guts").
+track("29l7yYN3U3eUMkcQrh9JSZ", "dalmatiansguts").
 track("7xu9XwOp7daR429z9KxrEc", "ok").
 track("5PjzEPNibenrvgtRIVCIrk", "silent letters").
 track("033fRCRUPa2QC9kRBkVNqt", "death").
-track("0KE5UoUq3hEF3dCT5Vy70g", "halloween").
+track("0KE5UoUq3hEF3dCT5Vy70g", "senseshalloween").
 track("65drr8MFMGyJ1hmg90Nicw", "concerts").
 track("0o4KfcmmU64BcveQvil2sN", "the start").
 track("0089G1Xfx0qnJSgpF5fDhZ", "some jokes").
@@ -40059,7 +40059,7 @@ track("6giOarFad26ZOQzPl9eZbm", "le jola").
 track("4SlUlGgsjPJfAXvzLpRb6g", "taar dousey").
 track("1dNxHZPQmTcsyVKAnPFv2n", "manko").
 track("5uS04O1Sngxd8RxRTPlO3V", "yaye boye").
-track("3O4179at0XiistMUDrd2xs", "plus je fais ca").
+track("3O4179at0XiistMUDrd2xs", "plus je fais ciplus je fais ca").
 track("4X8zFiIXHB5l0R0YRYTdMr", "mbindane").
 track("5D7KpW1PeNeIh8RoRuJ2X8", "wakhal").
 track("3qI1YzqVlsgK0OnL876g8W", "aiwa").
@@ -40204,11 +40204,11 @@ track("7bmgohisntoM4A1hN0Gvbo", "firestarter - live").
 track("1F2HBWT8G7C2IuFtdp7COX", "run with the wolves - live").
 track("1qRfkR3g4fmKIJ8b6QlnT6", "weather experience - live").
 track("4GVogZ9fesF6dBJk9MrivF", "voodoo people - live").
-track("5kZhLH0cQbRm5Fydtb2rzZ", "Omen").
-track("7zVuHGn54YdbwTZrvrdMwa", "Colours").
-track("3W0jZbR3ZcwP7n2dGAHu9I", "Warrior's Dance").
-track("5iU8g1SZ9g04VEnroXh51t", "Omen - Reprise").
-track("2uAHPwLuwpV3dSe2vMb5s3", "Piranha").
+track("5kZhLH0cQbRm5Fydtb2rzZ", "omen").
+track("7zVuHGn54YdbwTZrvrdMwa", "colours").
+track("3W0jZbR3ZcwP7n2dGAHu9I", "warrior's dance").
+track("5iU8g1SZ9g04VEnroXh51t", "omen - reprise").
+track("2uAHPwLuwpV3dSe2vMb5s3", "piranha").
 track("3fJncggA5EFrUIMOmz3UGA", "invaders must die").
 track("6Sl0RuU5QKGLQuZMwWM3Wq", "o").
 track("0J002OYuIAgruoW0YGrrON", "thunder").
@@ -40248,24 +40248,24 @@ track("1dh431akDM8kbaR3TYnRTc", "descalço no parque").
 track("4Vb0cETTT2OrMJNvBeURdp", "depois").
 track("6hOKnMk5nKVVEoDTPPIIqB", "amar alguém").
 track("3Nr1CMo8UnXSOKJLDCCpKQ", "nada tudo").
-track("75TDdFczSL33wLFJQySIRe", "uma ilusão").
+track("75TDdFczSL33wLFJQySIRe", "verdadeuma ilusão").
 track("5YST0c2X2Pnk2iA7SF4YKO", "lencinho querido (el panuelito)").
 track("0MZO74HghVVMLq6MJCswFL", "ainda bem").
 track("3Qkwf6MzUVOQXlz5na0suj", "aquela velha canção").
-track("2CXXODP8WYz7sEHLIKiNoA", "Descalço No Parque").
-track("1MTIoczyafS7p93UdOrT9E", "Amar Alguém").
-track("0iUt00DkfwzqTvNpGiRVvt", "Uma Ilusão").
-track("1HRAqtZiyIHeyoVE28nFVx", "Ainda Bem").
-track("0BOBnD2DNllXAnMuQenUeB", "O Que Você Quer Saber De Verdade").
+track("2CXXODP8WYz7sEHLIKiNoA", "descalço no parque").
+track("1MTIoczyafS7p93UdOrT9E", "amar alguém").
+track("0iUt00DkfwzqTvNpGiRVvt", "verdadeuma ilusão").
+track("1HRAqtZiyIHeyoVE28nFVx", "ainda bem").
+track("0BOBnD2DNllXAnMuQenUeB", "o que você quer saber de verdade").
 track("20MtwzowuiL2D16DzySR7H", "descalço no parque").
 track("6nMFcVqjimSo5mj7Btfkym", "depois").
 track("5BzYE7bfcheIM9sYErpeYm", "amar alguém").
 track("2NjJTNRgheX7Q3fsjQ1T7s", "nada tudo").
-track("4WviVuYm1lcMBZP9lo7eK1", "uma ilusão").
+track("4WviVuYm1lcMBZP9lo7eK1", "verdadeuma ilusão").
 track("78jtvTqXBZ8DZNyg9zvGv6", "lencinho querido (el panuelito)").
 track("4eYanDVVBygJTeHq6f9HOR", "ainda bem").
 track("5IPQajFDEu0gXoVXPx0tEs", "aquela velha canção").
-track("4yoirlyne2EwkftLG7CpvN", "Infinito Particular").
+track("4yoirlyne2EwkftLG7CpvN", "infinito particular").
 track("7CHDzPgYiEwOneLWoIT2Rg", "universo ao meu redor").
 track("689qXTIb8wnOsxvYFVQKNW", "carnavália").
 track("6mkiBtRRSZVjeWjeGZ5Jyv", "aconteceu").
@@ -40455,7 +40455,7 @@ track("02cSmM74A6uBMjyNeUAzHk", "i don't know what i like about you").
 track("1s67qNhgSNhCx3dW27l6Z0", "baby i could be so good at loving you").
 track("6X2WuKZKxMqCPoPAt0iaDp", "big trouble").
 track("6VRvDMirIh2dCJeDD7IvJK", "it had to be you").
-track("5F8W02zEFlYMLiSxMfy0Qn", "mr. moon").
+track("5F8W02zEFlYMLiSxMfy0Qn", "goodnightmr. moon").
 track("69ga0h7aK8386e8cejnUPF", "whenever i'm away from you").
 track("0x2Tu6zHIQRzt8wONVkjAp", "settle down").
 track("7INUeslzKupa3ew8u2Bo4k", "back doors crying").
@@ -40466,10 +40466,10 @@ track("2ISEzIByFlAw1Sf2vo9CGo", "easy evil").
 track("1ivnjMiQ5TOPpOUKtEwSG2", "what would they say").
 track("1cn5fR8RZYPDc0tgumSaJA", "right time of the night").
 track("45mLCZ9MJF77WE7IMS78w0", "sandy").
-track("4KGQg0826eRFFT6MSEG7Pw", "Quién Te Enamoró").
-track("1UMX5oa8Oz2SCgIK5rWGdL", "A Mi No Me da Igual").
-track("7by9k7avr7pYJeRuDXxMMq", "Te Propongo").
-track("67irSHJrSZp3fqckThpZum", "Amar Nunca Más Lo Jure").
+track("4KGQg0826eRFFT6MSEG7Pw", "quién te enamoró").
+track("1UMX5oa8Oz2SCgIK5rWGdL", "a mi no me da igual").
+track("7by9k7avr7pYJeRuDXxMMq", "te propongo").
+track("67irSHJrSZp3fqckThpZum", "amar nunca más lo jure").
 track("2LOXaQlTcmBoqxN2TFNode", "no entiendo").
 track("7KmvdgeNVT5fCPzKyo28qy", "por volver a amarte").
 track("7rUKCu8ri4YrSWG8RMxtGk", "es mucho mas").
@@ -40674,18 +40674,18 @@ track("12Mtrok8R2TonmvezClqlG", "you could be happy").
 track("6bAbcPjGByVcH6seqnTLOz", "make this go on forever").
 track("1lS8UjX96WV0KLpr0UzjBO", "headlights on dark roads").
 track("45s6KD7U23bk5Wn2D0XTHN", "open your eyes").
-track("1gNgrjLDbAMsRC3ZB7wrhw", "A New Level - Live").
-track("0YkO54Vygh9Fh6xefDCq05", "War Nerve - Live").
-track("2sP8MGJ15K9rgFw81Lp4fI", "Sandblasted Skin - Live").
-track("6ke1JutIJq6Y5s0bEd5gsO", "Primal Concrete Sledge - Live").
-track("3C4xxvVathVvY9FLClDmfh", "Fucking Hostile - Live").
+track("1gNgrjLDbAMsRC3ZB7wrhw", "a new level - live").
+track("0YkO54Vygh9Fh6xefDCq05", "war nerve - live").
+track("2sP8MGJ15K9rgFw81Lp4fI", "sandblasted skin - live").
+track("6ke1JutIJq6Y5s0bEd5gsO", "primal concrete sledge - live").
+track("3C4xxvVathVvY9FLClDmfh", "fucking hostile - live").
 track("7vF7D17xhpXw1DniGVY8nG", "the great southern trendkill - 2016 remaster").
 track("2HOiBXZ5vxjII5vPCvrSEi", "war nerve - 2016 remaster").
 track("2vjQGDxI8OY5dHXxvxAaGA", "drag the waters - 2016 remaster").
 track("7imseKD4ZmLuy83TDOlagk", "10's - 2016 remaster").
 track("6K1cfUIyg9cwjd55bZjJcw", "13 steps to nowhere - 2016 remaster").
-track("7oThjyrKhuoiaCHLmISJsT", "pt. 1 - 2016 remaster").
-track("5j5OyPYk3VwGmqyYaOsJAg", "pt. 2 - 2016 remaster").
+track("7oThjyrKhuoiaCHLmISJsT", "suicide notept. 1 - 2016 remaster").
+track("5j5OyPYk3VwGmqyYaOsJAg", "suicide notept. 2 - 2016 remaster").
 track("1hJIH2osRyqtWONXxHQQOD", "living through me (hells' wrath) - 2016 remaster").
 track("5edJjHkiAKzIbaymMszsKw", "floods - 2016 remaster").
 track("3XxbSYIWJSv8PTbMOLATH0", "the underground in america - 2016 remaster").
@@ -40703,7 +40703,7 @@ track("2aUVH0ZbHKOhZbK5Z8ChN1", "becoming - 2014 remaster").
 track("7oetQwrQDI0Gnm8PboDjZ2", "5 minutes alone - 2014 remaster").
 track("0GOUZfqXtR5kBfhSqADVxJ", "i'm broken - 2014 remaster").
 track("1y5KJokxcVnwY1tbFPu76d", "good friends and a bottle of pills - 2014 remaster").
-track("0NEYMnzeimuIYqLssTP7wj", "sunken cheeks - 2014 remaster").
+track("0NEYMnzeimuIYqLssTP7wj", "hard linessunken cheeks - 2014 remaster").
 track("3VkHucAxEBda6btX0cUA8i", "slaughtered - 2014 remaster").
 track("38A47mTFHWoAzWmxK3ioge", "25 years - 2014 remaster").
 track("4v6C0bB5p07wg7KfwNVOOx", "shedding skin - 2014 remaster").
@@ -40742,7 +40742,7 @@ track("3uZm7qHKV4REGdifrcahDy", "walk - live").
 track("1xMBYzmflSwRRkvBbv6TtP", "becoming - live").
 track("4tIUZFXJ7FWZqn2AxhbkyI", "5 minutes alone - live").
 track("7A3ZvT0Pb1ib9w4yVnORNp", "sandblasted skin - live").
-track("1GtlzdvN1ONlOrXjH7pNj5", "pt. 2 - live").
+track("1GtlzdvN1ONlOrXjH7pNj5", "suicide notept. 2 - live").
 track("6Fgvld98AlenfFYPYb8S9j", "war nerve - live").
 track("1rwQWruvZxd4AgffQGjHsb", "strength beyond strength - live").
 track("6DVxAei4u7nNrXbEs9XvNS", "dom  hollow - live").
@@ -40752,8 +40752,8 @@ track("5smduZ8tFJFfCOZAl0SenA", "war nerve").
 track("5t8sFMJ2aQaHqLnrAd4Q40", "drag the waters").
 track("5qG4mrKUlmGce1FA4wGrr7", "10's").
 track("5FnIQ4H58EixgtoQQoOBjg", "13 steps to nowhere").
-track("0CcmoDwo2KAACTPoy87F8V", "pt. 1").
-track("6RnbVAM9AO7M0pnPDA05N7", "pt. 2").
+track("0CcmoDwo2KAACTPoy87F8V", "suicide notept. 1").
+track("6RnbVAM9AO7M0pnPDA05N7", "suicide notept. 2").
 track("6Vz3UetdNRrWuGAcs6a6ey", "living through me (hells' wrath)").
 track("1L2ZkXbRX00ZiaUDuMMgf7", "floods").
 track("02r2PCS9ayW0i45hgrJsHI", "the underground in america").
@@ -40828,16 +40828,16 @@ track("3quow30ipJBQqGXmbEhRNp", "a new day").
 track("3N99nWwt5fAFUBisLaAFml", "16 dollars").
 track("19CktimmizqUpCPxUjxOUu", "a warrior's call").
 track("3Nnfhf8EYOD3T1Kst1FGHM", "magic zone").
-track("5H3mjgpNVuSNK7XBsrGyhN", "copenhagen2010").
-track("4kgJ8KPFMJX62j1FMEOLKC", "copenhagen2010").
-track("1AUKBuBZetJbeRzx0JVD4u", "copenhagen2010").
-track("1Dq63OdshtBBf5wf1Bes3H", "copenhagen2010").
-track("0CuGoIkc1pUSUoQ9dKVExp", "copenhagen2010").
-track("5BA4GRULs7TRG6VjjfT3DB", "copenhagen2010").
-track("2aQCputvlzizvC8AhHSbWU", "copenhagen2010").
-track("5EgHgK4iV7PHxM2skEFKhO", "copenhagen2010").
-track("6tMmTAENxnW19vEO9BiBsj", "copenhagen2010").
-track("6rV5eLFJM1bAQWbWjYsMyI", "copenhagen2010").
+track("5H3mjgpNVuSNK7XBsrGyhN", "intro - live at forumcopenhagen2010").
+track("4kgJ8KPFMJX62j1FMEOLKC", "the mirror and the ripper - live at forumcopenhagen2010").
+track("1AUKBuBZetJbeRzx0JVD4u", "maybellene i hofteholder - live at forumcopenhagen2010").
+track("1Dq63OdshtBBf5wf1Bes3H", "16 dollars - live at forumcopenhagen2010").
+track("0CuGoIkc1pUSUoQ9dKVExp", "heaven nor hell - live at forumcopenhagen2010").
+track("5BA4GRULs7TRG6VjjfT3DB", "who they are - live at forumcopenhagen2010").
+track("2aQCputvlzizvC8AhHSbWU", "evelyn - live at forumcopenhagen2010").
+track("5EgHgK4iV7PHxM2skEFKhO", "sad man's tongue - live at forumcopenhagen2010").
+track("6tMmTAENxnW19vEO9BiBsj", "7 shots - live at forumcopenhagen2010").
+track("6rV5eLFJM1bAQWbWjYsMyI", "pool of boozeboozeboozaboa - live at forumcopenhagen2010").
 track("6no6pTR9cDiLek4BHZpfau", "intro - end of the road").
 track("4KEdXMwdTAjsELGfjWNUKe", "guitar gangsters & cadillac blood").
 track("0nJ2eT2fqu72mDJYa7LXCU", "back to prom").
@@ -40979,7 +40979,7 @@ track("1rVEveu2ZAIrxVjMkLXQHQ", "zu dir").
 track("1N12EwNeZA3kUXSh5h5j4F", "wäre ich einfach nur feige").
 track("03Jb63JayHubklVyqkde6F", "lass es uns nicht regnen").
 track("7Lbz6kmLjaqGRhy1hFZO4f", "lied 1 - stück vom himmel").
-track("7rXpxERAvXFnerAwytVGLr", "tanzen").
+track("7rXpxERAvXFnerAwytVGLr", "lied 2 - kopf hochtanzen").
 track("6LhxDDoDYNPZGgb9sv95xv", "lied 3 - du bist die").
 track("5a7V66EKKpDj2eRm5Fi9PE", "lied 4 - marlene").
 track("5N7MFCydAHFomNPXECa4ch", "lied 5 - flüsternde zeit").
@@ -40989,7 +40989,7 @@ track("5SBQO9uJDmFcoogpV4YRaE", "lied 8 - ohne dich").
 track("4nkymR4XmHuXMeT6nMrMke", "lied 9 - spur").
 track("663uBYjySoxrKqazliULq9", "lied 10 - zieh deinen weg").
 track("5MDgIJMfN3VsxVBLjpDPIP", "lied 1 - stück vom himmel").
-track("6jgGM35vSkuiGrwsNR0JMP", "tanzen").
+track("6jgGM35vSkuiGrwsNR0JMP", "lied 2 - kopf hochtanzen").
 track("2ydcussKg6xUEhb1Q9pLpR", "lied 3 - du bist die").
 track("4vwMWgGasAhRQFYbzq6R54", "lied 4 - marlene").
 track("2KwozTHl98A5kFvpofXX2p", "lied 5 - flüsternde zeit").
@@ -41170,7 +41170,7 @@ track("5S5WUD8DoVSAVKi3ETaLkc", "polarity").
 track("1erwF6SFQoN5ahU9wEyzbJ", "phase 01 - from the next end").
 track("71Sck2XNaxGs5eqKA9CrO4", "phase 02 - broken radio echo").
 track("0uFk3YuijMI8ZnkqVf6Apz", "phase 03 - singing machine").
-track("1PjQhSAmgRRQEIxCsOw52U", "they speak").
+track("1PjQhSAmgRRQEIxCsOw52U", "phase 04 - after midnightthey speak").
 track("1Epf6zDltJfP5v585T7M5V", "phase 05 - when the worlds collide").
 track("19YfLTjXkzdXSfqwl4hGx8", "phase 06 - dialogue with a river").
 track("4bMPMROY1mJ30BqRp7OXmD", "phase 07 - forgotten").
@@ -41215,7 +41215,7 @@ track("56P3UsRz67Gy2Pk6ekWaWY", "out of reach").
 track("3wsfHfJq7ERDGWs2kxNUYW", "ten minutes").
 track("330jlRk4SNPwXU5Ya1jhNf", "the company dime").
 track("4tDJgULnGJcZ2IsxYPhVlN", "my apology").
-track("5lN2fJEd90QdpQ7WKT10lT", "a rebel").
+track("5lN2fJEd90QdpQ7WKT10lT", "i'm a loner dottiea rebel").
 track("3rqFWU6AzFutd6veDQBo4q", "long goodnight").
 track("6VSM2rTRQfyjxrxtFTwTkl", "coming clean - live").
 track("7fplch9fUm8GjciaOPVC58", "the one you want - live").
@@ -41224,7 +41224,7 @@ track("22izb7X8aTS2Yv0yabccwK", "action & action - live").
 track("5lGg7VXb9AU8ZMjhqPXh3v", "stay gone - live").
 track("37es6q2WdQCFrPAuID126E", "woodson - live").
 track("2jL9Jlmz0Rvc5U5it58zVV", "martyr me - live").
-track("461jpTTpezmop8xkKU8FoO", "a rebel - live").
+track("461jpTTpezmop8xkKU8FoO", "i'm a loner dottiea rebel - live").
 track("1OKJfNcYIrGWy4GXR01ueX", "mass pike - live").
 track("5c3ZtRLUDKOgpEfZ4s5mIz", "campfire kansas - live").
 track("6xeilSML9JGLEqDC97cACo", "man of conviction").
@@ -41274,12 +41274,12 @@ track("4VpH45fTwmwECcd8QH0amq", "out of reach").
 track("0sCNal67P5Nydob9zITXrK", "ten minutes").
 track("0obCXR93gkfParKyDWxllw", "the company dime").
 track("6tFbVhxuhdpVKXhxa8oc6d", "my apology").
-track("2cwTCYlFRGU3Tw0Zxqpy08", "a rebel").
+track("2cwTCYlFRGU3Tw0Zxqpy08", "i'm a loner dottiea rebel").
 track("3EA0b4Odpon5l1FJoUDxzj", "long goodnight").
 track("5pnPQubnxT9vyMlkBmXBOw", "coming clean").
 track("2DPnbXsZTfhqmVQg8y5ruN", "don't hate me").
 track("0nf4sm8hHk1vx7z5l40tbt", "fall semester").
-track("53feoDtXm4gHrKLLvGhuzL", "ponyboy").
+track("53feoDtXm4gHrKLLvGhuzL", "stay goldponyboy").
 track("345FlpPdXYiHH9je8y7Boe", "lowercase west thomas").
 track("7E7KLXRACSoIW0AVhkLbMV", "washington square park").
 track("2y3iR2MWZiWKeZwmrHICmQ", "last place you look").
@@ -41416,7 +41416,7 @@ track("7hVfHitE3vTozelH0m10nc", "my love song for you").
 track("7i7zLkfDL2Zkpf0OK1Wp0G", "most down").
 track("3BDxv4ORzOpXAsa4lWVl4i", "(fuck a) silver lining").
 track("76vMKwFtdDDCLcM6zXybjB", "say amen (saturday night)").
-track("22oEJW6r2rMb9z4IntfyEa", "i made it").
+track("22oEJW6r2rMb9z4IntfyEa", "hey look mai made it").
 track("1rqqCSm0Qe4I9rUvWncaom", "high hopes").
 track("0wdV94AXGRphrbkDWLNzVC", "roaring 20s").
 track("6PFoEnjp0PAe5siGswjH9i", "dancing's not a crime").
@@ -41424,16 +41424,16 @@ track("5trCWbYtza0QUxdmF9HAPX", "one of the drunks").
 track("4hUR3thIs01mQUtVmZFJ8F", "the overpass").
 track("50Hv5NZIM0puIUoBttjpfb", "king of the clouds").
 track("18ULKfQl3KpCnklAKFfO2t", "old fashioned").
-track("6cum9a3BtaYIBTPrmqsGdd", "4142017").
-track("41HszkNfEE8OKbqermRsgm", "4142017").
-track("1tdX9EEKLg4we2BBf8mWzu", "4142017").
-track("02d3MXxsO0AP3DsoJGOaIt", "4142017").
-track("5lHxUGPPC3wtZH8UQxsFr7", "4142017").
-track("7wnYW5zboAaiHE5KBaVc0Z", "4142017").
-track("68wbhtYYm11CSO7cZVjfEx", "4142017").
-track("7HzfAGGKnYVEHVsdkGUbXu", "4142017").
-track("49heun7OiWwsdhUyoukbBV", "4142017").
-track("3ZvAEbxNItDMXcqbIkC5zc", "4142017").
+track("6cum9a3BtaYIBTPrmqsGdd", "don't threaten me with a good time - live at amway centerorlandofl4142017").
+track("41HszkNfEE8OKbqermRsgm", "la devotee - live at amway centerorlandofl4142017").
+track("1tdX9EEKLg4we2BBf8mWzu", "ready to go (get me out of my mind) - live at amway centerorlandofl4142017").
+track("02d3MXxsO0AP3DsoJGOaIt", "golden days - live at amway centerorlandofl4142017").
+track("5lHxUGPPC3wtZH8UQxsFr7", "vegas lights - live at amway centerorlandofl4142017").
+track("7wnYW5zboAaiHE5KBaVc0Z", "a fever you can't sweat out medley - live at amway centerorlandofl4142017").
+track("68wbhtYYm11CSO7cZVjfEx", "hallelujah - live at amway centerorlandofl4142017").
+track("7HzfAGGKnYVEHVsdkGUbXu", "nine in the afternoon - live at amway centerorlandofl4142017").
+track("49heun7OiWwsdhUyoukbBV", "miss jackson - live at amway centerorlandofl4142017").
+track("3ZvAEbxNItDMXcqbIkC5zc", "this is gospel - live at amway centerorlandofl4142017").
 track("6od5hFv9IT5JHc7NEF9HRv", "victorious").
 track("2fh3bZ8jZhMxOcfESE9nQY", "don't threaten me with a good time").
 track("6TzJLISIitIzn1WtjDY0Op", "hallelujah").
@@ -41442,7 +41442,7 @@ track("1BECwm5qkaBwlbfo4kpYx8", "death of a bachelor").
 track("6V68ItawQkQlZhYIf1S86C", "crazy = genius").
 track("2fmCA13dwQQOGBIbIOWRiJ", "la devotee").
 track("3fwKVZ73y7UUGMyR6rVCRa", "golden days").
-track("5eoZTdiq4C4aoEfUwAN0ha", "the bad and the dirty").
+track("5eoZTdiq4C4aoEfUwAN0ha", "the goodthe bad and the dirty").
 track("2DgdHcjWmO3qd50RzuBLgZ", "house of memories").
 track("3yZQk5PC52CCmT4ZaTIKvv", "this is gospel").
 track("0zewUY3RSh8yaV7q66Okem", "vegas lights").
@@ -41473,16 +41473,16 @@ track("16mQYFu2IxfAGpYKslZqua", "always").
 track("1TvRv4Yfpt5ITMqaS9x85m", "the calendar").
 track("1hMwdgYkKVz5nw54jWjGbB", "sarah smiles").
 track("7MCEFdwNMKsaqxVcMYEqzd", "nearly witches (ever since we met...)").
-track("3d8mQn6nZq003tRRMekRFX", "2008").
-track("641eTjClhfoX0qHDoXbic8", "2008").
-track("7AuX2oLxWT6skMXtBus0jL", "2008").
-track("0F27M27PhMrsEIfMNOG73k", "2008").
-track("7yWH251p5zsOmv6srU1McM", "2008").
-track("1kWmeGAStssgKW1PPPefY1", "2008").
-track("5d5jXhgaOF5yBTJbE2791y", "2008").
-track("1IO0vmLJC3xjZK1f9VVX2K", "2008").
-track("5F4YeuJPBERnEtpfRb9jFV", "2008").
-track("2qW71gsv6Vv9enc3QxQr4N", "2008").
+track("3d8mQn6nZq003tRRMekRFX", "we're so starving - live at congress theaterchicagoil2008").
+track("641eTjClhfoX0qHDoXbic8", "nine in the afternoon - live at congress theaterchicagoil2008").
+track("7AuX2oLxWT6skMXtBus0jL", "but it's better if you do - live at congress theaterchicagoil2008").
+track("0F27M27PhMrsEIfMNOG73k", "camisado - live at congress theaterchicagoil2008").
+track("7yWH251p5zsOmv6srU1McM", "she's a handsome woman - live at congress theaterchicagoil2008").
+track("1kWmeGAStssgKW1PPPefY1", "the only difference between martyrdom and suicide is press coverage - live at congress theaterchicagoil2008").
+track("5d5jXhgaOF5yBTJbE2791y", "behind the sea - live at congress theaterchicagoil2008").
+track("1IO0vmLJC3xjZK1f9VVX2K", "lying is the most fun a girl can have without taking her clothes off - live at congress theaterchicagoil2008").
+track("5F4YeuJPBERnEtpfRb9jFV", "i constantly thank god for esteban - live at congress theaterchicagoil2008").
+track("2qW71gsv6Vv9enc3QxQr4N", "that green gentleman (things have changed) - live at congress theaterchicagoil2008").
 track("0uAyW7eW2eC2fPqo4gVP82", "we're so starving").
 track("3oap5wNMWwX1dT3AVKwLzH", "nine in the afternoon - single mix").
 track("2hFeSma8Gkpd8F4GuaZv3N", "she's a handsome woman").
@@ -41496,7 +41496,7 @@ track("1tombJI80Vq0oaIWJ8OGwr", "the piano knows something i don't know").
 track("4b7gGloX3RJHBlqQVK78fC", "introduction").
 track("4E89wfYbGzoNolObrFhoG4", "the only difference between martyrdom and suicide is press coverage").
 track("5Tpo1UIFouVNIcEDpkxTSj", "london beckoned songs about money written by machines").
-track("0EQCmMEQu5YHEFeh9QcnCB", "tacks for snacks").
+track("0EQCmMEQu5YHEFeh9QcnCB", "nails for breakfasttacks for snacks").
 track("1LF5HQ32hztQWzADGH8ys4", "camisado").
 track("1Cqhp6H0BlD8j2770dHGEc", "time to dance").
 track("0MSC5BYWcNhcBNNYORXZyj", "lying is the most fun a girl can have without taking her clothes off").
@@ -41509,9 +41509,9 @@ track("6qr5Jtolwv6F2UqTNHBs5Y", "lemonade").
 track("6hcMtpJgqFwEZL58nVB43l", "give me your everything").
 track("2wrm1iq04p1P38ZzaKPHKl", "balans").
 track("0upF9tRm3VOxXyKD6jWFjd", "i did it mama").
-track("2RRMIxnTbM3CLlaeGCQVGp", "Round&Round").
-track("2G8NBurNs8ER5dj5LiG3sK", "Boy Oh Boy").
-track("5uH0jSbXsCKyaq2AquBEBE", "Ou La La").
+track("2RRMIxnTbM3CLlaeGCQVGp", "round&round").
+track("2G8NBurNs8ER5dj5LiG3sK", "boy oh boy").
+track("5uH0jSbXsCKyaq2AquBEBE", "ou la la").
 track("5hgVsUyZ3gGcIyKX8SNJfO", "i did it mama - franques remix").
 track("0WnJky0ThUangpfiE8TAYf", "i did it mama - jack mazzoni radio remix").
 track("2K1fPb23TelkxdtqZJusm9", "balans - andros remix").
@@ -41608,7 +41608,7 @@ track("3JZteSHBgqZ8T1SWNLr56x", "dead leaves and the dirty ground").
 track("7jLi3ukxgtmTiVzphtiT7J", "stay away").
 track("30NHcOXhqNm0GbeAA2o6wN", "o santo de polvora").
 track("4z5dHFzFNUUAoHe1IAAPNR", "wayside (back in time)").
-track("4Bycrf6DXwY9krNFHhU5n0", "and i'm gonna cry").
+track("4Bycrf6DXwY9krNFHhU5n0", "you're an angeland i'm gonna cry").
 track("354b4pFZzbBx9wL0DaCGYW", "how to grow a woman from the ground").
 track("46tzAJhfSl7teg1aXgg0fR", "the beekeeper").
 track("7iy7xGtQY1jcSIJRLk2cNg", "brakeman's blues").
@@ -41668,7 +41668,7 @@ track("2anhVKjDOIuq8mAJRLOmbx", "from all of us").
 track("2J3LbO4ig0AREKAIGUxVoa", "parisian plight i").
 track("56PZZPWO5WXdsX2FABisBx", "prelude to a leaving").
 track("5L0YCZZTnVWR6llPhS6Nyk", "all our love").
-track("6c7L3B3v77NCu5y1eYysD1", "i just came to say good-bye").
+track("6c7L3B3v77NCu5y1eYysD1", "i don't want to leave youi just came to say good-bye").
 track("7EHGG3QhzrSUmIjoyuKFeo", "do you wonder").
 track("0umX6lTRzKrxUHFNfLZx2k", "xasper").
 track("0FveCLxttp8UKEKC8PCQD9", "city to city").
@@ -41707,16 +41707,16 @@ track("7zrtMVUsa9upW8SmpqYmxZ", "jesus met the woman at the well - live").
 track("5ptmujfnp1lCk3EbUY5iDJ", "on a desert island - live").
 track("2F5PTvBD19r853rWKdetrj", "rising of the moon - live").
 track("7zZ4Z9XLKVQ9FoJujsHT6n", "puff the magic dragon - live").
-track("34gbldtxhRiJma1m5VUx7I", "paul and mary album remastered)").
-track("0JjjUN5a4LpSOb1gjKUuhF", "paul and mary album remastered)").
-track("1FRv3FYXDXQzj0mbpOjCQN", "paul and mary album remastered)").
-track("5AD1n4NEc2oyAHHltC9l78", "paul and mary album remastered)").
-track("0ZTPOY21r2PtkEOuseh26t", "paul and mary album remastered)").
-track("3FXAlIWXneqGC84LZW3oIc", "paul and mary album remastered)").
-track("1IFsDGM1ABliP47HzCxihn", "paul and mary album remastered)").
-track("1ic6anYo9Gn0aeHBCsmrIn", "paul and mary album remastered)").
-track("2lqXamCnJ46ShJH55IZsCq", "paul and mary album remastered)").
-track("5YN4E0xiLteqjyPZIRJrOg", "paul and mary album remastered)").
+track("34gbldtxhRiJma1m5VUx7I", "early in the morning (1962 peterpaul and mary album remastered)").
+track("0JjjUN5a4LpSOb1gjKUuhF", "500 miles (1962 peterpaul and mary album remastered)").
+track("1FRv3FYXDXQzj0mbpOjCQN", "sorrow (1962 peterpaul and mary album remastered)").
+track("5AD1n4NEc2oyAHHltC9l78", "this train (1962 peterpaul and mary album remastered)").
+track("0ZTPOY21r2PtkEOuseh26t", "bamboo (1962 peterpaul and mary album remastered)").
+track("3FXAlIWXneqGC84LZW3oIc", "it's raining (1962 peterpaul and mary album remastered)").
+track("1IFsDGM1ABliP47HzCxihn", "if i had my way (1962 peterpaul and mary album remastered)").
+track("1ic6anYo9Gn0aeHBCsmrIn", "cruel war (1962 peterpaul and mary album remastered)").
+track("2lqXamCnJ46ShJH55IZsCq", "lemon tree (1962 peterpaul and mary album remastered)").
+track("5YN4E0xiLteqjyPZIRJrOg", "if i had a hammer (1962 peterpaul and mary album remastered)").
 track("4iZI0Z4A7gSnWGkCSzHjG9", "if i had a hammer").
 track("7qRKXUe8VCc5bNcTFlyMhE", "autumn to may").
 track("6CcSR2CvRIewhHHsdPZxdY", "sorrow").
@@ -41961,11 +41961,11 @@ track("4KYLyZQPqTiMfk2Yz0vGqG", "shining star ☆忘れないから☆").
 track("0kbfoMeyIjvpTnX3zzZXJN", "realize").
 track("1tSlYn3FunKu4gu2lPHpfQ", "naked").
 track("6EsVxIGIPNb7tvEE0LJshK", "destiny").
-track("0WrwAamDuVDXkgNf9KMg0o", "Nothing's Wrong").
-track("6gliuHR6CaDIhFaPdjWWvQ", "Ready For You").
-track("3RTFtRhAa05WKPsHB4tU1x", "You Never Knew").
-track("5jfLFmCj1fciu7AAJd7eOb", "Found It In Silence").
-track("0c3HYPLQdPVunzhDGvgKfM", "Right Now").
+track("0WrwAamDuVDXkgNf9KMg0o", "nothing's wrong").
+track("6gliuHR6CaDIhFaPdjWWvQ", "ready for you").
+track("3RTFtRhAa05WKPsHB4tU1x", "you never knew").
+track("5jfLFmCj1fciu7AAJd7eOb", "found it in silence").
+track("0c3HYPLQdPVunzhDGvgKfM", "right now").
 track("5wL742yBgvtbw1IibA3FMJ", "falling").
 track("2319gHincsCeSmc19Efi2j", "forever").
 track("6golelYKuy85o3u0cxIxFK", "the wire").
@@ -42027,7 +42027,7 @@ track("0oyhBXUyt8KsyRbylgUaY3", "jam of the witches").
 track("4vMx2h4iGhXapMUyc6kqb4", "house of glass").
 track("0rHT9MyTJWRCtyKyYlk0Xi", "skull death drum jam").
 track("5OxeMV1ur1ukVsrBYHwcAk", "whips of mercy").
-track("4OFdE8n8bB3TZzuogoz7oT", "pt. 1").
+track("4OFdE8n8bB3TZzuogoz7oT", "song for nicopt. 1").
 track("262nP2JCMjhWyiKal0CTFx", "left and right of the moon").
 track("0LUov2upnGogQXdCda8SLS", "motorcycles").
 track("2BndP5GXFvS5v78KfFgspT", "heavy bomber laser beam").
@@ -42048,11 +42048,11 @@ track("6LsxlhFem8z9qWSQ4kck7r", "slip beneath").
 track("1zQmcePaVyFhS9xlmtUFKq", "zombie like lovers").
 track("1r4epT7XSbPI4H7qWExvNE", "dreamless days").
 track("7G3uVcuDysFBDbpnfrw63Y", "interlude in reverse").
-track("7F4s02NHgBZQMEnzIyMqm5", "i hear you walking").
+track("7F4s02NHgBZQMEnzIyMqm5", "deathi hear you walking").
 track("4JcxmRGedIEEAzLgh78VQq", "come save us").
 track("0TSIhuIhOABaIXd9iOJV2I", "it's just like surgery").
 track("6S69skZ9Ke1vA53IzjjaLh", "gypsy nightmare").
-track("0W0lsDHWCdVOcZcFBuizZ9", "angels in hell").
+track("0W0lsDHWCdVOcZcFBuizZ9", "angels in heavenangels in hell").
 track("3Y0chM3i2EURWgOoK7DsC8", "we need starpower").
 track("6oXWqInQJBDuDQ7L2DcFnx", "thursday's radiation").
 track("7786ecxjaBcObTSxYF81i3", "evil eyes again").
@@ -42131,7 +42131,7 @@ track("0pNY0APu1OORyq3dZMaoOo", "north atlantic vs north carolina").
 track("55S8eygsajAqJoD8LIC59G", "a giant in a giants world").
 track("0BCZbWvg0IAQIkE7NRKTZM", "you're lucky it's not 1692").
 track("7lJ4EX59lPtyJLIXa0vWPc", "ghost in the mirror").
-track("56yrxLNm3BI8JvoXX33gjn", "done that").
+track("56yrxLNm3BI8JvoXX33gjn", "been theredone that").
 track("4f6XCgZhQOZVKcIlc5qoYm", "quantity is their quality").
 track("5fdoU8AtiQUQdfOGl2dB18", "sleepwalking").
 track("18giAypnSTDMc8q41jMNY4", "destiny for the willing").
@@ -42166,11 +42166,11 @@ track("040u1pb49Q63C5ZZsSgjqi", "airscape").
 track("4CGlO9UMDUDHrv3Fp0JrJC", "don't break the silence").
 track("583sCu72ixNGbN3yjOIbP3", "ask me no questions").
 track("41Gikwp3Fs3TEWO00FrrfU", "kids don't follow").
-track("27IHkFuDdaBYZUgYPZVjmP", "110 Or 220V").
-track("5mzYWai4JC1bWzPsYM9fqb", "Shittalkers!").
-track("0BMPuAzFPLmWzQnV8Ks3eR", "You're the Gold").
-track("6nmTJP58rfR6c6zVkASlTA", "Pray").
-track("4E2lhHnixbJRZ2HP2XFDk8", "Tasteless").
+track("27IHkFuDdaBYZUgYPZVjmP", "110 or 220v").
+track("5mzYWai4JC1bWzPsYM9fqb", "shittalkers!").
+track("0BMPuAzFPLmWzQnV8Ks3eR", "you're the gold").
+track("6nmTJP58rfR6c6zVkASlTA", "pray").
+track("4E2lhHnixbJRZ2HP2XFDk8", "odorlesscolorlesstasteless").
 track("1XQfXRVQe0vWBweoRuyB5a", "you drew").
 track("0MclVp7tM9YqoTuSl0iUiU", "any love (cassandra et lune)").
 track("1CCL2SOwLMaFXdZmdSbTAs", "known diamond").
@@ -42254,7 +42254,7 @@ track("2eGjcm4kFrMhpxPUDCWG2n", "panameña").
 track("4ElBykBv2cHSyuXueD2xGB", "el día de mi suerte").
 track("74JH83FE0ydpjhZHnO2e4A", "calle luna calle sol").
 track("7Jsi1k2vt6H4UhDJD2JOY8", "aguanile").
-track("7jJ7gDxtAw1TP74A4nS3gc", "leblon").
+track("7jJ7gDxtAw1TP74A4nS3gc", "copacabanaipanemaleblon").
 track("4BNDskrn6uPYQAbenwJSDD", "cueste lo que cueste").
 track("5kOVHtu6FXhWOGFuZwWvJK", "noche criolla").
 track("6VQ2fI8goSX8mpSvytXkXR", "idilio").
@@ -42303,16 +42303,16 @@ track("3ZsPVM8ON9kRcskUB7Diee", "lady's boy (live 1979 detroit club) - live 1979
 track("6anNZ6eQP0huhQVoX9h58D", "workin' on you baby (live 1979 detroit club) - live 1979 detroit club").
 track("3dMr2aockVgqmyQqNb4GLg", "come back (live 1979 detroit club) - live 1979 detroit club").
 track("3KpmirtnglEdMs60DxEd9d", "without you - live 1979 detroit club").
-track("5GXv6OVv27DHrlQvq3LcSG", "1983").
-track("2lkGhX4x4JmDex0cCx0C3D", "1983").
-track("1hnnMI8EeJ1w2YwrGvVon5", "1983").
-track("78TTR2E2AItdlwKOqPfjkJ", "1983").
-track("7zVeMIbTNAZdK2FpnsiQUL", "1983").
-track("5A1pheNX4Pyv8YCJ5wCf2K", "1983").
-track("2vkT2FcFPayZo10KQn0YjS", "1983").
-track("716qCOX3By5OxEmoLJJeiy", "1983").
-track("5KRoJFroM4xnjU0fHvAsy6", "1983").
-track("4ZEJDnBKPLc8Kigw6sDnug", "1983").
+track("5GXv6OVv27DHrlQvq3LcSG", "what you don't know (sure can hurt you) - live at the marqueelondonengland - march 51983").
+track("2lkGhX4x4JmDex0cCx0C3D", "sin after sin - live at the marqueelondonengland - march 51983").
+track("1hnnMI8EeJ1w2YwrGvVon5", "bad boys (of rock 'n' roll) - live at the marqueelondonengland - march 51983").
+track("78TTR2E2AItdlwKOqPfjkJ", "destroyer - live at the marqueelondonengland - march 51983").
+track("7zVeMIbTNAZdK2FpnsiQUL", "leader of the pack - live at the marqueelondonengland - march 51983").
+track("5A1pheNX4Pyv8YCJ5wCf2K", "tear it loose - live at the marqueelondonengland - march 51983").
+track("2vkT2FcFPayZo10KQn0YjS", "band rap - live at the marqueelondonengland - march 51983").
+track("716qCOX3By5OxEmoLJJeiy", "you can't stop rock 'n' roll - live at the marqueelondonengland - march 51983").
+track("5KRoJFroM4xnjU0fHvAsy6", "run for your life - live at the marqueelondonengland - march 51983").
+track("4ZEJDnBKPLc8Kigw6sDnug", "shoot 'em down - live at the marqueelondonengland - march 51983").
 track("2kj69BGuuVgmDPkmyU7AkL", "what you don't know (sure can't hurt you) (live version)").
 track("0gF64odhjLQOYkPT5KbOSm", "the kids are back (live version)").
 track("1b0UAvdiGApimlVPsNqABK", "under the blade (live version)").
@@ -42360,19 +42360,19 @@ track("2rR7fmz7anSJaUMfDvo44F", "under the blade - live").
 track("7BoX4ttek2m7SkgKIRM7m9", "lady's boy - live").
 track("2b3lIAW8XgxDZ4jjoh46X7", "come back - live").
 track("1pIHdqqj0lhvwT2VJgZ3qE", "can't stand still - live").
-track("7JyMWsaHEMESRl1qL335xZ", "look three times - live").
+track("7JyMWsaHEMESRl1qL335xZ", "honeylook three times - live").
 track("1CVpLbwF7A6U8g1NnVP6jq", "you know i cry - live").
 track("12AZNBOGPbuhufXhClJSG8", "without you - live").
-track("6BNejIJAkztdLzQqFjjCFy", "uk1984").
-track("3nOLyIuZ1Ns8FSLKT449op", "uk1984").
-track("08ZGNqj5TaunFMhd6BmPhW", "uk1984").
-track("2BI9ZEyc8SGoyGUKUlkcDl", "uk1984").
-track("6l9en0WdiLjKqaxJ9lYzSM", "uk1984").
-track("1UH5Aahbr2aFQrEknsrJEg", "uk1984").
-track("5zvKI6ZriuKryMDe4uIGmB", "uk1984").
-track("2VRFYSBR5vqw5kUc3H6AxM", "uk1984").
-track("0LHxYUWhmA2qCfgmHOh8I3", "uk1984").
-track("3bNOU5vhpLtD5RDimOif1H", "uk1984").
+track("6BNejIJAkztdLzQqFjjCFy", "what you don't know (sure can hurt you) - live at hammersmith odeonlondonuk1984").
+track("3nOLyIuZ1Ns8FSLKT449op", "the kids are back - live at hammersmith odeonlondonuk1984").
+track("08ZGNqj5TaunFMhd6BmPhW", "stay hungry - live at hammersmith odeonlondonuk1984").
+track("2BI9ZEyc8SGoyGUKUlkcDl", "destroyer - live at hammersmith odeonlondonuk1984").
+track("6l9en0WdiLjKqaxJ9lYzSM", "we're not gonna take it - live at hammersmith odeonlondonuk1984").
+track("1UH5Aahbr2aFQrEknsrJEg", "you can't stop rock n' roll - live at hammersmith odeonlondonuk1984").
+track("5zvKI6ZriuKryMDe4uIGmB", "knife in the back - live at hammersmith odeonlondonuk1984").
+track("2VRFYSBR5vqw5kUc3H6AxM", "shoot 'em down - live at hammersmith odeonlondonuk1984").
+track("0LHxYUWhmA2qCfgmHOh8I3", "under the blade - live at hammersmith odeonlondonuk1984").
+track("3bNOU5vhpLtD5RDimOif1H", "burn in hell - live at hammersmith odeonlondonuk1984").
 track("1RhtpKA21a8bsJHXsRjTx9", "vecinita").
 track("0g6sDXlgfLSL2fw8rgsfew", "los rodriguez de nuevo").
 track("4PvlRQKoLfjhAPoPMvNQx6", "nada le molesta").
@@ -42440,7 +42440,7 @@ track("33RYmR31DXVylcs9sgfarF", "ouverture").
 track("1SVgpUrUfmz8YqmvjHMEwe", "monologo de orfeu").
 track("3egDDBnh2Phn7QrZd9UrQf", "um nome de mulher").
 track("1Rn53obPbnwQq1oFoXrRHz", "se todos fossem iguais a você").
-track("1SbuUye2Kqf8WLTaREqwz2", "sempre mulher").
+track("1SbuUye2Kqf8WLTaREqwz2", "mulhersempre mulher").
 track("0WVlj41A4gaXNCr5PxgBuP", "eu e o meu amor").
 track("7urEAcyk9TGxNbPEcb5Vs7", "lamento no morro").
 track("0Pv7hBgEO9hDiYBRDMSnIT", "ouverture").
@@ -42514,9 +42514,9 @@ track("2nnm4jR9pMQ6MI0cWYjycx", "ready for anything").
 track("5VyPz9CHg5gLFlMgitbmXU", "we love a luau").
 track("0pZDB3lzryIlIjFEHs02vn", "tuba polka").
 track("4z9qqtIgvnBqVi3tZgGPNf", "i feel good").
-track("4wsM2mAdPWGVEJ1A4okWyU", "go").
+track("4wsM2mAdPWGVEJ1A4okWyU", "gogogo").
 track("6FDOYYmrYptQDPZdL4ptzv", "the customer is always right").
-track("2ONHEOr54ufBjIkBYG9Z5T", "ho daddy").
+track("2ONHEOr54ufBjIkBYG9Z5T", "surf's upho daddy").
 track("2w38Z1OKWD4me26egvr7cj", "almost everything is boinga (featuring alicia keys)").
 track("2omaqFPqD1ohQA0ErjCLMz", "nothing too tough").
 track("7y1YNBW5bByfnJzwV899RS", "w-i-o-wa").
@@ -42524,22 +42524,22 @@ track("2VqE2DF2XtlAQQeODF81eN", "ready for anything").
 track("4LSGkssHLDOZHpmpctAbaI", "we love a luau").
 track("04aWwMo24GvQ4zbR1D3mXP", "tuba polka").
 track("2kZqoieULB0y5SJCaM2bMs", "i feel good").
-track("7ynXiaeFvrExZ1s8HMd6GV", "go").
+track("7ynXiaeFvrExZ1s8HMd6GV", "gogogo").
 track("45lZwPOLwyR62TpCmrbPmm", "the customer is always right").
-track("2914Q8zhVnTjv8HY9yUWfS", "ho daddy").
+track("2914Q8zhVnTjv8HY9yUWfS", "surf's upho daddy").
 track("7ejStF2fxPip2eC0ghTtid", "almost everything is boinga (featuring alicia keys)").
 track("1pDvkAdUrSTw1aBpQd5Us2", "nothing too tough").
 track("6dpzC58DRotgFWu4G21Yj0", "w-i-o-wa").
 track("5YU9WWS0LCwelPrc97X341", "the backyardigans theme song").
 track("0oYgPCo60wqfmSGNHDNykb", "you and me to the rescue").
 track("6uDBSDI9pDM7C4Gm0hc2hI", "castaways").
-track("7GQImZHEKgrjIlL2QyQDAQ", "questing").
+track("7GQImZHEKgrjIlL2QyQDAQ", "questingquesting").
 track("4RcP2UDEXzTA6Nj2gi8TrA", "a pirate says arr").
 track("0z1t0nQpyRtK54psUgfJZn", "yeti stomp!").
 track("2kMVEV0T7E8BBb7RvIP98g", "queens are never wrong").
 track("5HgbFZ8jTcPmbEdCtUGcge", "those bones").
 track("4MylD7obEU5EImP5FgNj4b", "buffalo girls & boys").
-track("1swBlT6j7eDHbRPHTYboI2", "trudge").
+track("1swBlT6j7eDHbRPHTYboI2", "trudgetrudgetrudge").
 track("0PbNN4FotN3MRePvxEr82l", "intro yolanda").
 track("0DMQlvAtH0QOdlonjixa7K", "a chance for me").
 track("7eKRk9lPYSzG5isg5vHUGU", "you wanna be free").
@@ -42647,7 +42647,7 @@ track("0hQZmG7mYTjdYrAQqY5Unx", "untitled original 11386 - take 1").
 track("1vvMqMOGxXgaqprepMaatH", "vilia - take 3").
 track("37WE7b8RUE4dpSLDg7OmGu", "impressions - take 3").
 track("4MJekUfOvrufhMu0HClztq", "slow blues").
-track("7BwqeqnNAiBEPTlhoVOWkt", "one down - take 1").
+track("7BwqeqnNAiBEPTlhoVOWkt", "one upone down - take 1").
 track("3yXNeZ1Xjsm856UTwZLWiD", "vilia - take 5").
 track("05hSCC5hwv2rR4EyuslURV", "impressions - take 1").
 track("6HfxNxGOkqIE4vTSLyR715", "impressions - take 2").
@@ -42661,26 +42661,26 @@ track("0anewsLGoYVQY2rr3DBAou", "cousin mary").
 track("56elAIX47Q7vSQ1bpKNhHo", "equinox").
 track("5KcNR6bGJM9KrEDBviOXT4", "like sonny").
 track("4htDeyw4Neh8On4dIp7tTj", "mr. syms").
-track("6Qpke1nLtW5lciSvWy87KS", "paris").
-track("3H7NU7HrTtkHRQoq94EpY1", "paris").
-track("2nhqKYA2l9qNuPqIbdVqoQ", "paris").
-track("3Nt7GGIp3C8FKvXg1FiFRy", "paris").
-track("1wzqUhFKuzDhbcHni9mV22", "paris").
-track("5clG2GtMgZo0FkbrTEZq9W", "paris").
-track("3VvSRBNaobe0QIxy44WsWI", "paris").
-track("45ZCmqk8DSDc823mUIfPP9", "paris").
-track("1G4HJQ9KzwZKrVsfPrEzNs", "copenhagen").
-track("6YVCqmKV0RhiGHcWhPNBrk", "copenhagen").
-track("2oJRiFHttWnuj7vRTbI0wx", "pt. i – acknowledgement").
+track("6Qpke1nLtW5lciSvWy87KS", "all of you - live from olympia theatreparis").
+track("3H7NU7HrTtkHRQoq94EpY1", "so what - live from olympia theatreparis").
+track("2nhqKYA2l9qNuPqIbdVqoQ", "on green dolphin street - live from olympia theatreparis").
+track("3Nt7GGIp3C8FKvXg1FiFRy", "walkin' - live from olympia theatreparis").
+track("1wzqUhFKuzDhbcHni9mV22", "bye bye blackbird - live from olympia theatreparis").
+track("5clG2GtMgZo0FkbrTEZq9W", "'round midnight - live from olympia theatreparis").
+track("3VvSRBNaobe0QIxy44WsWI", "oleo - live from olympia theatreparis").
+track("45ZCmqk8DSDc823mUIfPP9", "the theme - live from olympia theatreparis").
+track("1G4HJQ9KzwZKrVsfPrEzNs", "introduction (by norman granz) - live from tivolis koncertsalcopenhagen").
+track("6YVCqmKV0RhiGHcWhPNBrk", "so what - live from tivolis koncertsalcopenhagen").
+track("2oJRiFHttWnuj7vRTbI0wx", "a love supremept. i – acknowledgement").
 track("3mWkyod4gWxd2CesQW75Ak", "russian lullaby").
 track("4Ul5mBtwi8owUzbLuADvJQ", "trane's slo blues").
 track("7127J50d8B797zVqPpXgfk", "giant steps").
-track("5uwcrikG8kz39ZZSK3BDq6", "pt. 1").
+track("5uwcrikG8kz39ZZSK3BDq6", "my favorite thingspt. 1").
 track("0L9qDZROJwIah9VIBJcdeJ", "alabama").
 track("5PKJN946E9QKLzaCQDQMHT", "after the rain").
 track("10JBSvOtusj49ctcTsckAq", "moment's notice").
 track("0P1pINLmjYDNNBmznoqTNP", "i want to talk about you - live").
-track("2CBDhUX2MuOwx496bZvAR4", "pt 1 - single version; 2017 remaster").
+track("2CBDhUX2MuOwx496bZvAR4", "my favorite thingspt 1 - single version; 2017 remaster").
 track("6j67INC4r6IxzoldWCUhFA", "like sonny - 2017 remaster").
 track("02vk62g9TuWEBv11OuWnuz", "cousin mary - 2017 remaster").
 track("46OPMp2ta8nmEvaP792LxE", "giant steps - 2017 remaster").
@@ -42763,10 +42763,10 @@ track("4ICrP7sGVcilvWV9NH0ylt", "bravehearts").
 track("6KtkjX6Dhx4VCA1by1hSC3", "fallin' out").
 track("5lTVdc2RBrvPiNwURCXRbT", "our song").
 track("6UBvNLZMdN9IZQlbFIYwJy", "memories").
-track("1KY05cihohR29YEAHOJBcB", "line me").
+track("1KY05cihohR29YEAHOJBcB", "don't cryline me").
 track("2kV3T8KtPzw3FjYcNfREAs", "just you").
 track("3wyR7wtx8JBjLgAlyUzf8I", "memories - nao tanaka remix").
-track("199qySNlgtssjOV0c70zfI", "line me - t.o.m. remix").
+track("199qySNlgtssjOV0c70zfI", "don't cryline me - t.o.m. remix").
 track("6Su3fXAi6omWjBScI6RLmt", "just you - habanero posse remix").
 track("6CUfYMqTI1RYvNnfwtbcGq", "anohini kaeritai").
 track("0DNaWQYKoewUdAMYFy5cOe", "hitomiwo tojite").
@@ -42889,7 +42889,7 @@ track("5BODRfhgnHa4I5rDrkxs3x", "closure").
 track("0h41C1evXW6n96bB2GDZJS", "a lesson never learned").
 track("1zalQPA3y0Latbiis4motB", "to the stage").
 track("74e90JeKugVYmdqAMOSBcc", "dedication").
-track("5wzV35hpLeZCz9aBSAWBcY", "somewhere").
+track("5wzV35hpLeZCz9aBSAWBcY", "someonesomewhere").
 track("6BBfPO1ZdpxvdZ4WMikajX", "breathless").
 track("2BeHvUeSOmglxhSEj3YOEf", "the match").
 track("3xyouDHGWbbc9tcRbBWHOU", "another bottle down").
@@ -43072,7 +43072,7 @@ track("2HlIwDjHQR7drUcPRze7Vt", "too far gone").
 track("3Z2roouK8msGtMXAS7xWCJ", "i got a woman (single version)").
 track("2OAsFRAmucWOnnJLTV72C1", "hallelujah i love her so").
 track("5t4jCQRoGMwygy7uPpCxfp", "mess around").
-track("2KQD84JGzWu8bibaWHytjP", "pt. 1 & 2").
+track("2KQD84JGzWu8bibaWHytjP", "what'd i saypt. 1 & 2").
 track("5zJgpPfTCLdrbDSwviV4nl", "come rain or come shine").
 track("5401fY7y1GQvv6wUaC2zuF", "drown in my own tears").
 track("4lIxNH2QaElQAbyiK4UH2Q", "let the good times roll").
@@ -43185,9 +43185,9 @@ track("22OcPhdkpsNMgAFuXpzECY", "loco").
 track("7v2uwLKcgRsbaA5gfAZQX2", "like a prayer - cascada radio edit").
 track("2BSawnywoXaEtETtzuKyqv", "ravers fantasy").
 track("7sHr4hFIk3O7XcEkpuJG3q", "another day").
-track("3cRwkdWnPszLgMv1h11W2L", "Ravers in the UK").
-track("3M1HeFQNKD9WFHqa5p2l2i", "Like a Prayer - Cascada Radio Edit").
-track("44ZPMhryRLyhj99xnDyePS", "Another Day").
+track("3cRwkdWnPszLgMv1h11W2L", "ravers in the uk").
+track("3M1HeFQNKD9WFHqa5p2l2i", "like a prayer - cascada radio edit").
+track("44ZPMhryRLyhj99xnDyePS", "another day").
 track("3uhuhDP6zaWBRfflsjkTrZ", "welcome to the club - video edit").
 track("6G3YfLebUfBsI16FKv1nOc", "welcome to the club - original mix").
 track("3207Qx6Jk0d1MNGGkyVin8", "welcome to the club - bootleg radio edit").
@@ -43366,7 +43366,7 @@ track("5cEo4yUDt6pGIvUXLBtktL", "i will").
 track("3IMd1T9YNxDlgGRMYuGd5M", "obsessions").
 track("33Z1BRngcyzyEYo3lRQY8H", "paying the price of love").
 track("1drKGiLibQp50IQfKyDKGQ", "kiss of life").
-track("4UPKS8OIxXmIj77mZQv7Fv", "pt.1").
+track("4UPKS8OIxXmIj77mZQv7Fv", "how to fall in lovept.1").
 track("5qtRNUIaIG5sHuzqZxqAWL", "omega man").
 track("2gwMgxueEn6DVZZ58yYmEH", "haunted house").
 track("673TbKHS1rlweFtWqglhZa", "heart like mine").
@@ -43419,21 +43419,21 @@ track("6T5GTy1l6dRmagqpNPjdoc", "too much heaven").
 track("73V1mhbDb7K0lqlHB82iN5", "love you inside out").
 track("6xn5STtoLyI2k7t4ypPJOi", "reaching out").
 track("74NEN5TosrOFdVmAVvTf4a", "spirits (having flown)").
-track("3ag2HcoefQCU7Rj2g5aQWY", "find").
+track("3ag2HcoefQCU7Rj2g5aQWY", "searchfind").
 track("0O8mb0LZ2ySEo1rhgum7ND", "stop (think again)").
 track("7wgPN0rNblGOPaaQqJQZBj", "living together").
 track("3AWbzS3eI2iXm7dJZcnv6p", "i'm satisfied").
 track("17Mkg7grmjvxH9qSw9ZRKY", "until").
-track("5bVp7eyGK5WR12NW9bC6Ar", "1976").
-track("6cfjgIz8zb6PT0M1xJOMnn", "1976").
-track("4uNSWENpDZ7bJKWsMMCAMg", "1976").
-track("5wvRJK8e5Z71Nf70618vei", "1976").
-track("4y1pY1D5xZwV7tYrY1VUfq", "1976").
-track("5WKtJBkAnIKbQb6Aw1SU20", "1976").
-track("3SPOxz5g1OoQye8W6v7voz", "1976").
-track("50VL6iPuN1lQ2z60XMtX62", "1976").
-track("1fjncL8PtUcUyUV4fJcNda", "1976").
-track("4uNXVWwmVNYwcvxxXio6DV", "1976").
+track("5bVp7eyGK5WR12NW9bC6Ar", "i've gotta get a message to you - live at the forumlos angeles1976").
+track("6cfjgIz8zb6PT0M1xJOMnn", "love so right - live at the forumlos angeles1976").
+track("4uNSWENpDZ7bJKWsMMCAMg", "edge of the universe - live at the forumlos angeles1976").
+track("5wvRJK8e5Z71Nf70618vei", "come on over - live at the forumlos angeles1976").
+track("4y1pY1D5xZwV7tYrY1VUfq", "can't keep a good man down - live at the forumlos angeles1976").
+track("5WKtJBkAnIKbQb6Aw1SU20", "new york mining disaster 1941 - live at the forumlos angeles1976").
+track("3SPOxz5g1OoQye8W6v7voz", "run to me  world - live at the forumlos angeles1976").
+track("50VL6iPuN1lQ2z60XMtX62", "medley: holiday  ...  massachusetts - live at the forumlos angeles1976").
+track("1fjncL8PtUcUyUV4fJcNda", "how can you mend a broken heart - live at the forumlos angeles1976").
+track("4uNXVWwmVNYwcvxxXio6DV", "to love somebody - live at the forumlos angeles1976").
 track("7EsQJRuqatEm5Q4z36aCaX", "repetition is a form of change").
 track("3jchyO92VzcGWdkUjyo3Fp", "methods in madness").
 track("4GMD7diF6RkjrIMqnadHBB", "a separate reality").
@@ -43442,7 +43442,7 @@ track("6cUOoGMlEB8L1iNU4dwlFd", "robotic movement").
 track("0qKAhGC20iubUTBigw592g", "discorobot").
 track("0X7XRWELkgXPLl8uiOvTqA", "look behind you").
 track("4zuWWe36i8AIoGhKNx4Brh", "dance & disorder").
-track("7yktUoS51bOFFlnKpYUXYE", "yaaaa").
+track("7yktUoS51bOFFlnKpYUXYE", "you do it like that and we'll do it like thisyaaaa").
 track("2ToBVQQrvTigOY6jRRuYMF", "turning orange").
 track("2wEAzEPwXsQJOOpoJfKpzd", "misfit - origial mix").
 track("1HQP1VdOCf2hsTG2OJmPYc", "what's your name? - original mix").
@@ -43499,7 +43499,7 @@ track("4FY88fO0ImzvbX4j3fmQv0", "go home get down").
 track("62nbEwTfWfWVYowWYukTzY", "government trash").
 track("3OL0Snrtq5ldhOYptP4lTj", "always on").
 track("4Db2JKdKxHgE2Mnr7f0oG0", "cheap talk").
-track("7D78Qe3Gr3LIRArHOvoDLH", "frankenstein!").
+track("7D78Qe3Gr3LIRArHOvoDLH", "right onfrankenstein!").
 track("69XCgIXDr8Gtr4F6sKNlLt", "virgins").
 track("0z9rJfPPLHBi34eZgBcVqC", "always on").
 track("7ARimXKhgYM4esOvyzrZdw", "crystal ball").
@@ -43521,12 +43521,12 @@ track("6EaA1DeHKZgGDCfFQik81K", "black history month (sammy danger remix)").
 track("2kiioztfZzwNNKhGrc0Ao3", "turn it out").
 track("2PKgrfkc1HRaN9FnGlz9o5", "romantic rights").
 track("0LFPNYHs9T1dualhqYVgiQ", "going steady").
-track("2NUt9bsznnA4ISWN3nfSKV", "get down").
+track("2NUt9bsznnA4ISWN3nfSKV", "go homeget down").
 track("7aeLPLzp2EfDYUoJ59V1ui", "blood on our hands").
 track("3fnvElSyFC2xCc20sYTP5N", "black history month").
 track("4VXZOPaRN8awlRLJSlvClw", "little girl").
 track("5r8dlNIjyCy0n2AIj0xCf9", "cold war").
-track("3v84otT0tjqhDPpm52HLJ6", "i'm a machine").
+track("3v84otT0tjqhDPpm52HLJ6", "you're a womani'm a machine").
 track("5gdYRxLcFNnKEPbFr1qRoM", "pull out").
 track("6CcqGsp5KWCI8Fex0gbB4h", "warrior").
 track("1IYbLO6q6Grsao2HzYix5e", "in the darkness - tech edit").
@@ -43703,7 +43703,7 @@ track("70ZCXOeAkHHZXXfUoH1Hms", "en stilla flirt").
 track("43IhSqbnuqcUXve5XnfcE6", "med dig i mina armar").
 track("2rE0kTf5C13GExZ7L11YUG", "utan dej").
 track("1UNlKlHqTlPy2bOuvPCUj4", "nu tändas ater ljusen i min lilla stad").
-track("6aXoGlwR5XeaaD02KLHaxJ", "vinden och stjärnorna").
+track("6aXoGlwR5XeaaD02KLHaxJ", "havet vinden och stjärnorna").
 track("6xU6fpJbmCiPLqj2W7OQJ6", "följ mig bortåt vägen").
 track("4VnUUuxt4vyn5lgWnStu44", "regntunga skyar").
 track("28FHYOKxQTWQR0VR49CXg2", "den dagen visorna dör").
@@ -43770,8 +43770,8 @@ track("3xIy38o80a89HJtivvUFeT", "hold everything").
 track("3i3hJObiSyxQENVacMnIrZ", "you're back again").
 track("6PxilLpC5argM2MDa5YdmW", "don't stop the music").
 track("5H2PPxjFvjmsHtgevXi8Vd", "(that's) all i want to do").
-track("1Tb5YRgQddYwkSPNcdsNrN", "no").
-track("5QrAcxzfFiIbbARxHvPVcH", "no (alt)").
+track("1Tb5YRgQddYwkSPNcdsNrN", "uhuhno").
+track("5QrAcxzfFiIbbARxHvPVcH", "uhuhno (alt)").
 track("7eAg9NEUvdUuAGby6Xv91Q", "cup of loneliness").
 track("58baSqo12apRkAbxexS0wo", "cup of loneliness (alt)").
 track("172AOUYRFwOln6Iy0wOQaq", "please take the devil out of me").
@@ -43861,7 +43861,7 @@ track("4ptdK5Arbu1P0lpVC1O94p", "rocky road blues").
 track("63B8TNmgCkTS28QjUahvsf", "true life blues").
 track("2JoNj5bTYjCEXELCIu3fFd", "heavy traffic ahead").
 track("2nMDDnTVQCe0NAeKTBcQdb", "molly and tenbrooks").
-track("5K6DZoq1UlErZx6hJc8ZDR", "you done me wrong").
+track("5K6DZoq1UlErZx6hJc8ZDR", "sweetheartyou done me wrong").
 track("0m77MET2gkf45wPdQvaoHv", "blue moon of kentucky").
 track("3DyoZJwZ3sNOmR5MT6kEl0", "along about daybreak").
 track("6kvMgbuUnih5194Qfl1XWi", "footprints in the snow").
@@ -43874,7 +43874,7 @@ track("51rw2bUhBWS1lQivpKpG6G", "heavy traffic ahead").
 track("1eXg4wC7IoMgqUmsGw1am0", "kentucky waltz").
 track("5OTEXGDdQfeMFORdNQkStr", "molly and tenbrooks").
 track("2M0niCblrau7rKFCJZA1DN", "summertime is past and gone").
-track("3SHOmeCnoj6zcqii7eXvKR", "you done me wrong").
+track("3SHOmeCnoj6zcqii7eXvKR", "sweetheartyou done me wrong").
 track("2xZsJVu0dZyavqc5fR8pkX", "when you are lonely").
 track("1p748OiHUfySiOEfaTRkPe", "i'm sittin' on top of the world").
 track("5YQzjkgIjVwoB2vmclTZmX", "roanoke").
@@ -43894,7 +43894,7 @@ track("5WWQZGAPOz5YgJrLDvZdsj", "heavy traffic ahead").
 track("2140wSsBlpCaWjCRzGrmhR", "kentucky waltz").
 track("6zGjl25vtVVF7CfnYAQFky", "molly and tenbrooks").
 track("1QS35if2jj0O1aGGGCo3QB", "summertime is past and gone").
-track("25oJcRrX63h3TRB4QEnlLo", "you done me wrong").
+track("25oJcRrX63h3TRB4QEnlLo", "sweetheartyou done me wrong").
 track("2q93sflpnilOSK8pWHeWni", "when you are lonely").
 track("5EaL7JFBtsIvRLK5ZlFzl5", "blue moon of kentucky - remastered").
 track("0aN59dhdEESUNCHGGGbsAG", "bluegrass breakdown - remastered").
@@ -43904,7 +43904,7 @@ track("2xkpX3fWaHVIm3boFu7Gtg", "heavy traffic ahead - remastered").
 track("4pWOsrfb5BmZSoha24L5N4", "kentucky waltz - remastered").
 track("4Resbjbhx7xanmgfxjaZBB", "molly and tenbrooks - remastered").
 track("2Rdu5gxAAVx8wAH2PxTghN", "summertime is past and gone - remastered").
-track("3a0FaJYhdFZwWOcLjX8rSN", "you done me wrong - remastered").
+track("3a0FaJYhdFZwWOcLjX8rSN", "sweetheartyou done me wrong - remastered").
 track("5mJ9P592tAY5LAHZw4CKAn", "when you are lonely - remastered").
 track("6EpCMxmcD6apv7pKyj9w63", "blue moon of kentucky - remastered").
 track("7IiVoBR9OIVwKtD7PzAFvm", "bluegrass breakdown - remastered").
@@ -43914,11 +43914,11 @@ track("1j8Lkuty6QBRjgwoFx73Jg", "heavy traffic ahead - remastered").
 track("6oVTnhMWoNfwoUskRkj8PO", "kentucky waltz - remastered").
 track("5og7A9oJhwuK7dv0ivEqR4", "molly and tenbrooks - remastered").
 track("08RCiRdFJnsnbUbgw53DDc", "summertime is past and gone - remastered").
-track("4FMsbI6CccJNEifD6BgOql", "you done me wrong - remastered").
+track("4FMsbI6CccJNEifD6BgOql", "sweetheartyou done me wrong - remastered").
 track("53q1Ql3YI4wM2lw5TWwwm1", "when you are lonely - remastered").
 track("6JxSIASDwOjmvabTxHzNlq", "my little georgia rose").
 track("07tErtBCiioymCp78wNw3u", "uncle pen").
-track("46JcQaEebSPqA8G4ZGHJer", "i'm lonesome").
+track("46JcQaEebSPqA8G4ZGHJer", "i'm bluei'm lonesome").
 track("06ylsEoOnofoSPLfIq5EbD", "i'll meet you in church sunday morning").
 track("6pNqP8zNmDHfr44njJqxzB", "boat of love").
 track("2D6Q8Egpny83pajLoA20dP", "the old fiddler").
@@ -43993,7 +43993,7 @@ track("4K4WVbYpYpKJXTfx4mjmWN", "el amigo").
 track("5Pkd8L8R4m11FWZ38DDBMA", "les tapé el hocico").
 track("6j6dAlvOjZAJF1ittPsGgU", "el amor no fue pa' mí").
 track("2EGqa4yp5xGfu3sppG0oFy", "préstamela a mí").
-track("4WmQUNTvYadj1SdxHYJtEZ", "perdió china").
+track("4WmQUNTvYadj1SdxHYJtEZ", "ganó holandaperdió china").
 track("2n8HmVQLNJLNdpGSr3lJ4T", "qué bonita tú").
 track("4QaBFS1O4AvlWrqzaYdz4S", "amor limosnero").
 track("609AbmRHaMPC8oIMOVzZMW", "buscando la manera").
@@ -44001,7 +44001,7 @@ track("0cm5lt9YBf8i8YSVmz525t", "cumbia reggae").
 track("3xZbJvGvpXe2Wr5LHrDJCp", "llorando y tomando").
 track("7vKKthSu3JzNr6wOnCFkrh", "alineando cabrones").
 track("5zzT4VaRXSstP899C7HSzA", "ahora va la mía").
-track("4opZ5wxWDao2No6CivRDtg", "mujer de nadie").
+track("4opZ5wxWDao2No6CivRDtg", "mujer de todosmujer de nadie").
 track("1RHD8P8Zs5vW3Xq0rAK3HX", "tus latidos").
 track("2aVbNajt23a1IlTKcQ2Yyt", "una mala elección").
 track("5IQl8woM2fZu6NWjE6bJOj", "aguaje activado").
@@ -44099,7 +44099,7 @@ track("11eVbtiMBcxABx1JTuEAJb", "awakening").
 track("6ZMtdNOFfJLwPfNuHlpPgp", "i").
 track("5ShHrgGErJ9JOJ5VU8oIGw", "kawazu").
 track("3NLUCyLS1HLrzkbsKg30lJ", "summoning redemption").
-track("719sjsuPpzbErlQDIqXL0z", "still i am").
+track("719sjsuPpzbErlQDIqXL0z", "agelessstill i am").
 track("3SfZAHxCxiFAjBUyNe90ii", "he who sleeps").
 track("5KTKlBjyG4fBRN72xLV7j1", "to the victor the spoils").
 track("753AEnTCL3s7nb60PDLxu4", "at one with nothing").
@@ -44302,10 +44302,10 @@ track("23eCy9ju12OtWXt8IG4NF5", "it just wont do (feat. kathy) club mix").
 track("0gBR083qPXMtH31Ny111gv", "it just wont do (feat. kathy) extended version").
 track("5GLqWECprhD0KGO78Cj0VE", "it just wont do (feat. kathy) extended instrumental").
 track("2aDatztR512yZnb0uHKD4a", "it just wont do (feat. kathy) funkstar de luxe remix").
-track("3abUKBkLzHCKNKPFIJ5caG", "vendelboe remix").
+track("3abUKBkLzHCKNKPFIJ5caG", "it just wont do (feat. kathy) svenstrupvendelboe remix").
 track("36O1jYiSvP8wehoYZxhsuz", "it just wont do (feat. kathy) tommy scott remix").
 track("6sN1oXiSeIk4AVylpcWaVW", "it just wont do (feat. kathy) banx remix").
-track("0BwhWSs0h7oW1b5Ga3Sphu", "stiig remix").
+track("0BwhWSs0h7oW1b5Ga3Sphu", "it just wont do (feat. kathy) decazastiig remix").
 track("7e0fIx1PN48uLVSmZzW7Ew", "momma's basement").
 track("7lCASbZLgueDxSUh2HEATf", "planeta").
 track("7xBFbHkLyiLUpWyFhXb0st", "technochet").
@@ -44412,11 +44412,11 @@ track("5yw7qzizYi3hGMY4E7Y41D", "help - skit").
 track("6U711nYIWQJstPgYAx2Gk7", "pearl shot").
 track("1GYQZigUtMJYJuNDdg4sIC", "you are not through").
 track("0ikzso48yX2BSUwZdxw6zw", "richard & jane - skit").
-track("61vVqUwcGRdVs7Z7hl3u2f", "All I Need - Extended Version").
-track("5xzpTeNev8mvY36mPmS967", "Hourglass").
-track("7ofIyeu0Eqqx1eMjEDlA1D", "Laury").
-track("2iQNeWAM5DeILTLHMxfywB", "Reverie").
-track("6cwq2KaReDs9O7kjXbhNBu", "Heavy Stone").
+track("61vVqUwcGRdVs7Z7hl3u2f", "all i need - extended version").
+track("5xzpTeNev8mvY36mPmS967", "hourglass").
+track("7ofIyeu0Eqqx1eMjEDlA1D", "laury").
+track("2iQNeWAM5DeILTLHMxfywB", "reverie").
+track("6cwq2KaReDs9O7kjXbhNBu", "heavy stone").
 track("5GaRRamkVUErMUVVnNoQRF", "nest").
 track("0Qlwnbxj0bzgwU7i4BuAuk", "dreaming").
 track("0DpjaqAH9fretz5DIMKFor", "eyes changing colour").
@@ -44427,11 +44427,11 @@ track("2jaw5T5xb7KnLhG9Tnv5P0", "iulius").
 track("3bXKzahZMjVburI9AfQWqV", "lull").
 track("4txLXy3vpGO3mpwePsk7CT", "hera").
 track("23gQe06mWQK5fB9PVXwdoB", "lucerne").
-track("2rADtrCa7ZHvTfrzNkzqov", "Love").
-track("0XOjhMErjEUvusZVpXA2kh", "Heartless").
-track("2T9ojZNIs3UeSkVOWsBJ7q", "Soulless Man").
-track("2E9yFEoH4oECEIzj2mwZx0", "Woman Put Your Weapon Down").
-track("1LDth0V1swIHLcScMnWdZU", "Swan in the Water").
+track("2rADtrCa7ZHvTfrzNkzqov", "love").
+track("0XOjhMErjEUvusZVpXA2kh", "heartless").
+track("2T9ojZNIs3UeSkVOWsBJ7q", "soulless man").
+track("2E9yFEoH4oECEIzj2mwZx0", "woman put your weapon down").
+track("1LDth0V1swIHLcScMnWdZU", "swan in the water").
 track("7ByR0zLClsaoMNApCcMbeX", "down in a cold dirty well").
 track("3miCPrFS2EzrLrIFx7u81f", "golden train").
 track("39SeLZgMl6pJDeuGMajMBu", "be back soon").
@@ -44515,7 +44515,7 @@ track("1VqekH6l9yEuj6DAvY1YkX", "play the tape out").
 track("649g52iNru9wbgQ1iU1rZd", "blackout").
 track("25N3X0xZQXqub81mN8SMNN", "all mapped out").
 track("6X1bE5UjHUygCzcHecSHOn", "sorry").
-track("073IxFjQfVQVAEkxIpsKPT", "months").
+track("073IxFjQfVQVAEkxIpsKPT", "hoursdaysmonths").
 track("2nMfy78IzADygmeQe6Yebp", "into place").
 track("2ZNO4blDXihlHj99VMjB60", "out there").
 track("2osflZCX2Btl3dMvu8ZLGt", "sleeps").
@@ -44569,11 +44569,11 @@ track("5VvbGZLMAEf6d05SJPZaRn", "amar você é bom demais").
 track("1kGnuANGXDrLrFyFmeJwXA", "pra nunca mais te ver").
 track("6K8jQ5ri014BiqYqUYuXtg", "deixa esse cara").
 track("48blNhtK7DyBbEGgl7LOBM", "três da madrugada").
-track("0ww3XgZ6Ay7owWnfdp4cxc", "eu sou você").
+track("0ww3XgZ6Ay7owWnfdp4cxc", "você sou eueu sou você").
 track("2Bb0mKmjEIxVKQfpQD18ju", "espião").
 track("6IjMfgyT5Ol1EJoWsZKOuP", "assim sou eu sem você (castelo de areia)").
 track("5YI1zwMj7Bb3H1M7LiDu0S", "três da madrugada").
-track("5lzeGFymLG0aKJnqiwBuli", "eu sou você").
+track("5lzeGFymLG0aKJnqiwBuli", "você sou eueu sou você").
 track("3WzMoaDZ2DjMPj0mllryuZ", "carta branca").
 track("1eYhgui5GZ7yJ3e8GDTd1Z", "perdido de amor  fonte dos desejos  fora de mim").
 track("522Pv45P2QPCPCqwFOU3pN", "apaixonada  sonhar  indefeso").
@@ -44594,7 +44594,7 @@ track("4mlVievUTH4SUTL6rwL3WF", "caixa postal").
 track("5fsBDNxNmB6Kb5ZSTLBXNR", "essa paixão virou chiclete").
 track("57hLaeixDDD9OitHS10YzF", "muito além do prazer").
 track("70AlEcX7jjGv7ePBPeEqbH", "coisas do amor").
-track("2ldr30al0O8a8mb96ASbHR", "fim fom").
+track("2ldr30al0O8a8mb96ASbHR", "firimfim fom").
 track("6A2knEU0l2b7VS7EL2CLwG", "dono de mim").
 track("1gbsXqwkjaHC3JbVfN7x6N", "stop").
 track("42If5lvsTgvATByZX4lTPv", "a preferida do brasil").
@@ -44657,7 +44657,7 @@ track("2SXc1CYqMWGTOCDEe6i6JG", "no woman has ever handled my herschel").
 track("6LQX7xuy4LjQuJGQ6vKTcB", "you speak of the trident").
 track("0N8b00laRviA4a2wWGyRHB", "the devil's triangle").
 track("6Axm4pFDMEy2auiDldc1Gj", "shansa").
-track("61QRvTiOedTbSg6Xzf8tYs", "i'll wait").
+track("61QRvTiOedTbSg6Xzf8tYs", "kill the filthy piratei'll wait").
 track("2x4nZ8rt3sS6IuXxl6jZFW", "the dying gull").
 track("6yRZSp6pMuXiCNLXybzPsn", "el matador del mar").
 track("53AFNkyGTwqfoImcZPC42n", "kill the sparrow").
@@ -44667,7 +44667,7 @@ track("35nt1q7PO6z0m7WIoEwy0P", "no woman has ever handled my herschel").
 track("5HXR1XaA5GypBxcpFX4t5B", "you speak of the trident").
 track("5tG7OiVXzOsuVxjkgAgqMM", "the devil's triangle").
 track("6JiaajXz7xjiGgblsyE4gB", "shansa").
-track("29nxmDhG9Oflrx1e0gA512", "i'll wait").
+track("29nxmDhG9Oflrx1e0gA512", "kill the filthy piratei'll wait").
 track("7GtffjSu8sTG0PCZ85lVZS", "the dying gull").
 track("6eXCYq1kCJq62rfIPXPQoa", "el matador del mar").
 track("6bQe91ZaqWJkctf0yjJS6Y", "kill the sparrow").
@@ -44686,7 +44686,7 @@ track("1GUH4DExRWqmCZJleqM7qZ", "make peace").
 track("49xuCrHa2a8JvrQA4cGrhh", "velina").
 track("4ExhgJ9S7eNWlWGZtU8YFY", "the man-kettle").
 track("0Q6dVag3GJj1CSq88umVsY", "we haven't eaten dinner yet").
-track("6MMM1ZtF6M7gMNiwUABM0d", "the birdman").
+track("6MMM1ZtF6M7gMNiwUABM0d", "sorrellthe birdman").
 track("5wcMK5LrMYQyzNKLR31Tgg", "we're a team").
 track("6zIu6psWt4uSkvFFuaO71o", "feel free to stop me").
 track("126MaobxKI1LbmUx4YBQkI", "the temple of the goddess").
@@ -44947,7 +44947,7 @@ track("0RVgrHkTbmGVS4hEIHZxTI", "music man").
 track("63PtWtC6xBDta54bw5zcCH", "souls on fire").
 track("7qWkbY4BIzlDRccx4q1Q3V", "when will you love me").
 track("6DXCismGlDnOY7dv6ZEvQS", "paradise island").
-track("5AYmaUaJahmjfKcswzsneX", "maria)").
+track("5AYmaUaJahmjfKcswzsneX", "the wind (ayayaymaria)").
 track("05ZUT19gQ1sHtlG4oVW4K1", "let me be the one").
 track("2XM9moXbjpUdwMRh3vnb5q", "desert song").
 track("2feZMgSilP8lk41Exkanb5", "tell me").
@@ -45091,16 +45091,16 @@ track("1cs4SFl74b0JVIx6odAIfm", "rollin' man - live 1969").
 track("3BsZH7VT9jF1fvArGl9boU", "lemon squeezer - live 1969").
 track("5FdgPor9lf0yHEWOCck8Xm", "need your love so bad - live 1969").
 track("326VLEngotHbWfx3imNKQ3", "great balls of fire - live 1969").
-track("2hwFQrMDzCPUr8vCanCw0E", "ca 52397").
-track("6PgcfHSocgnc4pjDgTuJcm", "ca 52397").
-track("6xTtThCvuvIYHl1ddntJGj", "ca 52397").
-track("6ogxNURdCpRGmtOYbECyqg", "ca 52397").
-track("1Vb1iR09yHdwLO7Z7YSKcg", "ca 52397").
-track("2TeczJua7d0fQenCUUeyMI", "ca 52397").
-track("54mBdT4j2WElTLunVCGMSU", "ca 52397").
-track("4XYQtNf5BxGeAiwR0YU2Gn", "ca 52397").
-track("06h9kk12VjJ2bqcBc6IScR", "ca 52397").
-track("1WLBuLK0LQSdG1MPLhljjg", "ca 52397").
+track("2hwFQrMDzCPUr8vCanCw0E", "the chain - live at warner brothers studios in burbankca 52397").
+track("6PgcfHSocgnc4pjDgTuJcm", "dreams - live at warner brothers studios in burbankca 52397").
+track("6xTtThCvuvIYHl1ddntJGj", "everywhere - live at warner brothers studios in burbankca 52397").
+track("6ogxNURdCpRGmtOYbECyqg", "rhiannon - live at warner brothers studios in burbankca 52397").
+track("1Vb1iR09yHdwLO7Z7YSKcg", "i'm so afraid - live at warner brothers studios in burbankca 52397").
+track("2TeczJua7d0fQenCUUeyMI", "temporary one - live at warner brothers studios in burbankca 52397").
+track("54mBdT4j2WElTLunVCGMSU", "bleed to love her - live at warner brothers studios in burbankca 52397").
+track("4XYQtNf5BxGeAiwR0YU2Gn", "big love - live at warner brothers studios in burbankca 52397").
+track("06h9kk12VjJ2bqcBc6IScR", "landslide - live at warner brothers studios in burbankca 52397").
+track("1WLBuLK0LQSdG1MPLhljjg", "say you love me - live at warner brothers studios in burbankca 52397").
 track("0SzHc5GKaHrcTOoQvEqygF", "talkin' to my heart").
 track("3FcjR9MHChTfJd5HCbnMW2", "hollywood (some other kind of town)").
 track("7MHntIbhu90eQ4fQeeoJnb", "blow by blow").
@@ -45155,7 +45155,7 @@ track("36QvafFXhq0CBAz5TVA8uk", "minor threat - version").
 track("6HXFm1TriL5iTBuZMGSYQr", "stand up - version").
 track("5CH7Ac8It6X7CPjmxGLCdf", "seeing red - version").
 track("0a9GDF9PsLqCfkMXBUAsHk", "bottled violence - version").
-track("4VfvWJNVAhxTKO1r11i0Mq", "big mouth - version").
+track("4VfvWJNVAhxTKO1r11i0Mq", "small manbig mouth - version").
 track("2P6wWgjSEIk9VRNHf38pRj", "straight edge - version").
 track("50VweOUpUgZRbvYeOh0g4O", "guilty of being white - version").
 track("4Mczon4aqMl0kXdiHcirNa", "i don't want to hear it").
@@ -45163,7 +45163,7 @@ track("6NGxGmKo0w0zQE9HuaKzd9", "filler").
 track("2qUvaIFI5Io2UcOkpofLMB", "i don't wanna hear it").
 track("6Oo8wDuMdKq5KscPsP6sAL", "seeing red").
 track("3Iw6tbCYDYb3libUo3bB5S", "straight edge").
-track("4mvVR2d9B1Q2LpPoGSNtno", "big mouth").
+track("4mvVR2d9B1Q2LpPoGSNtno", "small manbig mouth").
 track("3EabpCN4RuqoFeTzxKosC8", "screaming at a wall").
 track("5WxUeheBNisr6y63yE8Izr", "bottled violence").
 track("6yIaRcvzhIrukxS4VVhil0", "minor threat").
@@ -45172,14 +45172,14 @@ track("5MSk2qtJiDcEZUHu8bQeb1", "12xu").
 track("41v6fnmFiJFeLT3fxqLdmn", "betray").
 track("6GvyAwquB9ocJ1hbD6CyCB", "it follows").
 track("6qOVW5I0mTY0pmDemFMNxV", "think again").
-track("7oaSBiHGHVmPIHYaSstwhQ", "back & laugh").
+track("7oaSBiHGHVmPIHYaSstwhQ", "lookback & laugh").
 track("4Lgch1BJ7xhjpCguufljBG", "sob story").
 track("0lUjz7q97WTHBTYCejj4yo", "no reason").
 track("4yXDlcX7wjbTJd9J08U2AC", "little friend").
 track("756VSzXCdpd9nn2qArvQP4", "out of step").
 track("799FjhmpjSISJ07w4DYegO", "cashing in").
 track("5opKGlBKeCkIUsRa6Jp6eq", "chega de sofrer  em cada esquina  luz  código do amor  supra sumo de amor  agora viu que perdeu e chora  pra te conquistar  amor oriental - ao vivo").
-track("5bFqUJ1NZjOoikhKixsl6t", "na fazenda - ao vivo").
+track("5bFqUJ1NZjOoikhKixsl6t", "lugares  por enquanto  na ruana chuvana fazenda - ao vivo").
 track("2VhYadGy0v13XvnkHXCRjP", "uma estrela  você gosta - ao vivo").
 track("2WLUUPNJds5ior3VFRnEqx", "som do tambor - ao vivo").
 track("7rOhZ7f9c0wqEn46BRXu7K", "você é ninguém").
@@ -45239,7 +45239,7 @@ track("2Z3yreIiKCBbLNyk9keQaR", "バリ3共和国 (コスモツアー2019 ライ
 track("2251rXPmfnBhX9NuCNVJ4g", "プレシャスサマー! (コスモツアー2019 ライブver.)").
 track("6yK8Flc4S2wdJdBUgBfzVr", "くちづけキボンヌ (コスモツアー2019 ライブver.)").
 track("1l44NFxQ1lGPi2idHAljwN", "あした地球がこなごなになっても (コスモツアー2019 ライブver.)").
-track("4geFG3SdEiEst0RH4OSXwJ", "dempa rocket go!! (コスモツアー2019 ライブver.)").
+track("4geFG3SdEiEst0RH4OSXwJ", "fd3dempa rocket go!! (コスモツアー2019 ライブver.)").
 track("4Z34LRdcvQu1QcecpO0bPh", "キラキラチューン (コスモツアー2019 ライブver.)").
 track("0b4qlOHLPfF7K0kS2ZeRNZ", "エバーグリーン (コスモツアー2019 ライブver.)").
 track("3yGWJ9tH4dBrCcqNhXotjU", "ワレワレハデンパグミインクダ").
@@ -45247,7 +45247,7 @@ track("7npdKML1znhBVyhH1G5FMB", "ギラメタスでんぱスターズ").
 track("04An8SHZ3nPJX8uytoNqUK", "プレシャスサマー!").
 track("66KYGaHM10rJcip0WW7kDx", "世界が私の味方ならば…").
 track("3wUtqkqF3Oqbyi0QrBRPFH", "かぼちゃタンデム").
-track("4qxjvqbgJF6TsFq1LgHl30", "dempa rocket go!!").
+track("4qxjvqbgJF6TsFq1LgHl30", "fd3dempa rocket go!!").
 track("5Fp9TvglWZHoGflwmXUw8k", "ムーンライト伝説").
 track("6nvDyXnSzhvFkHgnkPLM3i", "ψ発見伝!").
 track("0A7jY74JHvTt78PfCdlw2R", "おやすみポラリスさよならパラレルワールド").
@@ -45296,7 +45296,7 @@ track("3LBpbYhTIR81fH2ci3s0Tf", "dance dance dance").
 track("42nDB71ONG3V29P4vyAXnt", "neo japonism").
 track("7MMGdnJf3c6duewWWzzomj", "fd2 (raison detre daibouken)").
 track("0MrerzjhMsuEn99mbPsGFH", "chururi chururira").
-track("5MxBr0m3iv2tAwDzAVyrC8", "dempagumi.inc ga ririku itashimasu").
+track("5MxBr0m3iv2tAwDzAVyrC8", "mamonakudempagumi.inc ga ririku itashimasu").
 track("576HV0hWh33rTNMU6MdjGK", "dear stage e youkoso").
 track("1DbrgNKSPOMjJ543KsxDEl", "bari3 republic").
 track("5DFfgZnfysvxrEEqjYVIBs", "fancy hoppe u fu fu").
@@ -45336,26 +45336,26 @@ track("3QMJZVk5PcfP2L0bwBRxlv", "chord time").
 track("1N2fN1IepIzX0NpqkggAvK", "only she knows").
 track("6EbY2OSk9CZmW1yr4CZF2I", "into the light").
 track("5qxLU5ulO4iXKjOnZ5kZ6k", "born game").
-track("4OyL7DiIhq6NpglurVj9uh", "1995").
-track("3VOMJvg139nFcVkovvVfLO", "1995").
-track("4ljgMYOcD94K8EDfZNln17", "1995").
-track("0v3Q1hilkT4K6cY5LjrOqm", "1995").
-track("4itK0JoJllrGPqqcpFUXq8", "1995").
-track("3zEmqbNxtvqlZPnJRcPywX", "1995").
-track("60vJMgNw3YJnj8qGRmfJNc", "1995").
-track("2n6UHOZja76U10cGojGNto", "1995").
-track("3Z7OFraob1P0QscGaSoh0v", "1995").
-track("3F3VLZ2tVi6Z2D6xNpTe07", "1995").
-track("4D4VQmv7GEkoIs50ZlwUD5", "1994").
-track("3Xkh7HcZf6F5CjXQECI5Be", "1994").
-track("639vBghedIpW8VXwNWDNJj", "1994").
-track("7l7Or2uU0qm26C4lM5JfuT", "1994").
-track("0ArAeTKzhg9Kl2y7aH6D0n", "1994").
-track("6lq7w7V7a4QdaJSeYbmN70", "1994").
-track("5lwgx58Uhh08uYqSvMYTEL", "1994").
-track("7x4B8yNOfcQsl1VGze2ZUS", "1994").
-track("5Ito1K0bU6LsGIJqGArBpN", "1994").
-track("4zRenfmIXdz0OQ8c7nW5yt", "1994").
+track("4OyL7DiIhq6NpglurVj9uh", "dream brother - live at columbia records radio hournew yorknyjune 41995").
+track("3VOMJvg139nFcVkovvVfLO", "so real - live at columbia records radio hournew yorknyjune 41995").
+track("4ljgMYOcD94K8EDfZNln17", "mojo pin - live at columbia records radio hournew yorknyjune 41995").
+track("0v3Q1hilkT4K6cY5LjrOqm", "grace - live at columbia records radio hournew yorknyjune 41995").
+track("4itK0JoJllrGPqqcpFUXq8", "lilac wine - live at columbia records radio hournew yorknyjune 41995").
+track("3zEmqbNxtvqlZPnJRcPywX", "last goodbye - live at columbia records radio hournew yorknyjune 41995").
+track("60vJMgNw3YJnj8qGRmfJNc", "eternal life - live at columbia records radio hournew yorknyjune 41995").
+track("2n6UHOZja76U10cGojGNto", "kick out the jams - live at columbia records radio hournew yorknyjune 41995").
+track("3Z7OFraob1P0QscGaSoh0v", "loveryou should've come over - live at columbia records radio hournew yorknyjune 41995").
+track("3F3VLZ2tVi6Z2D6xNpTe07", "i know it's over - live at columbia records radio hournew yorknyjune 41995").
+track("4D4VQmv7GEkoIs50ZlwUD5", "mojo pin - live at wetlandsnew yorknyaugust 161994").
+track("3Xkh7HcZf6F5CjXQECI5Be", "dream brother - live at wetlandsnew yorknyaugust 161994").
+track("639vBghedIpW8VXwNWDNJj", "so real - live at wetlandsnew yorknyaugust 161994").
+track("7l7Or2uU0qm26C4lM5JfuT", "last goodbye - live at wetlandsnew yorknyaugust 161994").
+track("0ArAeTKzhg9Kl2y7aH6D0n", "lilac wine - live at wetlandsnew yorknyaugust 161994").
+track("6lq7w7V7a4QdaJSeYbmN70", "grace - live at wetlandsnew yorknyaugust 161994").
+track("5lwgx58Uhh08uYqSvMYTEL", "what will you say - live at wetlandsnew yorknyaugust 161994").
+track("7x4B8yNOfcQsl1VGze2ZUS", "hallelujah - live at wetlandsnew yorknyaugust 161994").
+track("5Ito1K0bU6LsGIJqGArBpN", "je n'en connais pas la fin - live at wetlandsnew yorknyaugust 161994").
+track("4zRenfmIXdz0OQ8c7nW5yt", "loveryou should've come over - live at wetlandsnew yorknyaugust 161994").
 track("6b6CRNPv5auFFRp4Fub34l", "dream brother - live").
 track("2gAMs6XzOuBQrdi2HZNDpg", "mojo pin - live").
 track("4Dd3Ilo8yl8qYe3LH2F07T", "so real - live").
@@ -45384,46 +45384,46 @@ track("1f7CTlVud9oFA5YntaVfCh", "the boy with the thorn in his side - extended v
 track("6i5OPnTAK1Q5QOvR2c1AWu", "poor boy long way from home").
 track("48mBKoE2f2BBdtBlVx8lRL", "night flight - extended version").
 track("5EWfCB8JsZ6JDbhqs6xAvb", "i know it's over").
-track("10B9d0DvVkYhP4VVVHqYTX", "uk - january 1995").
-track("7r97pRO5edBOVy3AMiHjzd", "germany - february 1995").
-track("7EGATgaxitLfOu5FXYCyi5", "germany - february 1995").
-track("4ruxo0MtdQ2SznMsRbX8Hi", "germany - february 1995").
-track("18NKCYnLrTq3HBL5bN5X7A", "japan - january 1995").
-track("2K2O65WmkaDXtP44h6CLjw", "la - december 1994").
-track("3bhxqzx6lYd67nKeYkacpi", "uk - march 1995").
-track("54fNgyKf8HXKGRPV4Aq1nV", "uk - march 1995").
-track("4ZTOFxmGtYp9iDX1bZdGfM", "il - november 1994").
-track("2uKEdIaYOwji2YAuz7IAHv", "france - july 1995").
-track("7keRJOgIkO63YG6ecdqkr4", "wa - may 1995").
-track("5wj3UMkeRcgF7M9kXlMq1y", "wa - may 1995").
-track("0b3JSRGUy44ibCYGRzWF0b", "wa - may 1995").
-track("34iICp46wthHE2MhPdXk6B", "wa - may 1995").
-track("7t32TcsFJupz7P8mcsdGVA", "wa - may 1995").
-track("5pQWnzes7tR3P1YN88wgcS", "wa - may 1995").
-track("2vvfuSR2NoMzfG03bFmBdi", "wa - may 1995").
-track("5efkNrQAKyd7ew06GCa0GB", "wa - may 1995").
-track("3q0iAYqmULxSDyFflvDcGl", "wa - may 1995").
-track("3Pi7i1emcbgwR172q2XsPm", "wa - may 1995").
-track("5NrWRoGT19BAE3SBS1Lp2B", "france - july 1995").
-track("62tqO39XhSD12JqNmf1Bvr", "france - july 1995").
-track("5gKDvYq2WxL5AGCxsbdSzQ", "france - july 1995").
-track("3iELuQMPXc7eBmzWrY8AaS", "france - july 1995").
-track("7saaGs1uRxkJKXyosRdl0p", "france - july 1995").
-track("6hWp7H6kDFPEHDUurPkwdj", "france - july 1995").
-track("4vXUIaN6JPtIbuK8qU7fAX", "france - july 1995").
-track("0tZHcXRsPSdxcL5Fof6yjY", "france - july 1995").
-track("2Lm3UKoBWf1EUySGNazcVB", "france - july 1995").
-track("0Rm78lP3WLumNsQdZPk8G9", "france - july 1995").
-track("6p9SX0qr3HvkW5LqVy1uyy", "1995").
-track("3SdcxiboHF8jF4UQkAn0H3", "1995").
-track("1AJuMTWfvxbNzfORv9PL8E", "1995").
-track("4GlvRdihDCumkiVAq5S7BQ", "1995").
-track("6yQduWXGmdPij48CEHZKuX", "1995").
-track("1yFYrTsqdPrNC3QKu4N3Kd", "1995").
-track("6x33ykiOF37GTQsw1Q6O5f", "1995").
-track("74Cbl0ElmPzWkh3gNA0mJ1", "1995").
-track("6qcH3ShE6y305lbEwHMymz", "1995").
-track("7LeIWeb8xF6kq88jObxJw1", "1995").
+track("10B9d0DvVkYhP4VVVHqYTX", "grace - live at bbc late showlondonuk - january 1995").
+track("7r97pRO5edBOVy3AMiHjzd", "so real - live at südbahnhoffrankfurtgermany - february 1995").
+track("7EGATgaxitLfOu5FXYCyi5", "mojo pin - live at südbahnhoffrankfurtgermany - february 1995").
+track("4ruxo0MtdQ2SznMsRbX8Hi", "what will you say? - live at südbahnhoffrankfurtgermany - february 1995").
+track("18NKCYnLrTq3HBL5bN5X7A", "hallelujah - live at mtv japantokyojapan - january 1995").
+track("2K2O65WmkaDXtP44h6CLjw", "dream brother - live at howlin wolfnew orleansla - december 1994").
+track("3bhxqzx6lYd67nKeYkacpi", "eternal life - live at mtv's most wantedlondonuk - march 1995").
+track("54fNgyKf8HXKGRPV4Aq1nV", "last goodbye - live at mtv's most wantedlondonuk - march 1995").
+track("4ZTOFxmGtYp9iDX1bZdGfM", "loveryou should have come over - live at jbtvchicagoil - november 1994").
+track("2uKEdIaYOwji2YAuz7IAHv", "lilac wine - live at eurockéennes festivalbelfortfrance - july 1995").
+track("7keRJOgIkO63YG6ecdqkr4", "introduction by jeff - live at king cat theaterseattlewa - may 1995").
+track("5wj3UMkeRcgF7M9kXlMq1y", "happy birthdaymick loveryou should have come over - live at king cat theaterseattlewa - may 1995").
+track("0b3JSRGUy44ibCYGRzWF0b", "dream brother - live at king cat theaterseattlewa - may 1995").
+track("34iICp46wthHE2MhPdXk6B", "so real - live at king cat theaterseattlewa - may 1995").
+track("7t32TcsFJupz7P8mcsdGVA", "mojo pin (tongue version) - live at king cat theaterseattlewa - may 1995").
+track("5pQWnzes7tR3P1YN88wgcS", "what will you say - live at king cat theaterseattlewa - may 1995").
+track("2vvfuSR2NoMzfG03bFmBdi", "last goodbye - live at king cat theaterseattlewa - may 1995").
+track("5efkNrQAKyd7ew06GCa0GB", "kick out the jams - live at king cat theaterseattlewa - may 1995").
+track("3q0iAYqmULxSDyFflvDcGl", "two ninja (that's all i ask) - live at king cat theaterseattlewa - may 1995").
+track("3Pi7i1emcbgwR172q2XsPm", "lilac wine - live at king cat theaterseattlewa - may 1995").
+track("5NrWRoGT19BAE3SBS1Lp2B", "loveryou should've come over - live at olympiaparisfrance - july 1995").
+track("62tqO39XhSD12JqNmf1Bvr", "dream brother - live at olympiaparisfrance - july 1995").
+track("5gKDvYq2WxL5AGCxsbdSzQ", "eternal life - live at olympiaparisfrance - july 1995").
+track("3iELuQMPXc7eBmzWrY8AaS", "kick out the jams - live at olympiaparisfrance - july 1995").
+track("7saaGs1uRxkJKXyosRdl0p", "lilac wine - live at olympiaparisfrance - july 1995").
+track("6hWp7H6kDFPEHDUurPkwdj", "grace - live at olympiaparisfrance - july 1995").
+track("4vXUIaN6JPtIbuK8qU7fAX", "that's all i ask - live at olympiaparisfrance - july 1995").
+track("0tZHcXRsPSdxcL5Fof6yjY", "kashmir (led zeppelin parody) - live at olympiaparisfrance - july 1995").
+track("2Lm3UKoBWf1EUySGNazcVB", "je ne connais pas la fin - live at olympiaparisfrance - july 1995").
+track("0Rm78lP3WLumNsQdZPk8G9", "hallelujah - live at olympiaparisfrance - july 1995").
+track("6p9SX0qr3HvkW5LqVy1uyy", "dream brother - live at cabaret metrochicagoilmay 131995").
+track("3SdcxiboHF8jF4UQkAn0H3", "loveryou should've come over - live at cabaret metrochicagoilmay 131995").
+track("1AJuMTWfvxbNzfORv9PL8E", "mojo pin - live at cabaret metrochicagoilmay 131995").
+track("4GlvRdihDCumkiVAq5S7BQ", "so real - live at cabaret metrochicagoilmay 131995").
+track("6yQduWXGmdPij48CEHZKuX", "last goodbye - live at cabaret metrochicagoilmay 131995").
+track("1yFYrTsqdPrNC3QKu4N3Kd", "eternal life - live at cabaret metrochicagoilmay 131995").
+track("6x33ykiOF37GTQsw1Q6O5f", "kick out the jams - live at cabaret metrochicagoilmay 131995").
+track("74Cbl0ElmPzWkh3gNA0mJ1", "lilac wine - live at cabaret metrochicagoilmay 131995").
+track("6qcH3ShE6y305lbEwHMymz", "what will you say - live at cabaret metrochicagoilmay 131995").
+track("7LeIWeb8xF6kq88jObxJw1", "grace - live at cabaret metrochicagoilmay 131995").
 track("1TK31S3gUoDt617ZN1YLCS", "una cita").
 track("7DPF7RPoXkBC3mdaPcAKEA", "de excursión").
 track("6lniZxzAasOAiR2EwOVcLZ", "sola").
@@ -45469,7 +45469,7 @@ track("7mMPIcLBYQz9dIKDkDxjge", "dead ringer").
 track("2Swy6HJgRPFqNgFWRl6Xtb", "halfway there").
 track("4t2rjxCXIJnBmRBkXJOYa5", "like the angel").
 track("2KlKUge1mpUnuz4MaZNOww", "voices off camera").
-track("7KjIbIloecZxI5iNjErQDq", "white & blue").
+track("7KjIbIloecZxI5iNjErQDq", "blood-redwhite & blue").
 track("3LEyYZc8Wq8LSfQwJzZiI9", "broken english").
 track("7CI6lvS7N7MTuKCCFGnnSV", "last chance blueprint").
 track("0hioNGelRzaFSiUxQ3vK9K", "to the core").
@@ -45660,7 +45660,7 @@ track("6ObIsRbWL6sovYeLhUiVw7", "we both made promises - extended").
 track("4cerM2mE1RPos9a4Sifq6q", "help arrives - extended").
 track("2epEcv0oAQNdnYOJnZOJrm", "hand means stopyou go right - extended").
 track("7pwCxGp8lFfhPfsg88tVC6", "the oasis").
-track("5VhdUGLvrUqZtJdIAfG5YL", "i'm james halliday").
+track("5VhdUGLvrUqZtJdIAfG5YL", "helloi'm james halliday").
 track("4z6AiJUBgnusxdCwi41G8b", "why can't we go backwards?”").
 track("6bAnTaJCZK5rBAd0WlGECY", "an orb meeting").
 track("2aknn6Um4R3ys99Wsd5DZE", "real world consequences").
@@ -45812,7 +45812,7 @@ track("6t5Qi4bucQqXgzMRwyj48z", "mountain song - live").
 track("7jW5gS11HrzmKWB3rKrJQR", "whores").
 track("0Kb8Ywsf728cqksYOfVHcG", "ain't no right").
 track("1zYxJBAtdBIkw7I5WD7mSZ", "just because").
-track("0LEyQPQJltcQgtEqDS5v1M", "just admit it...").
+track("0LEyQPQJltcQgtEqDS5v1M", "tedjust admit it...").
 track("4ScrTS4H59NpKBtcBQMoBD", "been caught stealing").
 track("0ymTjH1advUevXkigkMjxU", "irresistible force (met the immovable object)").
 track("6eNAqIHl2q6YP6WejmvADG", "up the beach").
@@ -45863,7 +45863,7 @@ track("1dtmoGPBXf345SW4HT5QUM", "kettle whistle").
 track("64evVMjyow5mvSOtqNGUZY", "my cat's name is maceo - demo").
 track("5r9N2nRnW3IZhtQHFhAjxB", "so what!").
 track("1atCEBZJgOcoajj0sWzn1x", "jane says - live").
-track("1Q6Rl0ncBQNEV8rZwSMoaI", "1990").
+track("1Q6Rl0ncBQNEV8rZwSMoaI", "three days - live1990").
 track("7F0dwqgKzlaIRrngChBRAc", "stop").
 track("4IgQThPOeAndnA4VIuIRcX", "no one leaving").
 track("09cGAeWYBVrV9jtUF4iOv7", "ain't no right").
@@ -45887,7 +45887,7 @@ track("0oC6CtphhfRNk3INKqmKWZ", "1% (remastered) - live").
 track("4GIbrzqqbHKhy3wsejgLdy", "idiots rule (remastered) - live").
 track("7hQ3bX8o9noCDx3y1PMDXB", "had a dad (remastered) - live").
 track("2cmKJ2WnSHDl6UKoe9Ktcw", "up the beach (remastered) - live").
-track("23cxX7pvAERm0gPsyE6Rku", "just admit it... (remastered) - live").
+track("23cxX7pvAERm0gPsyE6Rku", "tedjust admit it... (remastered) - live").
 track("08bRfbWi7i7rEhBazCgIzR", "standing in the shower... thinking (remastered) - live").
 track("43mmSCDFiUiJz1w4VdZN8J", "banter (remastered) - live").
 track("7L4994LBj1DtF6LJtX9Hie", "like a rolling stone  bobhaus (remastered) - live").
@@ -45943,13 +45943,13 @@ track("4b4Z3vepAo1bvXr2WvuaD0", "acordado").
 track("5xPIrZZTJR9slANLwZI7Te", "d'accord").
 track("1PdblDc7eAEZa5VL0OdaDN", "record").
 track("2YcaR7pWeQgFCcBbILYc8i", "chão").
-track("63RMcV8zQxNVr8RsPehZkN", "eu cegue").
+track("63RMcV8zQxNVr8RsPehZkN", "se não for amoreu cegue").
 track("20BzQdLVpJOX4ktJoRUjOk", "amor é pra quem ama").
 track("67HsuEjyzsUnHXV1aKDAF2", "seres estranhos").
 track("2gNgbO6pRYxkZ0Gvk63Bye", "uma canção e só").
 track("7gLK8YmbIQ2L3EhTg6JpzZ", "envergo mas não quebro").
 track("7554Im7073jTyYXAmklMJb", "malvadeza").
-track("5uVHdjliTDPknEcbosaQAx", "nada que me sobra").
+track("5uVHdjliTDPknEcbosaQAx", "tudo que me faltanada que me sobra").
 track("5YJgyLKyup8k8wEhBaVzr4", "de onde vem a canção").
 track("3X9Igbb3O29YC6IKFeoGxx", "isso é só o começo").
 track("24mA7SHXclNEjqtxdYujXC", "aquilo que dá no coração").
@@ -46133,22 +46133,22 @@ track("2ivh03cnzKddl6XjpMLxPg", "walking - live").
 track("6qg6RxQraI7A5BwypBLKmr", "green dolphin stre - live").
 track("4x4RouTWp4iaMbItzpnKaI", "no blues - live").
 track("1w5MSST9KD1DqpV4cxRNr9", "all blues - live").
-track("4yDLmiVQBYhEwv58GODlOD", "jimmy heath").
+track("4yDLmiVQBYhEwv58GODlOD", "commentary: herbie hancockjimmy heath").
 track("3bn8GptV8VDJw7Y3sB8sCM", "milestones").
 track("4mWojIjDAunaRyBxktO8So", "commentary: greg tate").
-track("3iB0pcx0134dOlHIhbIMmH", "symphony sid introduction").
+track("3iB0pcx0134dOlHIhbIMmH", "commentary: ashley kahnsymphony sid introduction").
 track("06zYllautQHPHx2MHfgNuO", "moon dreams").
 track("0ZAcVFHMAvWucl4kf6Rqer", "commentary: george wein").
 track("1V0ETJI1F3i9CB15Jk4MRY", "'round midnight").
 track("27lEQLZKA9jkKM9oJr3edN", "commentary: carlos santana").
 track("6TMLxfksenYbraCJ8wPWye", "buzzard song").
-track("0QpG1830BDcZXtCu0fzCOA", "you is my woman now").
+track("0QpG1830BDcZXtCu0fzCOA", "bessyou is my woman now").
 track("4oEBkZXfh1CeugoWdyCaY4", "gone").
-track("56hYAuVF2PJYIcvbCw8Nth", "gone").
+track("56hYAuVF2PJYIcvbCw8Nth", "gonegonegone").
 track("0hfPigIE1a1MLjLSqhtWTa", "summertime").
-track("0JarMUPagvyA8WuRbCyNFk", "oh where's my bess").
+track("0JarMUPagvyA8WuRbCyNFk", "oh bessoh where's my bess").
 track("4a3bWny9YSpENNeDLarVQJ", "prayer (oh doctor jesus)").
-track("1rhJzDg7FphPz85E2oBIOS", "strawberry and devil crab").
+track("1rhJzDg7FphPz85E2oBIOS", "fishermenstrawberry and devil crab").
 track("2teuLdkviJGueHfpSwux05", "my man's gone now").
 track("0EVFIr5NDpqEZ0goD8xG9m", "it ain't necessarily so").
 track("2uC5X8H7VgIHzmibvPd5Qi", "that old devil moon").
@@ -46269,7 +46269,7 @@ track("2bCQHF9gdG5BNDVuEIEnNk", "smooth criminal - 2012 remaster").
 track("4roGXKpQhvd1xkpX51vmM1", "mit 18").
 track("2Y4nKwuepTAflXPCWcJAU9", "zieh dir bloß die schuhe aus").
 track("4MnhXTb0TB8uUL4ufSLHx2", "willi wucher").
-track("2HML58IFPvaIUvuKecaHpL", "margarethe").
+track("2HML58IFPvaIUvuKecaHpL", "ohmargarethe").
 track("74QdpN2zK0RQ2VWiV4kTk9", "alles in den wind").
 track("3w9QPlf9rJ6MZWqKEtOzf9", "mit pfefferminz bin ich dein prinz").
 track("0fIh5WJ6DN06hbpBiDdzfs", "dicke").
@@ -46284,12 +46284,12 @@ track("1ILiVoSggWaAc7fzLPZYSa", "interlude 2 - mtv unplugged").
 track("5SyjVvNW2hbQlnIGcOtLkM", "es geht mir gut - mtv unplugged").
 track("1LlaPrUxIVFSGZjlYzOSQg", "weil ich dich liebe - mtv unplugged").
 track("1H41c4x40JmmITidwCmKxS", "alphatier - mtv unplugged").
-track("4ZoEv838Iq5v7VQ9JigVDC", "hereinspaziert").
+track("4ZoEv838Iq5v7VQ9JigVDC", "hereinspazierthereinspaziert").
 track("5dxH65rCeoBMoBJ8KxOny3", "alphatier").
 track("1CoFfaYurPGC0wnqCsCdpm", "liebe (um der freiheit willen)").
-track("761rpz1ouVTwRUuelNeIzT", "herr").
+track("761rpz1ouVTwRUuelNeIzT", "ohherr").
 track("4RW2bp5ZFzkoz4Dj3kSsSw", "clown").
-track("1codwkriGKiQOOpLOlVBwY", "ich weiss").
+track("1codwkriGKiQOOpLOlVBwY", "engelich weiss").
 track("42TWY2lbV6teWOnqiQqp0C", "verzeih'").
 track("4sPczTNX9ERYEdRe7sicTF", "was ich will bist du").
 track("3iL1sJWCpAP75X6QIrtWOU", "liebeslied").
@@ -46304,7 +46304,7 @@ track("76yPvJwfF2jURJdwD5f6y5", "alleine").
 track("3PCBpkoJvd1KCgXHmvVq1O", "mit 18").
 track("0giwsHOG3TTAcjgQCi7ww0", "lieben werde ich dich nie").
 track("3tnjI6eXDVJ2MIYtWRZ8uz", "schweigen ist feige").
-track("4uXeCZlJPtom1GsuKxHKMn", "hey").
+track("4uXeCZlJPtom1GsuKxHKMn", "heyhey").
 track("4xKCBHUahAzDnTRfQlsTa4", "schinderhannes").
 track("2cWRjOFxpgyAe6nZXgy2m4", "mit beiden füßen auf dem boden").
 track("6ciBDxtSrqW5dtiqCpC4qP", "komm schon").
@@ -46335,7 +46335,7 @@ track("3NfryFbA6X6bG5kHCCzkz6", "ein blatt im wind").
 track("4ajHhOaQ5wz7D55HEFXk7a", "wenn du glaubst").
 track("5G3PK4i9K6lVcTE12m5YIM", "halleluja intro - live; remastered").
 track("1VsFeXsWxfaQ1KJvwOGT7X", "fertig - live; remastered").
-track("0CuRU6I8j1G5ZHf6Hg0taS", "dass ich glücklich bin - live; remastered").
+track("0CuRU6I8j1G5ZHf6Hg0taS", "weisst dudass ich glücklich bin - live; remastered").
 track("69P4cOmBawOtRm6XdQAnmV", "nur ein traum - live; remastered").
 track("5kKpb70kqB13OLS5LGRfc1", "keine zeit - live; remastered").
 track("6MsHHLOS2STYTYiCYlulb7", "lieben werd' ich dich nie - live; remastered").
@@ -46549,7 +46549,7 @@ track("0YTNMLs0p96vU5ffvvSe6V", "the bells of st. mary's").
 track("2MlUXXgTHrxNaambYabiOK", "blue christmas").
 track("10BwbvGJrRsFulzL4hr8Bm", "o holy night").
 track("04TNwsW1kWrj0wCvqMMHYi", "there is a star that shines tonight").
-track("5xt4xNqbnkAZVca2FmOAUO", "hello").
+track("5xt4xNqbnkAZVca2FmOAUO", "hello my friendhello").
 track("2fsndS2bfgCTTAFFapt79x", "god bless this mess").
 track("49yYSc9Lhn6eyh6aS0Do2g", "shine over babylon").
 track("5ASTUKeiSTsRS9uPZabgED", "love is free").
@@ -46588,12 +46588,12 @@ track("0SSQl3zk7zc4bH53VnejG2", "if it makes you happy - live concert in the sky
 track("6o3cZsrbL2A7leW1JlOlMK", "my favorite mistake - live concert in the sky").
 track("5DWWADY6hurY0LAy3aPWkW", "soak up the sun - live concert in the sky").
 track("5KKBOCjxyxHIQZxBAIuLd6", "everyday is a winding road - live concert in the sky").
-track("53RVNfjWmsHCVrL9ZOjQFf", "look at me now").
+track("53RVNfjWmsHCVrL9ZOjQFf", "ohlook at me now").
 track("2elsxg1ukiJs3hObWsxisY", "someday").
 track("0iwnj2WAEXabBRh9GMPuqo", "along the navajo trail").
 track("1jP0eqBKJrDkv2QnTmBlIB", "running wild").
 track("3R3YkQbznr3Zmyjo8QeBfR", "ac-cent-tchu-ate the positive").
-track("4qeTt4QZqOjQMGho5glzNH", "mary lou").
+track("4qeTt4QZqOjQMGho5glzNH", "marymary lou").
 track("4wSZrq0IJTh3gfho3iVlAE", "when i fall in love").
 track("04xW8v9BFblHbbBmBIqBxm", "i cover the waterfront").
 track("37i63i40Xd7VpfuerSdWVZ", "my foolish heart").
@@ -46638,11 +46638,11 @@ track("3jBYmrymIhLqEsUwBR9TGQ", "summertime (part 2) - mono").
 track("76xUQtYdfu5Vgp7F2hdYjM", "around the world - mono").
 track("3xAFVxwmz9AZqcDpoJSay5", "ain't misbehavin' - mono").
 track("76ktIt6M81b4D4cLwuZjut", "the bells of st. mary's - mono").
-track("4BDXNIcy51CNPScaKFsTl1", "let us go back to god").
+track("4BDXNIcy51CNPScaKFsTl1", "comelet us go back to god").
 track("4OsACpQhdUA2RBYraZGkCr", "i'm gonna build on that shore - version 1").
 track("4aGmnluf4b71T6ZHLyN9y8", "i'm on the firing line - version 1").
 track("4IvirDbsnMoQqiWpwWM96O", "i'm on the firing line - version 2").
-track("2ZHy8WA09zwRIZ6wyi0YBj", "joy to my soul").
+track("2ZHy8WA09zwRIZ6wyi0YBj", "joyjoy to my soul").
 track("3HwgIjaVLPZSGIl0OFRmHF", "until jesus calls me home").
 track("3JnQ4EuICDt84O9lD7ZYie", "jesus done just what he said").
 track("6dr9wd1KmzJGRbvKBbY85y", "opening introduction - live").
@@ -46687,7 +46687,7 @@ track("2mHWjchw9pqHBvHh7iKoco", "bloodstream").
 track("5rYipCuUMXmKr5XM3eDC1r", "tenerife sea").
 track("1QaVYz0KPmXtdjVcm3P4oj", "runaway").
 track("01cCX1iNks6Ob0Ynwwg8tX", "the man").
-track("6x44NmhdsmgRzG07kzqOO6", "i don't need you").
+track("6x44NmhdsmgRzG07kzqOO6", "you need mei don't need you").
 track("24ha18yq0t7XnZ9EgJ7HYb", "so").
 track("6ThrnYkLPlKar6dUIggR6Q", "be like you").
 track("4oCmusomhJaDXUF9OttwQ5", "the city").
@@ -46712,7 +46712,7 @@ track("0T0wYEzpL46dCaTL1DLCyD", "homeless - live at the bedford").
 track("7JE96R5PJCWQ9Cm3JQXYuH", "the city - live at the bedford").
 track("1YM4HlWW3vvrnWdf9N7Xi2", "fall - live at the bedford").
 track("7GtrkWkk5MxDaIlGOr7UU9", "wake me up - live at the bedford").
-track("5rJDpFuffh8UFEKqvzCAZP", "i don't need you - live at the bedford").
+track("5rJDpFuffh8UFEKqvzCAZP", "you need mei don't need you - live at the bedford").
 track("69RasNFxqhiyy75JDHsrIS", "let it out").
 track("0jtTK6XjYj2L3Ge6jyK2sr", "homeless").
 track("7sGK98k8lv3hzRznoN909t", "little bird").
@@ -46729,7 +46729,7 @@ track("5lehceWKvKqCscGpRdrfS7", "small bump").
 track("4m4lnXq7r50acaKs9wNcI9", "this").
 track("39DNz2B7RyuaFXTsB0muTe", "the city").
 track("47ltkdjKBMHelkhJavYLQ4", "lego house").
-track("25PFoRgpgwr2QKzbjl30tl", "i don't need you").
+track("25PFoRgpgwr2QKzbjl30tl", "you need mei don't need you").
 track("700ZDZd9x4aqo0cZI75fVQ", "sweet louisiana - live").
 track("10glTVlgXfl0nWeWhjEPA1", "long haired country boy - live").
 track("79MMqlnLaW821kukfMG7Aa", "trudy - live").
@@ -46742,7 +46742,7 @@ track("3QV66LkdBasi1fGBZqO1S7", "texas").
 track("6ITiY86Wy1ZTmpllH7pMby", "drinkin' my baby goodbye").
 track("4s4cAr0qBCtsavGNrpj5S5", "in america").
 track("2iaBqI5Eoe4HnhKQlfOcPa", "simple man").
-track("1s4ehqtAMe9AvT4ZbzbRDA", "it's a flag").
+track("1s4ehqtAMe9AvT4ZbzbRDA", "this ain't no ragit's a flag").
 track("2wEs9UHOJs64sIADYaCnjN", "southern boy").
 track("63Fw3g4wmJPBtB1xna6iZe", "southern boy").
 track("7pX6U6JuoU4DTVg6Hm8ZN0", "drinkin' my baby goodbye").
@@ -46797,11 +46797,11 @@ track("41QhKxwz3aG6ICjWfQmdB4", "no potion for the pain - live").
 track("1ltsOLoh6UppiQ1dsnts59", "in america - live").
 track("6VH2HajMe0byWiemusLkVf", "long haired country boy - live").
 track("3qurMsoAyCfj9mOHNsbJnp", "my beautiful america (recitation)").
-track("7qNQwlfqsCvhVHIGCqcziV", "i believe in you").
+track("7qNQwlfqsCvhVHIGCqcziV", "americai believe in you").
 track("5omJow4mCP7ckO7HUq7BMf", "american farmer").
 track("38D6mPPnWexttFZd20oSip", "let freedom ring").
 track("1DoYjEOs3xE0E61IfG56M9", "(what this world needs is) a few more rednecks (2010)").
-track("732KgLe01ElYflifVS92Hl", "it's a flag").
+track("732KgLe01ElYflifVS92Hl", "this ain't no ragit's a flag").
 track("6iTWq1YehmCV3gIKyS0sX9", "still in saigon").
 track("7cHn2TFcoJpsxlJcydo0Dp", "the last fallen hero").
 track("66XNMjUC2Dq9gQLgbBuNQm", "in america").
@@ -46882,7 +46882,7 @@ track("1KSYTVRbqncDsm18OCKsWk", "yea alabama - university of alabama").
 track("3zLbMGTqAa2564JsBrt1SF", "the orange and blue - university of florida").
 track("6if57lTO5WTS5cBT4ua9pp", "war eagle - auburn university").
 track("51QdfqKJYLvMFr6ycCzwNN", "arkansas fight song - university of arkansas").
-track("2sdZSR6E0aU69229AGvRRT", "glory - university of georgia").
+track("2sdZSR6E0aU69229AGvRRT", "gloryglory - university of georgia").
 track("2kXRaDh10ukYkbAehOVFVz", "fight for lsu - louisiana state university").
 track("3vo9tFffgn2EU2aSXmY7u2", "easy").
 track("6OEKxiAR8vYYR8zU4GGNrZ", "crazy girl").
@@ -46921,7 +46921,7 @@ track("62Cb1GLMKJ4OqRqmxfs5wE", "tombstone").
 track("6BOa7z6XhGHsGjBmNILMFj", "cancer").
 track("265lopLOb3gQQ4aljMI9rQ", "tsa").
 track("7lkS9RpY8dSMyXdJjmNSGl", "topless").
-track("35KKyeDGvvD8cT3KIaxug8", "i have cancer").
+track("35KKyeDGvvD8cT3KIaxug8", "helloi have cancer").
 track("5dY8zgfO5kCb02XSdo6OYL", "you're gonna get cancer!").
 track("0EQdkgB7vo6Bn2F8GsTPNA", "serious inquiries only").
 track("4UyNp4Zeu7oRcqQu8rMjwf", "funny cancer greeting cards").
@@ -47099,7 +47099,7 @@ track("7D7Y0RYtOqxRh9QQ3bls8Q", "a m").
 track("3skfoAYsuZ5ebm4Bhg1Oml", "alien 8").
 track("4iq4qGK9stV67Sf63dICAb", "some kinda hate").
 track("5X9qXTU9YbO1MpBTGQ9gUQ", "2rak005").
-track("6nnLdrqqYgl4LqEThgKFZl", "sink").
+track("6nnLdrqqYgl4LqEThgKFZl", "sinkfloridasink").
 track("3qVZznGzT00MnUPRZOmEXd", "brand new scar").
 track("41cwoLz0ZoqHLgdE1DI3ff", "love myself").
 track("6gTobwsFzCFyLhmgF6Ns5W", "down and out").

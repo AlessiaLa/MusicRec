@@ -2631,8 +2631,8 @@ artistgenres("toadies", "post-grunge").
 artistgenres("macklemore & ryan lewis", "dance pop").
 artistgenres("macklemore & ryan lewis", "pop").
 artistgenres("macklemore & ryan lewis", "pop rap").
-artistgenres("go, diego, go!", "cartoon").
-artistgenres("go, diego, go!", "children's music").
+artistgenres("godiegogo!", "cartoon").
+artistgenres("godiegogo!", "children's music").
 artistgenres("jeff mills", "afrofuturism").
 artistgenres("jeff mills", "detroit techno").
 artistgenres("jeff mills", "minimal techno").
@@ -3302,14 +3302,14 @@ artistgenres("chris thile", "instrumental bluegrass").
 artistgenres("chris thile", "mandolin").
 artistgenres("chris thile", "progressive bluegrass").
 artistgenres("shawn phillips", "folk").
-artistgenres("peter, paul and mary", "american folk revival").
-artistgenres("peter, paul and mary", "brill building pop").
-artistgenres("peter, paul and mary", "bubblegum pop").
-artistgenres("peter, paul and mary", "folk").
-artistgenres("peter, paul and mary", "folk rock").
-artistgenres("peter, paul and mary", "mellow gold").
-artistgenres("peter, paul and mary", "soft rock").
-artistgenres("peter, paul and mary", "traditional folk").
+artistgenres("peterpaul and mary", "american folk revival").
+artistgenres("peterpaul and mary", "brill building pop").
+artistgenres("peterpaul and mary", "bubblegum pop").
+artistgenres("peterpaul and mary", "folk").
+artistgenres("peterpaul and mary", "folk rock").
+artistgenres("peterpaul and mary", "mellow gold").
+artistgenres("peterpaul and mary", "soft rock").
+artistgenres("peterpaul and mary", "traditional folk").
 artistgenres("haddaway", "bubblegum dance").
 artistgenres("haddaway", "eurodance").
 artistgenres("haddaway", "europop").

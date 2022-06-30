@@ -1,75 +1,73 @@
 import json
 import os
 
-path = r"C:\Users\user\Desktop\AI-Project\MusicNet\dataset\tracks_no_discretization.json"
-path_ale= r"C:\Users\Alessia\Documents\GitHub\MusicNet\Dataset\tracks_no_discretization.json"
+path = os.path.join(os.getcwd(), r"Dataset\json_to_neo\tracks.json")
 
-with open(path_ale, "r", encoding="utf-8") as f:
-    data = json.loads("[" +
-                      f.read().replace("}{", "},\n{") +
-                       "]")
+with open(path, "r", encoding="utf-8") as f:
+    data = json.loads(f.read())
+#print(data[0][1])
+for i, node in enumerate(data[0]):
 
-for i, node in enumerate(data):
     feature = []
-
-    if float(data[i]['features'][1]) <= 0.33:
+    print(node['features'])
+    if float(node['features'][1]) <= 0.33:
         feature.append('low_danceable')
-    elif float(data[i]['features'][1]) >= 0.66:
+    elif float(node['features'][1]) >= 0.66:
         feature.append('high_danceable')
     else:
         feature.append('medium_danceable')
 
-    if float(data[i]['features'][2]) <= 0.33:
+    if float(node['features'][2]) <= 0.33:
         feature.append('low_energy')
-    elif float(data[i]['features'][2]) >= 0.66:
+    elif float(node['features'][2]) >= 0.66:
         feature.append('high_energy')
     else:
         feature.append('medium_energy')
 
-    if float(data[i]['features'][6]) <= 0.33:
+    if float(node['features'][6]) <= 0.33:
         feature.append('low_speechiness')
-    elif float(data[i]['features'][6]) >= 0.66:
+    elif float(node['features'][6]) >= 0.66:
         feature.append('high_speechiness')
     else:
         feature.append('medium_speechiness')
 
-    if float(data[i]['features'][7]) <= 0.33:
+    if float(node['features'][7]) <= 0.33:
         feature.append('low_acoustic')
-    elif float(data[i]['features'][7]) >= 0.66:
+    elif float(node['features'][7]) >= 0.66:
         feature.append('high_acoustic')
     else:
         feature.append('medium_acoustic')
 
-    if float(data[i]['features'][8]) < 0.5:
+    if float(node['features'][8]) < 0.5:
         feature.append('low_instrumental')
-    elif float(data[i]['features'][8]) >= 0.75:
+    elif float(node['features'][8]) >= 0.75:
         feature.append('high_instrumental')
     else:
         feature.append('medium_instrumental')
 
-    if float(data[i]['features'][9]) >= 0.8:
+    if float(node['features'][9]) >= 0.8:
         feature.append('live_track')
     else:
         feature.append('studio_track')
 
-    if float(data[i]['features'][10]) <= 0.33:
+    if float(node['features'][10]) <= 0.33:
         feature.append('low_valence')
-    elif float(data[i]['features'][10]) >= 0.66:
+    elif float(node['features'][10]) >= 0.66:
         feature.append('high_valence')
     else:
         feature.append('medium_valence')
 
-    if float(data[i]['features'][11]) < 76:
+    if float(node['features'][11]) < 76:
         feature.append('slow')
-    elif float(data[i]['features'][11]) >= 168:
+    elif float(node['features'][11]) >= 168:
         feature.append('fast')
     else:
         feature.append('moderate')
 
-    data[i].update({'features': feature})
-    print(data[i])
+    node.update({'features': feature})
 
-path_saving_dani = r"C:\Users\user\Desktop\AI-Project\MusicNet\dataset\tracks_discretized.json"
-path_saving_ale= r"C:\Users\Alessia\Documents\GitHub\MusicNet\Dataset\tracks_discretized.json"
-with open(path_saving_ale, 'w') as fp:
+print(data[0])
+
+path_saving = os.path.join(os.getcwd(), r"Dataset\json_to_neo\tracks_discretized.json")
+with open(path_saving, 'w') as fp:
     json.dump(data, fp)

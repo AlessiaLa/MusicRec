@@ -1,607 +1,3 @@
-published_by("4hzj6tXoQlzKT66eOfqsJm", "dio").
-published_by("2PQalSOyBcDcd1w3dbVrJV", "dio").
-published_by("4vqZD3vxo5NjTYBHbA5EDi", "dio").
-published_by("5lFvZh6pCTJzr9UStebyCF", "foster the people").
-published_by("4WXR981EAEHPTrUR1BcjEh", "foster the people").
-published_by("10CyrqCzuV05dx3SV4zKvV", "foster the people").
-published_by("3S1Q6LJkr2NoZNbbW4KZG1", "ratt").
-published_by("3gFiYGOiQzjXzGLnzIO1hR", "ratt").
-published_by("6JyWOtu120mtrWNXcR2KdB", "ratt").
-published_by("1AlPb3m1pw1pTi49b2Sg2B", "ratt").
-published_by("0tcZwSBddeyTUCOOkLWl5L", "ratt").
-published_by("1I8TqSMkoRvF4xZSvuFDiq", "ratt").
-published_by("7w7VqxP5aEOz7SFK3ocyUX", "ratt").
-published_by("6sYCznuccLwYdIXIW2GEeC", "ratt").
-published_by("7CzsLoFBEMElxviJoApcAI", "ratt").
-published_by("6P3Fqm7z9wr5GeatpVZ5ut", "ratt").
-published_by("7pvIZVc2lyPDfApfqCXmED", "commodores").
-published_by("4WxFKNEsFdFWUWVQNoUx6T", "commodores").
-published_by("49dIsJYqG4CXpYVQEQMXeF", "commodores").
-published_by("2F7wnIhA1rcyoudSud45fu", "commodores").
-published_by("5OomyA33BtMIh4jhOt9ZV7", "commodores").
-published_by("6QRiOSB53KZEe22LfWr6EP", "commodores").
-published_by("7lhljFQDwXmssxTgDluX30", "commodores").
-published_by("3k1izL0SoAzxpEvZZte62z", "commodores").
-published_by("2VZu6gvY1Z8Kx4WtAbb7UG", "commodores").
-published_by("0APCdzWr52dPlKjY4MDqSN", "commodores").
-published_by("4tBonlFSeIv0f8DhCezOsd", "cece rogers").
-published_by("3UDaIsYxVdUC3HceDXHfWm", "cece rogers").
-published_by("14WW5qb2JVBknfpy3JiDes", "cece rogers").
-published_by("7nxYXN1wJ2PsPpQI09abMx", "cece rogers").
-published_by("7mYTGz5DIVF1TSDSeVs2EI", "andy montañez").
-published_by("1UmF7Z7fgW9SUWGn5Jqgzo", "andy montañez").
-published_by("69AoVgGSDHBALuDbR875h9", "andy montañez").
-published_by("1cJj5h6ms2ar784O2QAdrB", "andy montañez").
-published_by("2GJUQwmeCHvLkaoBnW6nqX", "andy montañez").
-published_by("6Cu595fY2PK9UWnP1eC92L", "andy montañez").
-published_by("5NqCMswcEZnTjbz2W4PlJl", "andy montañez").
-published_by("68YffUBPn4Td5mBE1hxFgE", "andy montañez").
-published_by("0TmRu48GaRh7RYQkY048xO", "andy montañez").
-published_by("2wvp9WGhFTZsJP5Zo5VayE", "omega").
-published_by("4qplno3lbet8WvuTGdDG3T", "lil yachty").
-published_by("4nHOF3neSo6Y7OG5OAflkC", "lil yachty").
-published_by("6upTR3RFKR7K20OnHRXDkL", "lil yachty").
-published_by("1Ea4UfFW7K1UzbjkDVaPri", "lil yachty").
-published_by("4bJqW1SBOvsfcEzZwsjdjx", "lil yachty").
-published_by("0rNnEH6cCO4T0F4lTEnHK2", "lil yachty").
-published_by("4HqXaOMtXGjPbF2SloKsmD", "solange").
-published_by("4WF4HvVT7VjGnVjxjoCR6w", "solange").
-published_by("3Yko2SxDk4hc6fncIBQlcM", "solange").
-published_by("3hZvMcitlooQEsZOvGXKON", "solange").
-published_by("6MsVbAqh2A9i7jYvPOsGNx", "solange").
-published_by("0DEELTj7PdjJllo8BLfcFU", "solange").
-published_by("3iI9rHlhgripz7lrrAqPne", "solange").
-published_by("0gEZcQnr9znzClpg2ts5qm", "tiësto").
-published_by("7eYE8s5DYIn1divg2j3dEo", "tiësto").
-published_by("3yyMpOkLtbcbVJFzEESLN0", "tiësto").
-published_by("3HMuPwQxlJt23qjY8tAVAd", "tiësto").
-published_by("473olrWTIYqylqGEVlS9t7", "tiësto").
-published_by("6MFt4JIJFsWNb32zbjlL4n", "tiësto").
-published_by("57bABnvvPfNhBQRI70dqlU", "tiësto").
-published_by("4SHlBT6B3kL8bdj6X2xHRp", "tiësto").
-published_by("1116PKIKlArm87HVaPtonW", "tiësto").
-published_by("44pHCC8r3bM1AwiO1KMiUc", "tiësto").
-published_by("2KadjqHrmlWe29bF7IW1al", "rionegro & solimões").
-published_by("1wlFg5GIAA3vt437XRGyYW", "rionegro & solimões").
-published_by("0vi1Ub7UuFJppxd27Dy4df", "rionegro & solimões").
-published_by("7oNLD1GoZtiNvg717HyRWM", "rionegro & solimões").
-published_by("2cBvLeinaA1sq23uRLXCAH", "rionegro & solimões").
-published_by("7ceo5fT675QcWILkV7YDjd", "rionegro & solimões").
-published_by("0PmdgaHU974Pk6gSOZzxAs", "rionegro & solimões").
-published_by("1dZn1vL0xZuwrFQyLQH33U", "rionegro & solimões").
-published_by("1G9MwLzcu2DeVIJ90VrGdf", "rionegro & solimões").
-published_by("3dFnXzqB7PXgqUsIzhbX7x", "rionegro & solimões").
-published_by("5IKs846AWYY9AvTWofJPGZ", "clinton cerejo").
-published_by("2JmDrrBaX27XbDHSXlSLsy", "clinton cerejo").
-published_by("4tvWhp5ubrVUy3bIEDXHl6", "clinton cerejo").
-published_by("7Kc4lxQ1Sf3S4D6pGVRuZL", "clinton cerejo").
-published_by("4YAtGpNUwcHesLlyYUIxur", "lindsey stirling").
-published_by("7wfjL0ZBEycLvXzJmHF45g", "lindsey stirling").
-published_by("0qqJ75ZwZ2x4YeiyvCgZcI", "lindsey stirling").
-published_by("4EBp4auyuzkB2Zl8IEdIai", "lindsey stirling").
-published_by("3AJqiyblMSz1V0riviZ6JK", "lindsey stirling").
-published_by("5qZStVu3aSFjdF6MafvbNv", "lindsey stirling").
-published_by("07DvcMYxY3RKulpG4EtDhz", "lindsey stirling").
-published_by("58kRTFztL9vdX3lnwugShN", "lindsey stirling").
-published_by("6Ut40zm1tpm7moSfHLrHGz", "lindsey stirling").
-published_by("4DLn3C5QGLkM6CSslA1glP", "foals").
-published_by("2gA6WSERaJVOWwuB0hegvp", "foals").
-published_by("0WY0ktk0QvPw3bv3t7rnon", "foals").
-published_by("5oT2zoIrVGJcbVZoNGGZwc", "foals").
-published_by("4uIDigk79DeZEYV6Z5Yf4s", "foals").
-published_by("0PIR7PK8DMB4pgoxq7F9Ad", "foals").
-published_by("1RBI6xp8UbYoz5eL6agAMD", "foals").
-published_by("7AJfPQUqsHzmXUBR8Da91W", "foals").
-published_by("6SF8pJqpP5eNEgHsH4DmNj", "foals").
-published_by("1P0e2LCGaKo1MSvCRcAZTf", "foals").
-published_by("7LWSI7hollbcuu2RvNzp0D", "vaneese thomas").
-published_by("2hFFEU2lrbLfupnGa5yOyC", "vaneese thomas").
-published_by("3Q9aC81XHeFAdxL7ydNhwe", "vaneese thomas").
-published_by("6F3ZumDjkemJ9aYL0VEtIa", "vaneese thomas").
-published_by("7HbOsuedNyZjm0IWo8Mf3j", "vaneese thomas").
-published_by("0NpAILtUwlrg2DYi2191im", "solomun").
-published_by("6OTd2SqRX7a9QJ0Di1xUMd", "einar steen-nøkleberg").
-published_by("1EaOU3AtSQWP3gVMNY5JaM", "ojos de brujo").
-published_by("5d9WWWhb2gd6B1NPW9VkZn", "ojos de brujo").
-published_by("0Ek1FFUlcNEgic4FpjVPNW", "ojos de brujo").
-published_by("2lsNghC4LXwVe9afXv9JjR", "ojos de brujo").
-published_by("3HZUh8Uv216HgFYDdlnevA", "ojos de brujo").
-published_by("5WNRhfXJhC8HGquGAFsZrz", "ojos de brujo").
-published_by("7FWDwjgPfc9OmO9fKpQsRx", "ojos de brujo").
-published_by("6SdjdmRAq9242eC8nUHltd", "ojos de brujo").
-published_by("4PiQy8hoRxsmNqpzVEkDJ5", "ojos de brujo").
-published_by("1X4G2tsWD8KCK8hPmrmdgr", "alex fong").
-published_by("6TXpF1xIFb9vWNYF9yEK4w", "alex fong").
-published_by("435n7Kp5S8FJVbrwpixAoD", "alex fong").
-published_by("6pDlhplvtZSYmZ19gbaeBg", "alex fong").
-published_by("0XiblXlDiy1dpqlXy0mVPH", "alex fong").
-published_by("4OAx4bfkk7S2FTcVS1cvwv", "alex fong").
-published_by("0mUqC1ZRhsBZXihONAf5Tg", "alex fong").
-published_by("58Zu53oDtIJ6E4IZGGfCmd", "alex fong").
-published_by("4ssF0ppdJnMTtL2hg1CLKX", "the postal service").
-published_by("0FqfrAtS4ifPOeJTdyGiN4", "the postal service").
-published_by("375JlNjmvy1m6eFFMlh4fQ", "frankie lymon & the teenagers").
-published_by("3IHfpEn31flk1A5cbPpPha", "frankie lymon & the teenagers").
-published_by("3A3z6bNNc38WpecaY8tael", "frankie lymon & the teenagers").
-published_by("0vMlyH3qNCkun2rIFVU5Gm", "frankie lymon & the teenagers").
-published_by("7cJP8OI40VbrT0yuVKPtNL", "frankie lymon & the teenagers").
-published_by("5s9qnNSHj1rYEx0FLzPzUD", "itzhak perlman").
-published_by("6VWRJQOrnqjqi0iodpPrcp", "itzhak perlman").
-published_by("5UamZwiKDXurp4C1552F9A", "itzhak perlman").
-published_by("6GBu7GU6dztLYlZuUHiwA2", "kelly clarkson").
-published_by("2puALR81qCmKmbOyuHAI94", "kelly clarkson").
-published_by("2evDrP61AuZ2G1p9XkEGDB", "kelly clarkson").
-published_by("7Jahqd1kx9Qau0E9x9iZj6", "kelly clarkson").
-published_by("1Iqhigu4rrELLMXI4RRuh9", "kelly clarkson").
-published_by("0RkzvNjxyp5qzMcWeuBTA2", "kelly clarkson").
-published_by("1vpJHjovGZZNhiQPHorntg", "kelly clarkson").
-published_by("3qjjQOwLDdhdYcSSwNHPpz", "kelly clarkson").
-published_by("3PuJhshdbYhC9cQFAZI3z7", "kelly clarkson").
-published_by("4txPGNHsUtjgBickDa5mOe", "kelly clarkson").
-published_by("7nJWqYNHsHMXYnLGrevMsF", "ramin djawadi").
-published_by("2Bjtwxiu7f0XWoYWGHEjcm", "ramin djawadi").
-published_by("3cLXiN6xkpHFBtJvLCO8be", "ramin djawadi").
-published_by("3AOeatEAPjy1CKtdkaXaDq", "ramin djawadi").
-published_by("6beoDLgGurCVPdUo9X9UnX", "ramin djawadi").
-published_by("4U6mv2dfPwbp3NQlq2CSaj", "ramin djawadi").
-published_by("4m1tneZGVaqxQ43cy3dP0p", "ramin djawadi").
-published_by("3GFHA63Ur7kFMqa0NcyJw6", "ramin djawadi").
-published_by("0mhtSBbvIBOjCq28CdAwcI", "ramin djawadi").
-published_by("3sABlBpkGohgVYOVN23q8m", "onerepublic").
-published_by("6p01JdkB7ry8iAf4IuC1Lv", "onerepublic").
-published_by("42UJjk8i8L0De7lQtu7sqi", "onerepublic").
-published_by("7bWzSwx1PRiZjfjhaB8BjZ", "onerepublic").
-published_by("6PzrFytpiNH6aeJBGbK25G", "onerepublic").
-published_by("19bXRXu7OeKRO5aVkCo5p8", "onerepublic").
-published_by("3LjYBwe8jax68mwd3iL4uo", "onerepublic").
-published_by("6YvRiclkwLzittZeUIrC2G", "onerepublic").
-published_by("3oRJOBqBr4bnHqRDw1uEIP", "onerepublic").
-published_by("7qDlq03vlk6jd8k8v4dE3b", "onerepublic").
-published_by("178MVoPdEAX4Ri7m030WnN", "psycroptic").
-published_by("248uWbaOyHCE9ZKHlbpAZS", "psycroptic").
-published_by("7KUNyshpcEkTeYBYwyqnrS", "psycroptic").
-published_by("0KBu3xfrTcT0L3mek7aF0s", "psycroptic").
-published_by("7fS2Lt89P73KIVGCgzuYs0", "psycroptic").
-published_by("3YUbbHZ841UwkD1NFcKoEi", "psycroptic").
-published_by("4TKz06i8M6zYVoK75cF2dm", "psycroptic").
-published_by("6sUKSfuumpZ2GIv1uxuTKG", "toadies").
-published_by("2mQITSSUYnXnGiJyWGzznf", "toadies").
-published_by("7g8oCxBvNkTDmQjTLmIL7O", "toadies").
-published_by("3LiNFN1Y6Mcn2kX7zA99ZI", "toadies").
-published_by("1A3tW0AMSOF9fZ9TRYYQ2z", "toadies").
-published_by("3EAhVlyNoBsbjkXtA11J1x", "toadies").
-published_by("3U3xzJItmS4og4WJKSB1IM", "toadies").
-published_by("6zY6r8fXaTlKK8BwePuXxt", "toadies").
-published_by("2GLF4S7Gk32LuvJGkQfTvW", "toadies").
-published_by("7tFTqVGHceSlXOaz8IylBN", "toadies").
-published_by("2kqn09pydzvKvB3xWbAxY4", "macklemore & ryan lewis").
-published_by("3LwV3QIDQopbgERx5XJnBz", "macklemore & ryan lewis").
-published_by("6XO9dbsH9zhuQgFGH0hUrb", "macklemore & ryan lewis").
-published_by("0CoiTAUBiO70lic9p9Lboq", "macklemore & ryan lewis").
-published_by("2kRR6jfC5GyETK2yszvfBQ", "godiegogo!").
-published_by("1FfGSThzZxeULHDWvkZZHb", "jeff mills").
-published_by("605V8I7O6zkkrvmWP01nvO", "jeff mills").
-published_by("59KJwVPvVCj1rH9AJ93kyK", "jeff mills").
-published_by("5wueQ12En0vKiyqEPKtGV2", "jeff mills").
-published_by("5cGGbqp1MwjYQkoQx89ZLn", "jeff mills").
-published_by("0t6vaUf3Qgf9DjDW5hm2ii", "jeff mills").
-published_by("2xc7MwRpbX0JEm0HVHZd3t", "kool & the gang").
-published_by("6p2PrUp7AFngMrqUFYDHIe", "kool & the gang").
-published_by("700aoKEFsNvvYIbpoRJd6V", "kool & the gang").
-published_by("2at4dpmcSqwqYGABE4Itdy", "kool & the gang").
-published_by("26GLqWXv4INl92KQeWI3KU", "kool & the gang").
-published_by("1msSEYG954pq60TSP3uOkJ", "kool & the gang").
-published_by("1lLHdYAPp0kZdBiMrLbsJV", "kool & the gang").
-published_by("72pCKPIkrfGebIUGOnkMBb", "kool & the gang").
-published_by("5k8nxVKGNG78WfPENcC9tI", "kool & the gang").
-published_by("6ux5CjpF5wgjAS1AqsZv4U", "kool & the gang").
-published_by("5Kb8rSCpW8wMcRJDZOUkZE", "david gray").
-published_by("5eySZ1pL3kVD26bX6X8CdH", "david gray").
-published_by("1xhyU58O13UFVoGMfBJ9CD", "david gray").
-published_by("2c4Ibt3ZtLofB5HIa9gmYg", "david gray").
-published_by("7ar3aUgBdcSnef2436qOJG", "david gray").
-published_by("5hq3F0dUtiGVqJqWEDGIrX", "david gray").
-published_by("22V5sPHIbBhz7VloRG97YA", "david gray").
-published_by("4yRdHxq7N37CojylauNnZc", "david gray").
-published_by("1dPOp8vwWnZe0R0ne8RxyH", "david gray").
-published_by("0l3Pvm2VX3adpUwCyM5Ybi", "ken ishii").
-published_by("4TU4WS5SHMNlIJ02ABUdTY", "ken ishii").
-published_by("3gmCFkyEyAqvqZnfd4L6Fg", "ken ishii").
-published_by("0nzOHUd05r5aOA6gzpxpVk", "ken ishii").
-published_by("4RtAEjjH7sn6DH8xOKdmNF", "ken ishii").
-published_by("0MZVWV2aRaASAG3NDem53P", "ken ishii").
-published_by("15djk2RJfxOPzqcTBI7IXq", "ken ishii").
-published_by("5MCMM6uyoSCXKB1KGIOFXa", "héctor lavoe").
-published_by("3K2p07AzlA4zw5RE8JCxQI", "héctor lavoe").
-published_by("1joTdaBL5fWtviIPrZawtQ", "héctor lavoe").
-published_by("1yjUsXzwjtRoM1j6vWTUJM", "héctor lavoe").
-published_by("1XJu74uNgE935Goc5brwOL", "héctor lavoe").
-published_by("1s5Nawqoe6zDTQnVB0nS6e", "héctor lavoe").
-published_by("2834vfmvqq8UutYQ9f1XyD", "héctor lavoe").
-published_by("1cjhnTRit0iS1HViiGeK8H", "héctor lavoe").
-published_by("0aeABbfuKPEc27O8fl5pjJ", "héctor lavoe").
-published_by("59Gjxm9FfL1UXDJ78QsoA8", "héctor lavoe").
-published_by("5kbYTWrypRkPmwb7mttMqk", "é o tchan").
-published_by("2yedBu5aqpmAvMDGbaajdO", "é o tchan").
-published_by("4OtX33TMxROGwJuoxnkXIP", "é o tchan").
-published_by("1AbfrXsqyns0OyBfkRBrvh", "é o tchan").
-published_by("2oFOHKxUhcpdQ5V9YszcGt", "é o tchan").
-published_by("1Fnb3iO99TSEN9w69ZTLbJ", "é o tchan").
-published_by("6Mlcs0ZXLyzDdjDyCcFWXm", "é o tchan").
-published_by("192HYg9G4lheiEnKSqno3W", "é o tchan").
-published_by("3G52LWPosqVhuMpzW6BVe0", "é o tchan").
-published_by("66KsEbnksoKY9qYbB8zhwK", "lifehouse").
-published_by("3fwIU5VhACvJjcGungs4rA", "lifehouse").
-published_by("3IkcX81wyK3qWV0oRlwuUT", "lifehouse").
-published_by("6TmElNgwnE9vBmYCLbwikX", "lifehouse").
-published_by("1IkEI6OxppVnKaBgZpJ0Sm", "lifehouse").
-published_by("1vUyB16VFIuVflhyreynVr", "lifehouse").
-published_by("2wZXydv4WCmlAlelI1Csg6", "lifehouse").
-published_by("3DOEt1I6rJtl6EtVXlUTGl", "lifehouse").
-published_by("0b6axijtmoTBgIrmlFQ9Ne", "lifehouse").
-published_by("1a15dDOiwz5ebSxk1ZeFB5", "jack johnson").
-published_by("3z0ah0DTRYEZDbi5MWmBnX", "jack johnson").
-published_by("00Me6BWP9P7j6m8x5cbcpV", "jack johnson").
-published_by("797PJRUOp9NICoGRKjpAnx", "jack johnson").
-published_by("0N9g1klLNTWcRharbEVsPB", "jack johnson").
-published_by("2WhNmY6H4EREyAV5J5vgsv", "jack johnson").
-published_by("3mQJ5u7qqfIZK4KfyJxLOd", "jack johnson").
-published_by("4ixba2RP3g7Mq41VVk83Rx", "jack johnson").
-published_by("5sepHXGobkchZMKuYa7s5O", "jack johnson").
-published_by("3fa8r86AofGDNs1S2d3xgz", "jack johnson").
-published_by("3hunZ0zfxPlrCEO9Z6b8Nm", "music for little people choir").
-published_by("5rPjw2zEw8SS55GYjWnsu9", "music for little people choir").
-published_by("3fYqUs4G6XVqsMXboQq6X9", "music for little people choir").
-published_by("3uRFhEs1zMMcozfwNbp4gh", "music for little people choir").
-published_by("5DBTQdvvZK974oLGEyNwsH", "music for little people choir").
-published_by("4eS3k3otuv18SPXBugekO1", "music for little people choir").
-published_by("05QJgUex5PwOmCjNhRop8X", "music for little people choir").
-published_by("0s00AVjuMx4Hpe0v1yZMyH", "music for little people choir").
-published_by("5KrVGRv9w2Dk3CN81Afu3W", "music for little people choir").
-published_by("1rvK5Madcxgww4dDxABNlb", "music for little people choir").
-published_by("7E3c9dmZ1KnZOQLZTgRqWx", "justice").
-published_by("23EaoI8dXfDGfxF54sd1DP", "justice").
-published_by("3ZJErwtxUtDkPlhrrSAw0R", "justice").
-published_by("48OWliy7BoXi34qUVurfBL", "justice").
-published_by("4B3LGUCt5OsnJtzed6fLby", "justice").
-published_by("41solTO3bJJh1OTzBF1GUo", "justice").
-published_by("10y4ioZQOQoIEkFOMxElJr", "justice").
-published_by("4GGazqHvuKwxBjWLFaJkDL", "justice").
-published_by("519SZo5x38UD8Jg7AUXWWE", "kid rock").
-published_by("1IimUkW165cja12nXd2SPW", "kid rock").
-published_by("5Lc8kKrtqRWGlkFUkLdy0J", "kid rock").
-published_by("5zYwSRllQRaJFdQEcvCO8l", "kid rock").
-published_by("4BTUT5Nn24jXu0MdImRVct", "kid rock").
-published_by("03jkOdk1T914XvzIFo7jIg", "kid rock").
-published_by("285ViyfNKx6YEY6J2bnFhB", "kid rock").
-published_by("64du8CiAmKAzVswhA3RK4r", "kid rock").
-published_by("7nFlAxnXMrQRpM1R80pKQm", "kid rock").
-published_by("7eUcD5ZizDkJ1cHvWlmOuW", "kid rock").
-published_by("7sx7FCyozq9bCr8hC3Lfdi", "gundula janowitz").
-published_by("5Sqhdvw846qefGluoU0u1A", "laurindo almeida").
-published_by("2IaktOwC3hrJuFOMUtMUdZ", "laurindo almeida").
-published_by("0XUW9J9QfqaidSL2QnO4f1", "laurindo almeida").
-published_by("09AZoJh9cJ2RH5z6WUzEsP", "laurindo almeida").
-published_by("6LrLyENLU0ufxIJ7OEHMVH", "laurindo almeida").
-published_by("6Wl1PYly8bL71FPM7f4aAE", "laurindo almeida").
-published_by("2Q7CdZWLsyX3c3IBnkBQ9l", "laurindo almeida").
-published_by("0kSo96fWRFFImdgYNrOzcG", "august alsina").
-published_by("3Ec1eNW4gjFsv1A2dvJeWT", "august alsina").
-published_by("3FHEN0yaab8BxVHXHyaYkk", "august alsina").
-published_by("2P9bHhWaKrQrqk2Z4pu1ms", "august alsina").
-published_by("4buyJv1fGVn1QU6ZR6YroB", "august alsina").
-published_by("4Ypp96QH9jDn9J324B2B2A", "august alsina").
-published_by("27fp0MwlVEyeKJ6pDBhj02", "cybotron").
-published_by("4BdkOvBqRW8oKMlo7CPYJt", "cybotron").
-published_by("1VeRcvnJO8aNDEYnoilYpQ", "shigeto").
-published_by("4GqLgh8J1bRIRrVeYq8J9L", "shigeto").
-published_by("6xKVKMCffshyEUK8517G7X", "shigeto").
-published_by("7gvYNekbiIJKcgvtMfzXQ4", "shigeto").
-published_by("21MzP25d9STHC9zRrnvBYz", "shigeto").
-published_by("6T4VLggIC6vtaoUVqemHrC", "ferreck dawn").
-published_by("2OR5fITkX85f8yycKTa1QS", "hot rod circuit").
-published_by("1DY5Wi3uf6ElD85LPVihRV", "hot rod circuit").
-published_by("6fYGFmyMFVEZvS7F95lLD2", "hot rod circuit").
-published_by("2Xkfh86aoHJXqUh3TfOZOp", "hot rod circuit").
-published_by("4WIa7YKywqk8lXEvR5cx76", "hot rod circuit").
-published_by("0gDAgSwUzu2qJBN2nXHYAn", "enslaved").
-published_by("1YWndXHoFMp7KyUBowy3Bj", "enslaved").
-published_by("58qq6lSrqozXezBVnrLfBB", "enslaved").
-published_by("6r1RyI9zAH8OrbP79uPrdZ", "enslaved").
-published_by("1lqXGxOcRNznVBsOcfCZuM", "enslaved").
-published_by("2rxV4vZNulqUeounxZWE33", "enslaved").
-published_by("7qYhGRoRsQhzbIPSJmBdPo", "enslaved").
-published_by("7wAS7rGVxfK1zfSuu1rU3t", "enslaved").
-published_by("4yaSDa3ki4Edwgo2PaC2lm", "enslaved").
-published_by("5UlEmblNnjeTOHFALAksEp", "enslaved").
-published_by("5QX3iuxoEuvjyDWgHzlVx7", "afshin").
-published_by("0t4JtDooagxZm1xjspP6sF", "afshin").
-published_by("6AOdZxhzfIaM0I5pQ8k7Mc", "afshin").
-published_by("4uzBMJpPFHst5PiCduRKFH", "afshin").
-published_by("3yHzy0S9zJGFMtyWpTEIXT", "afshin").
-published_by("5pFmfovHyl3T0w7zYRkSde", "afshin").
-published_by("3xblcdw3qV1WhOzdOQPLmG", "josé gallardo").
-published_by("7exKvHrQN7QEqpekUrZ9O6", "wolfgang amadeus mozartjosé gallardo").
-published_by("5ZnmSB9CYnVLxCfkqj672Z", "patrick o'hearn").
-published_by("13jB8uMaW9ZbMg8pwpqDfN", "patrick o'hearn").
-published_by("4HvR1S2y11J605slP2tPOd", "patrick o'hearn").
-published_by("0pyJOIHte0Dlw7KmxsX8Zj", "patrick o'hearn").
-published_by("6iZWv35qWrWKr1KYvByFbQ", "patrick o'hearn").
-published_by("6M6rPxUHa5p5fwPqbvfiNN", "patrick o'hearn").
-published_by("2G7NJdUQxp6vAO0arTebvj", "patrick o'hearn").
-published_by("2rRmuTQcJcxKCymvmrY7uI", "patrick o'hearn").
-published_by("1pK2yM9NGmdWwlxpDVEg63", "patrick o'hearn").
-published_by("3YHeNhVA6JFT8XHu9qZtbS", "patrick o'hearn").
-published_by("7ij8wQxCAexZiXZbMOHcxE", "green day").
-published_by("5a3LqvNt2nv1B4aRKXmgOV", "green day").
-published_by("7prfPBMbgDyhq7kdpM0R9v", "green day").
-published_by("1t9rzuEEFVHPdqRYzsaWC8", "green day").
-published_by("71rrqHKVkUFx2CSVfxrrLs", "green day").
-published_by("6AFJIZmd1zWQDBBwHyeo9w", "green day").
-published_by("4UV0uKJYgaYeHu9WK1KfC0", "green day").
-published_by("6cBeaiCT6xaXQIAFKwEdxQ", "green day").
-published_by("7cr5SyzCHjxvpv9Gdy3N14", "green day").
-published_by("5Qhn2FpGWmTjCuntF09j7g", "green day").
-published_by("4EbOSjrF5iYFkuRZdx64Ky", "eagle-eye cherry").
-published_by("0wJptv12aFTSRMtOwi4o5y", "eagle-eye cherry").
-published_by("0Msg4Rz8LcAZojXa5dyq1p", "eagle-eye cherry").
-published_by("6AvJXdk3FanPQ7tqwqvbml", "eagle-eye cherry").
-published_by("14BBt5XxhnoHBsEAlKrIqm", "eagle-eye cherry").
-published_by("1TkbYwgiSZtjEnDmlt4buB", "eagle-eye cherry").
-published_by("3P2WRy9eBoBbSTCZWGQOoO", "eagle-eye cherry").
-published_by("5lZ3yGgQnSiJdtL0e4kOIy", "habib koité").
-published_by("1ggvU6Mmk0yKRAE2XKH1SV", "habib koité").
-published_by("74dkCQd0UHNyx8evu9TBda", "habib koité").
-published_by("1rTWfR3inrijFNyDBnoxGU", "habib koité").
-published_by("1LxDcw6Kmze9UUnGpgxrth", "habib koité").
-published_by("0halmb037BS3L7TONp8HFs", "habib koité").
-published_by("6p0g3dh4Ru3evxT3USueQX", "habib koité").
-published_by("6KMkuqIwKkwUhUYRPL6dUc", "foo fighters").
-published_by("2qwN15acAl3sm3Idce5vK9", "foo fighters").
-published_by("5lnQLEUiVDkLbFJHXHQu9m", "foo fighters").
-published_by("3ilXDEG0xiajK8AbqboeJz", "foo fighters").
-published_by("4IBQvwIbtDluogvDe2qpaB", "foo fighters").
-published_by("2eprpJCYbCbPZRKVGIEJxZ", "foo fighters").
-published_by("1zQ6F8gMagKcPL4SoA80cx", "foo fighters").
-published_by("28q2N44ocJECgf8sbHEDfY", "foo fighters").
-published_by("30ly6F6Xl0TKmyBCU50Khv", "foo fighters").
-published_by("4EnNuo8fG7dMoxMefbApRY", "foo fighters").
-published_by("6BpRqZyCYTCHMzE5Imf4TI", "sandesh shandilya").
-published_by("2F9CGL7sZSG4jnNYqLQzk5", "sandesh shandilya").
-published_by("36YfL0xmJehr4D2ahaZCoW", "sandesh shandilya").
-published_by("2KM6alMpwGJCiVnDNE6Z8C", "sandesh shandilya").
-published_by("6j1UaM7zAqvnQ9WYdvRwy7", "sandesh shandilya").
-published_by("0JB5xqKaLjvIvIqI7kNo5g", "nazareth").
-published_by("2fuoH513k6lw1q2aUdkJ2m", "nazareth").
-published_by("4YFKioxmg2kojFAlHhHxkj", "nazareth").
-published_by("2USUdgjsNvfbL6xVBGlMwf", "nazareth").
-published_by("4LaSgGB4UJjJLPZvSw8ije", "nazareth").
-published_by("1w8ez5nR8Y96Pa4jinXPwe", "nazareth").
-published_by("6Mtui7IEfiXWwPmA98wAtP", "nazareth").
-published_by("4NaCQIWUyjI8kI6CmAPGze", "nazareth").
-published_by("5LDVT3f4VOxBeQ5NzjgM1S", "nazareth").
-published_by("0reJSYIbuFVnP4tmaocY9r", "carlos santana").
-published_by("17sPX82cIsjRjZtcv0VzF6", "carlos santana").
-published_by("7zYYNghKBAQ39RRODoeKbH", "carlos santana").
-published_by("5rEffm19IHdtfFZZpoKmEl", "carlos santana").
-published_by("36ydx7i8ANYTr9OSpYGXOt", "carlos santana").
-published_by("2EdpflfgXzkVBLK9aKcwEE", "carlos santana").
-published_by("79RKfnrrbyVoxvKeX9wFKY", "carlos santana").
-published_by("4BtIIBfdDY4zqU5isUabhE", "carlos santana").
-published_by("6xm0NbbUbaeqzugBLHhKUy", "misfits").
-published_by("45WlBU6mA07baurgjYFnIa", "misfits").
-published_by("6MzZSl19bVR3xWwFCOZyhg", "misfits").
-published_by("4Xy6HuHsLWJs2bRFu9iNQu", "misfits").
-published_by("4CKrRK52g4mNzbpGIMVbtE", "misfits").
-published_by("51tAz06EJxwhsk8uNfWxBo", "misfits").
-published_by("3HJcuW4PqFGNhM9TkCMkfC", "misfits").
-published_by("6vZ6KNlP8hReYxJVuU7G42", "misfits").
-published_by("65KQFqWUDiwmVc9BjchWZy", "misfits").
-published_by("6P2nv7OF0UngkW3OIcoMog", "misfits").
-published_by("6R2JgfaxJrl2fI0LdgeBlU", "elephant stone").
-published_by("5HLTdRYDQwZHzz84fx4KjX", "elephant stone").
-published_by("0ZNjWY53iMHDv1hBK1lRpx", "elephant stone").
-published_by("0K6dw2M6tOF9hbuszGGCNG", "elephant stone").
-published_by("1Yx05F3YkWJ8TtkIoJMFYN", "elephant stone").
-published_by("4KXOif6WVCTjrxhPmu9mBq", "elephant stone").
-published_by("2xUECIo0BalLsOl686J9kt", "elephant stone").
-published_by("24vZleR5n8Z0y9S9QkgOeU", "elephant stone").
-published_by("5kOVx8Tg447pk7dB0tBTQc", "elephant stone").
-published_by("13tjE1r3B97NpGDiaM8MgO", "juan carlos casas").
-published_by("2ZTutAjJEBw4mA5t4Edg1d", "bastille").
-published_by("2QzbL1DICo4xZnWr8Sw4fF", "bastille").
-published_by("1qKjUIVG8KmtYceDBWjfqE", "bastille").
-published_by("5NfeW0DqFVT3Su3kHBgTf4", "bastille").
-published_by("1YXsPGQingGkJZLA8uuQNL", "bastille").
-published_by("0Cl4Hx5RlNAvSjLuow2oIP", "bastille").
-published_by("0mmbozH1bdOiW7m7kAgy7L", "bastille").
-published_by("32xPzu88bmeZHZBsTYI0ml", "bastille").
-published_by("7tZbWBHP4ffdYgLo4jJvd7", "bastille").
-published_by("5eSSPkIeOxOpwTUqHcYgyP", "richard clayderman").
-published_by("7qJrqBVnj0uz5B5Atg47EG", "richard clayderman").
-published_by("4lMFLlxSoFg8HjXa5kknL1", "richard clayderman").
-published_by("1SJ7xHHLAesr43HkyzgKNA", "richard clayderman").
-published_by("3QJw5UIF1WiRQ1LlyPvZzx", "richard clayderman").
-published_by("1RmYgT3D3mlIWm86ElDjQ8", "richard clayderman").
-published_by("72ObMlkbhFsZC2fv9hIVxZ", "richard clayderman").
-published_by("4mOXN1GTf0nMIusZ6872rS", "richard clayderman").
-published_by("28mQABnxtW6HmS88HPuPB8", "richard clayderman").
-published_by("7trSSnmqErcnhorcjGeEUi", "richard clayderman").
-published_by("425gWaQU4t3KOvcM7z3VGk", "buddy guy").
-published_by("05GcLcffb84BOLzo7BMz9W", "buddy guy").
-published_by("5IyOwYWSw2m1mwD4OEpFeM", "buddy guy").
-published_by("5kTkIJIjjUTv8FEMGrzXvF", "buddy guy").
-published_by("24qPlBedjmZlqnfIZmjLNS", "buddy guy").
-published_by("4G9uuVJr2HKndziyWh6wPu", "buddy guy").
-published_by("3PSiKvI79K1aoayA3Z7xfV", "buddy guy").
-published_by("1b1mhwRLhjlr5bbGHnDine", "buddy guy").
-published_by("7LafphryGr8AjCZYrau4j1", "buddy guy").
-published_by("3Q9JD3cJ5ZsGYDRUWgFCHY", "enya-sang").
-published_by("0q97b44R11aNadk15Snmkc", "enya-sang").
-published_by("6CNVmUP2OWZZnl1wjF9i60", "enya-sang").
-published_by("5aM8gkw3dJQ7XSc2Uq8g8a", "zaz").
-published_by("7rmK6YmpxcVPMT5Ieb2HcM", "zaz").
-published_by("4O6akvbROB69r1s6onbRPj", "zaz").
-published_by("7H3c8NdGjNFruFiJ00iqL0", "zaz").
-published_by("16qim6Q95YEXlHdwl9lg73", "zaz").
-published_by("60xEj87f5sryKks1Yo4J7Z", "zaz").
-published_by("1ncUGcxDLDqiRAZYCKwXlM", "zaz").
-published_by("0ymSxXsbp3l4ED7NfbRRwA", "zaz").
-published_by("0rFKJTkteZamC0YcH3ZWf4", "zaz").
-published_by("6c3UkztmOmW2GtunSNN3NZ", "savages").
-published_by("0aMC5DDAF86GvYNPaivEKd", "savages").
-published_by("2zlJAgSlWKvWpF9LRWuwOb", "aidonia").
-published_by("7b7jhNRjKkoApz1KdmyIiJ", "aidonia").
-published_by("7aQmnGm04LJhIRAYD6Kbcg", "aidonia").
-published_by("0TwmfJyS2NvtLMbDvC0zsZ", "aidonia").
-published_by("5zw5yMUoAIHS0SmrPTdqKZ", "aidonia").
-published_by("3gvYF75BQFVDavV8cq0MOh", "aidonia").
-published_by("0kKh7zmNtUFradKiKK4AV1", "samba de raiz").
-published_by("0ZIeMaHX1lujGYQwP2w0Ff", "samba de raiz").
-published_by("025CDSYsJnhxdS5o3BDvk9", "samba de raiz").
-published_by("6T58aKZn3iMSizSYaF2pTc", "samba de raiz").
-published_by("7er6jjv5446zSiCIo6E9Pr", "black eyed peas").
-published_by("3IpexNXiKbezuY526S4Jvy", "black eyed peas").
-published_by("0BkpKcHw606at6Y2cp8kdE", "black eyed peas").
-published_by("3zsHrrnA98o1TvCVh1JAr3", "black eyed peas").
-published_by("36fdxiOzdlmsrHgGcfvqUJ", "black eyed peas").
-published_by("1dgbFU08pXJXZhGPlybdMX", "black eyed peas").
-published_by("0pQiRIPFblFwEummRX28Qa", "black eyed peas").
-published_by("6AVSVzRbUTrGs5XEoYiLVj", "black eyed peas").
-published_by("50q4qBwBROWzt0TCt8HCVG", "black eyed peas").
-published_by("2Yx0X8CYJD0G2pvJYZcTxt", "black eyed peas").
-published_by("2ayhUoOppwZ5paYiXTRqqa", "blackmill").
-published_by("0XHpO9qTpqJJQwa2zFxAAE", "blackmill").
-published_by("5AZtgPyecp42G2bakjj363", "flux pavilion").
-published_by("4NjZGWBcqV7qImMk5NTd5H", "flux pavilion").
-published_by("39zBH0ebmiCtfOcnXBnZYw", "flux pavilion").
-published_by("7DLGa5tdaC4sITpLA7cYjM", "flux pavilion").
-published_by("6iKqPv9C5oU29LR82N8lJf", "modest mouse").
-published_by("4rVZdY7hlef7kF7XiXuldS", "modest mouse").
-published_by("2lXBCL76UL5PCPbfAqKBkz", "modest mouse").
-published_by("1jSTXHarvMPAUDuNCC8B9H", "modest mouse").
-published_by("0TGTGuc2vXv6ZECoAf52N0", "modest mouse").
-published_by("1hp8pleNxEmBqfYgazfvSC", "modest mouse").
-published_by("5SbcupirEParczvqqyUPXL", "modest mouse").
-published_by("47cc2w9XHvUvO7iqvMIFry", "modest mouse").
-published_by("7D7VGZkKd1tlxfOHUO2hf0", "modest mouse").
-published_by("1YgX8BWKleDlDeCOFklRfz", "dj khaled").
-published_by("3HhZbSJdhOqMSaRbEt3gtw", "dj khaled").
-published_by("6ZQyMrmlg95L8gy63Pnm33", "dj khaled").
-published_by("2O5841tkIKVcWFQTMHKJlw", "dj khaled").
-published_by("6MyFYoZ2zAgQO3GG8MmAD0", "dj khaled").
-published_by("0nRAbeyOElQVVHsDTRYbOO", "dj khaled").
-published_by("5BlVAn8U0WUeNqV7JsQWju", "dj khaled").
-published_by("1KDc01X8ZF9VYqVW6c4lvr", "dj khaled").
-published_by("3QGDxSAA25wjIDU6touDwA", "dj khaled").
-published_by("7741MyKVRZ7plQKksNPMEN", "dj khaled").
-published_by("2znAIcnAKEBPmq7AJduvca", "fly boi keno").
-published_by("0oVZx9Ax0CduKP4UIEi9Yj", "bonobo").
-published_by("6tEOuMrJ6gsmZ2vB2P1NV7", "bonobo").
-published_by("75mOIzgjMsFLN5hyQlpsy8", "bonobo").
-published_by("5mUpTgKcEzfX6to5BReBdE", "bonobo").
-published_by("343LOP7AV1WrvUON3J4xia", "bonobo").
-published_by("2tcn5o1g4FuVRuMGjn7G4v", "bonobo").
-published_by("43WSSYRovDf2G7qjKgl1mc", "bonobo").
-published_by("5m1RkwKeU7MV0Ni6PH2lPy", "bonobo").
-published_by("0DgI3WyjwKrCCZsbReu6IS", "bonobo").
-published_by("3JN1kCFyxsQfMpD3TKMyde", "bonobo").
-published_by("43otFXrY0bgaq5fB3GrZj6", "red hot chili peppers").
-published_by("5wZtSIvijWCMc1vlPFqAyB", "red hot chili peppers").
-published_by("7xl50xr9NDkd3i2kBbzsNZ", "red hot chili peppers").
-published_by("1jWKVgnHX8nwR551hQNx5K", "red hot chili peppers").
-published_by("6deiaArbeoqp1xPEGdEKp1", "red hot chili peppers").
-published_by("0fLhefnjlIV3pGNF9Wo8CD", "red hot chili peppers").
-published_by("2Y9IRtehByVkegoD7TcLfi", "red hot chili peppers").
-published_by("2rQ135imvelvp89D8eEZOi", "red hot chili peppers").
-published_by("74cQBDmkkzRBntR064f0SD", "red hot chili peppers").
-published_by("30Perjew8HyGkdSmqguYyg", "red hot chili peppers").
-published_by("3UwcZ5menPSCTvdxyYgxZj", "martin garrix").
-published_by("2tctbQPUdR3QsDXYrKBhDQ", "rolando villazón").
-published_by("4ENxWWkPImVwAle9cpJ12I", "radiohead").
-published_by("6vuykQgDLUCiZ7YggIpLM9", "radiohead").
-published_by("47xaqCsJcYFWqD1gwujl1T", "radiohead").
-published_by("1DBkJIEoeHrTX4WCBQGcCi", "radiohead").
-published_by("7eyQXxuf2nGj9d2367Gi5f", "radiohead").
-published_by("36lJLPoPPOKNFddTAcirnc", "radiohead").
-published_by("1oW3v5Har9mvXnGk0x4fHm", "radiohead").
-published_by("6V9YnBmFjWmXCBaUVRCVXP", "radiohead").
-published_by("6svTt5o2lUgIrgYDKVmdnD", "radiohead").
-published_by("19RUXBFyM4PpmrLRdtqWbp", "radiohead").
-published_by("60W12WoaHFNrL8XVUUr8Xp", "zubin mehta").
-published_by("4M57nyUlUo5sqS20AEpnZu", "casuarina").
-published_by("0qcVF3tbambXrwHNDcdDKf", "casuarina").
-published_by("7lm7p9JPKHCaIwugb9EbKk", "casuarina").
-published_by("3wSZCGBueYy8kfVmeDrxR5", "casuarina").
-published_by("2FEAip81sSpHDXt6wN5B95", "casuarina").
-published_by("2WAok7Y8gCufKyxmrxvWMi", "casuarina").
-published_by("6Uxf8JXhEWUNIZn6aNqd8W", "casuarina").
-published_by("28S4r0LQ4uT0R96TKsjENS", "casuarina").
-published_by("4sXDnIHD2Sf6ha92QDOHCd", "casuarina").
-published_by("1w2FaU7tWCc9yFU7gXI8Ty", "craig david").
-published_by("51vRvV83RdWGP9FpzGe4SQ", "craig david").
-published_by("5F0gRSdwqhfvrgUhUO28cu", "craig david").
-published_by("0Vop2iSyeir0QntOrgamFN", "craig david").
-published_by("6GEUSsL2idGeDRhNU9EI6k", "craig david").
-published_by("56OnGkVzxkPvdvPLYMksfo", "craig david").
-published_by("0J9SVTShbzWaOhogFHXJ9K", "craig david").
-published_by("3tzENLaGyi3Jrb5AaoKrGG", "craig david").
-published_by("6USRXUZXe4keGs2yUj3Fis", "craig david").
-published_by("4u0qGH2886zQgTWh7CV2fM", "michael crawford").
-published_by("6GA23OXtsLDfN3w9q5Dvt1", "michael crawford").
-published_by("4WwppSAFvUnWSymLglfbIX", "michael crawford").
-published_by("0FyEtMeimBChNvsXDwqZhh", "michael crawford").
-published_by("4eWZyvLrD6AnnbdlClGRdF", "michael crawford").
-published_by("5zeqEVdluXMMtkk10q0Tpe", "michael crawford").
-published_by("0TX2PttNvVe5jsHZ0Yhlr4", "michael crawford").
-published_by("3BYyiadPS4x22MgRaV0lNp", "michael crawford").
-published_by("1BgpF0ypQ64yfStZQlI0bo", "michael crawford").
-published_by("3dQcknWb1G439u0whEtJCQ", "maurizio").
-published_by("2PNRWFUHJYXqMR4UVtx8HQ", "mongol800").
-published_by("3JFSdYWnQlsrh9J9bCJEzC", "mongol800").
-published_by("1PriQ7wAyWx4JDnA3uZ6UU", "mongol800").
-published_by("5kCVoPmn11YwJPlwgStYjF", "mongol800").
-published_by("6N2iGOYbQU23wDtsyFts1d", "mongol800").
-published_by("60FJSgHk1c7OdX5lmhBTlw", "mongol800").
-published_by("7cwCyNvcWMqcunRyQu6TZA", "mongol800").
-published_by("2an2zDcyPnHZgodDzgxZj2", "mongol800").
-published_by("0iDu9vJKEp2zzVAA4kYwPG", "mongol800").
-published_by("3fc97ZWLIMc1xawhxbKrh2", "6lack").
-published_by("2LhBfBFZVU1IyaAgo5wghT", "6lack").
-published_by("0z05V0MbUL7NyM9qCXItC7", "6lack").
-published_by("5sgtN5B8rUr6nfUzJ4RRIk", "jennifer lopez").
-published_by("5NWeIxuGuEBcADqB1Xh58y", "jennifer lopez").
-published_by("2l8HCTHlnWSUwK47umlJ2C", "jennifer lopez").
-published_by("3sysiYphqNRQw7VKLCg1yE", "jennifer lopez").
-published_by("4nTxx6HqaGNlyEAlRxqlXd", "jennifer lopez").
-published_by("07ztulX4jyOAR5nUUYc2K6", "jennifer lopez").
-published_by("1fRr47hbp60yegltnsvkEH", "jennifer lopez").
-published_by("2NG4OLyeNMwcLqirwwwvs2", "jennifer lopez").
-published_by("1eT8gUgYQ16ghrCuq46z0f", "jennifer lopez").
-published_by("0WSk0LjktgdactzvfEAtGx", "etta james").
-published_by("11YqrwaETsLFMXEn2OFvpd", "etta james").
-published_by("0B2iKIbd5MI7ncoSdluIl5", "etta james").
-published_by("3KoHXku5h7OJKidwGoJOw1", "etta james").
-published_by("6s1DWmUCmFjzD09SRdnfVH", "etta james").
-published_by("7FN9qiQpqpz96scSSGBT0A", "etta james").
-published_by("3FfJJTSaR1TSdqiFPZ9rg8", "etta james").
-published_by("7EVdCFnjNzPlPBWI89YtGs", "etta james").
-published_by("3gs38c9rsmERmlFpvmk3jQ", "etta james").
-published_by("58JJWoAHtiThhhF3F2ZM0Z", "etta james").
-published_by("3jOdrtSyNugpZFULiEJaoG", "stray cats").
-published_by("3k7RfJQzCc4EcvJM7oJ0r1", "stray cats").
-published_by("2LAK2YvulySVcfxcVyUWNH", "stray cats").
-published_by("6jragb75gPeViOCJxIZbNJ", "stray cats").
-published_by("7cC6vsEHJ9MWEPAYgollBx", "stray cats").
-published_by("3SgWk2cnY4YwbdkKE3x4oz", "stray cats").
-published_by("05GRE4PAHu2wYkUKSCg7lc", "stray cats").
-published_by("1yCGeSlfJqg6810crHIO9C", "stray cats").
-published_by("3ncdH6D3gGWx7W36qjqCtn", "stray cats").
-published_by("6E3GOlLegPS1VVZkGpKEEU", "stray cats").
-published_by("1gMxiQQSg5zeu4htBosASY", "one direction").
-published_by("4gCNyS7pidfK3rKWhB3JOY", "one direction").
-published_by("7p1fX8aUySrBdx4WSYspOu", "one direction").
-published_by("1BTF8r9zpGVuymP6QBC3r9", "one direction").
 published_by("6l7RpHJcIxG3UcA4ITTC2e", "one direction").
 published_by("5SxEsi1PNyo1XfEKDYcFKF", "one direction").
 published_by("3Cq8bOhMlOAoY9zCHPicwr", "one direction").
@@ -5696,3 +5092,607 @@ published_by("4vZOCrmb8ntf4K7YGpVv8a", "dio").
 published_by("0qci9rhWkYauG5NJ4bs0J8", "dio").
 published_by("0APgOPQ6AG7Oa6fYloWW3J", "dio").
 published_by("3HCL4YZ2bRtuuYnnONc5ye", "dio").
+published_by("4hzj6tXoQlzKT66eOfqsJm", "dio").
+published_by("2PQalSOyBcDcd1w3dbVrJV", "dio").
+published_by("4vqZD3vxo5NjTYBHbA5EDi", "dio").
+published_by("5lFvZh6pCTJzr9UStebyCF", "foster the people").
+published_by("4WXR981EAEHPTrUR1BcjEh", "foster the people").
+published_by("10CyrqCzuV05dx3SV4zKvV", "foster the people").
+published_by("3S1Q6LJkr2NoZNbbW4KZG1", "ratt").
+published_by("3gFiYGOiQzjXzGLnzIO1hR", "ratt").
+published_by("6JyWOtu120mtrWNXcR2KdB", "ratt").
+published_by("1AlPb3m1pw1pTi49b2Sg2B", "ratt").
+published_by("0tcZwSBddeyTUCOOkLWl5L", "ratt").
+published_by("1I8TqSMkoRvF4xZSvuFDiq", "ratt").
+published_by("7w7VqxP5aEOz7SFK3ocyUX", "ratt").
+published_by("6sYCznuccLwYdIXIW2GEeC", "ratt").
+published_by("7CzsLoFBEMElxviJoApcAI", "ratt").
+published_by("6P3Fqm7z9wr5GeatpVZ5ut", "ratt").
+published_by("7pvIZVc2lyPDfApfqCXmED", "commodores").
+published_by("4WxFKNEsFdFWUWVQNoUx6T", "commodores").
+published_by("49dIsJYqG4CXpYVQEQMXeF", "commodores").
+published_by("2F7wnIhA1rcyoudSud45fu", "commodores").
+published_by("5OomyA33BtMIh4jhOt9ZV7", "commodores").
+published_by("6QRiOSB53KZEe22LfWr6EP", "commodores").
+published_by("7lhljFQDwXmssxTgDluX30", "commodores").
+published_by("3k1izL0SoAzxpEvZZte62z", "commodores").
+published_by("2VZu6gvY1Z8Kx4WtAbb7UG", "commodores").
+published_by("0APCdzWr52dPlKjY4MDqSN", "commodores").
+published_by("4tBonlFSeIv0f8DhCezOsd", "cece rogers").
+published_by("3UDaIsYxVdUC3HceDXHfWm", "cece rogers").
+published_by("14WW5qb2JVBknfpy3JiDes", "cece rogers").
+published_by("7nxYXN1wJ2PsPpQI09abMx", "cece rogers").
+published_by("7mYTGz5DIVF1TSDSeVs2EI", "andy montañez").
+published_by("1UmF7Z7fgW9SUWGn5Jqgzo", "andy montañez").
+published_by("69AoVgGSDHBALuDbR875h9", "andy montañez").
+published_by("1cJj5h6ms2ar784O2QAdrB", "andy montañez").
+published_by("2GJUQwmeCHvLkaoBnW6nqX", "andy montañez").
+published_by("6Cu595fY2PK9UWnP1eC92L", "andy montañez").
+published_by("5NqCMswcEZnTjbz2W4PlJl", "andy montañez").
+published_by("68YffUBPn4Td5mBE1hxFgE", "andy montañez").
+published_by("0TmRu48GaRh7RYQkY048xO", "andy montañez").
+published_by("2wvp9WGhFTZsJP5Zo5VayE", "omega").
+published_by("4qplno3lbet8WvuTGdDG3T", "lil yachty").
+published_by("4nHOF3neSo6Y7OG5OAflkC", "lil yachty").
+published_by("6upTR3RFKR7K20OnHRXDkL", "lil yachty").
+published_by("1Ea4UfFW7K1UzbjkDVaPri", "lil yachty").
+published_by("4bJqW1SBOvsfcEzZwsjdjx", "lil yachty").
+published_by("0rNnEH6cCO4T0F4lTEnHK2", "lil yachty").
+published_by("4HqXaOMtXGjPbF2SloKsmD", "solange").
+published_by("4WF4HvVT7VjGnVjxjoCR6w", "solange").
+published_by("3Yko2SxDk4hc6fncIBQlcM", "solange").
+published_by("3hZvMcitlooQEsZOvGXKON", "solange").
+published_by("6MsVbAqh2A9i7jYvPOsGNx", "solange").
+published_by("0DEELTj7PdjJllo8BLfcFU", "solange").
+published_by("3iI9rHlhgripz7lrrAqPne", "solange").
+published_by("0gEZcQnr9znzClpg2ts5qm", "tiësto").
+published_by("7eYE8s5DYIn1divg2j3dEo", "tiësto").
+published_by("3yyMpOkLtbcbVJFzEESLN0", "tiësto").
+published_by("3HMuPwQxlJt23qjY8tAVAd", "tiësto").
+published_by("473olrWTIYqylqGEVlS9t7", "tiësto").
+published_by("6MFt4JIJFsWNb32zbjlL4n", "tiësto").
+published_by("57bABnvvPfNhBQRI70dqlU", "tiësto").
+published_by("4SHlBT6B3kL8bdj6X2xHRp", "tiësto").
+published_by("1116PKIKlArm87HVaPtonW", "tiësto").
+published_by("44pHCC8r3bM1AwiO1KMiUc", "tiësto").
+published_by("2KadjqHrmlWe29bF7IW1al", "rionegro & solimões").
+published_by("1wlFg5GIAA3vt437XRGyYW", "rionegro & solimões").
+published_by("0vi1Ub7UuFJppxd27Dy4df", "rionegro & solimões").
+published_by("7oNLD1GoZtiNvg717HyRWM", "rionegro & solimões").
+published_by("2cBvLeinaA1sq23uRLXCAH", "rionegro & solimões").
+published_by("7ceo5fT675QcWILkV7YDjd", "rionegro & solimões").
+published_by("0PmdgaHU974Pk6gSOZzxAs", "rionegro & solimões").
+published_by("1dZn1vL0xZuwrFQyLQH33U", "rionegro & solimões").
+published_by("1G9MwLzcu2DeVIJ90VrGdf", "rionegro & solimões").
+published_by("3dFnXzqB7PXgqUsIzhbX7x", "rionegro & solimões").
+published_by("5IKs846AWYY9AvTWofJPGZ", "clinton cerejo").
+published_by("2JmDrrBaX27XbDHSXlSLsy", "clinton cerejo").
+published_by("4tvWhp5ubrVUy3bIEDXHl6", "clinton cerejo").
+published_by("7Kc4lxQ1Sf3S4D6pGVRuZL", "clinton cerejo").
+published_by("4YAtGpNUwcHesLlyYUIxur", "lindsey stirling").
+published_by("7wfjL0ZBEycLvXzJmHF45g", "lindsey stirling").
+published_by("0qqJ75ZwZ2x4YeiyvCgZcI", "lindsey stirling").
+published_by("4EBp4auyuzkB2Zl8IEdIai", "lindsey stirling").
+published_by("3AJqiyblMSz1V0riviZ6JK", "lindsey stirling").
+published_by("5qZStVu3aSFjdF6MafvbNv", "lindsey stirling").
+published_by("07DvcMYxY3RKulpG4EtDhz", "lindsey stirling").
+published_by("58kRTFztL9vdX3lnwugShN", "lindsey stirling").
+published_by("6Ut40zm1tpm7moSfHLrHGz", "lindsey stirling").
+published_by("4DLn3C5QGLkM6CSslA1glP", "foals").
+published_by("2gA6WSERaJVOWwuB0hegvp", "foals").
+published_by("0WY0ktk0QvPw3bv3t7rnon", "foals").
+published_by("5oT2zoIrVGJcbVZoNGGZwc", "foals").
+published_by("4uIDigk79DeZEYV6Z5Yf4s", "foals").
+published_by("0PIR7PK8DMB4pgoxq7F9Ad", "foals").
+published_by("1RBI6xp8UbYoz5eL6agAMD", "foals").
+published_by("7AJfPQUqsHzmXUBR8Da91W", "foals").
+published_by("6SF8pJqpP5eNEgHsH4DmNj", "foals").
+published_by("1P0e2LCGaKo1MSvCRcAZTf", "foals").
+published_by("7LWSI7hollbcuu2RvNzp0D", "vaneese thomas").
+published_by("2hFFEU2lrbLfupnGa5yOyC", "vaneese thomas").
+published_by("3Q9aC81XHeFAdxL7ydNhwe", "vaneese thomas").
+published_by("6F3ZumDjkemJ9aYL0VEtIa", "vaneese thomas").
+published_by("7HbOsuedNyZjm0IWo8Mf3j", "vaneese thomas").
+published_by("0NpAILtUwlrg2DYi2191im", "solomun").
+published_by("6OTd2SqRX7a9QJ0Di1xUMd", "einar steen-nøkleberg").
+published_by("1EaOU3AtSQWP3gVMNY5JaM", "ojos de brujo").
+published_by("5d9WWWhb2gd6B1NPW9VkZn", "ojos de brujo").
+published_by("0Ek1FFUlcNEgic4FpjVPNW", "ojos de brujo").
+published_by("2lsNghC4LXwVe9afXv9JjR", "ojos de brujo").
+published_by("3HZUh8Uv216HgFYDdlnevA", "ojos de brujo").
+published_by("5WNRhfXJhC8HGquGAFsZrz", "ojos de brujo").
+published_by("7FWDwjgPfc9OmO9fKpQsRx", "ojos de brujo").
+published_by("6SdjdmRAq9242eC8nUHltd", "ojos de brujo").
+published_by("4PiQy8hoRxsmNqpzVEkDJ5", "ojos de brujo").
+published_by("1X4G2tsWD8KCK8hPmrmdgr", "alex fong").
+published_by("6TXpF1xIFb9vWNYF9yEK4w", "alex fong").
+published_by("435n7Kp5S8FJVbrwpixAoD", "alex fong").
+published_by("6pDlhplvtZSYmZ19gbaeBg", "alex fong").
+published_by("0XiblXlDiy1dpqlXy0mVPH", "alex fong").
+published_by("4OAx4bfkk7S2FTcVS1cvwv", "alex fong").
+published_by("0mUqC1ZRhsBZXihONAf5Tg", "alex fong").
+published_by("58Zu53oDtIJ6E4IZGGfCmd", "alex fong").
+published_by("4ssF0ppdJnMTtL2hg1CLKX", "the postal service").
+published_by("0FqfrAtS4ifPOeJTdyGiN4", "the postal service").
+published_by("375JlNjmvy1m6eFFMlh4fQ", "frankie lymon & the teenagers").
+published_by("3IHfpEn31flk1A5cbPpPha", "frankie lymon & the teenagers").
+published_by("3A3z6bNNc38WpecaY8tael", "frankie lymon & the teenagers").
+published_by("0vMlyH3qNCkun2rIFVU5Gm", "frankie lymon & the teenagers").
+published_by("7cJP8OI40VbrT0yuVKPtNL", "frankie lymon & the teenagers").
+published_by("5s9qnNSHj1rYEx0FLzPzUD", "itzhak perlman").
+published_by("6VWRJQOrnqjqi0iodpPrcp", "itzhak perlman").
+published_by("5UamZwiKDXurp4C1552F9A", "itzhak perlman").
+published_by("6GBu7GU6dztLYlZuUHiwA2", "kelly clarkson").
+published_by("2puALR81qCmKmbOyuHAI94", "kelly clarkson").
+published_by("2evDrP61AuZ2G1p9XkEGDB", "kelly clarkson").
+published_by("7Jahqd1kx9Qau0E9x9iZj6", "kelly clarkson").
+published_by("1Iqhigu4rrELLMXI4RRuh9", "kelly clarkson").
+published_by("0RkzvNjxyp5qzMcWeuBTA2", "kelly clarkson").
+published_by("1vpJHjovGZZNhiQPHorntg", "kelly clarkson").
+published_by("3qjjQOwLDdhdYcSSwNHPpz", "kelly clarkson").
+published_by("3PuJhshdbYhC9cQFAZI3z7", "kelly clarkson").
+published_by("4txPGNHsUtjgBickDa5mOe", "kelly clarkson").
+published_by("7nJWqYNHsHMXYnLGrevMsF", "ramin djawadi").
+published_by("2Bjtwxiu7f0XWoYWGHEjcm", "ramin djawadi").
+published_by("3cLXiN6xkpHFBtJvLCO8be", "ramin djawadi").
+published_by("3AOeatEAPjy1CKtdkaXaDq", "ramin djawadi").
+published_by("6beoDLgGurCVPdUo9X9UnX", "ramin djawadi").
+published_by("4U6mv2dfPwbp3NQlq2CSaj", "ramin djawadi").
+published_by("4m1tneZGVaqxQ43cy3dP0p", "ramin djawadi").
+published_by("3GFHA63Ur7kFMqa0NcyJw6", "ramin djawadi").
+published_by("0mhtSBbvIBOjCq28CdAwcI", "ramin djawadi").
+published_by("3sABlBpkGohgVYOVN23q8m", "onerepublic").
+published_by("6p01JdkB7ry8iAf4IuC1Lv", "onerepublic").
+published_by("42UJjk8i8L0De7lQtu7sqi", "onerepublic").
+published_by("7bWzSwx1PRiZjfjhaB8BjZ", "onerepublic").
+published_by("6PzrFytpiNH6aeJBGbK25G", "onerepublic").
+published_by("19bXRXu7OeKRO5aVkCo5p8", "onerepublic").
+published_by("3LjYBwe8jax68mwd3iL4uo", "onerepublic").
+published_by("6YvRiclkwLzittZeUIrC2G", "onerepublic").
+published_by("3oRJOBqBr4bnHqRDw1uEIP", "onerepublic").
+published_by("7qDlq03vlk6jd8k8v4dE3b", "onerepublic").
+published_by("178MVoPdEAX4Ri7m030WnN", "psycroptic").
+published_by("248uWbaOyHCE9ZKHlbpAZS", "psycroptic").
+published_by("7KUNyshpcEkTeYBYwyqnrS", "psycroptic").
+published_by("0KBu3xfrTcT0L3mek7aF0s", "psycroptic").
+published_by("7fS2Lt89P73KIVGCgzuYs0", "psycroptic").
+published_by("3YUbbHZ841UwkD1NFcKoEi", "psycroptic").
+published_by("4TKz06i8M6zYVoK75cF2dm", "psycroptic").
+published_by("6sUKSfuumpZ2GIv1uxuTKG", "toadies").
+published_by("2mQITSSUYnXnGiJyWGzznf", "toadies").
+published_by("7g8oCxBvNkTDmQjTLmIL7O", "toadies").
+published_by("3LiNFN1Y6Mcn2kX7zA99ZI", "toadies").
+published_by("1A3tW0AMSOF9fZ9TRYYQ2z", "toadies").
+published_by("3EAhVlyNoBsbjkXtA11J1x", "toadies").
+published_by("3U3xzJItmS4og4WJKSB1IM", "toadies").
+published_by("6zY6r8fXaTlKK8BwePuXxt", "toadies").
+published_by("2GLF4S7Gk32LuvJGkQfTvW", "toadies").
+published_by("7tFTqVGHceSlXOaz8IylBN", "toadies").
+published_by("2kqn09pydzvKvB3xWbAxY4", "macklemore & ryan lewis").
+published_by("3LwV3QIDQopbgERx5XJnBz", "macklemore & ryan lewis").
+published_by("6XO9dbsH9zhuQgFGH0hUrb", "macklemore & ryan lewis").
+published_by("0CoiTAUBiO70lic9p9Lboq", "macklemore & ryan lewis").
+published_by("2kRR6jfC5GyETK2yszvfBQ", "godiegogo!").
+published_by("1FfGSThzZxeULHDWvkZZHb", "jeff mills").
+published_by("605V8I7O6zkkrvmWP01nvO", "jeff mills").
+published_by("59KJwVPvVCj1rH9AJ93kyK", "jeff mills").
+published_by("5wueQ12En0vKiyqEPKtGV2", "jeff mills").
+published_by("5cGGbqp1MwjYQkoQx89ZLn", "jeff mills").
+published_by("0t6vaUf3Qgf9DjDW5hm2ii", "jeff mills").
+published_by("2xc7MwRpbX0JEm0HVHZd3t", "kool & the gang").
+published_by("6p2PrUp7AFngMrqUFYDHIe", "kool & the gang").
+published_by("700aoKEFsNvvYIbpoRJd6V", "kool & the gang").
+published_by("2at4dpmcSqwqYGABE4Itdy", "kool & the gang").
+published_by("26GLqWXv4INl92KQeWI3KU", "kool & the gang").
+published_by("1msSEYG954pq60TSP3uOkJ", "kool & the gang").
+published_by("1lLHdYAPp0kZdBiMrLbsJV", "kool & the gang").
+published_by("72pCKPIkrfGebIUGOnkMBb", "kool & the gang").
+published_by("5k8nxVKGNG78WfPENcC9tI", "kool & the gang").
+published_by("6ux5CjpF5wgjAS1AqsZv4U", "kool & the gang").
+published_by("5Kb8rSCpW8wMcRJDZOUkZE", "david gray").
+published_by("5eySZ1pL3kVD26bX6X8CdH", "david gray").
+published_by("1xhyU58O13UFVoGMfBJ9CD", "david gray").
+published_by("2c4Ibt3ZtLofB5HIa9gmYg", "david gray").
+published_by("7ar3aUgBdcSnef2436qOJG", "david gray").
+published_by("5hq3F0dUtiGVqJqWEDGIrX", "david gray").
+published_by("22V5sPHIbBhz7VloRG97YA", "david gray").
+published_by("4yRdHxq7N37CojylauNnZc", "david gray").
+published_by("1dPOp8vwWnZe0R0ne8RxyH", "david gray").
+published_by("0l3Pvm2VX3adpUwCyM5Ybi", "ken ishii").
+published_by("4TU4WS5SHMNlIJ02ABUdTY", "ken ishii").
+published_by("3gmCFkyEyAqvqZnfd4L6Fg", "ken ishii").
+published_by("0nzOHUd05r5aOA6gzpxpVk", "ken ishii").
+published_by("4RtAEjjH7sn6DH8xOKdmNF", "ken ishii").
+published_by("0MZVWV2aRaASAG3NDem53P", "ken ishii").
+published_by("15djk2RJfxOPzqcTBI7IXq", "ken ishii").
+published_by("5MCMM6uyoSCXKB1KGIOFXa", "héctor lavoe").
+published_by("3K2p07AzlA4zw5RE8JCxQI", "héctor lavoe").
+published_by("1joTdaBL5fWtviIPrZawtQ", "héctor lavoe").
+published_by("1yjUsXzwjtRoM1j6vWTUJM", "héctor lavoe").
+published_by("1XJu74uNgE935Goc5brwOL", "héctor lavoe").
+published_by("1s5Nawqoe6zDTQnVB0nS6e", "héctor lavoe").
+published_by("2834vfmvqq8UutYQ9f1XyD", "héctor lavoe").
+published_by("1cjhnTRit0iS1HViiGeK8H", "héctor lavoe").
+published_by("0aeABbfuKPEc27O8fl5pjJ", "héctor lavoe").
+published_by("59Gjxm9FfL1UXDJ78QsoA8", "héctor lavoe").
+published_by("5kbYTWrypRkPmwb7mttMqk", "é o tchan").
+published_by("2yedBu5aqpmAvMDGbaajdO", "é o tchan").
+published_by("4OtX33TMxROGwJuoxnkXIP", "é o tchan").
+published_by("1AbfrXsqyns0OyBfkRBrvh", "é o tchan").
+published_by("2oFOHKxUhcpdQ5V9YszcGt", "é o tchan").
+published_by("1Fnb3iO99TSEN9w69ZTLbJ", "é o tchan").
+published_by("6Mlcs0ZXLyzDdjDyCcFWXm", "é o tchan").
+published_by("192HYg9G4lheiEnKSqno3W", "é o tchan").
+published_by("3G52LWPosqVhuMpzW6BVe0", "é o tchan").
+published_by("66KsEbnksoKY9qYbB8zhwK", "lifehouse").
+published_by("3fwIU5VhACvJjcGungs4rA", "lifehouse").
+published_by("3IkcX81wyK3qWV0oRlwuUT", "lifehouse").
+published_by("6TmElNgwnE9vBmYCLbwikX", "lifehouse").
+published_by("1IkEI6OxppVnKaBgZpJ0Sm", "lifehouse").
+published_by("1vUyB16VFIuVflhyreynVr", "lifehouse").
+published_by("2wZXydv4WCmlAlelI1Csg6", "lifehouse").
+published_by("3DOEt1I6rJtl6EtVXlUTGl", "lifehouse").
+published_by("0b6axijtmoTBgIrmlFQ9Ne", "lifehouse").
+published_by("1a15dDOiwz5ebSxk1ZeFB5", "jack johnson").
+published_by("3z0ah0DTRYEZDbi5MWmBnX", "jack johnson").
+published_by("00Me6BWP9P7j6m8x5cbcpV", "jack johnson").
+published_by("797PJRUOp9NICoGRKjpAnx", "jack johnson").
+published_by("0N9g1klLNTWcRharbEVsPB", "jack johnson").
+published_by("2WhNmY6H4EREyAV5J5vgsv", "jack johnson").
+published_by("3mQJ5u7qqfIZK4KfyJxLOd", "jack johnson").
+published_by("4ixba2RP3g7Mq41VVk83Rx", "jack johnson").
+published_by("5sepHXGobkchZMKuYa7s5O", "jack johnson").
+published_by("3fa8r86AofGDNs1S2d3xgz", "jack johnson").
+published_by("3hunZ0zfxPlrCEO9Z6b8Nm", "music for little people choir").
+published_by("5rPjw2zEw8SS55GYjWnsu9", "music for little people choir").
+published_by("3fYqUs4G6XVqsMXboQq6X9", "music for little people choir").
+published_by("3uRFhEs1zMMcozfwNbp4gh", "music for little people choir").
+published_by("5DBTQdvvZK974oLGEyNwsH", "music for little people choir").
+published_by("4eS3k3otuv18SPXBugekO1", "music for little people choir").
+published_by("05QJgUex5PwOmCjNhRop8X", "music for little people choir").
+published_by("0s00AVjuMx4Hpe0v1yZMyH", "music for little people choir").
+published_by("5KrVGRv9w2Dk3CN81Afu3W", "music for little people choir").
+published_by("1rvK5Madcxgww4dDxABNlb", "music for little people choir").
+published_by("7E3c9dmZ1KnZOQLZTgRqWx", "justice").
+published_by("23EaoI8dXfDGfxF54sd1DP", "justice").
+published_by("3ZJErwtxUtDkPlhrrSAw0R", "justice").
+published_by("48OWliy7BoXi34qUVurfBL", "justice").
+published_by("4B3LGUCt5OsnJtzed6fLby", "justice").
+published_by("41solTO3bJJh1OTzBF1GUo", "justice").
+published_by("10y4ioZQOQoIEkFOMxElJr", "justice").
+published_by("4GGazqHvuKwxBjWLFaJkDL", "justice").
+published_by("519SZo5x38UD8Jg7AUXWWE", "kid rock").
+published_by("1IimUkW165cja12nXd2SPW", "kid rock").
+published_by("5Lc8kKrtqRWGlkFUkLdy0J", "kid rock").
+published_by("5zYwSRllQRaJFdQEcvCO8l", "kid rock").
+published_by("4BTUT5Nn24jXu0MdImRVct", "kid rock").
+published_by("03jkOdk1T914XvzIFo7jIg", "kid rock").
+published_by("285ViyfNKx6YEY6J2bnFhB", "kid rock").
+published_by("64du8CiAmKAzVswhA3RK4r", "kid rock").
+published_by("7nFlAxnXMrQRpM1R80pKQm", "kid rock").
+published_by("7eUcD5ZizDkJ1cHvWlmOuW", "kid rock").
+published_by("7sx7FCyozq9bCr8hC3Lfdi", "gundula janowitz").
+published_by("5Sqhdvw846qefGluoU0u1A", "laurindo almeida").
+published_by("2IaktOwC3hrJuFOMUtMUdZ", "laurindo almeida").
+published_by("0XUW9J9QfqaidSL2QnO4f1", "laurindo almeida").
+published_by("09AZoJh9cJ2RH5z6WUzEsP", "laurindo almeida").
+published_by("6LrLyENLU0ufxIJ7OEHMVH", "laurindo almeida").
+published_by("6Wl1PYly8bL71FPM7f4aAE", "laurindo almeida").
+published_by("2Q7CdZWLsyX3c3IBnkBQ9l", "laurindo almeida").
+published_by("0kSo96fWRFFImdgYNrOzcG", "august alsina").
+published_by("3Ec1eNW4gjFsv1A2dvJeWT", "august alsina").
+published_by("3FHEN0yaab8BxVHXHyaYkk", "august alsina").
+published_by("2P9bHhWaKrQrqk2Z4pu1ms", "august alsina").
+published_by("4buyJv1fGVn1QU6ZR6YroB", "august alsina").
+published_by("4Ypp96QH9jDn9J324B2B2A", "august alsina").
+published_by("27fp0MwlVEyeKJ6pDBhj02", "cybotron").
+published_by("4BdkOvBqRW8oKMlo7CPYJt", "cybotron").
+published_by("1VeRcvnJO8aNDEYnoilYpQ", "shigeto").
+published_by("4GqLgh8J1bRIRrVeYq8J9L", "shigeto").
+published_by("6xKVKMCffshyEUK8517G7X", "shigeto").
+published_by("7gvYNekbiIJKcgvtMfzXQ4", "shigeto").
+published_by("21MzP25d9STHC9zRrnvBYz", "shigeto").
+published_by("6T4VLggIC6vtaoUVqemHrC", "ferreck dawn").
+published_by("2OR5fITkX85f8yycKTa1QS", "hot rod circuit").
+published_by("1DY5Wi3uf6ElD85LPVihRV", "hot rod circuit").
+published_by("6fYGFmyMFVEZvS7F95lLD2", "hot rod circuit").
+published_by("2Xkfh86aoHJXqUh3TfOZOp", "hot rod circuit").
+published_by("4WIa7YKywqk8lXEvR5cx76", "hot rod circuit").
+published_by("0gDAgSwUzu2qJBN2nXHYAn", "enslaved").
+published_by("1YWndXHoFMp7KyUBowy3Bj", "enslaved").
+published_by("58qq6lSrqozXezBVnrLfBB", "enslaved").
+published_by("6r1RyI9zAH8OrbP79uPrdZ", "enslaved").
+published_by("1lqXGxOcRNznVBsOcfCZuM", "enslaved").
+published_by("2rxV4vZNulqUeounxZWE33", "enslaved").
+published_by("7qYhGRoRsQhzbIPSJmBdPo", "enslaved").
+published_by("7wAS7rGVxfK1zfSuu1rU3t", "enslaved").
+published_by("4yaSDa3ki4Edwgo2PaC2lm", "enslaved").
+published_by("5UlEmblNnjeTOHFALAksEp", "enslaved").
+published_by("5QX3iuxoEuvjyDWgHzlVx7", "afshin").
+published_by("0t4JtDooagxZm1xjspP6sF", "afshin").
+published_by("6AOdZxhzfIaM0I5pQ8k7Mc", "afshin").
+published_by("4uzBMJpPFHst5PiCduRKFH", "afshin").
+published_by("3yHzy0S9zJGFMtyWpTEIXT", "afshin").
+published_by("5pFmfovHyl3T0w7zYRkSde", "afshin").
+published_by("3xblcdw3qV1WhOzdOQPLmG", "josé gallardo").
+published_by("7exKvHrQN7QEqpekUrZ9O6", "wolfgang amadeus mozartjosé gallardo").
+published_by("5ZnmSB9CYnVLxCfkqj672Z", "patrick o'hearn").
+published_by("13jB8uMaW9ZbMg8pwpqDfN", "patrick o'hearn").
+published_by("4HvR1S2y11J605slP2tPOd", "patrick o'hearn").
+published_by("0pyJOIHte0Dlw7KmxsX8Zj", "patrick o'hearn").
+published_by("6iZWv35qWrWKr1KYvByFbQ", "patrick o'hearn").
+published_by("6M6rPxUHa5p5fwPqbvfiNN", "patrick o'hearn").
+published_by("2G7NJdUQxp6vAO0arTebvj", "patrick o'hearn").
+published_by("2rRmuTQcJcxKCymvmrY7uI", "patrick o'hearn").
+published_by("1pK2yM9NGmdWwlxpDVEg63", "patrick o'hearn").
+published_by("3YHeNhVA6JFT8XHu9qZtbS", "patrick o'hearn").
+published_by("7ij8wQxCAexZiXZbMOHcxE", "green day").
+published_by("5a3LqvNt2nv1B4aRKXmgOV", "green day").
+published_by("7prfPBMbgDyhq7kdpM0R9v", "green day").
+published_by("1t9rzuEEFVHPdqRYzsaWC8", "green day").
+published_by("71rrqHKVkUFx2CSVfxrrLs", "green day").
+published_by("6AFJIZmd1zWQDBBwHyeo9w", "green day").
+published_by("4UV0uKJYgaYeHu9WK1KfC0", "green day").
+published_by("6cBeaiCT6xaXQIAFKwEdxQ", "green day").
+published_by("7cr5SyzCHjxvpv9Gdy3N14", "green day").
+published_by("5Qhn2FpGWmTjCuntF09j7g", "green day").
+published_by("4EbOSjrF5iYFkuRZdx64Ky", "eagle-eye cherry").
+published_by("0wJptv12aFTSRMtOwi4o5y", "eagle-eye cherry").
+published_by("0Msg4Rz8LcAZojXa5dyq1p", "eagle-eye cherry").
+published_by("6AvJXdk3FanPQ7tqwqvbml", "eagle-eye cherry").
+published_by("14BBt5XxhnoHBsEAlKrIqm", "eagle-eye cherry").
+published_by("1TkbYwgiSZtjEnDmlt4buB", "eagle-eye cherry").
+published_by("3P2WRy9eBoBbSTCZWGQOoO", "eagle-eye cherry").
+published_by("5lZ3yGgQnSiJdtL0e4kOIy", "habib koité").
+published_by("1ggvU6Mmk0yKRAE2XKH1SV", "habib koité").
+published_by("74dkCQd0UHNyx8evu9TBda", "habib koité").
+published_by("1rTWfR3inrijFNyDBnoxGU", "habib koité").
+published_by("1LxDcw6Kmze9UUnGpgxrth", "habib koité").
+published_by("0halmb037BS3L7TONp8HFs", "habib koité").
+published_by("6p0g3dh4Ru3evxT3USueQX", "habib koité").
+published_by("6KMkuqIwKkwUhUYRPL6dUc", "foo fighters").
+published_by("2qwN15acAl3sm3Idce5vK9", "foo fighters").
+published_by("5lnQLEUiVDkLbFJHXHQu9m", "foo fighters").
+published_by("3ilXDEG0xiajK8AbqboeJz", "foo fighters").
+published_by("4IBQvwIbtDluogvDe2qpaB", "foo fighters").
+published_by("2eprpJCYbCbPZRKVGIEJxZ", "foo fighters").
+published_by("1zQ6F8gMagKcPL4SoA80cx", "foo fighters").
+published_by("28q2N44ocJECgf8sbHEDfY", "foo fighters").
+published_by("30ly6F6Xl0TKmyBCU50Khv", "foo fighters").
+published_by("4EnNuo8fG7dMoxMefbApRY", "foo fighters").
+published_by("6BpRqZyCYTCHMzE5Imf4TI", "sandesh shandilya").
+published_by("2F9CGL7sZSG4jnNYqLQzk5", "sandesh shandilya").
+published_by("36YfL0xmJehr4D2ahaZCoW", "sandesh shandilya").
+published_by("2KM6alMpwGJCiVnDNE6Z8C", "sandesh shandilya").
+published_by("6j1UaM7zAqvnQ9WYdvRwy7", "sandesh shandilya").
+published_by("0JB5xqKaLjvIvIqI7kNo5g", "nazareth").
+published_by("2fuoH513k6lw1q2aUdkJ2m", "nazareth").
+published_by("4YFKioxmg2kojFAlHhHxkj", "nazareth").
+published_by("2USUdgjsNvfbL6xVBGlMwf", "nazareth").
+published_by("4LaSgGB4UJjJLPZvSw8ije", "nazareth").
+published_by("1w8ez5nR8Y96Pa4jinXPwe", "nazareth").
+published_by("6Mtui7IEfiXWwPmA98wAtP", "nazareth").
+published_by("4NaCQIWUyjI8kI6CmAPGze", "nazareth").
+published_by("5LDVT3f4VOxBeQ5NzjgM1S", "nazareth").
+published_by("0reJSYIbuFVnP4tmaocY9r", "carlos santana").
+published_by("17sPX82cIsjRjZtcv0VzF6", "carlos santana").
+published_by("7zYYNghKBAQ39RRODoeKbH", "carlos santana").
+published_by("5rEffm19IHdtfFZZpoKmEl", "carlos santana").
+published_by("36ydx7i8ANYTr9OSpYGXOt", "carlos santana").
+published_by("2EdpflfgXzkVBLK9aKcwEE", "carlos santana").
+published_by("79RKfnrrbyVoxvKeX9wFKY", "carlos santana").
+published_by("4BtIIBfdDY4zqU5isUabhE", "carlos santana").
+published_by("6xm0NbbUbaeqzugBLHhKUy", "misfits").
+published_by("45WlBU6mA07baurgjYFnIa", "misfits").
+published_by("6MzZSl19bVR3xWwFCOZyhg", "misfits").
+published_by("4Xy6HuHsLWJs2bRFu9iNQu", "misfits").
+published_by("4CKrRK52g4mNzbpGIMVbtE", "misfits").
+published_by("51tAz06EJxwhsk8uNfWxBo", "misfits").
+published_by("3HJcuW4PqFGNhM9TkCMkfC", "misfits").
+published_by("6vZ6KNlP8hReYxJVuU7G42", "misfits").
+published_by("65KQFqWUDiwmVc9BjchWZy", "misfits").
+published_by("6P2nv7OF0UngkW3OIcoMog", "misfits").
+published_by("6R2JgfaxJrl2fI0LdgeBlU", "elephant stone").
+published_by("5HLTdRYDQwZHzz84fx4KjX", "elephant stone").
+published_by("0ZNjWY53iMHDv1hBK1lRpx", "elephant stone").
+published_by("0K6dw2M6tOF9hbuszGGCNG", "elephant stone").
+published_by("1Yx05F3YkWJ8TtkIoJMFYN", "elephant stone").
+published_by("4KXOif6WVCTjrxhPmu9mBq", "elephant stone").
+published_by("2xUECIo0BalLsOl686J9kt", "elephant stone").
+published_by("24vZleR5n8Z0y9S9QkgOeU", "elephant stone").
+published_by("5kOVx8Tg447pk7dB0tBTQc", "elephant stone").
+published_by("13tjE1r3B97NpGDiaM8MgO", "juan carlos casas").
+published_by("2ZTutAjJEBw4mA5t4Edg1d", "bastille").
+published_by("2QzbL1DICo4xZnWr8Sw4fF", "bastille").
+published_by("1qKjUIVG8KmtYceDBWjfqE", "bastille").
+published_by("5NfeW0DqFVT3Su3kHBgTf4", "bastille").
+published_by("1YXsPGQingGkJZLA8uuQNL", "bastille").
+published_by("0Cl4Hx5RlNAvSjLuow2oIP", "bastille").
+published_by("0mmbozH1bdOiW7m7kAgy7L", "bastille").
+published_by("32xPzu88bmeZHZBsTYI0ml", "bastille").
+published_by("7tZbWBHP4ffdYgLo4jJvd7", "bastille").
+published_by("5eSSPkIeOxOpwTUqHcYgyP", "richard clayderman").
+published_by("7qJrqBVnj0uz5B5Atg47EG", "richard clayderman").
+published_by("4lMFLlxSoFg8HjXa5kknL1", "richard clayderman").
+published_by("1SJ7xHHLAesr43HkyzgKNA", "richard clayderman").
+published_by("3QJw5UIF1WiRQ1LlyPvZzx", "richard clayderman").
+published_by("1RmYgT3D3mlIWm86ElDjQ8", "richard clayderman").
+published_by("72ObMlkbhFsZC2fv9hIVxZ", "richard clayderman").
+published_by("4mOXN1GTf0nMIusZ6872rS", "richard clayderman").
+published_by("28mQABnxtW6HmS88HPuPB8", "richard clayderman").
+published_by("7trSSnmqErcnhorcjGeEUi", "richard clayderman").
+published_by("425gWaQU4t3KOvcM7z3VGk", "buddy guy").
+published_by("05GcLcffb84BOLzo7BMz9W", "buddy guy").
+published_by("5IyOwYWSw2m1mwD4OEpFeM", "buddy guy").
+published_by("5kTkIJIjjUTv8FEMGrzXvF", "buddy guy").
+published_by("24qPlBedjmZlqnfIZmjLNS", "buddy guy").
+published_by("4G9uuVJr2HKndziyWh6wPu", "buddy guy").
+published_by("3PSiKvI79K1aoayA3Z7xfV", "buddy guy").
+published_by("1b1mhwRLhjlr5bbGHnDine", "buddy guy").
+published_by("7LafphryGr8AjCZYrau4j1", "buddy guy").
+published_by("3Q9JD3cJ5ZsGYDRUWgFCHY", "enya-sang").
+published_by("0q97b44R11aNadk15Snmkc", "enya-sang").
+published_by("6CNVmUP2OWZZnl1wjF9i60", "enya-sang").
+published_by("5aM8gkw3dJQ7XSc2Uq8g8a", "zaz").
+published_by("7rmK6YmpxcVPMT5Ieb2HcM", "zaz").
+published_by("4O6akvbROB69r1s6onbRPj", "zaz").
+published_by("7H3c8NdGjNFruFiJ00iqL0", "zaz").
+published_by("16qim6Q95YEXlHdwl9lg73", "zaz").
+published_by("60xEj87f5sryKks1Yo4J7Z", "zaz").
+published_by("1ncUGcxDLDqiRAZYCKwXlM", "zaz").
+published_by("0ymSxXsbp3l4ED7NfbRRwA", "zaz").
+published_by("0rFKJTkteZamC0YcH3ZWf4", "zaz").
+published_by("6c3UkztmOmW2GtunSNN3NZ", "savages").
+published_by("0aMC5DDAF86GvYNPaivEKd", "savages").
+published_by("2zlJAgSlWKvWpF9LRWuwOb", "aidonia").
+published_by("7b7jhNRjKkoApz1KdmyIiJ", "aidonia").
+published_by("7aQmnGm04LJhIRAYD6Kbcg", "aidonia").
+published_by("0TwmfJyS2NvtLMbDvC0zsZ", "aidonia").
+published_by("5zw5yMUoAIHS0SmrPTdqKZ", "aidonia").
+published_by("3gvYF75BQFVDavV8cq0MOh", "aidonia").
+published_by("0kKh7zmNtUFradKiKK4AV1", "samba de raiz").
+published_by("0ZIeMaHX1lujGYQwP2w0Ff", "samba de raiz").
+published_by("025CDSYsJnhxdS5o3BDvk9", "samba de raiz").
+published_by("6T58aKZn3iMSizSYaF2pTc", "samba de raiz").
+published_by("7er6jjv5446zSiCIo6E9Pr", "black eyed peas").
+published_by("3IpexNXiKbezuY526S4Jvy", "black eyed peas").
+published_by("0BkpKcHw606at6Y2cp8kdE", "black eyed peas").
+published_by("3zsHrrnA98o1TvCVh1JAr3", "black eyed peas").
+published_by("36fdxiOzdlmsrHgGcfvqUJ", "black eyed peas").
+published_by("1dgbFU08pXJXZhGPlybdMX", "black eyed peas").
+published_by("0pQiRIPFblFwEummRX28Qa", "black eyed peas").
+published_by("6AVSVzRbUTrGs5XEoYiLVj", "black eyed peas").
+published_by("50q4qBwBROWzt0TCt8HCVG", "black eyed peas").
+published_by("2Yx0X8CYJD0G2pvJYZcTxt", "black eyed peas").
+published_by("2ayhUoOppwZ5paYiXTRqqa", "blackmill").
+published_by("0XHpO9qTpqJJQwa2zFxAAE", "blackmill").
+published_by("5AZtgPyecp42G2bakjj363", "flux pavilion").
+published_by("4NjZGWBcqV7qImMk5NTd5H", "flux pavilion").
+published_by("39zBH0ebmiCtfOcnXBnZYw", "flux pavilion").
+published_by("7DLGa5tdaC4sITpLA7cYjM", "flux pavilion").
+published_by("6iKqPv9C5oU29LR82N8lJf", "modest mouse").
+published_by("4rVZdY7hlef7kF7XiXuldS", "modest mouse").
+published_by("2lXBCL76UL5PCPbfAqKBkz", "modest mouse").
+published_by("1jSTXHarvMPAUDuNCC8B9H", "modest mouse").
+published_by("0TGTGuc2vXv6ZECoAf52N0", "modest mouse").
+published_by("1hp8pleNxEmBqfYgazfvSC", "modest mouse").
+published_by("5SbcupirEParczvqqyUPXL", "modest mouse").
+published_by("47cc2w9XHvUvO7iqvMIFry", "modest mouse").
+published_by("7D7VGZkKd1tlxfOHUO2hf0", "modest mouse").
+published_by("1YgX8BWKleDlDeCOFklRfz", "dj khaled").
+published_by("3HhZbSJdhOqMSaRbEt3gtw", "dj khaled").
+published_by("6ZQyMrmlg95L8gy63Pnm33", "dj khaled").
+published_by("2O5841tkIKVcWFQTMHKJlw", "dj khaled").
+published_by("6MyFYoZ2zAgQO3GG8MmAD0", "dj khaled").
+published_by("0nRAbeyOElQVVHsDTRYbOO", "dj khaled").
+published_by("5BlVAn8U0WUeNqV7JsQWju", "dj khaled").
+published_by("1KDc01X8ZF9VYqVW6c4lvr", "dj khaled").
+published_by("3QGDxSAA25wjIDU6touDwA", "dj khaled").
+published_by("7741MyKVRZ7plQKksNPMEN", "dj khaled").
+published_by("2znAIcnAKEBPmq7AJduvca", "fly boi keno").
+published_by("0oVZx9Ax0CduKP4UIEi9Yj", "bonobo").
+published_by("6tEOuMrJ6gsmZ2vB2P1NV7", "bonobo").
+published_by("75mOIzgjMsFLN5hyQlpsy8", "bonobo").
+published_by("5mUpTgKcEzfX6to5BReBdE", "bonobo").
+published_by("343LOP7AV1WrvUON3J4xia", "bonobo").
+published_by("2tcn5o1g4FuVRuMGjn7G4v", "bonobo").
+published_by("43WSSYRovDf2G7qjKgl1mc", "bonobo").
+published_by("5m1RkwKeU7MV0Ni6PH2lPy", "bonobo").
+published_by("0DgI3WyjwKrCCZsbReu6IS", "bonobo").
+published_by("3JN1kCFyxsQfMpD3TKMyde", "bonobo").
+published_by("43otFXrY0bgaq5fB3GrZj6", "red hot chili peppers").
+published_by("5wZtSIvijWCMc1vlPFqAyB", "red hot chili peppers").
+published_by("7xl50xr9NDkd3i2kBbzsNZ", "red hot chili peppers").
+published_by("1jWKVgnHX8nwR551hQNx5K", "red hot chili peppers").
+published_by("6deiaArbeoqp1xPEGdEKp1", "red hot chili peppers").
+published_by("0fLhefnjlIV3pGNF9Wo8CD", "red hot chili peppers").
+published_by("2Y9IRtehByVkegoD7TcLfi", "red hot chili peppers").
+published_by("2rQ135imvelvp89D8eEZOi", "red hot chili peppers").
+published_by("74cQBDmkkzRBntR064f0SD", "red hot chili peppers").
+published_by("30Perjew8HyGkdSmqguYyg", "red hot chili peppers").
+published_by("3UwcZ5menPSCTvdxyYgxZj", "martin garrix").
+published_by("2tctbQPUdR3QsDXYrKBhDQ", "rolando villazón").
+published_by("4ENxWWkPImVwAle9cpJ12I", "radiohead").
+published_by("6vuykQgDLUCiZ7YggIpLM9", "radiohead").
+published_by("47xaqCsJcYFWqD1gwujl1T", "radiohead").
+published_by("1DBkJIEoeHrTX4WCBQGcCi", "radiohead").
+published_by("7eyQXxuf2nGj9d2367Gi5f", "radiohead").
+published_by("36lJLPoPPOKNFddTAcirnc", "radiohead").
+published_by("1oW3v5Har9mvXnGk0x4fHm", "radiohead").
+published_by("6V9YnBmFjWmXCBaUVRCVXP", "radiohead").
+published_by("6svTt5o2lUgIrgYDKVmdnD", "radiohead").
+published_by("19RUXBFyM4PpmrLRdtqWbp", "radiohead").
+published_by("60W12WoaHFNrL8XVUUr8Xp", "zubin mehta").
+published_by("4M57nyUlUo5sqS20AEpnZu", "casuarina").
+published_by("0qcVF3tbambXrwHNDcdDKf", "casuarina").
+published_by("7lm7p9JPKHCaIwugb9EbKk", "casuarina").
+published_by("3wSZCGBueYy8kfVmeDrxR5", "casuarina").
+published_by("2FEAip81sSpHDXt6wN5B95", "casuarina").
+published_by("2WAok7Y8gCufKyxmrxvWMi", "casuarina").
+published_by("6Uxf8JXhEWUNIZn6aNqd8W", "casuarina").
+published_by("28S4r0LQ4uT0R96TKsjENS", "casuarina").
+published_by("4sXDnIHD2Sf6ha92QDOHCd", "casuarina").
+published_by("1w2FaU7tWCc9yFU7gXI8Ty", "craig david").
+published_by("51vRvV83RdWGP9FpzGe4SQ", "craig david").
+published_by("5F0gRSdwqhfvrgUhUO28cu", "craig david").
+published_by("0Vop2iSyeir0QntOrgamFN", "craig david").
+published_by("6GEUSsL2idGeDRhNU9EI6k", "craig david").
+published_by("56OnGkVzxkPvdvPLYMksfo", "craig david").
+published_by("0J9SVTShbzWaOhogFHXJ9K", "craig david").
+published_by("3tzENLaGyi3Jrb5AaoKrGG", "craig david").
+published_by("6USRXUZXe4keGs2yUj3Fis", "craig david").
+published_by("4u0qGH2886zQgTWh7CV2fM", "michael crawford").
+published_by("6GA23OXtsLDfN3w9q5Dvt1", "michael crawford").
+published_by("4WwppSAFvUnWSymLglfbIX", "michael crawford").
+published_by("0FyEtMeimBChNvsXDwqZhh", "michael crawford").
+published_by("4eWZyvLrD6AnnbdlClGRdF", "michael crawford").
+published_by("5zeqEVdluXMMtkk10q0Tpe", "michael crawford").
+published_by("0TX2PttNvVe5jsHZ0Yhlr4", "michael crawford").
+published_by("3BYyiadPS4x22MgRaV0lNp", "michael crawford").
+published_by("1BgpF0ypQ64yfStZQlI0bo", "michael crawford").
+published_by("3dQcknWb1G439u0whEtJCQ", "maurizio").
+published_by("2PNRWFUHJYXqMR4UVtx8HQ", "mongol800").
+published_by("3JFSdYWnQlsrh9J9bCJEzC", "mongol800").
+published_by("1PriQ7wAyWx4JDnA3uZ6UU", "mongol800").
+published_by("5kCVoPmn11YwJPlwgStYjF", "mongol800").
+published_by("6N2iGOYbQU23wDtsyFts1d", "mongol800").
+published_by("60FJSgHk1c7OdX5lmhBTlw", "mongol800").
+published_by("7cwCyNvcWMqcunRyQu6TZA", "mongol800").
+published_by("2an2zDcyPnHZgodDzgxZj2", "mongol800").
+published_by("0iDu9vJKEp2zzVAA4kYwPG", "mongol800").
+published_by("3fc97ZWLIMc1xawhxbKrh2", "6lack").
+published_by("2LhBfBFZVU1IyaAgo5wghT", "6lack").
+published_by("0z05V0MbUL7NyM9qCXItC7", "6lack").
+published_by("5sgtN5B8rUr6nfUzJ4RRIk", "jennifer lopez").
+published_by("5NWeIxuGuEBcADqB1Xh58y", "jennifer lopez").
+published_by("2l8HCTHlnWSUwK47umlJ2C", "jennifer lopez").
+published_by("3sysiYphqNRQw7VKLCg1yE", "jennifer lopez").
+published_by("4nTxx6HqaGNlyEAlRxqlXd", "jennifer lopez").
+published_by("07ztulX4jyOAR5nUUYc2K6", "jennifer lopez").
+published_by("1fRr47hbp60yegltnsvkEH", "jennifer lopez").
+published_by("2NG4OLyeNMwcLqirwwwvs2", "jennifer lopez").
+published_by("1eT8gUgYQ16ghrCuq46z0f", "jennifer lopez").
+published_by("0WSk0LjktgdactzvfEAtGx", "etta james").
+published_by("11YqrwaETsLFMXEn2OFvpd", "etta james").
+published_by("0B2iKIbd5MI7ncoSdluIl5", "etta james").
+published_by("3KoHXku5h7OJKidwGoJOw1", "etta james").
+published_by("6s1DWmUCmFjzD09SRdnfVH", "etta james").
+published_by("7FN9qiQpqpz96scSSGBT0A", "etta james").
+published_by("3FfJJTSaR1TSdqiFPZ9rg8", "etta james").
+published_by("7EVdCFnjNzPlPBWI89YtGs", "etta james").
+published_by("3gs38c9rsmERmlFpvmk3jQ", "etta james").
+published_by("58JJWoAHtiThhhF3F2ZM0Z", "etta james").
+published_by("3jOdrtSyNugpZFULiEJaoG", "stray cats").
+published_by("3k7RfJQzCc4EcvJM7oJ0r1", "stray cats").
+published_by("2LAK2YvulySVcfxcVyUWNH", "stray cats").
+published_by("6jragb75gPeViOCJxIZbNJ", "stray cats").
+published_by("7cC6vsEHJ9MWEPAYgollBx", "stray cats").
+published_by("3SgWk2cnY4YwbdkKE3x4oz", "stray cats").
+published_by("05GRE4PAHu2wYkUKSCg7lc", "stray cats").
+published_by("1yCGeSlfJqg6810crHIO9C", "stray cats").
+published_by("3ncdH6D3gGWx7W36qjqCtn", "stray cats").
+published_by("6E3GOlLegPS1VVZkGpKEEU", "stray cats").
+published_by("1gMxiQQSg5zeu4htBosASY", "one direction").
+published_by("4gCNyS7pidfK3rKWhB3JOY", "one direction").
+published_by("7p1fX8aUySrBdx4WSYspOu", "one direction").
+published_by("1BTF8r9zpGVuymP6QBC3r9", "one direction").

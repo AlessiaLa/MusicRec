@@ -5,22 +5,12 @@ import threading
 from openpage import threadFunc
 import os
 
-def App1page(session,placeholder1,placeholder2,placeholder3,placeholder4):
-    if session==1:
-        placeholder1.empty()
-        placeholder2.empty()
-        placeholder3.empty()
-        placeholder4.empty()
-    placeholder_module = st.empty()
-    placeholder_module = st.markdown("<h1 style='text-align: center; color: white;'>Ciao  </h1>"
-                "<h1 style='text-align: center; color: red;'>MusicRec!</h1>", unsafe_allow_html=True)
+def App1page(clicked):
+    if clicked==True:
+        placeholder_module = st.markdown("<h1 style='text-align: center; color: white;'>Ciao  </h1>"
+                    "<h1 style='text-align: center; color: red;'>MusicRec!</h1>", unsafe_allow_html=True)
 
 def main_page():
-    placeholder_main1=st.empty()
-    placeholder_main2=st.empty()
-    placeholder_main3=st.empty()
-    placeholder_main4= st.empty()
-
 
     interface1=st.container()
     with interface1:
@@ -41,20 +31,21 @@ def main_page():
             unsafe_allow_html=True)
 
 
-    interface3=st.container()
+    interface3=st.empty()
+    clicked=False
     with interface3:
-        g,h,i,j,k,l,m = st.columns(7)
-        with j:
-            clicked = st.button("Start")
-
-
-
+            g,h,i,j,k,l,m = st.columns(7)
+            with j:
+                placeholder_main4 = st.empty()
+                if placeholder_main4.button("Start"):
+                    clicked=True
+                    App1page(clicked)
 
     if clicked:
-        session=1
-        App1page(session,placeholder_main1,placeholder_main2,placeholder_main3,placeholder_main4)
-
-
+        placeholder_main1.empty()
+        placeholder_main2.empty()
+        placeholder_main3.empty()
+        placeholder_main4.empty()
 
 
 if __name__ == "__main__":

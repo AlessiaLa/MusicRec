@@ -32,10 +32,10 @@ def mood():
             dance = mood.select_slider("Are you in the mood for dancing?", danceability,key='danceable')
             submit = mood.form_submit_button('Submit')
             if submit:
-                valence_discretized=utilities.discretization(valence)
-                energy_discretized=utilities.discretization(energy)
-                dance_discretized=utilities.discretization(dance)
-                print(valence_discretized,energy_discretized,dance_discretized)
+                # valence_discretized=utilities.discretization(valence)
+                # energy_discretized=utilities.discretization(energy)
+                # dance_discretized=utilities.discretization(dance)
+                print(valence,energy,dance)
                 preferences()
 
 

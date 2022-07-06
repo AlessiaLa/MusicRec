@@ -48,10 +48,10 @@ jaccard(SimA,SimB,Sim) :-
 %find all the ids of the tracks whose features match the features given in input.
 % the ids are shuffled and the first 10 ids are returned 
 % getTracksByFeatures("low_danceable", "high_energy", "low_valence", TenTracks).
-getTracksByFeatures(Dance, Energy, Valence, TracksName) :- 
+getTracksByFeatures(N, Dance, Energy, Valence, TracksName) :- 
     findall(TrackId, (features(TrackId, Dance, Energy, _, _, _, _,Valence, _)), Tracks),
     random_permutation(Tracks, TracksPer),
-    take(TracksPer, 10, TenTracks),
+    take(TracksPer, N, TenTracks),
     getTrackName(TenTracks, TracksName).
 
 
@@ -100,33 +100,57 @@ list_list_pairs([X|Xs], [Y|Ys], [(X-Y)|Pairs]) :-
 
 
 % rankTrack([0.4, 0.5, 0.77], ["ciao", "prolog", "daniela"], A].
-rankTrack([], []) :- true.
-rankTrack([_], [_]) :- !.
 rankTrack(SimList, TracksList, OrderedTracks) :- 
     list_list_pairs(SimList, TracksList, Pairs), % data la lista di tracce e similarità  ritorna la lista di coppie
     keysort(Pairs, OrderedPairs), % Sorting by the similarity (the key)
     pairs_values(OrderedPairs, OrderedTracks). % return the list only of the tracks
 
 % esegue il suggerimento delle tracce simili 
-suggestTrack(Tracks, Suggests) :- 
-    findTracks(Tracks, TSug),
+suggestTrack(Tracks, Album, Suggests) :- 
+    findTracks(Tracks, Album, TSug),
     flatten(TSug, Sug),
     getTrackName(Sug, Suggests).
 
 % trova una traccia simile per ognuna di quelle in input (quindi per ognuna di quelle a cui l'utente ha messo like)
-findTracks([Track], Sug) :- 
+findTracks([Track],  [Album], Sug) :- 
     !,
-    track(TrackId,Track),
+    (Album = 'null'
+    ->    
+    track(TrackId, Track),
     findMostSilimarTrack(TrackId, 10, NTracks),  
-    take(NTracks, 1, Sug).
+    take(NTracks, 1, Sug)
+    ;
+    album(AlbumID, Album),
+    findall(B, (track(B, Track), album_contains(AlbumID, B)), [TrackId|_]),
+    findMostSilimarTrack(TrackId, 10, NTracks),  
+    take(NTracks, 1, Sug)).
 
 % getTrackIds(["times change - live at mif","who's joe - live at mif","dream attack - live at mif"], S).
-findTracks([Track|TTrack], [Sug|TSug]) :-
+findTracks([Track|TTrack], [Album|TAlbum], [Sug|TSug]) :-
+    
+    (Album = 'null'
+    -> 
     track(TrackId, Track),
     findMostSilimarTrack(TrackId, 10, NTracks),
     take(NTracks, 2, Sug),   
-    suggestTrackProva(TTrack, TSug).
+    findTracks(TTrack, TAlbum, TSug)
+    ;
+    album(AlbumID, Album),
+    findall(B, (track(B, Track), album_contains(AlbumID, B)), [TrackId|_]),
+    findMostSilimarTrack(TrackId, 10, NTracks),
+    take(NTracks, 2, Sug),   
+    findTracks(TTrack,TAlbum, TSug)).
 
+checkTrackDuplicates(Track) :-
+    findall(TrackName, (track(_, TrackName)), Tracks),
+    count(Tracks, Track, N),
+    N > 1.
+
+retriveAlbumDuplicateTracks(Track, Albums) :- 
+    findall(AlbumName, (track(TrackID, Track), album_contains(AlbumID,TrackID), album(AlbumID, AlbumName)), Albums).
+
+count(L, E, N) :-
+    include(=(E), L, L2), length(L2, N).
 
 take([_|_], 0, []) :- !.
 take([X|T1],N,[X|T2]):-
@@ -134,19 +158,11 @@ take([X|T1],N,[X|T2]):-
     N1 is N-1,
     take(T1,N1,T2).
 
-% fai la similarità tra tutti i generi, facendo il prodotto cartesiano, ottengo nxm similarità diviso nxm ed ottengo la mia similatià 
-getSimilarity2Genre(GenreA, GenreB, Sim) :-
-    getWordSense(GenreA, [WordSenseA|_]),
-    getWordSense(GenreB, [WordSenseB|_]),
-    wn_lch(GenreA:n:WordSenseA, GenreB:n:WordSenseB, Sim), !.
-
-% esegue il prodotto cartesiano  di similarità tra due insiemi di generi.
-getSimilarityGenres(GenreA, GenreB, C) :-
-     findall(Sim,(member(X,GenreA),member(Y,GenreB), getSimilarity2Genre(X, Y, Sim)), C).
-
-
 max_list(L, M, I) :- nth1(I, L, M), 
 \+ ((member(E, L), E > M)).
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% ARTIST
 
 % trova il wordsense del genere tale che massimizzi la similarità con il wordsense music.
 getWordSense(Genre, WordSenses) :-
@@ -154,8 +170,107 @@ getWordSense(Genre, WordSenses) :-
     without_last(SimList, Sim),
     findall(Ind, (max_list(Sim, _, Ind)), WordSenses).
 
+
+getWordSense(Genre, WordSenses) :-
+    findall(Rank, (wn_lch(music:n:4, Genre:n:Ind, Rank)), SimList),
+    
+    without_last(SimList, Sim),
+    findall(Ind, (max_list(Sim, _, Ind)), WordSenses).
+
 without_last([_], []) :- !.
 without_last([X|Xs], [X|WithoutLast]) :- 
     without_last(Xs, WithoutLast).
 
+
+% esegue la similarità tra due generi. 
+getSimilarity2Genre(GenreA, GenreB, Sim) :-
+    getWordSense(GenreA, [WordSenseA|_]),
+    getWordSense(GenreB, [WordSenseB|_]),
+    wn_lch(GenreA:n:WordSenseA, GenreB:n:WordSenseB, Sim), !.
+
+% esegue il prodotto cartesiano  di similarità tra due insiemi di generi.
+% fai la similarità tra tutti i generi, facendo il prodotto cartesiano, ottengo nxm similarità diviso nxm ed ottengo la mia similatià 
+% GenreA, GenreB sono due liste di generi
+getSimilarityGenres(GenreA, GenreB, AvgOfSimilarities) :-
+     findall(Sim,(member(X,GenreA),member(Y,GenreB), getSimilarity2Genre(X, Y, Sim)), ListOfSimilarities),
+     avg(ListOfSimilarities, AvgOfSimilarities).
+
+
+getSuggestedArtist(ArtistA, N, NArtists) :-
+    getAllArtistsAndGenreExceptOne(ArtistA, Artists, PossibleGenres),
+    findall(GenreA, (artistgenres(ArtistA, GenreA)), ListGenresA), %ritrovo tutti i generi di ArtistA
+    calculateArtistSimilarity(ListGenresA, PossibleGenres, Similarities),
+    rankArtist(Similarities, Artists, OrderedArtist),
+    N1 is N*2, 
+    take(OrderedArtist, N1, N1Artists), % Take the first n*2 most similar artist
+    random_permutation(N1Artists, ArtistsPer), % compute a shuffle on the n*2 most similar artist
+    take(ArtistsPer, N, NArtists). % take the first n
+
+retrieveAllArtists([Track], [Album], Artist) :- 
+    album(AlbumID, Album),
+    findall(A, (track(B, Track), album_contains(AlbumID, B), published_by(AlbumID, A)), Artist).
+    
+
+retrieveAllArtists([Track|TTrack], [Album|TAlbum], [Artist|TA]) :- 
+    album(AlbumID, Album),
+    findall(A, (track(B, Track), album_contains(AlbumID, B), published_by(AlbumID, A)), Artist),
+    retrieveAllArtists(TTrack, TAlbum, TA).
+
+
+suggestArtist(Artists, Sug) :- 
+     findArtists(Artists, ASug),
+    flatten(ASug, Sug).
+
+% trova una traccia simile per ognuna di quelle in input (quindi per ognuna di quelle a cui l'utente ha messo like)
+findArtists([Artist], Sug) :- 
+    !,
+    getSuggestedArtist(Artist, 10, NArtists),  
+    take(NArtists, 1, Sug).
+
+% getTrackIds(["times change - live at mif","who's joe - live at mif","dream attack - live at mif"], S).
+% sussiste un problema legato ai duplicati delle tracce 
+findArtists([Artist|TArtist], [Sug|TSug]) :-
+    getSuggestedArtist(Artist, 10, NArtists),
+    take(NArtists, 2, Sug),   
+    findArtists(TArtist, TSug).
+
+
+rankArtist(SimList, ArtistList, OrderedArtist) :- 
+    list_list_pairs(SimList, ArtistList, Pairs), % data la lista di tracce e similarità  ritorna la lista di coppie
+    keysort(Pairs, OrderedPairs), % Sorting by the similarity (the key)
+    pairs_values(OrderedPairs, OrderedArtist). % return the list only of the tracks
+
+calculateArtistSimilarity(GenresA, [GenreB], [Similarity]) :- !,
+    getSimilarityGenres(GenresA, GenreB, Similarity).
+
+calculateArtistSimilarity(GenresA, [GenreB|GenreT], [Similarity|SimilarityT]) :-
+    getSimilarityGenres(GenresA, GenreB, Similarity),
+    calculateArtistSimilarity(GenresA,  GenreT, SimilarityT). 
+    
+
+% ho una lista di liste di generi di tutti gli artisti, escluso quello che piace all'utente, che hanno almeno un genere
+getAllArtistsAndGenreExceptOne(ArtistA, SetArtists, GenreT) :-
+    findall(ArtistB, (artistgenres(ArtistB, Genre),  ArtistB \= ArtistA, Genre \= []), Artists),
+    list_to_set(Artists, SetArtists),
+    getAllGenres(SetArtists, GenreT).
+
+getAllGenres([A], [G]) :- !,
+    findall(Genre, (artistgenres(A, Genre)), G).
+
+getAllGenres([A|Artists], [G|GenreT]) :-
+    findall(Genre, (artistgenres(A, Genre)), G),
+    getAllGenres(Artists, GenreT).
+
+avg( List, Avg ):-
+    sumlist( List, Sum ),
+    length( List, Length),
+    (  Length > 0
+    -> Avg is Sum / Length
+    ;  Avg is 0
+    ).
+
+%%%%%%%%%%%%%%%%%%%%% Album 
+
+
+%findSimilarAlbum([Track|TTrack], SimilarAlbum) :-
 

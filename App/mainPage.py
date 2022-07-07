@@ -2,27 +2,23 @@ import streamlit as st
 import pandas as pd
 import base64
 import threading
-from openpage import threadFunc
 import os
-
-def App1page(session,placeholder1,placeholder2,placeholder3,placeholder4):
-    if session==1:
-        placeholder1.empty()
-        placeholder2.empty()
-        placeholder3.empty()
-        placeholder4.empty()
-    placeholder_module = st.empty()
-    placeholder_module = st.markdown("<h1 style='text-align: center; color: white;'>Ciao  </h1>"
-                "<h1 style='text-align: center; color: red;'>MusicRec!</h1>", unsafe_allow_html=True)
-
-def main_page():
-
-    placeholder_main1=st.empty()
-    placeholder_main2=st.empty()
-    placeholder_main3=st.empty()
-    placeholder_main4= st.empty()
+import menu
 
 
+"st.session_state object:", st.session_state
+
+page_names = ('Mood', 'Preferences')
+
+# def menu():
+#     if 'selected' not in st.session_state:
+#         with st.sidebar:
+#             chosen = st.multiselect("select your page", page_names, key='selected')
+#     st.write(f'Your choice:{chosen}')
+#     # for key in st.session_state.keys():
+#     #     print(st.write(st.session_state[key]))
+
+if 'start' not in st.session_state:
     interface1=st.container()
     with interface1:
         l, m, r = interface1.columns(3)
@@ -42,21 +38,22 @@ def main_page():
             unsafe_allow_html=True)
 
 
-    interface3=st.container()
-    with interface3:
-        g,h,i,j,k,l,m = st.columns(7)
-        with j:
-            clicked = st.button("Start")
+    interface3=st.empty()
+    clicked=False
+    if 'start' not in st.session_state:
+        with interface3:
+                g,h,i,j,k,l,m = st.columns(7)
+                with j:
+                    placeholder_main4 = st.empty()
+                    if placeholder_main4.button("Start"):
+                        clicked=True
+                        st.session_state.start=True
+
+        if clicked:
+            placeholder_main1.empty()
+            placeholder_main2.empty()
+            placeholder_main3.empty()
+            placeholder_main4.empty()
+            menu.try_mood()
 
 
-
-
-    if clicked:
-        session=1
-        App1page(session,placeholder_main1,placeholder_main2,placeholder_main3,placeholder_main4)
-
-
-
-
-if __name__ == "__main__":
-    main_page()

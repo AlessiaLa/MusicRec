@@ -77,9 +77,9 @@ wn_path(Word1:SS_type1:W1_Sense_num, Word2:SS_type2:W2_Sense_num, Degree) :-
             max_path(Word1:SS_type1:W1_Sense_num, Word2:SS_type2:W2_Sense_num, Degree)
         )
     )
-    ;
-    write("ERROR: Both Word1 and Word2 must be either nouns or verbs (but not combinations of them or adjectives)"),
-    nl
+  %  ;
+    %write("ERROR: Both Word1 and Word2 must be either nouns or verbs (but not combinations of them or &adjectives)"),
+ %   nl
   )
   ;
   write("ERROR:  Word1 or Word2 is a variable. You must enter a specific word (either noun or verb)."),
@@ -188,9 +188,9 @@ wn_wup(Word1:SS_type1:W1_Sense_num, Word2:SS_type2:W2_Sense_num, Degree) :-
             max_wup(Word1:SS_type1:W1_Sense_num, Word2:SS_type2:W2_Sense_num, Degree)
         )
     )
-    ;
-    write("ERROR: Both Word1 and Word2 must be either nouns or verbs (but not combinations of them or adjectives)"),
-    nl
+   % ;
+   % write("ERROR: Both Word1 and Word2 must be either nouns or verbs (but not combinations of them or adjectives)"),
+  %  nl
   )
   ;
   write("ERROR: Word1 or Word2 is a variable. You must enter a specific word (either noun or verb)."),
@@ -304,9 +304,9 @@ wn_lch(Word1:SS_type1:W1_Sense_num, Word2:SS_type2:W2_Sense_num, Degree) :-
             max_lch(Word1:SS_type1:W1_Sense_num, Word2:SS_type2:W2_Sense_num, Degree)
         )
     )
-    ;
-    write("ERROR: Both Word1 and Word2 must be either nouns or verbs (but not combinations of them or adjectives)"),
-    nl
+  %  ;
+  %  write("ERROR: Both Word1 and Word2 must be either nouns or verbs (but not combinations of them or adjectives)"),
+  %  nl
   )
   ;
   write("ERROR: Word1 or Word2 is a variable. You must enter a specific word (either noun or verb)."),

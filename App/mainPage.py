@@ -54,6 +54,6 @@ if 'start' not in st.session_state:
             placeholder_main2.empty()
             placeholder_main3.empty()
             placeholder_main4.empty()
-            menu.mood()
+            menu.try_mood()
 
 

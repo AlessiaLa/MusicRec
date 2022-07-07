@@ -193,7 +193,63 @@ getSimilarity2Genre(GenreA, GenreB, Sim) :-
 % GenreA, GenreB sono due liste di generi
 getSimilarityGenres(GenreA, GenreB, AvgOfSimilarities) :-
      findall(Sim,(member(X,GenreA),member(Y,GenreB), getSimilarity2Genre(X, Y, Sim)), ListOfSimilarities),
+
      avg(ListOfSimilarities, AvgOfSimilarities).
+
+getSuggestedArtistAggregate([Artist], GenreResult , [Similarities]) :- 
+    !,
+    findall(GenreA, (artistgenres(Artist, GenreA)), ListGenresA), %ritrovo tutti i generi di ArtistA
+    calculateArtistSimilarity(ListGenresA, GenreResult, Similarities).
+
+getSuggestedArtistAggregate([Artist|TArtist],GenreResult, [Similarities|TSimilarities]) :- 
+    findall(GenreA, (artistgenres(Artist, GenreA)), ListGenresA), %ritrovo tutti i generi di ArtistA
+    calculateArtistSimilarity(ListGenresA, GenreResult, Similarities),
+    getSuggestedArtistAggregate(TArtist,GenreResult, TSimilarities).
+
+prova(Artist, N1Artists) :- 
+    getAllArtistsAndGenreExceptSome(Artist, Artists, GenreResult),
+    getSuggestedArtistAggregate(Artist,GenreResult, Similarities),  
+    sum_list(Similarities, SumSimilarities),
+    rankArtist(SumSimilarities, Artists, OrderedArtist),
+    take(OrderedArtist, 3, N1Artists).
+
+
+
+getAllArtistsAndGenreExceptSome(Artist, ArtistResult, GenreResult) :-
+    findall(ArtistB, (artistgenres(ArtistB, Genre), Genre \= []), Artists),
+    list_to_set(Artists, SetArtists),
+    subtract(SetArtists, Artist, ArtistResult),
+    getAllGenres(ArtistResult, GenreResult).
+    
+
+
+
+sum_list([Head1], Head1).
+sum_list([Head1,Head2|[]], R) :- 
+    !,
+    sum(Head1, Head2, R).
+
+
+sum_list([Head1,Head2|Tail], R) :- 
+    sum(Head1, Head2, Result),
+    sum_list([Result|Tail],  R).
+
+sum([],[],[]).
+sum([H1|T1],[H2|T2],[X|L3]) :- 
+    sum(T1,T2,L3), X is H1+H2.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 getSuggestedArtist(ArtistA, N, NArtists) :-
@@ -217,22 +273,24 @@ retrieveAllArtists([Track|TTrack], [Album|TAlbum], [Artist|TA]) :-
     retrieveAllArtists(TTrack, TAlbum, TA).
 
 
-suggestArtist(Artists, Sug) :- 
-     findArtists(Artists, ASug),
+suggestArtist(Artists,N, Sug) :- 
+    findArtists(Artists,N, ASug),
     flatten(ASug, Sug).
 
 % trova una traccia simile per ognuna di quelle in input (quindi per ognuna di quelle a cui l'utente ha messo like)
-findArtists([Artist], Sug) :- 
+findArtists([Artist],N, Sug) :- 
     !,
-    getSuggestedArtist(Artist, 10, NArtists),  
-    take(NArtists, 1, Sug).
+    N2 is N*2,
+    getSuggestedArtist(Artist, N2, NArtists),  
+    take(NArtists, N, Sug).
 
 % getTrackIds(["times change - live at mif","who's joe - live at mif","dream attack - live at mif"], S).
 % sussiste un problema legato ai duplicati delle tracce 
-findArtists([Artist|TArtist], [Sug|TSug]) :-
-    getSuggestedArtist(Artist, 10, NArtists),
-    take(NArtists, 2, Sug),   
-    findArtists(TArtist, TSug).
+findArtists([Artist|TArtist],N, [Sug|TSug]) :-
+    N2 is N*2,
+    getSuggestedArtist(Artist, N2, NArtists),
+    take(NArtists, N, Sug),   
+    findArtists(TArtist,N, TSug).
 
 
 rankArtist(SimList, ArtistList, OrderedArtist) :- 
@@ -273,4 +331,5 @@ avg( List, Avg ):-
 
 
 %findSimilarAlbum([Track|TTrack], SimilarAlbum) :-
+    
 

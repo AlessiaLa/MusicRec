@@ -6,6 +6,7 @@ import os
 import SessionState
 import utilities
 import menu
+import sys
 
 
 session_state = SessionState.get(button_start=False, button_submit_mood=False, colonna_scelta='Seleziona')
@@ -40,7 +41,6 @@ if start_button:
 
 
 if session_state.button_start:
-    print('mood')
     st.title("How are you feeling today?")
     valence = st.select_slider("Are you happy?",happiness)
     energy=st.select_slider('Are you energic?',energy_values)
@@ -48,10 +48,13 @@ if session_state.button_start:
     submitted = st.button("Submit")
     if submitted:
         st.write(f'Your choice:{valence, energy, dance}')
-        session_state.button_submit_mood=True
-        utilities.save_values([valence,energy,dance])
+        session_state.valence = valence
+        session_state.energy = energy
+        session_state.dance = dance
+        st.write(session_state.valence,session_state.energy,session_state.dance)
+        session_state.button_submit_mood = True
     st.write("Outside the form")
 
 if session_state.button_submit_mood:
-    print('preferences')
-    st.write('the system will search for suggestions')
+    session_state.suggestion = utilities.return_tracks([session_state.valence,session_state.energy,session_state.dance])
+    st.text(session_state.suggestion)

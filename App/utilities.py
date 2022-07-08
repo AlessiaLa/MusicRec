@@ -1,9 +1,6 @@
-import streamlit as st
-import sys
 # insert at 1, 0 is the script path (or '' in REPL)
-sys.path.append('/PrologDialogue')
-from PrologDialogue import queries
 import os
+import queries
 
 def discretization(value):
     parameter=None
@@ -36,12 +33,17 @@ def save_values(features):
 
 
 def return_tracks(features):
+    print(features)
     list_features=save_values(features)
-    valence=list_features[0]
-    energy=list_features[1]
-    danceability=list_features[2]
-    queries.getTracksByFeatures(7,valence, energy,danceability)
+    print(list_features)
+    valence = list_features[0]
+    energy = list_features[1]
+    danceability = list_features[2]
+    results = queries.getTracksByFeatures(7, danceability, energy, valence)
+    print('return tracks results',results)
+    return results
 
 
-if __name__ == '__main__':
-    print(os.getcwd())
+# if __name__ == '__main__':
+#     print(os.getcwd())
+#     queries.getTracksByFeatures(10, 'high_danceable', 'low_energy', 'low_valence')

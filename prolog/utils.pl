@@ -1,6 +1,6 @@
 
 
-:- consult("C:\\Users\\user\\Desktop\\AI-Project\\MusicNet\\prolog\\wn\\wn_connect.pl").
+:- consult("C:\\Users\\Alessia\\Documents\\GitHub\\MusicNet\\prolog\\wn\\wn_connect.pl").
 
 getArtistTracks(NameArtist, NameAlbum, TrackName) :-
     artist(NameArtist),    

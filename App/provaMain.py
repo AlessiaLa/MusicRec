@@ -45,16 +45,23 @@ if session_state.button_start:
     valence = st.select_slider("Are you happy?",happiness)
     energy=st.select_slider('Are you energic?',energy_values)
     dance=st.select_slider('Are you in the mood for dancing?', danceability)
-    submitted = st.button("Submit")
-    if submitted:
+    submit_mood = st.button("Submit Mood")
+    if submit_mood:
         st.write(f'Your choice:{valence, energy, dance}')
         session_state.valence = valence
         session_state.energy = energy
         session_state.dance = dance
         st.write(session_state.valence,session_state.energy,session_state.dance)
         session_state.button_submit_mood = True
-    st.write("Outside the form")
+        session_state.suggestions = utilities.return_tracks([session_state.valence, session_state.energy, session_state.dance])
 
 if session_state.button_submit_mood:
-    session_state.suggestion = utilities.return_tracks([session_state.valence,session_state.energy,session_state.dance])
-    st.text(session_state.suggestion)
+    st.title('Check the suggestions in the list below. You can load other suggestions too.')
+    retry = st.button('Load other suggestions')
+    if retry:
+        session_state.suggestions = utilities.return_tracks([session_state.valence, session_state.energy, session_state.dance])
+    preferences = st.multiselect('Select the songs that you like', session_state.suggestions)
+    st.title('Select the songs that you like')
+    submit_preferences = st.button("Submit Preferences")
+    if submit_preferences:
+        st.write(f'Your preferences:{preferences}')

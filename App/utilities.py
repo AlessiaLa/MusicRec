@@ -33,15 +33,14 @@ def save_values(features):
 
 
 def return_tracks(features):
-    print(features)
     list_features=save_values(features)
-    print(list_features)
     valence = list_features[0]
     energy = list_features[1]
     danceability = list_features[2]
     results = queries.getTracksByFeatures(7, danceability, energy, valence)
-    print('return tracks results',results)
+    results=results[0]['Tracks']
     return results
+
 
 
 # if __name__ == '__main__':

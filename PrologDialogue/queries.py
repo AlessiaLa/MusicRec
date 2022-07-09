@@ -1,5 +1,6 @@
 import string
-
+import sys
+sys.path.append('../PrologDialogue')
 from kbAccess import PrologInterface
 import pandas as pd
 
@@ -13,5 +14,6 @@ def getTracksByFeatures(n: int, dance: str, energy: str, valence: str):
     print(result)
 
 
-if __name__ == '__main__':
-    getTracksByFeatures(10, "low_danceable", "high_energy", "low_valence")
+# if __name__ == '__main__':
+#     getTracksByFeatures(10, "low_danceable", "high_energy", "low_valence")
+

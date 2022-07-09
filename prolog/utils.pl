@@ -69,19 +69,20 @@ getTrackIds([H|T], [Track|T1]) :-
     track(Track, H),
     getTrackIds(T, T1), !.
 
-findMostSilimarTrack(TrackId, N, NTracks) :- 
-    getAllTracksExceptOne(TrackId, Tracks), % Get all the tracks from the KB except the one that i want to know the most similar track
-    trackSimilarity(TrackId, Tracks, Similarity), % Get the list of tracks with their similarity
-    rankTrack(Similarity, Tracks, OrderedTracks), % Ranks the tracks from the most similar to the less similar
-    N1 is N*2, 
-    take(OrderedTracks, N1, N1Tracks), % Take the first n*2 most similar tracks
-    random_permutation(N1Tracks, TracksPer), % compute a shuffle on the n*2 most similar tracks
-    take(TracksPer, N, NTracks). % take the first n
+findMostSimilarTrackAggregate([TrackId],Tracks, [Similarity]) :- 
+    !,
+    trackSimilarity(TrackId, Tracks, Similarity).
+
+
+findMostSimilarTrackAggregate([TrackId|TracksIds], Tracks,[Similarity|TSimilarity]) :- 
+    trackSimilarity(TrackId, Tracks, Similarity), 
+    findMostSimilarTrackAggregate(TracksIds, Tracks, TSimilarity).
 
 
 % Return a list with all the tracks ids in the kb  except the Track con cui voglio fare la similarità
-getAllTracksExceptOne(TrackIdA, Tracks) :- 
-   findall(TrackId, (track(TrackId, _),  TrackId \= TrackIdA), Tracks).
+getAllTracksExceptSome(TrackIds, TracksResults) :- 
+   findall(TrackId, (track(TrackId, _)), Tracks),
+   subtract(Tracks, TrackIds, TracksResults).
 
 
 % restituisce tutte le tracce con la loro similarità alla traccia data in input
@@ -105,41 +106,59 @@ rankTrack(SimList, TracksList, OrderedTracks) :-
     keysort(Pairs, OrderedPairs), % Sorting by the similarity (the key)
     pairs_values(OrderedPairs, OrderedTracks). % return the list only of the tracks
 
-% esegue il suggerimento delle tracce simili 
-suggestTrack(Tracks, Album, Suggests) :- 
-    findTracks(Tracks, Album, TSug),
-    flatten(TSug, Sug),
-    getTrackName(Sug, Suggests).
+
+
+retrieveAllArtists([Track], [Album], [A]) :- 
+    !,
+    (
+    Album = 'null'
+    -> 
+    track(B, Track), album_contains(AlbumID, B), published_by(AlbumID, A)
+    ;
+    album(AlbumID, Album), track(B, Track), album_contains(AlbumID, B), published_by(AlbumID, A), !
+    ).
+
+retrieveAllArtists([Track|TTrack], [Album|TAlbum], [A|TA]) :- 
+    (
+    Album = 'null'
+    -> 
+    track(B, Track), album_contains(AlbumID, B), published_by(AlbumID, A),
+    retrieveAllArtists(TTrack, TAlbum, TA)
+    ;
+    album(AlbumID, Album), track(B, Track), album_contains(AlbumID, B), published_by(AlbumID, A),
+    retrieveAllArtists(TTrack, TAlbum, TA)).
+    
+
+suggestTrack(Tracks, Album, N, TrackName) :- 
+    findTracksIds(Tracks, Album, TrackIds),
+    getAllTracksExceptSome(TrackIds, TracksTotal), 
+    findMostSimilarTrackAggregate(TrackIds,TracksTotal, Similarities),
+    sum_list(Similarities, SumSimilarities),
+    rankTrack(SumSimilarities, TracksTotal, OrderedTracks),
+    N1 is N*2, 
+    take(OrderedTracks, N1, N1Tracks), % Take the first n*2 most similar tracks
+    random_permutation(N1Tracks, TracksPer), % compute a shuffle on the n*2 most similar tracks
+    take(TracksPer, N, NTracks),
+    getTrackName(NTracks, TrackName).
 
 % trova una traccia simile per ognuna di quelle in input (quindi per ognuna di quelle a cui l'utente ha messo like)
-findTracks([Track],  [Album], Sug) :- 
+findTracksIds([Track], [Album], [TrackId]) :- 
     !,
     (Album = 'null'
     ->    
-    track(TrackId, Track),
-    findMostSilimarTrack(TrackId, 10, NTracks),  
-    take(NTracks, 1, Sug)
+    track(TrackId, Track)
     ;
-    album(AlbumID, Album),
-    findall(B, (track(B, Track), album_contains(AlbumID, B)), [TrackId|_]),
-    findMostSilimarTrack(TrackId, 10, NTracks),  
-    take(NTracks, 1, Sug)).
+    album(AlbumID, Album),track(TrackId, Track), album_contains(AlbumID, TrackId), !).
 
 % getTrackIds(["times change - live at mif","who's joe - live at mif","dream attack - live at mif"], S).
-findTracks([Track|TTrack], [Album|TAlbum], [Sug|TSug]) :-
-    
+findTracksIds([Track|TTrack], [Album|TAlbum], [TrackId|T]) :-
     (Album = 'null'
     -> 
     track(TrackId, Track),
-    findMostSilimarTrack(TrackId, 10, NTracks),
-    take(NTracks, 2, Sug),   
-    findTracks(TTrack, TAlbum, TSug)
+    findTracksIds(TTrack,TAlbum, T)
     ;
-    album(AlbumID, Album),
-    findall(B, (track(B, Track), album_contains(AlbumID, B)), [TrackId|_]),
-    findMostSilimarTrack(TrackId, 10, NTracks),
-    take(NTracks, 2, Sug),   
-    findTracks(TTrack,TAlbum, TSug)).
+    album(AlbumID, Album), track(TrackId, Track), album_contains(AlbumID, TrackId), 
+    findTracksIds(TTrack,TAlbum, T)).
 
 checkTrackDuplicates(Track) :-
     findall(TrackName, (track(_, TrackName)), Tracks),
@@ -193,7 +212,6 @@ getSimilarity2Genre(GenreA, GenreB, Sim) :-
 % GenreA, GenreB sono due liste di generi
 getSimilarityGenres(GenreA, GenreB, AvgOfSimilarities) :-
      findall(Sim,(member(X,GenreA),member(Y,GenreB), getSimilarity2Genre(X, Y, Sim)), ListOfSimilarities),
-
      avg(ListOfSimilarities, AvgOfSimilarities).
 
 getSuggestedArtistAggregate([Artist], GenreResult , [Similarities]) :- 
@@ -201,18 +219,18 @@ getSuggestedArtistAggregate([Artist], GenreResult , [Similarities]) :-
     findall(GenreA, (artistgenres(Artist, GenreA)), ListGenresA), %ritrovo tutti i generi di ArtistA
     calculateArtistSimilarity(ListGenresA, GenreResult, Similarities).
 
-getSuggestedArtistAggregate([Artist|TArtist],GenreResult, [Similarities|TSimilarities]) :- 
+getSuggestedArtistAggregate([Artist|TArtist], GenreResult, [Similarities|TSimilarities]) :- 
     findall(GenreA, (artistgenres(Artist, GenreA)), ListGenresA), %ritrovo tutti i generi di ArtistA
     calculateArtistSimilarity(ListGenresA, GenreResult, Similarities),
     getSuggestedArtistAggregate(TArtist,GenreResult, TSimilarities).
 
-prova(Artist, N1Artists) :- 
+suggestArtist(Tracks,Album, N, N1Artists) :- 
+    retrieveAllArtists(Tracks, Album, Artist),
     getAllArtistsAndGenreExceptSome(Artist, Artists, GenreResult),
     getSuggestedArtistAggregate(Artist,GenreResult, Similarities),  
     sum_list(Similarities, SumSimilarities),
     rankArtist(SumSimilarities, Artists, OrderedArtist),
-    take(OrderedArtist, 3, N1Artists).
-
+    take(OrderedArtist, N, N1Artists).
 
 
 getAllArtistsAndGenreExceptSome(Artist, ArtistResult, GenreResult) :-
@@ -223,8 +241,7 @@ getAllArtistsAndGenreExceptSome(Artist, ArtistResult, GenreResult) :-
     
 
 
-
-sum_list([Head1], Head1).
+sum_list([Head1], Head1) :- !.
 sum_list([Head1,Head2|[]], R) :- 
     !,
     sum(Head1, Head2, R).
@@ -240,18 +257,7 @@ sum([H1|T1],[H2|T2],[X|L3]) :-
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+/*
 getSuggestedArtist(ArtistA, N, NArtists) :-
     getAllArtistsAndGenreExceptOne(ArtistA, Artists, PossibleGenres),
     findall(GenreA, (artistgenres(ArtistA, GenreA)), ListGenresA), %ritrovo tutti i generi di ArtistA
@@ -261,16 +267,6 @@ getSuggestedArtist(ArtistA, N, NArtists) :-
     take(OrderedArtist, N1, N1Artists), % Take the first n*2 most similar artist
     random_permutation(N1Artists, ArtistsPer), % compute a shuffle on the n*2 most similar artist
     take(ArtistsPer, N, NArtists). % take the first n
-
-retrieveAllArtists([Track], [Album], Artist) :- 
-    album(AlbumID, Album),
-    findall(A, (track(B, Track), album_contains(AlbumID, B), published_by(AlbumID, A)), Artist).
-    
-
-retrieveAllArtists([Track|TTrack], [Album|TAlbum], [Artist|TA]) :- 
-    album(AlbumID, Album),
-    findall(A, (track(B, Track), album_contains(AlbumID, B), published_by(AlbumID, A)), Artist),
-    retrieveAllArtists(TTrack, TAlbum, TA).
 
 
 suggestArtist(Artists,N, Sug) :- 
@@ -291,6 +287,8 @@ findArtists([Artist|TArtist],N, [Sug|TSug]) :-
     getSuggestedArtist(Artist, N2, NArtists),
     take(NArtists, N, Sug),   
     findArtists(TArtist,N, TSug).
+*/
+
 
 
 rankArtist(SimList, ArtistList, OrderedArtist) :- 

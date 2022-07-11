@@ -2,78 +2,56 @@ import streamlit as st
 import pandas as pd
 import base64
 import threading
+from openpage import threadFunc
 import os
-import menu
+
+def App1page(session,p1,p2,p3,p4):
+    if session==1:
+        p1.empty()
+        p2.empty()
+        p3.empty()
+        p4.empty()
+    placeholder_module = st.empty()
+    placeholder_module = st.markdown("<h1 style='text-align: center; color: white;'>Ciao  </h1>"
+                "<h1 style='text-align: center; color: red;'>MusicRec!</h1>", unsafe_allow_html=True)
+
+def main_page():
+    placeholder_main1=st.empty()
+    placeholder_main2=st.empty()
+    placeholder_main3=st.empty()
+    placeholder_main4 = st.empty()
+    placeholder_main1.markdown("<h1 style='text-align: center; color: white;'>Welcome to </h1>"
+                "<h1 style='text-align: center; color: red;'>MusicRec!</h1>", unsafe_allow_html=True)
+    #st.markdown("<h1 style='text-align: center; color: red;'>MusicRec!</h1>", unsafe_allow_html=True)
+
+    _left, lm, mid, mr, _right = st.columns(5)
+    with mid:
+        placeholder_main2.markdown("![Alt Text](https://media.giphy.com/media/tqfS3mgQU28ko/giphy.gif)")
+        placeholder_main3.markdown("<h2 style='text-align: center; color: white;'>Ready to dive into music with me? 🙌 </h2>", unsafe_allow_html=True)
+        clicked = placeholder_main4.button("Start")
+    #st.markdown(f'<h1 style="color:#33ff33;font-size:24px;">{}</h1>', unsafe_allow_html=True)
 
 
-"st.session_state object:", st.session_state
+    #x = st.slider('x')  # 👈 this is a widget
+    #st.write(x, 'squared is', x * x)
 
-happiness = ('Sad', 'Flat', 'Happy')
-energy_values = ('Tired', 'Normal', 'Energic')
-danceability = ('No', 'Maybe...', 'YES!')
-page_names = ('Mood', 'Preferences')
-
-# def menu():
-#     if 'selected' not in st.session_state:
-#         with st.sidebar:
-#             chosen = st.multiselect("select your page", page_names, key='selected')
-#     st.write(f'Your choice:{chosen}')
-#     # for key in st.session_state.keys():
-#     #     print(st.write(st.session_state[key]))
-clicked=False
-if 'start' not in st.session_state:
-    interface1=st.container()
-    with interface1:
-        l, m, r = interface1.columns(3)
-        with m:
-            placeholder_main1 = st.markdown("<h1 style='text-align: center; color: white;'>Welcome to </h1>"
-                                            "<h1 style='text-align: center; color: red;'>MusicRec!</h1>",
-                                            unsafe_allow_html=True)
-
-    interface2=st.container()
-    with interface2:
-        a,b,c,d,e,f=st.columns(6)
-        with b:
-            placeholder_main2 = st.markdown("![Alt Text](https://media.giphy.com/media/tqfS3mgQU28ko/giphy.gif)",
-                                            unsafe_allow_html=True)
-        placeholder_main3 = st.markdown(
-            "<h2 style='text-align: center; color: white;'>Ready to dive into music with me? 🙌 </h2>",
-            unsafe_allow_html=True)
+    # _left,mid,ls, _right = st.columns(4)
+    # with ls:
 
 
-    interface3=st.empty()
-
-    #if 'start' not in st.session_state:
-    with interface3:
-            g,h,i,j,k,l,m = st.columns(7)
-            with j:
-                placeholder_main4 = st.empty()
-                if placeholder_main4.button("Start"):
-                    clicked=True
-                    st.session_state.start=True
-
-            print('pippo 1')
-            if st.session_state.start==True:
-                print('pippo 2')
-                placeholder_main1.empty()
-                placeholder_main2.empty()
-                placeholder_main3.empty()
-                placeholder_main4.empty()
-                #mood_form = st.form(key='mood', clear_on_submit=False)
-                st.title("How are you feeling today?")
-                valence = st.select_slider("Are you happy?", happiness)
-                energy = st.select_slider('Are you energic?', energy_values)
-                dance = st.select_slider("Are you in the mood for dancing?", danceability)
-                st.write(f'hello {valence, energy, dance}')
-                # st.write(f'Your choice:{valence, energy, dance}')
-                submitted = st.button('Submit')
-                print(submitted)
-                        # if st.session_state['FormSubmitter:mood-Submit']:
-                        #     print(valence, energy, dance)
-                        #     st.write(f'hello {valence, energy, dance}')
-                        #     # valence_discretized=utilities.discretization(valence)
-                        #     # energy_discretized=utilities.discretization(energy)
-                        #     # dance_discretized=utilities.discretization(dance)
-                        #     print("valence", valence, "energy", energy, "danceability", dance)
+    if clicked:
+        session=1
+        # th = threading.Thread(target=threadFunc)
+        # th.start()
+        # # address of streamlit page that you want to open after clicking button
+        # # os.system('App')
+        # # os.system('cd python\Scripts')
+        # #os.system(r"streamlit run App/userdialogue.py")
+        # th.join()
+        App1page(session,placeholder_main1,placeholder_main2,placeholder_main3,placeholder_main4)
 
 
+
+
+if __name__ == "__main__":
+    main_page()

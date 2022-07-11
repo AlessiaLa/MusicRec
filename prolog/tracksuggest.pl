@@ -14,12 +14,11 @@ similarityByTrackFeatures(TrackA,TrackB,Sim) :-
 %find all the ids of the tracks whose features match the features given in input.
 % the ids are shuffled and the first 10 ids are returned 
 % getTracksByFeatures("low_danceable", "high_energy", "low_valence", TenTracks).
-getTracksByFeatures(N, Dance, Energy, Valence, TracksName) :- 
+getTracksByFeatures(N, Dance, Energy, Valence, NTracks) :- 
     findall(TrackId, (features(TrackId, Dance, Energy, _, _, _, _,Valence, _)), Tracks),
     random_permutation(Tracks, TracksPer),
-    take(TracksPer, N, TenTracks),
-    getTrackName(TenTracks, TracksName).
-
+    take(TracksPer, N, NTracks).
+    
 
 %Given the list of the ID of the Tracks return the List of the name of the same tracks 
 getTrackName([], []).

@@ -11,6 +11,18 @@ list_list_pairs([], [], []).
 list_list_pairs([X|Xs], [Y|Ys], [(X-Y)|Pairs]) :-
    list_list_pairs(Xs, Ys, Pairs).
 
+
+retrieveArtistsByID([TrackId], [A]) :- 
+    !,
+   album_contains(AlbumID, TrackId), published_by(AlbumID, A).
+
+
+retrieveArtistsByID([TrackId|TTrackId], [A|TA]) :- 
+    album_contains(AlbumID, TrackId), published_by(AlbumID, A), 
+    retrieveArtistsByID(TTrackId, TA).
+
+
+
 retrieveAllArtists([Track], [Album], [A]) :- 
     !,
     (

@@ -9,7 +9,7 @@ import menu
 import sys
 
 
-session_state = SessionState.get(button_start=False, button_submit_mood=False,button_submit_preferences=False, colonna_scelta='Seleziona')
+session_state = SessionState.get(button_start=False, button_submit_mood=False,button_submit_preferences=False,button_submit_sugg_kind=False, colonna_scelta='Seleziona')
 
 happiness = ('Sad', 'Flat', 'Happy')
 energy_values = ('Tired', 'Normal', 'Energic')
@@ -56,8 +56,9 @@ if session_state.button_start:
         session_state.button_submit_mood = True
         session_state.suggestions = utilities.return_tracks([session_state.valence, session_state.energy, session_state.dance])
 
+
 if session_state.button_submit_mood:
-    st.title('Check the suggestions in the list below. You can load other suggestions too.')
+    st.title('Give me a first idea of your musical tastes...')
     retry = st.button('Load other suggestions')
     if retry:
         session_state.suggestions = utilities.return_tracks([session_state.valence, session_state.energy, session_state.dance])
@@ -65,8 +66,8 @@ if session_state.button_submit_mood:
     st.title('Do you like any song among these?')
     submit_preferences = st.button("Submit Preferences")
     if submit_preferences:
-        st.write(f'Your preferences:{preferences}')
-        session_state.preferences = preferences
+        st.write(f'Your preferences:{preferences}')#preferences
+        session_state.preferences = preferences #preferences
         session_state.button_submit_preferences = True
 
 if session_state.button_submit_preferences:
@@ -78,3 +79,9 @@ if session_state.button_submit_preferences:
         session_state.button_submit_sugg_kind = True
         session_state.sugg_kind = sugg_kind
         print(session_state.sugg_kind)
+
+if session_state.button_submit_sugg_kind:
+    if session_state.sugg_kind == 'Artists':
+        print('suggestion for artists')
+    if session_state.sugg_kind == 'Tracks':
+        print('suggestion for tracks')

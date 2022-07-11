@@ -27,25 +27,36 @@ def retrieveArtistsByID(tracks: list):
     result = pi.query(query)
     return result
 
+def suggestTracks():
+
 
 if __name__ == '__main__':
 
 
     trackIds = getTracksByFeatures(10, "high_danceable", "high_energy", "low_valence")[0]['Tracks']
+    print(trackIds)
+    print('----')
     tracksName = [tracks.replace("-", "").title() for tracks in getTracksName(trackIds)[0]['Tracks']]
+    print(tracksName)
+    print('----')
     Artists = [artist.title() for artist in retrieveArtistsByID(trackIds)[0]['Artists']]
+    print(Artists)
+    print('----')
     result_string = list(map(' - '.join, zip(tracksName, Artists)))
+    print(result_string)
+    print('----')
     dict_tracks = {k: v for k, v in zip(result_string, trackIds)}
+    print(dict_tracks)
 
 
     # così si mostrano tutte le canzoni con i relativi artisti
-    print(dict_tracks.keys())
+   # print(dict_tracks.keys())
 
 
     mykeys = (list(dict_tracks.keys())[1:3])
 
     # cosi si ritornano gli id solo per alcune tracce (quelle scelte dall'utente
-    print([dict_tracks[x] for x in mykeys])
+   # print([dict_tracks[x] for x in mykeys])
 
 
 

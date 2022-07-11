@@ -9,12 +9,13 @@ import menu
 import sys
 
 
-session_state = SessionState.get(button_start=False, button_submit_mood=False, colonna_scelta='Seleziona')
+session_state = SessionState.get(button_start=False, button_submit_mood=False,button_submit_preferences=False, colonna_scelta='Seleziona')
 
 happiness = ('Sad', 'Flat', 'Happy')
 energy_values = ('Tired', 'Normal', 'Energic')
 danceability = ('No', 'Maybe...', 'YES!')
 page_names = ('Mood', 'Preferences')
+suggest = ('Artists', 'Tracks')
 
 st.set_page_config(page_title = "MusicRec",page_icon = "🔎")
 
@@ -61,7 +62,19 @@ if session_state.button_submit_mood:
     if retry:
         session_state.suggestions = utilities.return_tracks([session_state.valence, session_state.energy, session_state.dance])
     preferences = st.multiselect('Select the songs that you like', session_state.suggestions)
-    st.title('Select the songs that you like')
+    st.title('Do you like any song among these?')
     submit_preferences = st.button("Submit Preferences")
     if submit_preferences:
         st.write(f'Your preferences:{preferences}')
+        session_state.preferences = preferences
+        session_state.button_submit_preferences = True
+
+if session_state.button_submit_preferences:
+    st.title('What kind of suggestion would you like? ')
+    sugg_kind = st.radio('Artist or tracks?', suggest)
+    submit_sugg_kind= st.button('Submit kind of suggestion')
+    if submit_sugg_kind:
+        st.write(f'You want a: {sugg_kind} suggestion')
+        session_state.button_submit_sugg_kind = True
+        session_state.sugg_kind = sugg_kind
+        print(session_state.sugg_kind)

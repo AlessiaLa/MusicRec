@@ -37,7 +37,7 @@ def return_tracks(features):
     valence = list_features[0]
     energy = list_features[1]
     danceability = list_features[2]
-    results = queries.getTracksByFeatures(7, danceability, energy, valence)
+    results = queries.getTracksByFeatures(8, danceability, energy, valence)
     results=results[0]['Tracks']
     return results
 

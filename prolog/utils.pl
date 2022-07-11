@@ -1,7 +1,4 @@
 
-
-:- consult("C:\\Users\\user\\Desktop\\AI-Project\\MusicNet\\prolog\\wn\\wn_connect.pl").
-   
 jaccard(SimA,SimB,Sim) :-
     ord_intersection(SimA,SimB,I),
     ord_union(SimA,SimB,U),

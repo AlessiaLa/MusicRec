@@ -8,6 +8,9 @@ import menu
 
 "st.session_state object:", st.session_state
 
+happiness = ('Sad', 'Flat', 'Happy')
+energy_values = ('Tired', 'Normal', 'Energic')
+danceability = ('No', 'Maybe...', 'YES!')
 page_names = ('Mood', 'Preferences')
 
 # def menu():
@@ -17,7 +20,7 @@ page_names = ('Mood', 'Preferences')
 #     st.write(f'Your choice:{chosen}')
 #     # for key in st.session_state.keys():
 #     #     print(st.write(st.session_state[key]))
-
+clicked=False
 if 'start' not in st.session_state:
     interface1=st.container()
     with interface1:
@@ -39,21 +42,38 @@ if 'start' not in st.session_state:
 
 
     interface3=st.empty()
-    clicked=False
-    if 'start' not in st.session_state:
-        with interface3:
-                g,h,i,j,k,l,m = st.columns(7)
-                with j:
-                    placeholder_main4 = st.empty()
-                    if placeholder_main4.button("Start"):
-                        clicked=True
-                        st.session_state.start=True
 
-        if clicked:
-            placeholder_main1.empty()
-            placeholder_main2.empty()
-            placeholder_main3.empty()
-            placeholder_main4.empty()
-            menu.try_mood()
+    #if 'start' not in st.session_state:
+    with interface3:
+            g,h,i,j,k,l,m = st.columns(7)
+            with j:
+                placeholder_main4 = st.empty()
+                if placeholder_main4.button("Start"):
+                    clicked=True
+                    st.session_state.start=True
+
+            print('pippo 1')
+            if st.session_state.start==True:
+                print('pippo 2')
+                placeholder_main1.empty()
+                placeholder_main2.empty()
+                placeholder_main3.empty()
+                placeholder_main4.empty()
+                #mood_form = st.form(key='mood', clear_on_submit=False)
+                st.title("How are you feeling today?")
+                valence = st.select_slider("Are you happy?", happiness)
+                energy = st.select_slider('Are you energic?', energy_values)
+                dance = st.select_slider("Are you in the mood for dancing?", danceability)
+                st.write(f'hello {valence, energy, dance}')
+                # st.write(f'Your choice:{valence, energy, dance}')
+                submitted = st.button('Submit')
+                print(submitted)
+                        # if st.session_state['FormSubmitter:mood-Submit']:
+                        #     print(valence, energy, dance)
+                        #     st.write(f'hello {valence, energy, dance}')
+                        #     # valence_discretized=utilities.discretization(valence)
+                        #     # energy_discretized=utilities.discretization(energy)
+                        #     # dance_discretized=utilities.discretization(dance)
+                        #     print("valence", valence, "energy", energy, "danceability", dance)
 
 

@@ -56,19 +56,25 @@ if session_state.button_start:
         session_state.button_submit_mood = True
         session_state.suggestions = utilities.return_tracks([session_state.valence, session_state.energy, session_state.dance])
 
-
+cache_ids=[]
 if session_state.button_submit_mood:
     st.title('Give me a first idea of your musical tastes...')
     retry = st.button('Load other suggestions')
     if retry:
-        session_state.suggestions = utilities.return_tracks([session_state.valence, session_state.energy, session_state.dance])
-    preferences = st.multiselect('Select the songs that you like', session_state.suggestions)
+        session_state.suggestions=utilities.return_tracks([session_state.valence, session_state.energy, session_state.dance])
+    preferences = st.multiselect('Select the songs that you like', list(session_state.suggestions.keys()))
     st.title('Do you like any song among these?')
     submit_preferences = st.button("Submit Preferences")
     if submit_preferences:
-        st.write(f'Your preferences:{preferences}')#preferences
-        session_state.preferences = preferences #preferences
+        for i in preferences:
+            cache_ids.append(session_state.suggestions.get(i))
+        print(cache_ids)
+        session_state.preferences_ids=cache_ids
+        #session_state.suggestions_ids = cache_ids
+        st.write(f'Your preferences:{preferences}')
+        session_state.preferences = preferences
         session_state.button_submit_preferences = True
+        #print(session_state.preferences)
 
 if session_state.button_submit_preferences:
     st.title('What kind of suggestion would you like? ')
@@ -84,4 +90,7 @@ if session_state.button_submit_sugg_kind:
     if session_state.sugg_kind == 'Artists':
         print('suggestion for artists')
     if session_state.sugg_kind == 'Tracks':
+        results=utilities.suggestionsTracks(session_state.preferences_ids)
+        print(list(results.keys()))
+        st.write(list(results.keys()))
         print('suggestion for tracks')

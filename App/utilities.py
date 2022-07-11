@@ -30,9 +30,9 @@ def save_values(features):
         mood_parameters.append(discretization(value))
     return mood_parameters
 
-def dict_to_tracklist(dict_tracks):
-    tracklist = (list(dict_tracks.keys()))
-    return tracklist
+# def dict_to_tracklist(dict_tracks):
+#     tracklist, trackids = list(dict_tracks.keys()), list(dict_tracks.values())
+#     return tracklist,trackids
 
 def return_tracks(features):
     list_features=save_values(features)
@@ -44,13 +44,41 @@ def return_tracks(features):
     Artists = [artist.title() for artist in queries.retrieveArtistsByID(trackIds)[0]['Artists']]
     result_string = list(map(' - '.join, zip(tracksName, Artists)))
     dict_tracks = {k: v for k, v in zip(result_string, trackIds)}
-    tracklist = dict_to_tracklist(dict_tracks)
-    return tracklist
+    return dict_tracks
+    #tracklist,trackids = dict_to_tracklist(dict_tracks)
+    #return tracklist
+
+def suggestionsTracks(trackids):
+    suggestions = list(queries.suggestionTracks(trackids, 5))
+    suggestions = suggestions[0]['NTracks']
+    tracksName = [tracks.replace("-", "").title() for tracks in queries.getTracksName(suggestions)[0]['Tracks']]
+    Artists = [artist.title() for artist in queries.retrieveArtistsByID(suggestions)[0]['Artists']]
+    result_string = list(map(' - '.join, zip(tracksName, Artists)))
+    dict_tracks = {k: v for k, v in zip(result_string, suggestions)}
+    return dict_tracks
 
 
 
 
-# if __name__ == '__main__':
-#     print(os.getcwd())
-#     wtf=return_tracks(['low_valence','low_energy','high_danceable'])
-#     print(wtf)
+#if __name__ == '__main__':
+    #results= suggestionsTracks(list(return_tracks(['low_valence','low_energy','high_danceable']).values()))
+    #print(results)
+
+
+
+
+
+    # print(os.getcwd())
+    # wtf = suggestionsTracks(list(return_tracks(['low_valence','low_energy','high_danceable']).values()))
+    # print(wtf[0]['NTracks'])
+    # tracksName = [tracks.replace("-", "").title() for tracks in queries.getTracksName(wtf[0]['NTracks'])[0]['Tracks']]
+    # print(tracksName)
+    # artisti=queries.retrieveArtistsByID(wtf[0]['NTracks'])[0]['Artists']
+    # print(artisti)
+    # Artists = [artist.title() for artist in queries.retrieveArtistsByID(wtf[0]['NTracks'])[0]['Artists']]
+    # print(Artists)
+    # result_string = list(map(' - '.join, zip(tracksName, Artists)))
+    # print(result_string)
+    # dict_tracks = {k: v for k, v in zip(result_string, wtf[0]['NTracks'])}
+    # print('---')
+    # print(dict_tracks)

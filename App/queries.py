@@ -27,11 +27,16 @@ def retrieveArtistsByID(tracks: list):
     result = pi.query(query)
     return result
 
-def suggestTracks():
+def suggestionTracks(trackids: list, ntracks: int):
+    pi = kbAccess.PrologInterface()
+    pi.set_to_consult(['album_contains.pl', 'utils.pl', 'init.pl', 'published_by.pl', 'album.pl', 'tracksuggest.pl', 'track.pl'])
+    pi.load_rules()
+    query= f"suggestTrack({trackids}, {ntracks}, NTracks)."
+    result = pi.query(query)
+    return result
 
 
 if __name__ == '__main__':
-
 
     trackIds = getTracksByFeatures(10, "high_danceable", "high_energy", "low_valence")[0]['Tracks']
     print(trackIds)
@@ -49,14 +54,18 @@ if __name__ == '__main__':
     print(dict_tracks)
 
 
+
+
     # così si mostrano tutte le canzoni con i relativi artisti
-   # print(dict_tracks.keys())
+    # print(dict_tracks.keys())
 
 
-    mykeys = (list(dict_tracks.keys())[1:3])
+    mykeys = (list(dict_tracks.keys()))
 
-    # cosi si ritornano gli id solo per alcune tracce (quelle scelte dall'utente
-   # print([dict_tracks[x] for x in mykeys])
+    # cosi si ritornano gli id solo per alcune tracce (quelle scelte dall'utente)
+    print([dict_tracks[x] for x in mykeys])
+
+    #resulting_suggestions= list()
 
 
 

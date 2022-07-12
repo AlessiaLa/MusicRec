@@ -29,12 +29,19 @@ def retrieveArtistsByID(tracks: list):
 
 def suggestionTracks(trackids: list, ntracks: int):
     pi = kbAccess.PrologInterface()
-    pi.set_to_consult(['album_contains.pl', 'utils.pl', 'init.pl', 'published_by.pl', 'album.pl', 'tracksuggest.pl', 'track.pl'])
+    pi.set_to_consult(['wn_sim_measures.pl','album_contains.pl', 'utils.pl', 'init.pl', 'published_by.pl', 'album.pl', 'tracksuggest.pl', 'track.pl'])
     pi.load_rules()
     query= f"suggestTrack({trackids}, {ntracks}, NTracks)."
     result = pi.query(query)
     return result
 
+def suggestionArtist(trackids: list, ntracks: int):
+    pi = kbAccess.PrologInterface()
+    pi.set_to_consult(['artist_genres.pl','album_contains.pl', 'utils.pl', 'init.pl', 'published_by.pl', 'album.pl', 'tracksuggest.pl', 'artist.pl', 'track.pl', 'artistsuggest.pl'])
+    pi.load_rules()
+    query = f"suggestArtist({trackids}, {ntracks}, N1Artists)."
+    result = pi.query(query)
+    return result
 
 if __name__ == '__main__':
 

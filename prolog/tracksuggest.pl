@@ -1,4 +1,3 @@
-
 % Return the list of the Features given the ID of the Track
 %getFeaturesList("0NKevst3QXMMXuV6Qch3GP", [A, B, C,R,T,Y,U,I]).
 getFeaturesList(TrackID, [Dance, Energy, Speech, Acoustic, Instrumental, Live, Valence, Speed]) :-
@@ -16,8 +15,15 @@ similarityByTrackFeatures(TrackA,TrackB,Sim) :-
 % getTracksByFeatures("low_danceable", "high_energy", "low_valence", TenTracks).
 getTracksByFeatures(N, Dance, Energy, Valence, NTracks) :-
     findall(TrackId, (features(TrackId, Dance, Energy, _, _, _, _,Valence, _)), Tracks),
+    length(Tracks, N1),
+    (
+    N1 > N
+    ->
     random_permutation(Tracks, TracksPer),
-    take(TracksPer, N, NTracks).
+    take(TracksPer, N, NTracks)
+    ;
+    random_permutation(Tracks, NTracks)
+    ).
 
 
 %Given the list of the ID of the Tracks return the List of the name of the same tracks

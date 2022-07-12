@@ -57,12 +57,22 @@ def suggestionsTracks(trackids):
     dict_tracks = {k: v for k, v in zip(result_string, suggestions)}
     return dict_tracks
 
+def suggestionArtists(trackids):
+    suggestions = list(queries.suggestionArtist(trackids, 5))
+    print(suggestions)
+    suggestions = suggestions[0]['NTracks']
+    print(suggestions)
+    tracksName = [tracks.replace("-", "").title() for tracks in queries.getTracksName(suggestions)[0]['Tracks']]
+    Artists = [artist.title() for artist in queries.retrieveArtistsByID(suggestions)[0]['Artists']]
+    result_string = list(map(' - '.join, zip(tracksName, Artists)))
+    dict_tracks = {k: v for k, v in zip(result_string, suggestions)}
+    return dict_tracks
 
 
 
-#if __name__ == '__main__':
-    #results= suggestionsTracks(list(return_tracks(['low_valence','low_energy','high_danceable']).values()))
-    #print(results)
+if __name__ == '__main__':
+    results= suggestionArtists(list(return_tracks(['low_valence','low_energy','high_danceable']).values()))
+    print(results)
 
 
 

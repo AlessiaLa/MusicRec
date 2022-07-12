@@ -32,10 +32,10 @@ getSuggestedArtistAggregate([Artist|TArtist], GenreResult, [Similarities|TSimila
     calculateArtistSimilarity(ListGenresA, GenreResult, Similarities),
     getSuggestedArtistAggregate(TArtist,GenreResult, TSimilarities).
 
-suggestArtist(Tracks,Album, N, N1Artists) :- 
-    retrieveAllArtists(Tracks, Album, Artist),
+suggestArtist(Tracks, N, N1Artists) :-
+    retrieveArtistsByID(Tracks, Artist),
     getAllArtistsAndGenreExceptSome(Artist, Artists, GenreResult),
-    getSuggestedArtistAggregate(Artist,GenreResult, Similarities),  
+    getSuggestedArtistAggregate(Artist,GenreResult, Similarities),
     sum_list(Similarities, SumSimilarities),
     rankArtist(SumSimilarities, Artists, OrderedArtist),
     take(OrderedArtist, N, N1Artists).
@@ -47,7 +47,7 @@ getAllArtistsAndGenreExceptSome(Artist, ArtistResult, GenreResult) :-
     subtract(SetArtists, Artist, ArtistResult),
     getAllGenres(ArtistResult, GenreResult).
 
-rankArtist(SimList, ArtistList, OrderedArtist) :- 
+rankArtist(SimList, ArtistList, OrderedArtist) :-
     list_list_pairs(SimList, ArtistList, Pairs), % data la lista di tracce e similarità  ritorna la lista di coppie
     keysort(Pairs, OrderedPairs), % Sorting by the similarity (the key)
     pairs_values(OrderedPairs, OrderedArtist). % return the list only of the tracks
@@ -57,5 +57,4 @@ calculateArtistSimilarity(GenresA, [GenreB], [Similarity]) :- !,
 
 calculateArtistSimilarity(GenresA, [GenreB|GenreT], [Similarity|SimilarityT]) :-
     getSimilarityGenres(GenresA, GenreB, Similarity),
-    calculateArtistSimilarity(GenresA,  GenreT, SimilarityT). 
-    
+    calculateArtistSimilarity(GenresA,  GenreT, SimilarityT).

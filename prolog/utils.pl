@@ -1,4 +1,6 @@
 
+:- consult('wn/wn_connect.pl').
+
 jaccard(SimA,SimB,Sim) :-
     ord_intersection(SimA,SimB,I),
     ord_union(SimA,SimB,U),
@@ -84,6 +86,9 @@ sum_list([Head1,Head2|Tail], R) :-
 sum([],[],[]).
 sum([H1|T1],[H2|T2],[X|L3]) :- 
     sum(T1,T2,L3), X is H1+H2.
+
+
+
 
 
 getAllGenres([A], [G]) :- !,

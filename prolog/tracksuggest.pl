@@ -65,11 +65,12 @@ trackSimilarity(TrackIdA, [TrackIdB|T], [Sim|SimT]) :-
     trackSimilarity(TrackIdA, T, SimT).
 
 
-% rankTrack([0.4, 0.5, 0.77], ["ciao", "prolog", "daniela"], A].
-rankTrack(SimList, TracksList, OrderedTracks) :-
+
+rankTrack(SimList, TracksList, ReversedTrack) :-
     list_list_pairs(SimList, TracksList, Pairs), % data la lista di tracce e similarità  ritorna la lista di coppie
     keysort(Pairs, OrderedPairs), % Sorting by the similarity (the key)
-    pairs_values(OrderedPairs, OrderedTracks). % return the list only of the tracks
+    pairs_values(OrderedPairs, OrderedTracks),
+    reverse(OrderedTracks, ReversedTrack). % return the list only of the tracks
 
 
 suggestTrack(TrackIds, N, NTracks) :-

@@ -49,7 +49,7 @@ def return_tracks(features):
     #return tracklist
 
 def suggestionsTracks(trackids):
-    suggestions = list(queries.suggestionTracks(trackids, 5))
+    suggestions = list(queries.suggestionTracks(trackids, 6))
     suggestions = suggestions[0]['NTracks']
     tracksName = [tracks.replace("-", "").title() for tracks in queries.getTracksName(suggestions)[0]['Tracks']]
     Artists = [artist.title() for artist in queries.retrieveArtistsByID(suggestions)[0]['Artists']]
@@ -70,7 +70,7 @@ def suggestionArtists(trackids):
 
 if __name__ == '__main__':
     print(os.getcwd())
-    input = list(return_tracks(['high_valence','high_energy','high_danceable']).values())
+    input = list(return_tracks(['high_valence','low_energy','low_danceable']).values())
     print(input)
     results = suggestionArtists(list(return_tracks(['low_valence','low_energy','high_danceable']).values()))
     print(results)

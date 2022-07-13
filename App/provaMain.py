@@ -58,7 +58,7 @@ if session_state.button_start:
 
 cache_ids=[]
 if session_state.button_submit_mood:
-    st.title('Give me a first idea of your musical tastes...')
+    st.title('Give me an idea of your musical tastes...')
     retry = st.button('Load other suggestions')
     if retry:
         session_state.suggestions=utilities.return_tracks([session_state.valence, session_state.energy, session_state.dance])
@@ -87,8 +87,11 @@ if session_state.button_submit_preferences:
         print(session_state.sugg_kind)
 
 if session_state.button_submit_sugg_kind:
+    st.title('First suggestion basing on what you liked...')
     if session_state.sugg_kind == 'Artists':
         print('suggestion for artists')
+        results=utilities.suggestionArtists(session_state.preferences_ids)
+        st.write(list(results))
     if session_state.sugg_kind == 'Tracks':
         results=utilities.suggestionsTracks(session_state.preferences_ids)
         print(list(results.keys()))

@@ -8,31 +8,31 @@ def intersection(lst1, lst2):
     return lst3
 
 # Opening JSON file
-path='C:/Users/Alessia/Desktop/genre_kb.json'
+path= os.path.join(os.getcwd(), '../Dataset/json_to_prolog/genre_kb.json')
 
-out_path='C:/Users/Alessia/Desktop'
+out_path= os.path.join(os.getcwd(),'../Prolog')
 
-hiphop=["hip hop"]
-jazz=["jazz"]
-pop=["pop"]
-rock=["rock"]
-country=["country"]
-rap=["rap"]
-soul=["soul"]
-folk=["folk"]
-classical=["classical"]
-metal=["metal"]
-funky=["funky"]
-indie=["indie"]
-house=["house"]
-punk=["punk"]
-electronic=["electronic"]
-reggae=["reggae"]
-latin=["latin"]
-songwriter=["author music"]
-children=["children"]
-soundtrack=["soundtrack"]
-relax=["relax"]
+hiphop=[]
+jazz=[]
+pop=[]
+rock=[]
+country=[]
+rap=[]
+soul=[]
+folk=[]
+classical=[]
+metal=[]
+funky=[]
+indie=[]
+house=[]
+punk=[]
+electronic=[]
+reggae=[]
+latin=[]
+songwriter=[]
+children=[]
+soundtrack=[]
+relax=[]
 
 with open(path, "r", encoding="utf-8") as f:
     data = json.loads("[" +
@@ -179,7 +179,16 @@ f.close()
 
 groupoflists.append(other_genres)
 
+
+dict = {'hip hop': hiphop, 'jazz': jazz, 'pop': pop, 'funky': funky,'punk':punk, 'house': house,
+        'metal': metal, 'relax':relax,'soundtrack':soundtrack, 'songwriter': songwriter, 'children': children,
+        'latin': latin, 'electronic': electronic, 'reggae': reggae, 'indie': indie,
+       'classical': classical, 'soul': soul, 'rap': rap, 'country':country,  'rock':rock, 'pop':pop}
+
+
+
 genre_txt = os.path.join(out_path, 'likes.pl')
 with open(genre_txt, "w", encoding="utf-8") as file:
-    for i in groupoflists:
-        file.write("like(" + str(i).replace('[', '').replace(']', '') + ').\n')
+    for k in dict.keys():
+        for values in dict[k]:
+            file.write("like(" "\"" + str(k) + "\", " + "\"" + str(values) + "\"" + ').\n')

@@ -1,5 +1,6 @@
 import json
-#
+import os
+
 # f = open('C:/Users/Alessia/Desktop/genre_kb.json', 'r',encoding='utf-8' )
 # print(f.read())
 def intersection(lst1, lst2):
@@ -9,29 +10,29 @@ def intersection(lst1, lst2):
 # Opening JSON file
 path='C:/Users/Alessia/Desktop/genre_kb.json'
 
-path_to_del = 'C:/Users/Alessia/Desktop/genre_kb_del.json'
+out_path='C:/Users/Alessia/Desktop'
 
-hiphop=[]
-jazz=[]
-pop=[]
-rock=[]
-country=[]
-rap=[]
-soul=[]
-folk=[]
-classical=[]
-metal=[]
-funky=[]
-indie=[]
-house=[]
-punk=[]
-electronic=[]
-reggae=[]
-latin=[]
-songwriter=[]
-children=[]
-soundtrack=[]
-relax=[]
+hiphop=["hip hop"]
+jazz=["jazz"]
+pop=["pop"]
+rock=["rock"]
+country=["country"]
+rap=["rap"]
+soul=["soul"]
+folk=["folk"]
+classical=["classical"]
+metal=["metal"]
+funky=["funky"]
+indie=["indie"]
+house=["house"]
+punk=["punk"]
+electronic=["electronic"]
+reggae=["reggae"]
+latin=["latin"]
+songwriter=["author music"]
+children=["children"]
+soundtrack=["soundtrack"]
+relax=["relax"]
 
 with open(path, "r", encoding="utf-8") as f:
     data = json.loads("[" +
@@ -168,12 +169,17 @@ for i, node in enumerate(data):
 genres_classified= hiphop+pop+jazz+rock+country+rap+soul+folk+classical+metal+funky+indie+house+punk+electronic+reggae+latin+songwriter+children+soundtrack+relax
 print(len(genres_classified))
 
-
-
 #genres not yet classified
-
-other_genres= set(list_genres) - set(genres_classified)
+other_genres=['other']
+other_genres= other_genres + list(set(list_genres) - set(genres_classified))
 print(other_genres)
 print(len(other_genres))
 
 f.close()
+
+groupoflists.append(other_genres)
+
+genre_txt = os.path.join(out_path, 'likes.pl')
+with open(genre_txt, "w", encoding="utf-8") as file:
+    for i in groupoflists:
+        file.write("like(" + str(i).replace('[', '').replace(']', '') + ').\n')

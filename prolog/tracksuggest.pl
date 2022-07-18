@@ -26,6 +26,46 @@ getTracksByFeatures(N, Dance, Energy, Valence, NTracks) :-
     ).
 
 
+getSimilarGenre([Genre], [ListGenre]) :- !,
+    findall(G, (like(Genre, G)), ListGenre).
+
+getSimilarGenre([Genre|GenreT], [ListGenre|ListGenreT]) :-
+    findall(G, (like(Genre, G)), ListGenre),
+    getSimilarGenre(GenreT, ListGenreT).
+
+getArtistByGenres([Genre], [ListArtist]) :- !,
+    findall(A, (artistgenres(A, Genre)), ListArtist).
+
+getArtistByGenres([Genre|ListGenre], [ListArtist|ListArtistT]) :-
+    findall(A, (artistgenres(A, Genre)), ListArtist),
+    getArtistByGenres(ListGenre, ListArtistT).
+
+getAlbumByArtist([ListArtist], [ListAlbum]) :- !,
+    findall(A, (published_by(A, ListArtist)), ListAlbum).
+
+getAlbumByArtist([ListArtist|ListArtistT], [ListAlbum|ListAlbumT]) :-
+    findall(A, (published_by(A, ListArtist)), ListAlbum),
+    getAlbumByArtist(ListArtistT, ListAlbumT).
+
+getTrackByAlbum([ListAlbum], [ListTrack]) :- !,
+    findall(A, (album_contains(ListAlbum, A)), ListTrack).
+
+getTrackByAlbum([ListAlbum|ListAlbumT], [ListTrack|ListTrackT]) :-
+    findall(A, (album_contains(ListAlbum, A)), ListTrack),
+    getTrackByAlbum(ListAlbumT, ListTrackT).
+
+
+getTrackByGenre(Genre, FlattenTrack) :- 
+    getSimilarGenre(Genre, ListGenre),
+    flatten(ListGenre, FlattenGenre),
+    getArtistByGenres(FlattenGenre, ListArtist),
+    flatten(ListArtist, FlattenA), 
+    list_to_set(FlattenA, Artist),
+    getAlbumByArtist(Artist, ListAlbum),
+    flatten(ListAlbum, FlattenAlbum),
+    getTrackByAlbum(FlattenAlbum, ListTrack),
+    flatten(ListTrack, FlattenTrack).
+
 %Given the list of the ID of the Tracks return the List of the name of the same tracks
 getTrackName([], []).
 getTrackName([H|T], [Track|T1]) :-

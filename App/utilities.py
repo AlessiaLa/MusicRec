@@ -48,18 +48,26 @@ def return_tracks(features):
     #tracklist,trackids = dict_to_tracklist(dict_tracks)
     #return tracklist
 
+
 def suggestionsTracks(trackids):
-    suggestions = list(queries.suggestionTracks(trackids, 6))
-    suggestions = suggestions[0]['NTracks']
-    tracksName = [tracks.replace("-", "").title() for tracks in queries.getTracksName(suggestions)[0]['Tracks']]
-    Artists = [artist.title() for artist in queries.retrieveArtistsByID(suggestions)[0]['Artists']]
+    suggestions_features = list(queries.suggestionTracks(trackids, 5))
+    suggestions_features = suggestions_features[0]['NTracks']
+    #suggestion_genre = list(queries.suggestTracksByGenre())
+    tracksName = [tracks.replace("-", "").title() for tracks in queries.getTracksName(suggestions_features)[0]['Tracks']]
+    Artists = [artist.title() for artist in queries.retrieveArtistsByID(suggestions_features)[0]['Artists']]
     result_string = list(map(' - '.join, zip(tracksName, Artists)))
-    dict_tracks = {k: v for k, v in zip(result_string, suggestions)}
+    dict_tracks = {k: v for k, v in zip(result_string, suggestions_features)}
     return dict_tracks
+
+## NEW ONE
+def suggestTracksByGenre(genres):
+    suggestion_genres= list(queries.suggestTracksByGenre(genres, 5))
+    return suggestion_genres
 
 def suggestionArtists(trackids):
     suggestions = list(queries.suggestionArtist(trackids, 5))
     suggestions = suggestions[0]['N1Artists']
+
     # tracksName = [tracks.replace("-", "").title() for tracks in queries.getTracksName(suggestions)[0]['Tracks']]
     # Artists = [artist.title() for artist in queries.retrieveArtistsByID(suggestions)[0]['Artists']]
     # result_string = list(map(' - '.join, zip(tracksName, Artists)))

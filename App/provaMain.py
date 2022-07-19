@@ -9,13 +9,14 @@ import menu
 import sys
 
 
-session_state = SessionState.get(button_start=False, button_submit_mood=False,button_submit_preferences=False,button_submit_sugg_kind=False, colonna_scelta='Seleziona')
+session_state = SessionState.get(button_start=False, button_submit_mood=False,button_submit_preferences=False,button_submit_sugg_kind=False,button_submit_genres=False, colonna_scelta='Seleziona')
 
 happiness = ('Sad', 'Flat', 'Happy')
 energy_values = ('Tired', 'Normal', 'Energic')
 danceability = ('No', 'Maybe...', 'YES!')
 page_names = ('Mood', 'Preferences')
 suggest = ('Artists', 'Tracks')
+genres=('hip hop','pop','jazz','rock','country','rap','soul','folk','classical','metal','funky','indie','house','punk','electronic','reggae','latin','songwriter','children','soundtrack', 'relax')
 
 st.set_page_config(page_title = "MusicRec",page_icon = "🔎")
 
@@ -54,20 +55,34 @@ if session_state.button_start:
         session_state.dance = dance
         st.write(session_state.valence,session_state.energy,session_state.dance)
         session_state.button_submit_mood = True
-        session_state.suggestions = utilities.return_tracks([session_state.valence, session_state.energy, session_state.dance])
+        session_state.suggestions_features = utilities.return_tracks([session_state.valence, session_state.energy, session_state.dance])
+        # session_state.suggestion_genres = CHIAMATA A FUNZIONE PER IL SUGGERIMENTO DELLE TRACCE DAL GENERE
 
-cache_ids=[]
+cache_genres=[]
 if session_state.button_submit_mood:
     st.title('Give me an idea of your musical tastes...')
+    genres_pref = st.multiselect('What genres do you like?', genres)
+    submit_genres=st.button('Submit Genres')
+    if submit_genres:
+        for i in genres_pref:
+            cache_genres.append(i)
+        session_state.button_submit_genres = True
+        session_state.genres=cache_genres
+        print(session_state.genres)
+
+cache_ids=[]
+if session_state.button_submit_genres:
+    st.title('Now some suggestions will be shown')
     retry = st.button('Load other suggestions')
     if retry:
-        session_state.suggestions=utilities.return_tracks([session_state.valence, session_state.energy, session_state.dance])
-    preferences = st.multiselect('Select the songs that you like', list(session_state.suggestions.keys()))
+        session_state.suggestions_features=utilities.return_tracks([session_state.valence, session_state.energy, session_state.dance])
+        #session_state.suggestions_genres =  CHIAMATA A FUNZIONE per il suggerimento del genere
+    preferences = st.multiselect('Select the songs that you like', list(session_state.suggestions_features.keys()))
     st.title('Do you like any song among these?')
     submit_preferences = st.button("Submit Preferences")
     if submit_preferences:
         for i in preferences:
-            cache_ids.append(session_state.suggestions.get(i))
+            cache_ids.append(session_state.suggestions_features.get(i))
         print(cache_ids)
         session_state.preferences_ids=cache_ids
         #session_state.suggestions_ids = cache_ids

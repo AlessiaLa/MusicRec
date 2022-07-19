@@ -54,7 +54,7 @@ getTrackByAlbum([ListAlbum|ListAlbumT], [ListTrack|ListTrackT]) :-
     findall(A, (album_contains(ListAlbum, A)), ListTrack),
     getTrackByAlbum(ListAlbumT, ListTrackT).
 
-
+## getTracksByGenres(genres, NTracks, Tracks)
 getTrackByGenre(Genre, FlattenTrack) :- 
     getSimilarGenre(Genre, ListGenre),
     flatten(ListGenre, FlattenGenre),

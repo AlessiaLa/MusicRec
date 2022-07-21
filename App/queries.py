@@ -19,12 +19,11 @@ def getTracksName(trackids: list):
     return result
 
 
-## Not complete
-def suggestTracksByGenre(genres: list, NTracks:int):
+def suggestTracksByGenre(NTracks:int, genres: list):
     pi = kbAccess.PrologInterface()
     pi.set_to_consult(['track.pl', 'utils.pl', 'init.pl', 'tracksuggest.pl'])
     pi.load_rules()
-    query = f"getTrackByGenre({genres},{NTracks}, Tracks)."
+    query = f"getTrackByGenre({NTracks},{genres}, Tracks)."
     result = pi.query(query)
     return result
 

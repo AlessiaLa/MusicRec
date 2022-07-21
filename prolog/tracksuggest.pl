@@ -54,17 +54,18 @@ getTrackByAlbum([ListAlbum|ListAlbumT], [ListTrack|ListTrackT]) :-
     findall(A, (album_contains(ListAlbum, A)), ListTrack),
     getTrackByAlbum(ListAlbumT, ListTrackT).
 
-## getTracksByGenres(genres, NTracks, Tracks)
-getTrackByGenre(Genre, FlattenTrack) :- 
+getTrackByGenre(N, Genre, NTrack) :-
     getSimilarGenre(Genre, ListGenre),
     flatten(ListGenre, FlattenGenre),
     getArtistByGenres(FlattenGenre, ListArtist),
-    flatten(ListArtist, FlattenA), 
+    flatten(ListArtist, FlattenA),
     list_to_set(FlattenA, Artist),
     getAlbumByArtist(Artist, ListAlbum),
     flatten(ListAlbum, FlattenAlbum),
     getTrackByAlbum(FlattenAlbum, ListTrack),
-    flatten(ListTrack, FlattenTrack).
+    flatten(ListTrack, FlattenTrack),
+    random_permutation(FlattenTrack, Track), % compute a shuffle on the n*2 most similar tracks
+    take(Track, N, NTrack).
 
 %Given the list of the ID of the Tracks return the List of the name of the same tracks
 getTrackName([], []).

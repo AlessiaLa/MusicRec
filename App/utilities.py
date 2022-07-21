@@ -23,51 +23,46 @@ def discretization(value):
         value='high_danceable'
     return value
 
-
 def save_values(features):
     mood_parameters=[]
     for value in features:
         mood_parameters.append(discretization(value))
     return mood_parameters
 
-# def dict_to_tracklist(dict_tracks):
-#     tracklist, trackids = list(dict_tracks.keys()), list(dict_tracks.values())
-#     return tracklist,trackids
-
 def return_tracks(features):
-    list_features=save_values(features)
+    list_features = save_values(features)
     valence = list_features[0]
     energy = list_features[1]
     danceability = list_features[2]
-    trackIds = queries.getTracksByFeatures(8, danceability, energy, valence)[0]['Tracks']
+    trackIds = queries.getTracksByFeatures(5, danceability, energy, valence)[0]['Tracks']
     tracksName = [tracks.replace("-", "").title() for tracks in queries.getTracksName(trackIds)[0]['Tracks']]
     Artists = [artist.title() for artist in queries.retrieveArtistsByID(trackIds)[0]['Artists']]
     result_string = list(map(' - '.join, zip(tracksName, Artists)))
     dict_tracks = {k: v for k, v in zip(result_string, trackIds)}
     return dict_tracks
-    #tracklist,trackids = dict_to_tracklist(dict_tracks)
-    #return tracklist
+
 
 
 def suggestionsTracks(trackids):
     suggestions_features = list(queries.suggestionTracks(trackids, 5))
     suggestions_features = suggestions_features[0]['NTracks']
-    #suggestion_genre = list(queries.suggestTracksByGenre())
     tracksName = [tracks.replace("-", "").title() for tracks in queries.getTracksName(suggestions_features)[0]['Tracks']]
     Artists = [artist.title() for artist in queries.retrieveArtistsByID(suggestions_features)[0]['Artists']]
     result_string = list(map(' - '.join, zip(tracksName, Artists)))
     dict_tracks = {k: v for k, v in zip(result_string, suggestions_features)}
     return dict_tracks
 
-## NEW ONE
 def suggestTracksByGenre(genres):
-    suggestion_genres= list(queries.suggestTracksByGenre(genres, 5))
-    return suggestion_genres
+    suggestion_genres = queries.suggestTracksByGenre(5,genres)
+    tracksName = [track.title() for track in list(queries.getTracksName(suggestion_genres[0]['Tracks'])[0]['Tracks'])]
+    Artists = [artist.title() for artist in list(queries.retrieveArtistsByID(suggestion_genres[0]['Tracks'])[0]['Artists'])]
+    result_string = list(map(' - '.join, zip(tracksName, Artists)))
+    dict_tracks = {k: v for k, v in zip(result_string, (suggestion_genres[0]['Tracks']))}
+    return dict_tracks
 
 def suggestionArtists(trackids):
     suggestions = list(queries.suggestionArtist(trackids, 5))
     suggestions = suggestions[0]['N1Artists']
-
     # tracksName = [tracks.replace("-", "").title() for tracks in queries.getTracksName(suggestions)[0]['Tracks']]
     # Artists = [artist.title() for artist in queries.retrieveArtistsByID(suggestions)[0]['Artists']]
     # result_string = list(map(' - '.join, zip(tracksName, Artists)))
@@ -78,11 +73,12 @@ def suggestionArtists(trackids):
 
 if __name__ == '__main__':
     print(os.getcwd())
-    input = list(return_tracks(['high_valence','low_energy','low_danceable']).values())
-    print(input)
-    results = suggestionArtists(list(return_tracks(['low_valence','low_energy','high_danceable']).values()))
-    print(results)
-
+    # input = list(return_tracks(['high_valence','low_energy','low_danceable']).values())
+    # print(input)
+    # results = suggestionArtists(list(return_tracks(['low_valence','low_energy','high_danceable']).values()))
+    # print(results)
+    results2 = suggestTracksByGenre(['rock', 'pop'])
+    print(results2)
 
 
 

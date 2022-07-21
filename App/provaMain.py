@@ -56,7 +56,7 @@ if session_state.button_start:
         st.write(session_state.valence,session_state.energy,session_state.dance)
         session_state.button_submit_mood = True
         session_state.suggestions_features = utilities.return_tracks([session_state.valence, session_state.energy, session_state.dance])
-        # session_state.suggestion_genres = CHIAMATA A FUNZIONE PER IL SUGGERIMENTO DELLE TRACCE DAL GENERE
+
 
 cache_genres=[]
 if session_state.button_submit_mood:
@@ -69,23 +69,26 @@ if session_state.button_submit_mood:
         session_state.button_submit_genres = True
         session_state.genres=cache_genres
         print(session_state.genres)
+        session_state.suggestions_genres = utilities.suggestTracksByGenre(session_state.genres)
 
 cache_ids=[]
 if session_state.button_submit_genres:
     st.title('Now some suggestions will be shown')
     retry = st.button('Load other suggestions')
     if retry:
-        session_state.suggestions_features=utilities.return_tracks([session_state.valence, session_state.energy, session_state.dance])
-        #session_state.suggestions_genres =  CHIAMATA A FUNZIONE per il suggerimento del genere
-    preferences = st.multiselect('Select the songs that you like', list(session_state.suggestions_features.keys()))
+        session_state.suggestions_features = utilities.return_tracks([session_state.valence, session_state.energy, session_state.dance])
+        session_state.suggestions_genres = utilities.suggestTracksByGenre(session_state.genres)
+    session_state.suggestion_tot = session_state.suggestions_features | session_state.suggestions_genres
+    print(session_state.suggestion_tot)
+    preferences = st.multiselect('Select the songs that you like', list(session_state.suggestion_tot.keys()))
     st.title('Do you like any song among these?')
     submit_preferences = st.button("Submit Preferences")
     if submit_preferences:
         for i in preferences:
-            cache_ids.append(session_state.suggestions_features.get(i))
+            print(session_state.suggestion_tot.get(i))
+            cache_ids.append(session_state.suggestion_tot.get(i))
         print(cache_ids)
-        session_state.preferences_ids=cache_ids
-        #session_state.suggestions_ids = cache_ids
+        session_state.preferences_ids = cache_ids
         st.write(f'Your preferences:{preferences}')
         session_state.preferences = preferences
         session_state.button_submit_preferences = True
@@ -99,16 +102,13 @@ if session_state.button_submit_preferences:
         st.write(f'You want a: {sugg_kind} suggestion')
         session_state.button_submit_sugg_kind = True
         session_state.sugg_kind = sugg_kind
-        print(session_state.sugg_kind)
 
 if session_state.button_submit_sugg_kind:
     st.title('First suggestion basing on what you liked...')
     if session_state.sugg_kind == 'Artists':
-        print('suggestion for artists')
         results=utilities.suggestionArtists(session_state.preferences_ids)
         st.write(list(results))
     if session_state.sugg_kind == 'Tracks':
         results=utilities.suggestionsTracks(session_state.preferences_ids)
-        print(list(results.keys()))
+        #print(list(results.keys()))
         st.write(list(results.keys()))
-        print('suggestion for tracks')

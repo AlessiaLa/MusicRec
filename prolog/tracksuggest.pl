@@ -1,5 +1,5 @@
 % Return the list of the Features given the ID of the Track
-%getFeaturesList("0NKevst3QXMMXuV6Qch3GP", [A, B, C,R,T,Y,U,I]).
+%getFeaturesList("0NKevst3QXMMXuV6Qch3GP", [A, B,C,R,T,Y,U,I]).
 getFeaturesList(TrackID, [Dance, Energy, Speech, Acoustic, Instrumental, Live, Valence, Speed]) :-
     features(TrackID, Dance, Energy, Speech, Acoustic, Instrumental, Live, Valence, Speed).
 
@@ -106,7 +106,6 @@ trackSimilarity(TrackIdA, [TrackIdB|T], [Sim|SimT]) :-
     trackSimilarity(TrackIdA, T, SimT).
 
 
-
 rankTrack(SimList, TracksList, ReversedTrack) :-
     list_list_pairs(SimList, TracksList, Pairs), % data la lista di tracce e similarità  ritorna la lista di coppie
     keysort(Pairs, OrderedPairs), % Sorting by the similarity (the key)
@@ -123,3 +122,15 @@ suggestTrack(TrackIds, N, NTracks) :-
     take(OrderedTracks, N1, N1Tracks), % Take the first n*2 most similar tracks
     random_permutation(N1Tracks, TracksPer), % compute a shuffle on the n*2 most similar tracks
     take(TracksPer, N, NTracks).
+
+
+% Prolog output
+%?- retrieveAlbumByTrack(["76aNMPRl0MriIJx2gWRiwL"], A ).
+%A = [∑(no 12k lg 17mif) new order + liam gillick: so it goes..].
+retrieveAlbumByTrack([TrackIds], [Albums]) :- !, 
+    album_contains(AlbumId, TrackIds), album(AlbumId, Albums). 
+
+
+retrieveAlbumByTrack([TrackIds|T], [Albums|A]) :-
+    album_contains(AlbumId, TrackIds), album(AlbumId, Albums). 
+    retrieveAlb(T, A).

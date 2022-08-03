@@ -80,3 +80,11 @@ calculateArtistJSimilarity(GenresA, [GenreB|GenreT], [JSimilarity|SimilarityT]) 
 calculateArtistWSimilarity(GenresA, [GenreB|GenreT], [WSimilarity|SimilarityT]) :-
     getSimilarityGenres(GenresA, GenreB, WSimilarity),
     calculateArtistWSimilarity(GenresA,  GenreT, SimilarityT).   
+
+
+retrieveAlbumByArtist([Artist], [Album]) :- !, 
+    findall(Name, (published_by(AlbumID, Artist), album(AlbumID, Name)), Album).
+
+retrieveAlbumByArtist([Artist|ArtistT], [Album|AlbumT]) :-
+    findall(Name, (published_by(AlbumID, Artist), album(AlbumID, Name)), Album),
+    retrieveAlbumByArtist(ArtistT, AlbumT).

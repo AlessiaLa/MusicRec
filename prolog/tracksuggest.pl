@@ -132,5 +132,5 @@ retrieveAlbumByTrack([TrackIds], [Albums]) :- !,
 
 
 retrieveAlbumByTrack([TrackIds|T], [Albums|A]) :-
-    album_contains(AlbumId, TrackIds), album(AlbumId, Albums). 
-    retrieveAlb(T, A).
+    album_contains(AlbumId, TrackIds), album(AlbumId, Albums),
+    retrieveAlbumByTrack(T, A).

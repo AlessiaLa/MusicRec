@@ -69,10 +69,9 @@ def suggestionArtists(trackids):
     # dict_tracks = {k: v for k, v in zip(result_string, suggestions)}
     return suggestions
 
-def return_albums_by_artist(artists):
-    print(artists)
-    albums_returned = queries.retrieveAlbumsByArtist(list(artists))
-    print(albums_returned)
+def return_albums_by_artist(artist):
+    albums_returned = queries.retrieveAlbumsByArtist(artist)
+    #print(albums_returned)
     albums_returned=albums_returned[0]['Albums'][0]
     return albums_returned
 
@@ -82,8 +81,9 @@ if __name__ == '__main__':
     # print(input)
     # results = suggestionArtists(list(return_tracks(['low_valence','low_energy','high_danceable']).values()))
     # print(results)
-    results2 = return_albums_by_artist(['john coltrane'])
-    results2=results2[0]['Albums'][0]
+    results2 = return_albums_by_artist(['ne-yo'])
+    #results2= results2[0]
+    #[0]['Albums'][0]
     print(results2)
 
 

@@ -9,7 +9,7 @@ import menu
 import sys
 
 
-session_state = SessionState.get(button_start=False, button_submit_mood=False,button_submit_preferences=False, button_submit_sugg_kind=False, button_submit_genres=False, button_check_artist_information=False,button_check_track_information=False, colonna_scelta='Seleziona')
+session_state = SessionState.get(button_start=False, button_submit_mood=False,button_submit_preferences=False, button_submit_sugg_kind=False, button_submit_genres=False, button_check_artist_information=False, button_check_track_information=False, colonna_scelta='Seleziona')
 
 happiness = ('Sad', 'Flat', 'Happy')
 energy_values = ('Tired', 'Normal', 'Energic')
@@ -89,47 +89,50 @@ if session_state.button_submit_genres:
             cache_ids.append(session_state.suggestion_tot.get(i))
         print(cache_ids)
         session_state.preferences_ids = cache_ids
+
         st.write(f'Your preferences:{preferences}')
         session_state.preferences = preferences
         session_state.button_submit_preferences = True
         #print(session_state.preferences)
 
-if session_state.button_submit_preferences:
-    st.title('What kind of suggestion would you like? ')
-    sugg_kind = st.radio('Artist or tracks?', suggest)
-    submit_sugg_kind= st.button('Submit kind of suggestion')
-    if submit_sugg_kind:
-        st.write(f'You want a: {sugg_kind} suggestion')
-        session_state.button_submit_sugg_kind = True
-        session_state.sugg_kind = sugg_kind
-        st.title('First suggestion basing on what you liked...')
+    if session_state.button_submit_preferences:
+        st.title('What kind of suggestion would you like? ')
+        sugg_kind = st.radio('Artist or tracks?', suggest)
+        submit_sugg_kind= st.button('Submit kind of suggestion')
+        if submit_sugg_kind:
+            st.write(f'You want a: {sugg_kind} suggestion')
+            session_state.button_submit_sugg_kind = True
+            session_state.sugg_kind = sugg_kind
+            st.title('First suggestion basing on what you liked...')
 
-cache_artists = []
-results_artist = utilities.suggestionArtists(session_state.preferences_ids)
-if session_state.sugg_kind == 'Artists':
-    artist_information = st.radio('Choose to see artist information', results_artist)
-    check_artist_information = st.button("See artist information")
-    if check_artist_information:
-        for i in artist_information:
-            cache_artists.append(i)
-            print(cache_artists)
-        session_state.button_check_artist_information = True
-        st.write(f'Retrieving information about {cache_artists}')
-        print(cache_artists)
-        session_state.check_artist_information = cache_artists
+            cache_artists = []
+            # addon after cache_artist=[]
+            session_state.results_artist = utilities.suggestionArtists(session_state.preferences_ids)
+            # endaddon
+        if session_state.sugg_kind == 'Artists':
+            artist_information = st.radio('Choose to see artist information', session_state.results_artist)
+            check_artist_information = st.button("See artist information")
+            if check_artist_information:
+                #for i in artist_information:
+                    #cache_artists.append(i)
+                session_state.button_check_artist_information = True
+                st.write(f'Retrieving information about {artist_information}')
+                print(artist_information)
+                session_state.check_artist_information = "['"+artist_information+"']"
+                if session_state.button_check_artist_information:
+                    print(session_state.check_artist_information)
+                    session_state.artists_information = utilities.return_albums_by_artist(session_state.check_artist_information)
+                    st.write(session_state.artists_information)
+                    print(session_state.artists_information)
 
-if session_state.button_check_artist_information:
-    session_state.artists_information = utilities.return_albums_by_artist(session_state.check_artist_information)
-    st.write(session_state.artists_information)
 
-
-    if session_state.sugg_kind == 'Tracks':
-        results_tracks = utilities.suggestionsTracks(session_state.preferences_ids)
-        st.write(list(results_tracks.keys()))
-        print(results_tracks)
-        track_information = st.multiselect('Choose to see track information', list(results_tracks))
-        check_track_information = st.button("See track information")
-        if check_track_information:
-            st.write(f'Retrieving information about {track_information}')
-            session_state.check_track_information = track_information
-            session_state.button_check_track_information = True
+        if session_state.sugg_kind == 'Tracks':
+            session_state.results_tracks = utilities.suggestionsTracks(session_state.preferences_ids)
+            st.write(list(session_state.results_tracks.keys()))
+            print(session_state.results_tracks)
+            track_information = st.multiselect('Choose to see track information', list(session_state.results_tracks))
+            check_track_information = st.button("See track information")
+            if check_track_information:
+                st.write(f'Retrieving information about {track_information}')
+                session_state.check_track_information = track_information
+                session_state.button_check_track_information = True

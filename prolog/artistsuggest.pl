@@ -29,7 +29,7 @@ getJaccardSimilarityGenre(GenreA, GenreB, Sim) :-
     jaccard(GenreA, GenreB, Sim).
 
 
-getSuggestedArtistAggregate([Artist], GenreResult , [Similarities]) :- 
+getSuggestedArtistAggregate([Artist], GenreResult, [Similarities]) :- 
     !,
     findall(GenreA, (artistgenres(Artist, GenreA)), ListGenresA), %ritrovo tutti i generi di ArtistA
     calculateArtistJSimilarity(ListGenresA, GenreResult, JSimilarity),
@@ -48,12 +48,12 @@ suggestArtist(Tracks, N, NArtists) :-
     getAllArtistsAndGenreExceptSome(Artist, Artists, GenreResult),
     getSuggestedArtistAggregate(Artist,GenreResult, Similarities),
     sum_list(Similarities, SumSimilarities),
-    rankArtist(SumSimilarities, Artists, OrderedArtist),
+    minmax_normalization(SumSimilarities, NormSimilarities),
+    rankArtist(NormSimilarities, Artists, OrderedArtist),
     N1 is N*2,
     take(OrderedArtist, N1, N1Artists),
     random_permutation(N1Artists, ArtistPer), % compute a shuffle on the n*2 most similar tracks
     take(ArtistPer, N, NArtists).
-
 
 getAllArtistsAndGenreExceptSome(Artist, ArtistResult, GenreResult) :-
     findall(ArtistB, (artistgenres(ArtistB, Genre), Genre \= []), Artists),
@@ -88,27 +88,3 @@ retrieveAlbumByArtist([Artist], [Album]) :- !,
 retrieveAlbumByArtist([Artist|ArtistT], [Album|AlbumT]) :-
     findall(Name, (published_by(AlbumID, Artist), album(AlbumID, Name)), Album),
     retrieveAlbumByArtist(ArtistT, AlbumT).
-
-minmax_normalization(L, R) :-
-    list_minnum_maxnum(L,Min,Max),
-    normalization(Min, Max, L, R).
-
-normalization(Min, Max, [X|Xs], [Y|Ys]) :- 
-    Sum is Max-Min,
-    Xmin is X-Min,
-    Y is Xmin/Sum, 
-    normalization(Min, Max, Xs, Ys).
-
-normalization(_, _, [], []).
-
-
-list_minnum_maxnum([E|Es],Min,Max) :-
-   V is E,
-   list_minnum0_minnum_maxnum0_maxnum(Es,V,Min,V,Max).
-
-list_minnum0_minnum_maxnum0_maxnum([]    ,Min ,Min,Max ,Max).
-list_minnum0_minnum_maxnum0_maxnum([E|Es],Min0,Min,Max0,Max) :-
-   V    is E,
-   Min1 is min(Min0,V),
-   Max1 is max(Max0,V),
-   list_minnum0_minnum_maxnum0_maxnum(Es,Min1,Min,Max1,Max).

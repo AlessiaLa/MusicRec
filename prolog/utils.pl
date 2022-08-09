@@ -99,9 +99,6 @@ sum([H1|T1],[H2|T2],[X|L3]) :-
     sum(T1,T2,L3), X is H1+H2.
 
 
-
-
-
 getAllGenres([A], [G]) :- !,
     findall(Genre, (artistgenres(A, Genre)), G).
 
@@ -118,3 +115,30 @@ avg( List, Avg ):-
     ).
 
 
+
+minmax_normalization(L, R) :-
+    list_minnum_maxnum(L,Min,Max),
+    normalization(Min, Max, L, R).
+
+normalization(_, _, [], []).
+normalization(Min, Max, [X], [Y]) :- !,
+    Sum is Max-Min,
+    Xmin is X-Min,
+    Y is Xmin/Sum.
+
+normalization(Min, Max, [X|Xs], [Y|Ys]) :- 
+    Sum is Max-Min,
+    Xmin is X-Min,
+    Y is Xmin/Sum, 
+    normalization(Min, Max, Xs, Ys).
+
+list_minnum_maxnum([E|Es],Min,Max) :-
+   V is E,
+   list_minnum0_minnum_maxnum0_maxnum(Es,V,Min,V,Max).
+
+list_minnum0_minnum_maxnum0_maxnum([]    ,Min ,Min,Max ,Max).
+list_minnum0_minnum_maxnum0_maxnum([E|Es],Min0,Min,Max0,Max) :-
+   V    is E,
+   Min1 is min(Min0,V),
+   Max1 is max(Max0,V),
+   list_minnum0_minnum_maxnum0_maxnum(Es,Min1,Min,Max1,Max).

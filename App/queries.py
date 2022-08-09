@@ -61,6 +61,14 @@ def retrieveAlbumsByArtist(artists: list):
     result = pi.query(query)
     return result
 
+def retrieveAlbumsByTrack(trackids: list):
+    pi = kbAccess.PrologInterface()
+    pi.set_to_consult(['album_contains.pl', 'utils.pl', 'init.pl', 'published_by.pl', 'album.pl', 'tracksuggest.pl', 'track.pl', 'artist.pl', 'artistsuggest.pl'])
+    pi.load_rules()
+    query = f"retrieveAlbumByTrack({trackids}, Albums)."
+    result = pi.query(query)
+    return result
+
 if __name__ == '__main__':
 
     trackIds = getTracksByFeatures(10, "high_danceable", "high_energy", "low_valence")[0]['Tracks']

@@ -75,13 +75,20 @@ def return_albums_by_artist(artist):
     albums_returned=albums_returned[0]['Albums'][0]
     return albums_returned
 
+def return_albums_by_track(trackid):
+    print(trackid)
+    albums_returned = queries.retrieveAlbumsByTrack(trackid)
+    print(albums_returned)
+    albums_returned=albums_returned[0]['Albums'][0]
+    return albums_returned
+
 if __name__ == '__main__':
     print(os.getcwd())
     # input = list(return_tracks(['high_valence','low_energy','low_danceable']).values())
     # print(input)
     # results = suggestionArtists(list(return_tracks(['low_valence','low_energy','high_danceable']).values()))
     # print(results)
-    results2 = return_albums_by_artist(['ne-yo'])
+    results2 = return_albums_by_track(['0pN6uMiWfFJBhC1NIaNNDM'])
     #results2= results2[0]
     #[0]['Albums'][0]
     print(results2)

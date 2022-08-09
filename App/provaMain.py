@@ -9,7 +9,7 @@ import menu
 import sys
 
 
-session_state = SessionState.get(button_start=False, button_submit_mood=False,button_submit_preferences=False, button_submit_sugg_kind=False, button_submit_genres=False, button_check_artist_information=False, button_check_track_information=False, colonna_scelta='Seleziona')
+session_state = SessionState.get(button_start=False, button_submit_mood=False,button_submit_preferences=False, button_submit_sugg_kind=False, button_submit_genres=False, button_check_artist_information=False, button_check_track_information=False, sugg_kind=False, colonna_scelta='Seleziona')
 
 happiness = ('Sad', 'Flat', 'Happy')
 energy_values = ('Tired', 'Normal', 'Energic')
@@ -106,33 +106,31 @@ if session_state.button_submit_genres:
             st.title('First suggestion basing on what you liked...')
 
             cache_artists = []
-            # addon after cache_artist=[]
             session_state.results_artist = utilities.suggestionArtists(session_state.preferences_ids)
-            # endaddon
+            session_state.results_tracks = utilities.suggestionsTracks(session_state.preferences_ids)
         if session_state.sugg_kind == 'Artists':
             artist_information = st.radio('Choose to see artist information', session_state.results_artist)
             check_artist_information = st.button("See artist information")
             if check_artist_information:
-                #for i in artist_information:
-                    #cache_artists.append(i)
                 session_state.button_check_artist_information = True
-                st.write(f'Retrieving information about {artist_information}')
-                print(artist_information)
+                st.write(f'Retrieving information about: {artist_information}')
                 session_state.check_artist_information = "['"+artist_information+"']"
                 if session_state.button_check_artist_information:
-                    print(session_state.check_artist_information)
                     session_state.artists_information = utilities.return_albums_by_artist(session_state.check_artist_information)
+                    st.write("The albums that this artist published are:")
                     st.write(session_state.artists_information)
-                    print(session_state.artists_information)
+
 
 
         if session_state.sugg_kind == 'Tracks':
-            session_state.results_tracks = utilities.suggestionsTracks(session_state.preferences_ids)
-            st.write(list(session_state.results_tracks.keys()))
-            print(session_state.results_tracks)
-            track_information = st.multiselect('Choose to see track information', list(session_state.results_tracks))
+            track_information = st.radio('Choose to see track information', list(session_state.results_tracks))
             check_track_information = st.button("See track information")
             if check_track_information:
-                st.write(f'Retrieving information about {track_information}')
-                session_state.check_track_information = track_information
                 session_state.button_check_track_information = True
+                st.write(f'Retrieving information about: {track_information}')
+                if track_information in session_state.results_tracks.keys():
+                    id=session_state.results_tracks.get(track_information)
+                session_state.check_track_information = "['"+id+"']"
+                session_state.track_information=utilities.return_albums_by_track(session_state.check_track_information)
+                st.write("The album where the song comes from is:")
+                st.write(session_state.track_information)

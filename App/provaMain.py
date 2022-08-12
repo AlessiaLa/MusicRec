@@ -114,11 +114,13 @@ if session_state.button_submit_genres:
             if check_artist_information:
                 session_state.button_check_artist_information = True
                 st.write(f'Retrieving information about: {artist_information}')
-                session_state.check_artist_information = "['"+artist_information+"']"
+                session_state.check_artist_information = "[\""+artist_information+"\"]"
                 if session_state.button_check_artist_information:
                     session_state.artists_information = utilities.return_albums_by_artist(session_state.check_artist_information)
                     st.write("The albums that this artist published are:")
-                    st.write(session_state.artists_information)
+                    for i in session_state.artists_information:
+                        st.markdown("- " + i)
+
 
 
 
@@ -130,7 +132,7 @@ if session_state.button_submit_genres:
                 st.write(f'Retrieving information about: {track_information}')
                 if track_information in session_state.results_tracks.keys():
                     id=session_state.results_tracks.get(track_information)
-                session_state.check_track_information = "['"+id+"']"
+                session_state.check_track_information = "[\""+id+"\"]"
                 session_state.track_information=utilities.return_albums_by_track(session_state.check_track_information)
                 st.write("The album where the song comes from is:")
                 st.write(session_state.track_information)

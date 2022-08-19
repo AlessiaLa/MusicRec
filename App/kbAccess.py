@@ -4,7 +4,7 @@ import posixpath
 
 
 class PrologInterface(object):
-    def __init__(self, prolog_path='../prolog', prolog_extension='.pl'):
+    def __init__(self, prolog_path='prolog', prolog_extension='.pl'):
         self.prolog = Prolog()
         self.prolog_path = prolog_path
         self.prolog_extension = prolog_extension

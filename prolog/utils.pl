@@ -1,4 +1,17 @@
 
+:- consult('wn/wn_connect.pl').
+:- consult('album.pl').
+:- consult('album_contains.pl').
+:- consult('artist.pl').
+:- consult('artist_genres.pl').
+:- consult('features.pl').
+:- consult('genre.pl').
+:- consult('published_by.pl').
+:- consult('track.pl').
+:- consult('tracksuggest.pl').
+:- consult('artistsuggest.pl').
+:- consult('likes.pl').
+
 jaccard(SimA,SimB,Sim) :-
     ord_intersection(SimA,SimB,I),
     ord_union(SimA,SimB,U),
@@ -102,3 +115,30 @@ avg( List, Avg ):-
     ).
 
 
+
+minmax_normalization(L, R) :-
+    list_minnum_maxnum(L,Min,Max),
+    normalization(Min, Max, L, R).
+
+normalization(_, _, [], []).
+normalization(Min, Max, [X], [Y]) :- !,
+    Sum is Max-Min,
+    Xmin is X-Min,
+    Y is Xmin/Sum.
+
+normalization(Min, Max, [X|Xs], [Y|Ys]) :- 
+    Sum is Max-Min,
+    Xmin is X-Min,
+    Y is Xmin/Sum, 
+    normalization(Min, Max, Xs, Ys).
+
+list_minnum_maxnum([E|Es],Min,Max) :-
+   V is E,
+   list_minnum0_minnum_maxnum0_maxnum(Es,V,Min,V,Max).
+
+list_minnum0_minnum_maxnum0_maxnum([]    ,Min ,Min,Max ,Max).
+list_minnum0_minnum_maxnum0_maxnum([E|Es],Min0,Min,Max0,Max) :-
+   V    is E,
+   Min1 is min(Min0,V),
+   Max1 is max(Max0,V),
+   list_minnum0_minnum_maxnum0_maxnum(Es,Min1,Min,Max1,Max).

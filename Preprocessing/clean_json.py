@@ -5,7 +5,7 @@ path = os.path.join(os.getcwd(), r"Dataset\json_to_neo\tracks.json")
 
 with open(path, "r", encoding="utf-8") as f:
     data = json.loads(f.read())
-#print(data[0][1])
+
 for i, node in enumerate(data[0]):
 
     feature = []

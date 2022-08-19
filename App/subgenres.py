@@ -1,8 +1,7 @@
 import json
 import os
 
-# f = open('C:/Users/Alessia/Desktop/genre_kb.json', 'r',encoding='utf-8' )
-# print(f.read())
+
 def intersection(lst1, lst2):
     lst3 = [value for value in lst1 if value in lst2]
     return lst3
@@ -151,13 +150,6 @@ print(len(relax))
 
 groupoflists=[]
 groupoflists=[hiphop,pop,jazz,rock,country,rap,soul,folk,classical,metal,funky,indie,house,punk,electronic,reggae,latin,songwriter,children,soundtrack, relax]
-
-
-#check intersections
-# for k in groupoflists:
-#     for j in groupoflists:
-#         if k != j :
-#             print(intersection(k, j))
 
 # union of genres
 list_genres=[]

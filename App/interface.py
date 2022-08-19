@@ -5,7 +5,6 @@ import threading
 import os
 import SessionState
 import utilities
-import menu
 import sys
 
 
@@ -93,7 +92,7 @@ if session_state.button_submit_genres:
         st.write(f'Your preferences:{preferences}')
         session_state.preferences = preferences
         session_state.button_submit_preferences = True
-        #print(session_state.preferences)
+
 
     if session_state.button_submit_preferences:
         st.title('What kind of suggestion would you like? ')

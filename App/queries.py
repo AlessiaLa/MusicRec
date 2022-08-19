@@ -87,18 +87,11 @@ if __name__ == '__main__':
     print(dict_tracks)
 
 
-
-
-    # così si mostrano tutte le canzoni con i relativi artisti
-    # print(dict_tracks.keys())
-
-
     mykeys = (list(dict_tracks.keys()))
 
-    # cosi si ritornano gli id solo per alcune tracce (quelle scelte dall'utente)
     print([dict_tracks[x] for x in mykeys])
 
-    #resulting_suggestions= list()
+
 
 
 

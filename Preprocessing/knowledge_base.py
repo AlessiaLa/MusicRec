@@ -1,5 +1,8 @@
 import json
 import os
+'''
+This file is used to build the knowledge base starting from Json files retrieved by Neo4j. 
+'''
 
 path = r"C:\Users\user\Desktop\AI-Project\MusicNet\Dataset\json_to_prolog"
 out_path = r"C:\Users\user\Desktop\AI-Project\MusicNet\prolog"

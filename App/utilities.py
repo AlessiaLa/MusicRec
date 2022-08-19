@@ -42,7 +42,6 @@ def return_tracks(features):
     return dict_tracks
 
 
-
 def suggestionsTracks(trackids):
     suggestions_features = list(queries.suggestionTracks(trackids, 5))
     suggestions_features = suggestions_features[0]['NTracks']
@@ -63,10 +62,6 @@ def suggestTracksByGenre(genres):
 def suggestionArtists(trackids):
     suggestions = list(queries.suggestionArtist(trackids, 5))
     suggestions = suggestions[0]['N1Artists']
-    # tracksName = [tracks.replace("-", "").title() for tracks in queries.getTracksName(suggestions)[0]['Tracks']]
-    # Artists = [artist.title() for artist in queries.retrieveArtistsByID(suggestions)[0]['Artists']]
-    # result_string = list(map(' - '.join, zip(tracksName, Artists)))
-    # dict_tracks = {k: v for k, v in zip(result_string, suggestions)}
     return suggestions
 
 def return_albums_by_artist(artist):
@@ -84,29 +79,5 @@ def return_albums_by_track(trackid):
 
 if __name__ == '__main__':
     print(os.getcwd())
-    # input = list(return_tracks(['high_valence','low_energy','low_danceable']).values())
-    # print(input)
-    # results = suggestionArtists(list(return_tracks(['low_valence','low_energy','high_danceable']).values()))
-    # print(results)
     results2 = return_albums_by_track(['0pN6uMiWfFJBhC1NIaNNDM'])
-    #results2= results2[0]
-    #[0]['Albums'][0]
     print(results2)
-
-
-
-
-
-    # wtf = suggestionsTracks(list(return_tracks(['low_valence','low_energy','high_danceable']).values()))
-    # print(wtf[0]['NTracks'])
-    # tracksName = [tracks.replace("-", "").title() for tracks in queries.getTracksName(wtf[0]['NTracks'])[0]['Tracks']]
-    # print(tracksName)
-    # artisti=queries.retrieveArtistsByID(wtf[0]['NTracks'])[0]['Artists']
-    # print(artisti)
-    # Artists = [artist.title() for artist in queries.retrieveArtistsByID(wtf[0]['NTracks'])[0]['Artists']]
-    # print(Artists)
-    # result_string = list(map(' - '.join, zip(tracksName, Artists)))
-    # print(result_string)
-    # dict_tracks = {k: v for k, v in zip(result_string, wtf[0]['NTracks'])}
-    # print('---')
-    # print(dict_tracks)

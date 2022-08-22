@@ -19,7 +19,7 @@ st.markdown("<h1 style='text-align: center; color: black;'>Welcome to </h1>"
                                             "<h1 style='text-align: center; color: red;'>MusicRec!</h1>",
                                             unsafe_allow_html=True)
 
-left_0,center_0,right_0=st.beta_columns([4,11,10])
+left_0,center_0,right_0=st.columns([4,11,10]) #beta_columns
 with center_0:
     st.markdown("![Alt Text](https://media.giphy.com/media/tqfS3mgQU28ko/giphy.gif)",
                                                 unsafe_allow_html=True)
@@ -28,7 +28,7 @@ st.markdown("<h2 style='text-align: center; color: black;'>Ready to dive into mu
             unsafe_allow_html=True)
 
 
-left_1, center_1, right_1 =st.beta_columns([10,2,10])
+left_1, center_1, right_1 =st.columns([10,2,10]) #beta_columns
 with center_1:
     start_button=st.button('Start')
 
@@ -71,7 +71,10 @@ if session_state.button_submit_genres:
     if retry:
         session_state.suggestions_features = utilities.return_tracks([session_state.valence, session_state.energy, session_state.dance])
         session_state.suggestions_genres = utilities.suggestTracksByGenre(session_state.genres)
-    session_state.suggestion_tot = session_state.suggestions_features | session_state.suggestions_genres
+    #session_state.suggestion_tot = session_state.suggestions_features | session_state.suggestions_genres
+    session_state.suggestion_tot = session_state.suggestions_features.copy()
+    session_state.suggestion_tot.update(session_state.suggestions_genres)
+    ##
     print(session_state.suggestion_tot)
     preferences = st.multiselect('Select the songs that you like', list(session_state.suggestion_tot.keys()))
     st.title('Do you like any song among these?')

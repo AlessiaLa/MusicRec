@@ -48,11 +48,10 @@ if session_state.button_start:
     dance=st.select_slider('Are you in the mood for dancing?', danceability)
     submit_mood = st.button("Submit Mood")
     if submit_mood:
-        st.write(f'Your choice:{valence, energy, dance}')
         session_state.valence = valence
         session_state.energy = energy
         session_state.dance = dance
-        st.write(session_state.valence,session_state.energy,session_state.dance)
+        st.markdown(f'**Your mood is**' + ' '+str(session_state.valence)+' '+str(session_state.energy)+' '+str(session_state.dance))
         session_state.button_submit_mood = True
         session_state.suggestions_features = utilities.return_tracks([session_state.valence, session_state.energy, session_state.dance])
 
@@ -88,8 +87,9 @@ if session_state.button_submit_genres:
             cache_ids.append(session_state.suggestion_tot.get(i))
         print(cache_ids)
         session_state.preferences_ids = cache_ids
-
-        st.write(f'Your preferences:{preferences}')
+        st.markdown('**Your preferences: **')
+        for i in preferences:
+            st.write(str(i))
         session_state.preferences = preferences
         session_state.button_submit_preferences = True
 
@@ -118,7 +118,7 @@ if session_state.button_submit_genres:
                     session_state.artists_information = utilities.return_albums_by_artist(session_state.check_artist_information)
                     st.write("The albums that this artist published are:")
                     for i in session_state.artists_information:
-                        st.markdown("- " + i)
+                        st.markdown("- " + i.title())
 
 
 
@@ -134,4 +134,4 @@ if session_state.button_submit_genres:
                 session_state.check_track_information = "[\""+id+"\"]"
                 session_state.track_information=utilities.return_albums_by_track(session_state.check_track_information)
                 st.write("The album where the song comes from is:")
-                st.write(session_state.track_information)
+                st.write(session_state.track_information.title())

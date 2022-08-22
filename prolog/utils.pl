@@ -1,16 +1,4 @@
 
-:- consult('wn/wn_connect.pl').
-:- consult('album.pl').
-:- consult('album_contains.pl').
-:- consult('artist.pl').
-:- consult('artist_genres.pl').
-:- consult('features.pl').
-:- consult('genre.pl').
-:- consult('published_by.pl').
-:- consult('track.pl').
-:- consult('tracksuggest.pl').
-:- consult('artistsuggest.pl').
-:- consult('likes.pl').
 
 jaccard(SimA,SimB,Sim) :-
     ord_intersection(SimA,SimB,I),

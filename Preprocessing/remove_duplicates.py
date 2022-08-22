@@ -1,7 +1,7 @@
 
 import json
 import os
-from collections import Counter
+
 
 def get_list_from_string(string: str):
     string = string.replace('[', '')

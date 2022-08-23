@@ -16,7 +16,6 @@ It just needs Python and SWI Prolog to be installed on the machine in order to p
 The system is composed of different parts that guarantee the correctness of the workflow, from the loading of the knowledge base until the production of the final output. 
 The needed components are:
 - Knowledge graph containing the expertness of the domain
-- Inference engine
-- Prolog rules module
+- Prolog rules and inference modules
 - Interface dialogue module
 - Connection module between backend and frontend

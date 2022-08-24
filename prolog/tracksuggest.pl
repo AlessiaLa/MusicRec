@@ -97,7 +97,7 @@ getAllTracksExceptSome(TrackIds, TracksResults) :-
    subtract(Tracks, TrackIds, TracksResults).
 
 
-% restituisce tutte le tracce con la loro similarità alla traccia data in input
+% returns all the tracks with their similarity with the track given in input
 trackSimilarity(TrackIdA, [TrackIdB], [Sim]) :-
     similarityByTrackFeatures(TrackIdA,TrackIdB,Sim), !.
 
@@ -107,7 +107,7 @@ trackSimilarity(TrackIdA, [TrackIdB|T], [Sim|SimT]) :-
 
 
 rankTrack(SimList, TracksList, ReversedTrack) :-
-    list_list_pairs(SimList, TracksList, Pairs), % data la lista di tracce e similarità  ritorna la lista di coppie
+    list_list_pairs(SimList, TracksList, Pairs), % given the list of traces and similarities returns the list of pairs
     keysort(Pairs, OrderedPairs), % Sorting by the similarity (the key)
     pairs_values(OrderedPairs, OrderedTracks),
     reverse(OrderedTracks, ReversedTrack). % return the list only of the tracks

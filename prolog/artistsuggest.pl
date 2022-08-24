@@ -1,7 +1,7 @@
 
 
 
-% trova il wordsense del genere tale che massimizzi la similarità con il wordsense music.
+% find the wordsense of the genre such that it maximizes the similarity with the wordsense music.
 getWordSense(Genre, WordSenses) :-
     findall(Rank, (wn_path(music:n:4, Genre:n:Ind, Rank)), SimList),
     without_last(SimList, Sim),
@@ -18,9 +18,9 @@ getSimilarity2Genre(GenreA, GenreB, Sim) :-
     getWordSense(GenreB, [WordSenseB|_]),
     wn_path(GenreA:n:WordSenseA, GenreB:n:WordSenseB, Sim), !.
 
-% esegue il prodotto cartesiano  di similarità tra due insiemi di generi.
-% fai la similarità tra tutti i generi, facendo il prodotto cartesiano, ottengo nxm similarità diviso nxm ed ottengo la mia similatià 
-% GenreA, GenreB sono due liste di generi
+% performs the Cartesian product of similarity between two sets of genres.
+% do the similarity between all genres, doing the Cartesian product, I get nxm similarity divided by nxm and I get my similarity
+% GenreA, GenreB are two lists of genres
 getSimilarityGenres(GenreA, GenreB, AvgOfSimilarities) :-
      findall(Sim,(member(X,GenreA),member(Y,GenreB), getSimilarity2Genre(X, Y, Sim)), ListOfSimilarities),
      avg(ListOfSimilarities, AvgOfSimilarities).
